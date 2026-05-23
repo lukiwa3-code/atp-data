@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T19:49:12.415214+00:00",
+  "generatedAt": "2026-05-23T19:55:48.235722+00:00",
   "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results",
   "tournament": {
     "id": "9900",
@@ -25,7 +25,7 @@
     "prizeMoney": "$5,903,345",
     "totalFinancialCommitment": "$5,903,345"
   },
-  "count": 32,
+  "count": 10,
   "players": [
     {
       "id": "",
@@ -33,27 +33,11 @@
     },
     {
       "id": "",
-      "name": "Barbora Krejcikova"
-    },
-    {
-      "id": "",
       "name": "Belinda Bencic"
     },
     {
       "id": "",
-      "name": "Coco Gauff"
-    },
-    {
-      "id": "",
-      "name": "Elise Mertens"
-    },
-    {
-      "id": "",
       "name": "Hubert Hurkacz"
-    },
-    {
-      "id": "",
-      "name": "Iga Swiatek"
     },
     {
       "id": "",
@@ -65,71 +49,7 @@
     },
     {
       "id": "",
-      "name": "Laura Siegemund"
-    },
-    {
-      "id": "",
-      "name": "Lin Zhu"
-    },
-    {
-      "id": "",
-      "name": "Naomi Osaka"
-    },
-    {
-      "id": "",
-      "name": "Olivia Nicholls"
-    },
-    {
-      "id": "",
-      "name": "Round Robin - RAC Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 2 - Ken Rosewall Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 2 - RAC Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 3 - Ken Rosewall Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 3 - RAC Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 4 - Ken Rosewall Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 4 - RAC Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 5 - Ken Rosewall Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 5 - RAC Arena"
-    },
-    {
-      "id": "",
-      "name": "Round Robin Day 6 - Ken Rosewall Arena"
-    },
-    {
-      "id": "",
-      "name": "Sara Errani"
-    },
-    {
-      "id": "",
       "name": "Sebastian Baez"
-    },
-    {
-      "id": "",
-      "name": "Solana Sierra"
     },
     {
       "id": "",
@@ -141,15 +61,7 @@
     },
     {
       "id": "",
-      "name": "Storm Hunter"
-    },
-    {
-      "id": "",
       "name": "Taylor Fritz"
-    },
-    {
-      "id": "",
-      "name": "Victoria Mboko"
     },
     {
       "id": "",

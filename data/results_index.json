@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-05-23T19:49:12.415214+00:00",
+  "generatedAt": "2026-05-23T19:55:48.235722+00:00",
   "count": 30,
   "items": [
     {
       "year": "2026",
       "id": "9900",
       "name": "United Cup",
-      "players": 32,
-      "matches": 25,
+      "players": 10,
+      "matches": 8,
       "matchesPath": "data/2026/9900/matches.json",
       "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results"
     },
