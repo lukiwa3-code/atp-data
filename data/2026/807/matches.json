@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-23T18:38:12.183141+00:00",
+  "tournament": {
+    "id": "807",
+    "year": "2026",
+    "name": "Abierto Mexicano Telcel presentado por HSBC",
+    "location": "Acapulco, Mexico",
+    "date": "23 - 28 February, 2026",
+    "month": "February, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/acapulco/807/2026/results",
+    "drawsUrl": "/en/scores/archive/acapulco/807/2026/draws",
+    "scheduleUrl": "/en/scores/current/acapulco/807/daily-schedule",
+    "overviewUrl": "/en/tournaments/acapulco/807/overview",
+    "countryFlagUrl": "/-/media/images/flags/mex.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "$2,469,450",
+    "totalFinancialCommitment": "$2,486,125"
+  },
+  "count": 0,
+  "matches": []
+}

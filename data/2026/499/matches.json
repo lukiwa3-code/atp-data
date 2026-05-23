@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-23T18:38:12.183141+00:00",
+  "tournament": {
+    "id": "499",
+    "year": "2026",
+    "name": "Delray Beach Open",
+    "location": "Delray Beach, United States",
+    "date": "16 - 22 February, 2026",
+    "month": "February, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/delray-beach/499/2026/results",
+    "drawsUrl": "/en/scores/archive/delray-beach/499/2026/draws",
+    "scheduleUrl": "/en/scores/current/delray-beach/499/daily-schedule",
+    "overviewUrl": "/en/tournaments/delray-beach/499/overview",
+    "countryFlagUrl": "/-/media/images/flags/usa.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "$700,045",
+    "totalFinancialCommitment": "$788,349"
+  },
+  "count": 0,
+  "matches": []
+}

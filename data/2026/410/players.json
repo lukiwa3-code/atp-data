@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-23T18:38:12.183141+00:00",
+  "tournament": {
+    "id": "410",
+    "year": "2026",
+    "name": "Rolex Monte-Carlo Masters",
+    "location": "Monte-Carlo, Monaco",
+    "date": "5 - 12 April, 2026",
+    "month": "April, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "1000",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 56,
+    "doublesDrawSize": 28,
+    "scoresUrl": "/en/scores/archive/monte-carlo/410/2026/results",
+    "drawsUrl": "/en/scores/archive/monte-carlo/410/2026/draws",
+    "scheduleUrl": "/en/scores/current/atp-masters-1000-monte-carlo/410/daily-schedule",
+    "overviewUrl": "/en/tournaments/monte-carlo/410/overview",
+    "countryFlagUrl": "/-/media/images/flags/mon.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
+    "prizeMoney": "€6,309,095",
+    "totalFinancialCommitment": "€6,791,465"
+  },
+  "count": 0,
+  "players": []
+}

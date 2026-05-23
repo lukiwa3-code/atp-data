@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-23T18:38:12.183141+00:00",
+  "tournament": {
+    "id": "360",
+    "year": "2026",
+    "name": "Grand Prix Hassan II",
+    "location": "Marrakech, Morocco",
+    "date": "30 March - 5 April, 2026",
+    "month": "March, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/marrakech/360/2026/results",
+    "drawsUrl": "/en/scores/archive/marrakech/360/2026/draws",
+    "scheduleUrl": "/en/scores/current/marrakech/360/daily-schedule",
+    "overviewUrl": "/en/tournaments/marrakech/360/overview",
+    "countryFlagUrl": "/-/media/images/flags/mar.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "€612,620",
+    "totalFinancialCommitment": "€691,875"
+  },
+  "count": 0,
+  "players": []
+}

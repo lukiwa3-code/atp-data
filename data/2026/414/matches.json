@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-23T18:38:12.183141+00:00",
+  "tournament": {
+    "id": "414",
+    "year": "2026",
+    "name": "Bitpanda Hamburg Open",
+    "location": "Hamburg, Germany",
+    "date": "17 - 23 May, 2026",
+    "month": "May, 2026",
+    "isLive": true,
+    "isPastEvent": false,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/hamburg/414/2026/results",
+    "drawsUrl": "/en/scores/archive/hamburg/414/2026/draws",
+    "scheduleUrl": "/en/scores/current/hamburg/414/daily-schedule",
+    "overviewUrl": "/en/tournaments/hamburg/414/overview",
+    "countryFlagUrl": "/-/media/images/flags/ger.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "€2,219,670",
+    "totalFinancialCommitment": "€2,247,225"
+  },
+  "count": 0,
+  "matches": []
+}

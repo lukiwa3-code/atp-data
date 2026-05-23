@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-23T18:38:12.183141+00:00",
+  "tournament": {
+    "id": "416",
+    "year": "2026",
+    "name": "Internazionali BNL d'Italia",
+    "location": "Rome, Italy",
+    "date": "6 - 17 May, 2026",
+    "month": "May, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "1000",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 96,
+    "doublesDrawSize": 32,
+    "scoresUrl": "/en/scores/archive/rome/416/2026/results",
+    "drawsUrl": "/en/scores/archive/rome/416/2026/draws",
+    "scheduleUrl": "/en/scores/current/atp-masters-1000-rome/416/daily-schedule",
+    "overviewUrl": "/en/tournaments/rome/416/overview",
+    "countryFlagUrl": "/-/media/images/flags/ita.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
+    "prizeMoney": "€8,235,540",
+    "totalFinancialCommitment": "€9,647,275"
+  },
+  "count": 0,
+  "players": []
+}

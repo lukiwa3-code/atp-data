@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-05-23T18:38:12.183141+00:00",
+  "tournament": {
+    "id": "404",
+    "year": "2026",
+    "name": "BNP Paribas Open",
+    "location": "Indian Wells, United States",
+    "date": "4 - 15 March, 2026",
+    "month": "March, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "1000",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 96,
+    "doublesDrawSize": 32,
+    "scoresUrl": "/en/scores/archive/indian-wells/404/2026/results",
+    "drawsUrl": "/en/scores/archive/indian-wells/404/2026/draws",
+    "scheduleUrl": "/en/scores/current/atp-masters-1000-indian-wells/404/daily-schedule",
+    "overviewUrl": "/en/tournaments/indian-wells/404/overview",
+    "countryFlagUrl": "/-/media/images/flags/usa.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
+    "prizeMoney": "$9,415,725",
+    "totalFinancialCommitment": "$12,848,317"
+  },
+  "count": 0,
+  "players": []
+}
