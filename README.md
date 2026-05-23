@@ -1,16 +1,13 @@
-# ATP Data Updater v2
+# ATP data updater v3
 
-Ten skrypt aktualizuje:
+Ta wersja pobiera kalendarz ATP oraz wyniki z zakładki `Results`.
+Nie bazuje już na `Player Draw`, bo tam dla wielu turniejów lista zawodników była pusta.
 
-- `data/tournaments.json`
+Po uruchomieniu GitHub Actions powstaną pliki:
+
 - `data/tournaments_flat.json`
 - `data/results_index.json`
-- `data/{year}/{eventId}/players.json`
 - `data/{year}/{eventId}/matches.json`
+- `data/{year}/{eventId}/players.json`
 
-Wyniki są generowane dla turniejów live oraz ostatnich zakończonych turniejów.
-Liczbę ostatnich zakończonych turniejów ustawisz w `scripts/update_atp.py` w stałej:
-
-```python
-PAST_TOURNAMENTS_TO_UPDATE = 16
-```
+Aplikacji Android nie trzeba przebudowywać, jeśli czyta dane online z tego repo.
