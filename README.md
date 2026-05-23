@@ -1,13 +1,7 @@
-# ATP data updater v3
+# ATP data updater v4
 
-Ta wersja pobiera kalendarz ATP oraz wyniki z zakładki `Results`.
-Nie bazuje już na `Player Draw`, bo tam dla wielu turniejów lista zawodników była pusta.
+Zmiana względem v3:
+- dla turniejów live skrypt pobiera najpierw `/current/.../results`,
+- dopiero później próbuje `/archive/.../results`.
 
-Po uruchomieniu GitHub Actions powstaną pliki:
-
-- `data/tournaments_flat.json`
-- `data/results_index.json`
-- `data/{year}/{eventId}/matches.json`
-- `data/{year}/{eventId}/players.json`
-
-Aplikacji Android nie trzeba przebudowywać, jeśli czyta dane online z tego repo.
+To powinno poprawić brakujące świeżo zakończone mecze, np. finał Hamburga.

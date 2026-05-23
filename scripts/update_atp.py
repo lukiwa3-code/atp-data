@@ -399,12 +399,18 @@ def parse_results_html(html_text: str, tournament: Dict[str, Any]) -> Tuple[List
 
 def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]], Optional[str]]:
     scores_url_raw = tournament.get("scoresUrl")
-    candidates: List[str] = []
+    current_url = current_results_url_from_archive(scores_url_raw)
 
-    if scores_url_raw:
+    # Ważne:
+    # Dla turniejów live ATP często szybciej aktualizuje /current/.../results,
+    # a /archive/.../results potrafi być opóźnione. Dlatego live -> current najpierw.
+    candidates: List[str] = []
+    if tournament.get("isLive") and current_url:
+        candidates.append(current_url)
+
+    if scores_url_raw and scores_url_raw not in candidates:
         candidates.append(scores_url_raw)
 
-    current_url = current_results_url_from_archive(scores_url_raw)
     if current_url and current_url not in candidates:
         candidates.append(current_url)
 
@@ -412,6 +418,10 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
     draws_url = tournament.get("drawsUrl")
     if draws_url:
         results_from_draw = str(draws_url).replace("/draws", "/results")
+        if tournament.get("isLive"):
+            results_from_draw_current = current_results_url_from_archive(results_from_draw)
+            if results_from_draw_current and results_from_draw_current not in candidates:
+                candidates.append(results_from_draw_current)
         if results_from_draw not in candidates:
             candidates.append(results_from_draw)
 
