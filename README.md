@@ -1,8 +1,8 @@
-# ATP data updater v5
+# ATP data updater v6
 
-Zmiana względem v4:
-- parser zapisuje również mecze, przy których ATP nie pokazuje tekstu "Game Set and Match",
-- dzięki temu łapie brakujące finały, np. BMW Open by Bitpanda,
-- nadal dla turniejów live najpierw używa `/current/.../results`, a potem `/archive/.../results`.
+Zmiana względem v5:
+- poprawka parsera dla finałów, gdzie ATP rozdziela nagłówek na `Final` oraz `Centre Court`,
+- `Centre Court`, `Court 1`, `Grandstand` itp. nie są już traktowane jako zawodnicy,
+- powinno to naprawić brak finału Hamburga.
 
-Po podmianie uruchom workflow `Update ATP Data`.
+Po podmianie uruchom workflow `Update ATP Data` w repo `atp-data`.

@@ -203,9 +203,21 @@ def is_noise_line(line: str) -> bool:
     noise_exact = {
         "h2h", "stats", "print", "refresh", "singles", "doubles", "match type",
         "date (all)", "round (all)", "player (all)", "country (all)",
-        "timepenalb", "timepenala"
+        "timepenalb", "timepenala",
+        "centre court", "center court", "court 1", "court 2", "court 3",
+        "stadium", "grandstand", "show court"
     }
     if lower in noise_exact:
+        return True
+
+    # ATP czasem rozbija nagłówek "Final - Centre Court" na osobne teksty:
+    # "Final" i "Centre Court". Wtedy "Centre Court" nie może zostać uznane
+    # za zawodnika, bo parser gubi finał.
+    if "court" in lower and not re.search(r"[A-Za-zÀ-ÖØ-öø-ÿ]+\s+[A-Za-zÀ-ÖØ-öø-ÿ]+", line):
+        return True
+    if lower.endswith(" court") or lower.startswith("court "):
+        return True
+    if lower.startswith("not before") or lower.startswith("starts at"):
         return True
 
     if line.startswith("Game Set and Match"):
