@@ -13,26 +13,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Pobierz repozytorium
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Zainstaluj Python
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Zainstaluj biblioteki
+      - name: Install libraries
         run: |
-          pip install requests beautifulsoup4
+          pip install -r requirements.txt
 
-      - name: Uruchom aktualizację danych ATP
+      - name: Update ATP data
         run: |
           python scripts/update_atp.py
 
-      - name: Zapisz zmiany do repozytorium
+      - name: Commit data changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add data/
-          git diff --cached --quiet || git commit -m "Update ATP data"
+          git diff --cached --quiet || git commit -m "Update ATP data and results"
           git push
