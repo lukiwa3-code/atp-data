@@ -280,97 +280,193 @@ def hash_match_id(event_id: str, date: str, round_long: str, p1: str, p2: str, s
     return f"RES-{digest}"
 
 
+def is_score_token(line: str) -> bool:
+    line = normalize_space(line)
+    if not line or ":" in line:
+        return False
+    # ATP potrafi pokazać tie-break jako "6 8" albo samą cyfrę seta.
+    return bool(re.fullmatch(r"\d+(?:\s+\d+)?|RET|W/O|DEF", line))
+
+
+def score_main_number(token: str) -> Optional[int]:
+    token = normalize_space(token)
+    match = re.match(r"(\d+)", token)
+    if not match:
+        return None
+    return int(match.group(1))
+
+
+def make_score_from_displayed_numbers(p1_scores: List[str], p2_scores: List[str]) -> str:
+    sets: List[str] = []
+    max_len = min(len(p1_scores), len(p2_scores))
+
+    for idx in range(max_len):
+        p1 = normalize_space(p1_scores[idx])
+        p2 = normalize_space(p2_scores[idx])
+
+        p1_parts = p1.split()
+        p2_parts = p2.split()
+
+        p1_main = p1_parts[0] if p1_parts else p1
+        p2_main = p2_parts[0] if p2_parts else p2
+
+        set_text = f"{p1_main}-{p2_main}"
+
+        # Jeśli jedna ze stron ma dodatkową liczbę, traktujemy ją jak tie-break.
+        # Przykład z ATP: 7 / 6 8 -> 7-6(8)
+        tie = None
+        if len(p1_parts) > 1:
+            tie = p1_parts[1]
+        elif len(p2_parts) > 1:
+            tie = p2_parts[1]
+
+        if tie:
+            set_text += f"({tie})"
+
+        sets.append(set_text)
+
+    return " ".join(sets)
+
+
+def winner_from_displayed_scores(player1: str, player2: str, p1_scores: List[str], p2_scores: List[str]) -> str:
+    p1_sets = 0
+    p2_sets = 0
+
+    for p1, p2 in zip(p1_scores, p2_scores):
+        n1 = score_main_number(p1)
+        n2 = score_main_number(p2)
+        if n1 is None or n2 is None:
+            continue
+        if n1 > n2:
+            p1_sets += 1
+        elif n2 > n1:
+            p2_sets += 1
+
+    # W widoku ATP zwycięzca często jest pierwszym zawodnikiem w karcie.
+    if p1_sets >= p2_sets:
+        return player1
+    return player2
+
+
+def parse_match_block(block: List[str], current_date: str, event_id: str) -> Optional[Dict[str, Any]]:
+    if not block:
+        return None
+
+    round_line = block[0]
+    round_long = extract_round_from_line(round_line) or "Round"
+    round_short = ROUND_TO_SHORT.get(round_long, round_long)
+
+    game_line = None
+    for line in block:
+        if line.startswith("Game Set and Match"):
+            game_line = line
+            break
+
+    candidates: List[str] = []
+    player_scores: Dict[str, List[str]] = {}
+    current_player: Optional[str] = None
+
+    for raw in block[1:]:
+        line = normalize_space(raw)
+
+        if line.startswith("Game Set and Match"):
+            break
+        if line.lower().startswith("ump:"):
+            break
+        if line in {"H2H", "Stats"}:
+            continue
+        if is_noise_line(line):
+            continue
+
+        if looks_like_player_name(line):
+            name = clean_player_name(line)
+            if name and name not in candidates:
+                candidates.append(name)
+                player_scores[name] = []
+            current_player = name
+            continue
+
+        if current_player and is_score_token(line):
+            player_scores[current_player].append(line)
+
+    if len(candidates) < 2:
+        return None
+
+    player1 = candidates[0]
+    player2 = candidates[1]
+
+    if game_line:
+        winner, score, raw_source = parse_score_from_game_set(game_line)
+        if not winner or not score:
+            return None
+    else:
+        p1_scores = player_scores.get(player1, [])
+        p2_scores = player_scores.get(player2, [])
+        if not p1_scores or not p2_scores:
+            return None
+        score = make_score_from_displayed_numbers(p1_scores, p2_scores)
+        winner = winner_from_displayed_scores(player1, player2, p1_scores, p2_scores)
+        raw_source = "Parsed from displayed score numbers"
+
+    return {
+        "matchId": hash_match_id(event_id, current_date, round_long, player1, player2, score),
+        "date": current_date,
+        "round": round_short,
+        "roundLong": round_long,
+        "playerId": "",
+        "playerName": player1,
+        "opponentId": "",
+        "opponentName": player2,
+        "winnerPlayerId": "",
+        "winnerName": winner,
+        "isPlayerWinner": winner == player1,
+        "matchState": "F",
+        "reason": None,
+        "formattedScore": score,
+        "sourceText": raw_source,
+    }
+
+
 def parse_results_html(html_text: str, tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]]]:
     soup = BeautifulSoup(html_text, "html.parser")
 
-    # ATP w wynikach generuje dużo treści Vue. Bierzemy tekst w kolejności z DOM.
+    # ATP daje wyniki w HTML jako tekst z karty meczowej.
     lines = [normalize_space(x) for x in soup.stripped_strings]
     lines = [x for x in lines if x]
 
     event_id = str(tournament.get("id") or "")
     current_date = ""
-    current_round = ""
-    block: List[str] = []
+    current_block: List[str] = []
     matches: List[Dict[str, Any]] = []
     players_seen: Dict[str, Dict[str, str]] = {}
 
-    def flush_block_with_game_set(game_line: str) -> None:
-        nonlocal block, matches, players_seen, current_round, current_date
+    def flush_current_block() -> None:
+        nonlocal current_block, matches, players_seen
 
-        winner, score, raw = parse_score_from_game_set(game_line)
-        if not winner or not score:
-            block = []
-            return
+        match = parse_match_block(current_block, current_date, event_id)
+        if match:
+            matches.append(match)
+            players_seen[match["playerName"]] = {"id": "", "name": match["playerName"]}
+            players_seen[match["opponentName"]] = {"id": "", "name": match["opponentName"]}
 
-        candidates: List[str] = []
-        for item in block:
-            name = clean_player_name(item)
-            if looks_like_player_name(name) and name not in candidates:
-                candidates.append(name)
-
-        # Najczęściej w bloku są tylko dwaj zawodnicy jako pierwsze dwa sensowne teksty.
-        # Gdyby wpadły śmieci, próbujemy znaleźć zwycięzcę i drugie nazwisko obok.
-        if len(candidates) < 2:
-            block = []
-            return
-
-        if winner in candidates:
-            winner_index = candidates.index(winner)
-            if winner_index == 0 and len(candidates) >= 2:
-                player1, player2 = candidates[0], candidates[1]
-            elif winner_index == 1:
-                player1, player2 = candidates[0], candidates[1]
-            else:
-                player1, player2 = candidates[0], candidates[1]
-        else:
-            player1, player2 = candidates[0], candidates[1]
-
-        round_long = current_round or "Round"
-        round_short = ROUND_TO_SHORT.get(round_long, round_long)
-
-        p1_id = ""
-        p2_id = ""
-        players_seen[player1] = {"id": p1_id, "name": player1}
-        players_seen[player2] = {"id": p2_id, "name": player2}
-
-        match = {
-            "matchId": hash_match_id(event_id, current_date, round_long, player1, player2, score),
-            "date": current_date,
-            "round": round_short,
-            "roundLong": round_long,
-            "playerId": p1_id,
-            "playerName": player1,
-            "opponentId": p2_id,
-            "opponentName": player2,
-            "winnerPlayerId": "",
-            "winnerName": winner,
-            "isPlayerWinner": winner == player1,
-            "matchState": "F",
-            "reason": None,
-            "formattedScore": score,
-            "sourceText": raw,
-        }
-        matches.append(match)
-        block = []
+        current_block = []
 
     for line in lines:
         if is_date_heading(line):
+            flush_current_block()
             current_date = line
-            block = []
             continue
 
         found_round = extract_round_from_line(line)
         if found_round:
-            current_round = found_round
-            block = [line]
+            flush_current_block()
+            current_block = [line]
             continue
 
-        if line.startswith("Game Set and Match"):
-            flush_block_with_game_set(line)
-            continue
+        if current_block:
+            current_block.append(line)
 
-        if current_round:
-            block.append(line)
+    flush_current_block()
 
     # usuń ewentualne duplikaty
     dedup: Dict[str, Dict[str, Any]] = {}
@@ -380,22 +476,21 @@ def parse_results_html(html_text: str, tournament: Dict[str, Any]) -> Tuple[List
     clean_matches = list(dedup.values())
 
     round_order = {
-        "Q1": 1,
-        "Q2": 2,
-        "R128": 3,
-        "R64": 4,
+        "F": 1,
+        "SF": 2,
+        "QF": 3,
+        "R16": 4,
         "R32": 5,
-        "R16": 6,
-        "QF": 7,
-        "SF": 8,
-        "F": 9,
+        "R64": 6,
+        "R128": 7,
+        "Q2": 8,
+        "Q1": 9,
     }
     clean_matches.sort(key=lambda m: (round_order.get(m.get("round", ""), 999), m.get("date", ""), m.get("matchId", "")))
 
     players = list(players_seen.values())
     players.sort(key=lambda p: p["name"])
     return players, clean_matches
-
 
 def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]], Optional[str]]:
     scores_url_raw = tournament.get("scoresUrl")

@@ -1,7 +1,8 @@
-# ATP data updater v4
+# ATP data updater v5
 
-Zmiana względem v3:
-- dla turniejów live skrypt pobiera najpierw `/current/.../results`,
-- dopiero później próbuje `/archive/.../results`.
+Zmiana względem v4:
+- parser zapisuje również mecze, przy których ATP nie pokazuje tekstu "Game Set and Match",
+- dzięki temu łapie brakujące finały, np. BMW Open by Bitpanda,
+- nadal dla turniejów live najpierw używa `/current/.../results`, a potem `/archive/.../results`.
 
-To powinno poprawić brakujące świeżo zakończone mecze, np. finał Hamburga.
+Po podmianie uruchom workflow `Update ATP Data`.
