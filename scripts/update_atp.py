@@ -9,25 +9,24 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 import requests
 from bs4 import BeautifulSoup
 
-
 BASE_DIR = Path(__file__).resolve().parents[1]
 DATA_DIR = BASE_DIR / "data"
 
 ATP_BASE_URL = "https://www.atptour.com"
 ATP_CALENDAR_URL = "https://www.atptour.com/en/-/tournaments/calendar/tour"
 
-# Bezpieczny start: wyniki generujemy dla turniejów live + ostatnich zakończonych.
-# Jak będziesz chciał pełne archiwum 2026, zwiększymy tę wartość albo zrobimy osobny workflow nocny.
-PAST_TOURNAMENTS_TO_UPDATE = 16
+# Bezpieczny start: live + ostatnie zakończone turnieje.
+PAST_TOURNAMENTS_TO_UPDATE = 27
 REQUEST_SLEEP_SECONDS = 0.12
 
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0 Safari/537.36"
+        "Chrome/124.0 Safari/537.36"
     ),
-    "Accept": "application/json, text/plain, */*",
+    "Accept": "application/json, text/html, */*",
+    "Accept-Language": "en-US,en;q=0.9",
     "Referer": "https://www.atptour.com/en/tournaments",
 }
 
@@ -41,7 +40,7 @@ def fetch_text(url: str, referer: Optional[str] = None) -> str:
     headers = dict(HEADERS)
     if referer:
         headers["Referer"] = referer
-    response = requests.get(url, headers=headers, timeout=40)
+    response = requests.get(url, headers=headers, timeout=45)
     response.raise_for_status()
     return response.text
 
@@ -50,7 +49,7 @@ def fetch_json(url: str, referer: Optional[str] = None) -> Any:
     headers = dict(HEADERS)
     if referer:
         headers["Referer"] = referer
-    response = requests.get(url, headers=headers, timeout=40)
+    response = requests.get(url, headers=headers, timeout=45)
     response.raise_for_status()
     return response.json()
 
@@ -113,8 +112,8 @@ def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
                     "location": tournament.get("Location"),
                     "date": tournament.get("FormattedDate"),
                     "month": display_month,
-                    "isLive": tournament.get("IsLive"),
-                    "isPastEvent": tournament.get("IsPastEvent"),
+                    "isLive": bool(tournament.get("IsLive")),
+                    "isPastEvent": bool(tournament.get("IsPastEvent")),
                     "type": tournament.get("Type"),
                     "eventType": tournament.get("EventType"),
                     "surface": tournament.get("Surface"),
@@ -135,6 +134,54 @@ def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
     return flat
 
 
+def normalize_current_url(path_or_url: Optional[str], target: str) -> Optional[str]:
+    """Build /en/scores/current/<slug>/<id>/<target> from schedule/results/draws URLs."""
+    if not path_or_url:
+        return None
+
+    url = path_or_url
+    # /en/scores/current/hamburg/414/daily-schedule -> /en/scores/current/hamburg/414/draws
+    m = re.search(r"(/en/scores/current/[^/]+/[^/]+)/(?:daily-schedule|results|draws|country-schedule|country-results|country-draws)", url)
+    if m:
+        return m.group(1) + f"/{target}"
+
+    # /en/scores/archive/hamburg/414/2026/draws -> /en/scores/current/hamburg/414/draws
+    m = re.search(r"/en/scores/archive/([^/]+)/([^/]+)/(20\d{2})/(?:results|draws|country-results|country-draws)", url)
+    if m:
+        slug, event_id, _year = m.groups()
+        return f"/en/scores/current/{slug}/{event_id}/{target}"
+
+    return None
+
+
+def candidate_draw_urls(tournament: Dict[str, Any]) -> List[str]:
+    urls: List[str] = []
+
+    # Dla turniejów live ATP często lepiej działa /current/.../draws niż /archive/.../draws.
+    if tournament.get("isLive") or not tournament.get("isPastEvent"):
+        for key in ("scheduleUrl", "drawsUrl", "scoresUrl"):
+            current = normalize_current_url(tournament.get(key), "draws")
+            if current:
+                urls.append(current)
+
+    if tournament.get("drawsUrl"):
+        urls.append(tournament["drawsUrl"])
+
+    # Wymuszenie singla, bo ATP czasem bez parametru pokazuje pusty albo inny widok.
+    expanded: List[str] = []
+    for u in urls:
+        expanded.extend([u, u + "?matchtype=singles", u + "?matchType=singles"])
+
+    final: List[str] = []
+    seen: Set[str] = set()
+    for u in expanded:
+        abs_u = absolute_url(u)
+        if abs_u and abs_u not in seen:
+            seen.add(abs_u)
+            final.append(abs_u)
+    return final
+
+
 def extract_players_from_draw_html(html_text: str) -> List[Dict[str, str]]:
     soup = BeautifulSoup(html_text, "html.parser")
     players: Dict[str, Dict[str, str]] = {}
@@ -151,7 +198,7 @@ def extract_players_from_draw_html(html_text: str) -> List[Dict[str, str]]:
         label = html.unescape(option.get_text(" ", strip=True))
 
         name = (first + " " + last).strip() or label
-        if not name or name.lower() == "player draw":
+        if not name or name.lower() == "player draw" or len(player_id) < 3:
             continue
 
         players[player_id.upper()] = {
@@ -164,6 +211,24 @@ def extract_players_from_draw_html(html_text: str) -> List[Dict[str, str]]:
         }
 
     return list(players.values())
+
+
+def load_players_for_tournament(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], Optional[str]]:
+    last_error = None
+    for url in candidate_draw_urls(tournament):
+        try:
+            print(f"  trying draw page: {url}")
+            html_text = fetch_text(url, referer="https://www.atptour.com/en/tournaments")
+            players = extract_players_from_draw_html(html_text)
+            print(f"  players found: {len(players)}")
+            if players:
+                return players, url
+        except Exception as exc:
+            last_error = exc
+            print(f"  WARN draw fetch failed: {url}: {exc}")
+    if last_error:
+        print(f"  WARN no players, last error: {last_error}")
+    return [], None
 
 
 def build_score(details: Dict[str, Any]) -> str:
@@ -222,28 +287,29 @@ def normalize_match(player: Dict[str, str], result_item: Dict[str, Any]) -> Opti
     }
 
 
-def fetch_tournament_matches(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]]]:
+def fetch_tournament_matches(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]], Optional[str]]:
     year = str(tournament.get("year") or "").strip()
     event_id = str(tournament.get("id") or "").strip()
-    draws_url = absolute_url(tournament.get("drawsUrl"))
 
-    if not year or not event_id or not draws_url:
-        return [], []
+    if not year or not event_id:
+        return [], [], None
 
-    html_text = fetch_text(draws_url, referer="https://www.atptour.com/en/tournaments")
-    players = extract_players_from_draw_html(html_text)
+    players, referer_url = load_players_for_tournament(tournament)
+    if not players:
+        return [], [], referer_url
 
     matches: List[Dict[str, Any]] = []
     seen_match_ids: Set[str] = set()
+    api_referer = referer_url or "https://www.atptour.com/en/tournaments"
 
     for idx, player in enumerate(players):
         player_id = player["id"]
         api_url = f"{ATP_BASE_URL}/-/ls/playerdrawpath/grouped/{year}/{event_id}/{player_id}"
 
         try:
-            payload = fetch_json(api_url, referer=draws_url)
+            payload = fetch_json(api_url, referer=api_referer)
         except Exception as exc:
-            print(f"WARN playerdraw failed: {event_id}/{year}/{player_id}: {exc}")
+            print(f"  WARN playerdraw failed: {event_id}/{year}/{player_id}: {exc}")
             continue
 
         for result_item in payload.get("MatchResults", []) or []:
@@ -261,7 +327,7 @@ def fetch_tournament_matches(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
         time.sleep(REQUEST_SLEEP_SECONDS)
 
     matches.sort(key=lambda m: (int(m.get("roundId") or 999), str(m.get("matchId") or "")))
-    return players, matches
+    return players, matches, referer_url
 
 
 def select_tournaments_for_results(flat: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -272,7 +338,7 @@ def select_tournaments_for_results(flat: List[Dict[str, Any]]) -> List[Dict[str,
     selected: Dict[Tuple[str, str], Dict[str, Any]] = {}
     for tournament in recent_past + live:
         key = (str(tournament.get("year") or ""), str(tournament.get("id") or ""))
-        if key[0] and key[1]:
+        if key[0] and key[1] and tournament.get("eventType") in ("Tour", "GS"):
             selected[key] = tournament
     return list(selected.values())
 
@@ -316,18 +382,21 @@ def main() -> None:
         print(f"Tournament: {year}/{event_id} {name}")
 
         try:
-            players, matches = fetch_tournament_matches(tournament)
+            players, matches, source_draw_url = fetch_tournament_matches(tournament)
         except Exception as exc:
             print(f"WARN tournament failed: {year}/{event_id} {name}: {exc}")
-            players, matches = [], []
+            players, matches, source_draw_url = [], [], None
 
         folder = DATA_DIR / year / event_id
-        save_json(folder / "tournament.json", tournament)
+        tournament_with_source = dict(tournament)
+        tournament_with_source["sourceDrawUrlUsed"] = source_draw_url
+
+        save_json(folder / "tournament.json", tournament_with_source)
         save_json(
             folder / "players.json",
             {
                 "generatedAt": generated_at,
-                "tournament": tournament,
+                "tournament": tournament_with_source,
                 "count": len(players),
                 "players": players,
             },
@@ -336,7 +405,7 @@ def main() -> None:
             folder / "matches.json",
             {
                 "generatedAt": generated_at,
-                "tournament": tournament,
+                "tournament": tournament_with_source,
                 "count": len(matches),
                 "matches": matches,
             },
@@ -349,6 +418,7 @@ def main() -> None:
                 "name": name,
                 "players": len(players),
                 "matches": len(matches),
+                "sourceDrawUrlUsed": source_draw_url,
                 "matchesPath": f"data/{year}/{event_id}/matches.json",
             }
         )
