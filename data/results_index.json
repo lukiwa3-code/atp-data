@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T19:12:09.065288+00:00",
+  "generatedAt": "2026-05-23T19:49:12.415214+00:00",
   "count": 30,
   "items": [
     {
@@ -252,7 +252,7 @@
       "players": 41,
       "matches": 42,
       "matchesPath": "data/2026/414/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/results"
+      "source": "https://www.atptour.com/en/scores/current/hamburg/414/results"
     },
     {
       "year": "2026",
@@ -261,7 +261,7 @@
       "players": 38,
       "matches": 39,
       "matchesPath": "data/2026/322/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/geneva/322/2026/results"
+      "source": "https://www.atptour.com/en/scores/current/geneva/322/results"
     },
     {
       "year": "2026",
