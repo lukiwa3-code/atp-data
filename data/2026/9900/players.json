@@ -1,0 +1,159 @@
+{
+  "generatedAt": "2026-05-23T19:12:09.065288+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results",
+  "tournament": {
+    "id": "9900",
+    "year": "2026",
+    "name": "United Cup",
+    "location": "Perth-Sydney, Australia",
+    "date": "2 - 11 January, 2026",
+    "month": "January, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "UC",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 18,
+    "doublesDrawSize": 18,
+    "scoresUrl": "/en/scores/archive/perth-sydney/9900/2026/country-results",
+    "drawsUrl": "/en/scores/archive/perth-sydney/9900/2026/country-draws",
+    "scheduleUrl": "/en/scores/current/united-cup/9900/country-schedule",
+    "overviewUrl": "/en/tournaments/perth-sydney/9900/overview",
+    "countryFlagUrl": "/-/media/images/flags/aus.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_unitedcup.png",
+    "prizeMoney": "$5,903,345",
+    "totalFinancialCommitment": "$5,903,345"
+  },
+  "count": 32,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex de Minaur"
+    },
+    {
+      "id": "",
+      "name": "Barbora Krejcikova"
+    },
+    {
+      "id": "",
+      "name": "Belinda Bencic"
+    },
+    {
+      "id": "",
+      "name": "Coco Gauff"
+    },
+    {
+      "id": "",
+      "name": "Elise Mertens"
+    },
+    {
+      "id": "",
+      "name": "Hubert Hurkacz"
+    },
+    {
+      "id": "",
+      "name": "Iga Swiatek"
+    },
+    {
+      "id": "",
+      "name": "Jakub Mensik"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Laura Siegemund"
+    },
+    {
+      "id": "",
+      "name": "Lin Zhu"
+    },
+    {
+      "id": "",
+      "name": "Naomi Osaka"
+    },
+    {
+      "id": "",
+      "name": "Olivia Nicholls"
+    },
+    {
+      "id": "",
+      "name": "Round Robin - RAC Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 2 - Ken Rosewall Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 2 - RAC Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 3 - Ken Rosewall Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 3 - RAC Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 4 - Ken Rosewall Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 4 - RAC Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 5 - Ken Rosewall Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 5 - RAC Arena"
+    },
+    {
+      "id": "",
+      "name": "Round Robin Day 6 - Ken Rosewall Arena"
+    },
+    {
+      "id": "",
+      "name": "Sara Errani"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Solana Sierra"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Storm Hunter"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Victoria Mboko"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
+}

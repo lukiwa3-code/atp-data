@@ -1,0 +1,187 @@
+{
+  "generatedAt": "2026-05-23T19:12:09.065288+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/adelaide/8998/2026/results",
+  "tournament": {
+    "id": "8998",
+    "year": "2026",
+    "name": "Adelaide International",
+    "location": "Adelaide, Australia",
+    "date": "12 - 17 January, 2026",
+    "month": "January, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 24,
+    "scoresUrl": "/en/scores/archive/adelaide/8998/2026/results",
+    "drawsUrl": "/en/scores/archive/adelaide/8998/2026/draws",
+    "scheduleUrl": "/en/scores/current/adelaide/8998/daily-schedule",
+    "overviewUrl": "/en/tournaments/adelaide/8998/overview",
+    "countryFlagUrl": "/-/media/images/flags/aus.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "$700,045",
+    "totalFinancialCommitment": "$788,349"
+  },
+  "count": 39,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Davidovich Fokina"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Alexander Shevchenko"
+    },
+    {
+      "id": "",
+      "name": "Alexei Popyrin"
+    },
+    {
+      "id": "",
+      "name": "Andrea Vavassori"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Bonzi"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Christopher O'Connell"
+    },
+    {
+      "id": "",
+      "name": "Damir Dzumhur"
+    },
+    {
+      "id": "",
+      "name": "Daniel Altmaier"
+    },
+    {
+      "id": "",
+      "name": "Daniel Jovanovski"
+    },
+    {
+      "id": "",
+      "name": "Ethan Quinn"
+    },
+    {
+      "id": "",
+      "name": "Filip Misolic"
+    },
+    {
+      "id": "",
+      "name": "Francisco Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Diallo"
+    },
+    {
+      "id": "",
+      "name": "Jacob Fearnley"
+    },
+    {
+      "id": "",
+      "name": "Jake Delaney"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Jesper de Jong"
+    },
+    {
+      "id": "",
+      "name": "Luca Nardi"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Quentin Halys"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Reilly Opelka"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Korda"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Tallon Griekspoor"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Thanasi Kokkinakis"
+    },
+    {
+      "id": "",
+      "name": "Thiago Agustin Tirante"
+    },
+    {
+      "id": "",
+      "name": "Tomas Machac"
+    },
+    {
+      "id": "",
+      "name": "Tommy Paul"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Ugo Humbert"
+    },
+    {
+      "id": "",
+      "name": "Valentin Vacherot"
+    }
+  ]
+}
