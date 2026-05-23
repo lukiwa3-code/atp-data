@@ -258,7 +258,10 @@ def looks_like_player_name(line: str) -> bool:
     # odfiltruj elementy nawigacji
     bad_fragments = [
         "results archive", "atp tour", "apps", "challenger tv",
-        "header", "search", "profile", "latest", "close"
+        "header", "search", "profile", "latest", "close",
+        "player-photo", "image:", "wins the point", "match point",
+        "break point", "set point", "double fault", "2nd serve",
+        "1st serve", "serve.", "ace."
     ]
     if any(x in line.lower() for x in bad_fragments):
         return False
@@ -374,13 +377,18 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
             game_line = line
             break
 
-    candidates: List[str] = []
-    player_scores: Dict[str, List[str]] = {}
-    current_player: Optional[str] = None
+    # Zamiast brać ślepo pierwsze dwie "nazwy", szukamy pary zawodników,
+    # po której realnie występują liczby wyników. To naprawia finały,
+    # gdzie ATP dodaje po drodze teksty typu "Centre Court", komunikaty live,
+    # obrazki albo notatki punktowe.
+    entries: List[Dict[str, Any]] = []
+    current_entry: Optional[Dict[str, Any]] = None
 
     for raw in block[1:]:
         line = normalize_space(raw)
 
+        if not line:
+            continue
         if line.startswith("Game Set and Match"):
             break
         if line.lower().startswith("ump:"):
@@ -392,33 +400,43 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
 
         if looks_like_player_name(line):
             name = clean_player_name(line)
-            if name and name not in candidates:
-                candidates.append(name)
-                player_scores[name] = []
-            current_player = name
+            current_entry = {"name": name, "scores": []}
+            entries.append(current_entry)
             continue
 
-        if current_player and is_score_token(line):
-            player_scores[current_player].append(line)
+        if current_entry and is_score_token(line):
+            current_entry["scores"].append(line)
 
-    if len(candidates) < 2:
+    # Zostaw tylko wpisy, które wyglądają jak zawodnik oraz mają wynik.
+    scored_entries = [
+        entry for entry in entries
+        if entry.get("name") and len(entry.get("scores", [])) > 0
+    ]
+
+    if len(scored_entries) < 2:
         return None
 
-    player1 = candidates[0]
-    player2 = candidates[1]
+    # Najczęściej pierwszy komplet z wynikami to dokładnie para z meczu.
+    player1 = scored_entries[0]["name"]
+    player2 = scored_entries[1]["name"]
+    p1_scores = scored_entries[0]["scores"]
+    p2_scores = scored_entries[1]["scores"]
 
     if game_line:
         winner, score, raw_source = parse_score_from_game_set(game_line)
-        if not winner or not score:
-            return None
+        if not winner:
+            winner = winner_from_displayed_scores(player1, player2, p1_scores, p2_scores)
+        if not score:
+            score = make_score_from_displayed_numbers(p1_scores, p2_scores)
+        if not raw_source:
+            raw_source = game_line
     else:
-        p1_scores = player_scores.get(player1, [])
-        p2_scores = player_scores.get(player2, [])
-        if not p1_scores or not p2_scores:
-            return None
         score = make_score_from_displayed_numbers(p1_scores, p2_scores)
         winner = winner_from_displayed_scores(player1, player2, p1_scores, p2_scores)
         raw_source = "Parsed from displayed score numbers"
+
+    if not score:
+        return None
 
     return {
         "matchId": hash_match_id(event_id, current_date, round_long, player1, player2, score),
@@ -437,7 +455,6 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
         "formattedScore": score,
         "sourceText": raw_source,
     }
-
 
 def parse_results_html(html_text: str, tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]]]:
     soup = BeautifulSoup(html_text, "html.parser")
