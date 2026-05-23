@@ -1,0 +1,38 @@
+name: Update ATP Data
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: Zainstaluj Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Zainstaluj biblioteki
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Uruchom aktualizację danych ATP
+        run: |
+          python scripts/update_atp.py
+
+      - name: Zapisz zmiany do repozytorium
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Update ATP data"
+          git push
