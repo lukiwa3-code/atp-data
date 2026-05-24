@@ -330,7 +330,6 @@ def is_score_token(line: str) -> bool:
     line = normalize_space(line)
     if not line or ":" in line:
         return False
-    # ATP potrafi pokazać tie-break jako osobny token albo jako "6 8".
     return bool(re.fullmatch(r"\d+(?:\s+\d+)?|RET|W/O|DEF", line))
 
 
@@ -353,72 +352,129 @@ def is_plain_digit_token(token: str) -> bool:
     return bool(re.fullmatch(r"\d+", normalize_space(token)))
 
 
-def make_score_from_displayed_numbers(p1_scores: List[str], p2_scores: List[str]) -> str:
-    """Buduje wynik z liczb pokazanych w karcie ATP.
+def valid_set_score(a: int, b: int) -> bool:
+    if (a == 7 and b in (5, 6)) or (b == 7 and a in (5, 6)):
+        return True
+    if (a == 6 and b <= 4) or (b == 6 and a <= 4):
+        return True
+    if max(a, b) >= 6 and abs(a - b) >= 2:
+        return True
+    return False
 
-    Ważny szczegół: ATP czasem pokazuje tie-break jako osobny mały tekst.
-    BeautifulSoup potrafi wtedy zwrócić np.:
-      p1: ["7", "4", "6"]
-      p2: ["6", "6", "6", "3"]
-    gdzie drugie "6" u p2 to tie-break z pierwszego seta.
-    Ta funkcja próbuje go dokleić do właściwego seta: 7-6(6) 4-6 6-3.
-    """
-    sets: List[str] = []
-    i = 0
-    j = 0
 
-    while i < len(p1_scores) and j < len(p2_scores):
+def parse_score_paths(p1_scores: List[str], p2_scores: List[str]) -> List[List[Dict[str, Any]]]:
+    memo: Dict[Tuple[int, int], List[List[Dict[str, Any]]]] = {}
+
+    def rec(i: int, j: int) -> List[List[Dict[str, Any]]]:
+        key = (i, j)
+        if key in memo:
+            return memo[key]
+
+        if i >= len(p1_scores) and j >= len(p2_scores):
+            return [[]]
+
+        if i >= len(p1_scores) or j >= len(p2_scores):
+            return []
+
         p1_token = normalize_space(p1_scores[i])
         p2_token = normalize_space(p2_scores[j])
-
         n1 = score_main_number(p1_token)
         n2 = score_main_number(p2_token)
+
         if n1 is None or n2 is None:
-            i += 1
-            j += 1
-            continue
+            memo[key] = []
+            return []
 
-        tie = score_extra_number(p1_token) or score_extra_number(p2_token)
+        paths: List[List[Dict[str, Any]]] = []
 
-        # Lookahead: tie-break może być osobnym tokenem po stronie przegranego seta.
-        if tie is None:
-            remaining_p1 = len(p1_scores) - i
-            remaining_p2 = len(p2_scores) - j
+        def add_option(next_i: int, next_j: int, tie: Optional[str]) -> None:
+            for tail in rec(next_i, next_j):
+                paths.append([{"p1": n1, "p2": n2, "tie": tie}] + tail)
 
+        if valid_set_score(n1, n2):
+            tie_same_token = None
+            if n1 == 7 and n2 == 6:
+                tie_same_token = score_extra_number(p2_token)
+            elif n2 == 7 and n1 == 6:
+                tie_same_token = score_extra_number(p1_token)
+
+            add_option(i + 1, j + 1, tie_same_token)
+
+            # Tie-break może być osobnym kolejnym tokenem po stronie przegranego.
+            # To naprawia Grand Slam, gdzie wynik potrafi przyjść jako:
+            # p1: 6, 7, 6, 5, 6
+            # p2: 3, 6, 6, 7, 0
+            # czyli: 6-3 7-6(6) 6-7(5) 6-0
             if n1 == 7 and n2 == 6 and j + 1 < len(p2_scores):
-                next_loser_token = normalize_space(p2_scores[j + 1])
-                if is_plain_digit_token(next_loser_token) and remaining_p2 > remaining_p1:
-                    tie = next_loser_token
-                    j += 1
+                next_loser = normalize_space(p2_scores[j + 1])
+                if is_plain_digit_token(next_loser):
+                    add_option(i + 1, j + 2, next_loser)
 
-            elif n2 == 7 and n1 == 6 and i + 1 < len(p1_scores):
-                next_loser_token = normalize_space(p1_scores[i + 1])
-                if is_plain_digit_token(next_loser_token) and remaining_p1 > remaining_p2:
-                    tie = next_loser_token
-                    i += 1
+            if n2 == 7 and n1 == 6 and i + 1 < len(p1_scores):
+                next_loser = normalize_space(p1_scores[i + 1])
+                if is_plain_digit_token(next_loser):
+                    add_option(i + 2, j + 1, next_loser)
 
-        set_text = f"{n1}-{n2}"
+        memo[key] = paths
+        return paths
+
+    return rec(0, 0)
+
+
+def score_path_quality(path: List[Dict[str, Any]], total_tokens: int) -> Tuple[int, int, int, int]:
+    suspicious = 0
+    tiebreaks = 0
+
+    for one_set in path:
+        p1 = one_set["p1"]
+        p2 = one_set["p2"]
+        tie = one_set.get("tie")
+        if p1 == 6 and p2 == 6:
+            suspicious += 1
+        if ((p1 == 7 and p2 == 6) or (p1 == 6 and p2 == 7)) and tie:
+            tiebreaks += 1
+
+    return (
+        -suspicious,
+        tiebreaks,
+        len(path),
+        -abs(len(path) - min(5, total_tokens // 2)),
+    )
+
+
+def choose_best_score_path(p1_scores: List[str], p2_scores: List[str]) -> List[Dict[str, Any]]:
+    paths = parse_score_paths(p1_scores, p2_scores)
+    if not paths:
+        return []
+
+    total_tokens = len(p1_scores) + len(p2_scores)
+    return max(paths, key=lambda path: score_path_quality(path, total_tokens))
+
+
+def score_text_from_path(path: List[Dict[str, Any]]) -> str:
+    parts: List[str] = []
+    for one_set in path:
+        set_text = f"{one_set['p1']}-{one_set['p2']}"
+        tie = one_set.get("tie")
         if tie:
             set_text += f"({tie})"
-        sets.append(set_text)
+        parts.append(set_text)
+    return " ".join(parts)
 
-        i += 1
-        j += 1
 
-    return " ".join(sets)
+def make_score_from_displayed_numbers(p1_scores: List[str], p2_scores: List[str]) -> str:
+    return score_text_from_path(choose_best_score_path(p1_scores, p2_scores))
 
 
 def winner_from_displayed_scores(player1: str, player2: str, p1_scores: List[str], p2_scores: List[str]) -> str:
+    path = choose_best_score_path(p1_scores, p2_scores)
+
     p1_sets = 0
     p2_sets = 0
 
-    score_text = make_score_from_displayed_numbers(p1_scores, p2_scores)
-    for one_set in score_text.split():
-        match = re.match(r"(\d+)-(\d+)", one_set)
-        if not match:
-            continue
-        n1 = int(match.group(1))
-        n2 = int(match.group(2))
+    for one_set in path:
+        n1 = int(one_set["p1"])
+        n2 = int(one_set["p2"])
         if n1 > n2:
             p1_sets += 1
         elif n2 > n1:

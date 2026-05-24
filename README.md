@@ -1,12 +1,13 @@
-# ATP data updater v9
+# ATP data updater v10
 
-Poprawka tie-breaków i kolejności zawodników:
+Poprawka dla Grand Slam / best-of-five i tie-breaków:
 
-- wynik jest teraz zawsze w perspektywie zwycięzcy,
-- zwycięzca jest zawsze zapisywany jako `playerName`,
-- przegrany jako `opponentName`,
-- parser lepiej obsługuje tie-breaki, gdy ATP rozbija wynik na osobne tokeny,
-  np. `7`, `6`, `6` -> `7-6(6)`,
-- zapobiega dziwnym wynikom setów w aplikacji.
+- parser używa teraz algorytmu wyboru najlepszej ścieżki wyniku,
+- poprawnie skleja tie-breaki rozbite na osobne tokeny,
+- naprawia przypadki typu:
+  `6-3 7-6 6-6 5-7 6-0`
+  na:
+  `6-3 7-6(6) 6-7(5) 6-0`,
+- działa również dla standardowych meczów best-of-three.
 
 Po podmianie uruchom workflow `Update ATP Data` w repo `atp-data`.
