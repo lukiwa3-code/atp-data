@@ -1,13 +1,9 @@
-# ATP data updater v10
+# ATP data updater v13
 
-Poprawka dla Grand Slam / best-of-five i tie-breaków:
-
-- parser używa teraz algorytmu wyboru najlepszej ścieżki wyniku,
-- poprawnie skleja tie-breaki rozbite na osobne tokeny,
-- naprawia przypadki typu:
-  `6-3 7-6 6-6 5-7 6-0`
-  na:
-  `6-3 7-6(6) 6-7(5) 6-0`,
-- działa również dla standardowych meczów best-of-three.
+Nowość:
+- generuje `draw.json` z zakładki Draws ATP,
+- `draw.json` zawiera prawdziwą kolejność drabinki ATP: `bracketOrder`,
+- `matches.json` nadal zawiera wyniki z zakładki Results,
+- aplikacja może teraz wyświetlać rundy według drabinki, również dla turnieju, który jeszcze trwa.
 
 Po podmianie uruchom workflow `Update ATP Data` w repo `atp-data`.
