@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T06:02:23.692561+00:00",
+  "generatedAt": "2026-05-24T06:21:28.286990+00:00",
   "source": "https://www.atptour.com/en/scores/archive/munich/308/2026/results",
   "tournament": {
     "id": "308",
@@ -606,7 +606,7 @@
       "sourceText": "Game Set and Match Alex Molcan. Alex Molcan wins the match 6-1 7-6(4)."
     },
     {
-      "matchId": "RES-DAB048D01B",
+      "matchId": "RES-C263D523CC",
       "date": "Sun, 12 April, 2026",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
@@ -619,7 +619,7 @@
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
-      "formattedScore": "6-7 8-3 6-3",
+      "formattedScore": "6-7(8) 6-3 6-3",
       "sourceText": "Parsed from displayed score numbers"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T06:02:23.692561+00:00",
+  "generatedAt": "2026-05-24T06:21:28.286990+00:00",
   "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results",
   "tournament": {
     "id": "9900",
@@ -79,6 +79,23 @@
       "sourceText": "Game Set and Match Hubert Hurkacz. Hubert Hurkacz wins the match 6-3 3-6 6-3 ."
     },
     {
+      "matchId": "RES-279315E59B",
+      "date": "",
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "playerId": "",
+      "playerName": "Jan Zielinski",
+      "opponentId": "",
+      "opponentName": "Christian Harrison",
+      "winnerPlayerId": "",
+      "winnerName": "Jan Zielinski",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "7-6(5) 7-6(3)",
+      "sourceText": "Parsed from displayed score numbers"
+    },
+    {
       "matchId": "RES-5A731CF529",
       "date": "",
       "round": "SF",
@@ -113,40 +130,6 @@
       "sourceText": "Game Set and Match Hubert Hurkacz. Hubert Hurkacz wins the match 7-6(1) 7-6(2)."
     },
     {
-      "matchId": "RES-736DE54FB9",
-      "date": "",
-      "round": "SF",
-      "roundLong": "Semifinals",
-      "playerId": "",
-      "playerName": "Belinda Bencic",
-      "opponentId": "",
-      "opponentName": "Elise Mertens",
-      "winnerPlayerId": "",
-      "winnerName": "Belinda Bencic",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "6-3 4-6 7-6",
-      "sourceText": "Parsed from displayed score numbers"
-    },
-    {
-      "matchId": "RES-8CCF5B5AF7",
-      "date": "",
-      "round": "SF",
-      "roundLong": "Semifinals",
-      "playerId": "",
-      "playerName": "Jan Zielinski",
-      "opponentId": "",
-      "opponentName": "Christian Harrison",
-      "winnerPlayerId": "",
-      "winnerName": "Jan Zielinski",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "7-6 7-5",
-      "sourceText": "Parsed from displayed score numbers"
-    },
-    {
       "matchId": "RES-9D0483DBE2",
       "date": "",
       "round": "SF",
@@ -179,6 +162,23 @@
       "reason": null,
       "formattedScore": "6-3 6-7(4) 6-3",
       "sourceText": "Game Set and Match Zizou Bergs. Zizou Bergs wins the match 6-3 6-7(4) 6-3 ."
+    },
+    {
+      "matchId": "RES-E70D036F1C",
+      "date": "",
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "playerId": "",
+      "playerName": "Belinda Bencic",
+      "opponentId": "",
+      "opponentName": "Elise Mertens",
+      "winnerPlayerId": "",
+      "winnerName": "Belinda Bencic",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-3 4-6 7-6(0)",
+      "sourceText": "Parsed from displayed score numbers"
     },
     {
       "matchId": "RES-0FD073191C",
@@ -300,23 +300,6 @@
       "sourceText": "Parsed from displayed score numbers"
     },
     {
-      "matchId": "RES-6BA770123A",
-      "date": "",
-      "round": "QF",
-      "roundLong": "Quarterfinals",
-      "playerId": "",
-      "playerName": "Dalibor Svrcina",
-      "opponentId": "",
-      "opponentName": "Sander Gille",
-      "winnerPlayerId": "",
-      "winnerName": "Dalibor Svrcina",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "6-7 13-3 6-3",
-      "sourceText": "Parsed from displayed score numbers"
-    },
-    {
       "matchId": "RES-7C1D667CD7",
       "date": "",
       "round": "QF",
@@ -351,6 +334,23 @@
       "sourceText": "Parsed from displayed score numbers"
     },
     {
+      "matchId": "RES-8BE2787ECC",
+      "date": "",
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "playerId": "",
+      "playerName": "Dalibor Svrcina",
+      "opponentId": "",
+      "opponentName": "Sander Gille",
+      "winnerPlayerId": "",
+      "winnerName": "Dalibor Svrcina",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-7(13) 6-3 10-3",
+      "sourceText": "Parsed from displayed score numbers"
+    },
+    {
       "matchId": "RES-B30FEDFEB8",
       "date": "",
       "round": "QF",
@@ -377,8 +377,8 @@
       "opponentId": "",
       "opponentName": "Guido Andreozzi",
       "winnerPlayerId": "",
-      "winnerName": "Hubert Hurkacz",
-      "isPlayerWinner": false,
+      "winnerName": "Jakub Paul",
+      "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "6-3 7-6(4)",

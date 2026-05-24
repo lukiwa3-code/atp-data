@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T06:02:23.692561+00:00",
+  "generatedAt": "2026-05-24T06:21:28.286990+00:00",
   "source": "https://www.atptour.com/en/scores/current/geneva/322/results",
   "tournament": {
     "id": "322",
@@ -513,8 +513,8 @@
       "opponentId": "",
       "opponentName": "Raul Brancaccio",
       "winnerPlayerId": "",
-      "winnerName": "Clement Tabur",
-      "isPlayerWinner": false,
+      "winnerName": "(8/Alt)",
+      "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "0-6 6-2 6-2",
@@ -615,8 +615,8 @@
       "opponentId": "",
       "opponentName": "Marc-Andrea Huesler",
       "winnerPlayerId": "",
-      "winnerName": "Clement Tabur",
-      "isPlayerWinner": false,
+      "winnerName": "(8/Alt)",
+      "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "6-4 6-4",

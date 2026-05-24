@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T06:02:23.692561+00:00",
+  "generatedAt": "2026-05-24T06:21:28.286990+00:00",
   "source": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/results",
   "tournament": {
     "id": "425",
@@ -717,8 +717,8 @@
       "opponentId": "",
       "opponentName": "Francesco Maestrelli",
       "winnerPlayerId": "",
-      "winnerName": "Daniel Merida",
-      "isPlayerWinner": false,
+      "winnerName": "(11/WC)",
+      "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "7-5 6-4",
