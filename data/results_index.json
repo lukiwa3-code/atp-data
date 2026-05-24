@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:01:07.124428+00:00",
+  "generatedAt": "2026-05-24T19:54:03.227177+00:00",
   "count": 30,
   "items": [
     {
@@ -8,17 +8,25 @@
       "name": "United Cup",
       "players": 23,
       "matches": 21,
+      "drawRounds": 3,
+      "drawMatches": 7,
       "matchesPath": "data/2026/9900/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results"
+      "drawPath": "data/2026/9900/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-draws"
     },
     {
       "year": "2026",
       "id": "339",
       "name": "Brisbane International presented by ANZ",
       "players": 49,
-      "matches": 48,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/339/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/results"
+      "drawPath": "data/2026/339/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/draws"
     },
     {
       "year": "2026",
@@ -26,17 +34,25 @@
       "name": "Bank of China Hong Kong Tennis Open",
       "players": 40,
       "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/336/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/results"
+      "drawPath": "data/2026/336/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/draws"
     },
     {
       "year": "2026",
       "id": "8998",
       "name": "Adelaide International",
       "players": 39,
-      "matches": 38,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/8998/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/adelaide/8998/2026/results"
+      "drawPath": "data/2026/8998/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/adelaide/8998/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/adelaide/8998/2026/draws"
     },
     {
       "year": "2026",
@@ -44,8 +60,12 @@
       "name": "ASB Classic",
       "players": 40,
       "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/301/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/auckland/301/2026/results"
+      "drawPath": "data/2026/301/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/auckland/301/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/auckland/301/2026/draws"
     },
     {
       "year": "2026",
@@ -53,8 +73,12 @@
       "name": "Australian Open",
       "players": 235,
       "matches": 217,
+      "drawRounds": 7,
+      "drawMatches": 127,
       "matchesPath": "data/2026/580/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/results"
+      "drawPath": "data/2026/580/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/draws"
     },
     {
       "year": "2026",
@@ -62,8 +86,12 @@
       "name": "Open Occitanie",
       "players": 39,
       "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/375/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/results"
+      "drawPath": "data/2026/375/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/draws"
     },
     {
       "year": "2026",
@@ -71,8 +99,12 @@
       "name": "Davis Cup Qualifiers 1st Rd",
       "players": 0,
       "matches": 0,
+      "drawRounds": 2,
+      "drawMatches": 3,
       "matchesPath": "data/2026/8096/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-results"
+      "drawPath": "data/2026/8096/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-draws"
     },
     {
       "year": "2026",
@@ -80,8 +112,12 @@
       "name": "Nexo Dallas Open",
       "players": 43,
       "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/424/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/dallas/424/2026/results"
+      "drawPath": "data/2026/424/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/dallas/424/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/dallas/424/2026/draws"
     },
     {
       "year": "2026",
@@ -89,8 +125,12 @@
       "name": "ABN AMRO Open",
       "players": 42,
       "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/407/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/rotterdam/407/2026/results"
+      "drawPath": "data/2026/407/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/rotterdam/407/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/rotterdam/407/2026/draws"
     },
     {
       "year": "2026",
@@ -98,8 +138,12 @@
       "name": "IEB+ Argentina Open",
       "players": 39,
       "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/506/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/buenos-aires/506/2026/results"
+      "drawPath": "data/2026/506/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/buenos-aires/506/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/buenos-aires/506/2026/draws"
     },
     {
       "year": "2026",
@@ -107,8 +151,12 @@
       "name": "Qatar ExxonMobil Open",
       "players": 42,
       "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/451/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/doha/451/2026/results"
+      "drawPath": "data/2026/451/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/doha/451/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/doha/451/2026/draws"
     },
     {
       "year": "2026",
@@ -116,8 +164,12 @@
       "name": "Rio Open presented by Claro",
       "players": 40,
       "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/6932/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/results"
+      "drawPath": "data/2026/6932/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/draws"
     },
     {
       "year": "2026",
@@ -125,17 +177,25 @@
       "name": "Delray Beach Open",
       "players": 39,
       "matches": 38,
+      "drawRounds": 5,
+      "drawMatches": 30,
       "matchesPath": "data/2026/499/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/results"
+      "drawPath": "data/2026/499/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/draws"
     },
     {
       "year": "2026",
       "id": "495",
       "name": "Dubai Duty Free Tennis Championships",
       "players": 41,
-      "matches": 42,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/495/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/dubai/495/2026/results"
+      "drawPath": "data/2026/495/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/dubai/495/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/dubai/495/2026/draws"
     },
     {
       "year": "2026",
@@ -143,8 +203,12 @@
       "name": "Abierto Mexicano Telcel presentado por HSBC",
       "players": 42,
       "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/807/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/acapulco/807/2026/results"
+      "drawPath": "data/2026/807/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/acapulco/807/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/acapulco/807/2026/draws"
     },
     {
       "year": "2026",
@@ -152,17 +216,25 @@
       "name": "BCI Seguros Chile Open",
       "players": 39,
       "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/8996/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/santiago/8996/2026/results"
+      "drawPath": "data/2026/8996/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/santiago/8996/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/santiago/8996/2026/draws"
     },
     {
       "year": "2026",
       "id": "404",
       "name": "BNP Paribas Open",
       "players": 131,
-      "matches": 130,
+      "matches": 131,
+      "drawRounds": 7,
+      "drawMatches": 127,
       "matchesPath": "data/2026/404/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/indian-wells/404/2026/results"
+      "drawPath": "data/2026/404/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/indian-wells/404/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/indian-wells/404/2026/draws"
     },
     {
       "year": "2026",
@@ -170,8 +242,12 @@
       "name": "Miami Open presented by Itau",
       "players": 130,
       "matches": 131,
+      "drawRounds": 7,
+      "drawMatches": 127,
       "matchesPath": "data/2026/403/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/miami/403/2026/results"
+      "drawPath": "data/2026/403/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/miami/403/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/miami/403/2026/draws"
     },
     {
       "year": "2026",
@@ -179,8 +255,12 @@
       "name": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
       "players": 40,
       "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/717/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/houston/717/2026/results"
+      "drawPath": "data/2026/717/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/houston/717/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/houston/717/2026/draws"
     },
     {
       "year": "2026",
@@ -188,8 +268,12 @@
       "name": "Grand Prix Hassan II",
       "players": 40,
       "matches": 38,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/360/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/marrakech/360/2026/results"
+      "drawPath": "data/2026/360/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/marrakech/360/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/marrakech/360/2026/draws"
     },
     {
       "year": "2026",
@@ -197,8 +281,12 @@
       "name": "Tiriac Open presented by UniCredit Bank",
       "players": 40,
       "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/4462/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/bucharest/4462/2026/results"
+      "drawPath": "data/2026/4462/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/bucharest/4462/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/bucharest/4462/2026/draws"
     },
     {
       "year": "2026",
@@ -206,8 +294,12 @@
       "name": "Rolex Monte-Carlo Masters",
       "players": 73,
       "matches": 76,
+      "drawRounds": 6,
+      "drawMatches": 63,
       "matchesPath": "data/2026/410/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2026/results"
+      "drawPath": "data/2026/410/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2026/draws"
     },
     {
       "year": "2026",
@@ -215,8 +307,12 @@
       "name": "Barcelona Open Banc Sabadell",
       "players": 49,
       "matches": 48,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/425/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/results"
+      "drawPath": "data/2026/425/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/draws"
     },
     {
       "year": "2026",
@@ -224,26 +320,38 @@
       "name": "BMW Open by Bitpanda",
       "players": 41,
       "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/308/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/munich/308/2026/results"
+      "drawPath": "data/2026/308/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/munich/308/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/munich/308/2026/draws"
     },
     {
       "year": "2026",
       "id": "1536",
       "name": "Mutua Madrid Open",
       "players": 129,
-      "matches": 130,
+      "matches": 131,
+      "drawRounds": 7,
+      "drawMatches": 127,
       "matchesPath": "data/2026/1536/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/madrid/1536/2026/results"
+      "drawPath": "data/2026/1536/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/madrid/1536/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/madrid/1536/2026/draws"
     },
     {
       "year": "2026",
       "id": "416",
       "name": "Internazionali BNL d'Italia",
       "players": 130,
-      "matches": 129,
+      "matches": 131,
+      "drawRounds": 7,
+      "drawMatches": 127,
       "matchesPath": "data/2026/416/matches.json",
-      "source": "https://www.atptour.com/en/scores/archive/rome/416/2026/results"
+      "drawPath": "data/2026/416/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/rome/416/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/rome/416/2026/draws"
     },
     {
       "year": "2026",
@@ -251,8 +359,12 @@
       "name": "Bitpanda Hamburg Open",
       "players": 41,
       "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/414/matches.json",
-      "source": "https://www.atptour.com/en/scores/current/hamburg/414/results"
+      "drawPath": "data/2026/414/draw.json",
+      "source": "https://www.atptour.com/en/scores/current/hamburg/414/results",
+      "drawSource": "https://www.atptour.com/en/scores/current/hamburg/414/draws"
     },
     {
       "year": "2026",
@@ -260,17 +372,25 @@
       "name": "Gonet Geneva Open",
       "players": 39,
       "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "matchesPath": "data/2026/322/matches.json",
-      "source": "https://www.atptour.com/en/scores/current/geneva/322/results"
+      "drawPath": "data/2026/322/draw.json",
+      "source": "https://www.atptour.com/en/scores/current/geneva/322/results",
+      "drawSource": "https://www.atptour.com/en/scores/current/geneva/322/draws"
     },
     {
       "year": "2026",
       "id": "520",
       "name": "Roland Garros",
-      "players": 152,
-      "matches": 109,
+      "players": 154,
+      "matches": 110,
+      "drawRounds": 7,
+      "drawMatches": 127,
       "matchesPath": "data/2026/520/matches.json",
-      "source": "https://www.atptour.com/en/scores/current/roland-garros/520/results"
+      "drawPath": "data/2026/520/draw.json",
+      "source": "https://www.atptour.com/en/scores/current/roland-garros/520/results",
+      "drawSource": "https://www.atptour.com/en/scores/current/roland-garros/520/draws"
     }
   ]
 }
