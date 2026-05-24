@@ -330,7 +330,7 @@ def is_score_token(line: str) -> bool:
     line = normalize_space(line)
     if not line or ":" in line:
         return False
-    # ATP potrafi pokazać tie-break jako "6 8" albo samą cyfrę seta.
+    # ATP potrafi pokazać tie-break jako osobny token albo jako "6 8".
     return bool(re.fullmatch(r"\d+(?:\s+\d+)?|RET|W/O|DEF", line))
 
 
@@ -342,34 +342,68 @@ def score_main_number(token: str) -> Optional[int]:
     return int(match.group(1))
 
 
+def score_extra_number(token: str) -> Optional[str]:
+    parts = normalize_space(token).split()
+    if len(parts) > 1 and re.fullmatch(r"\d+", parts[1]):
+        return parts[1]
+    return None
+
+
+def is_plain_digit_token(token: str) -> bool:
+    return bool(re.fullmatch(r"\d+", normalize_space(token)))
+
+
 def make_score_from_displayed_numbers(p1_scores: List[str], p2_scores: List[str]) -> str:
+    """Buduje wynik z liczb pokazanych w karcie ATP.
+
+    Ważny szczegół: ATP czasem pokazuje tie-break jako osobny mały tekst.
+    BeautifulSoup potrafi wtedy zwrócić np.:
+      p1: ["7", "4", "6"]
+      p2: ["6", "6", "6", "3"]
+    gdzie drugie "6" u p2 to tie-break z pierwszego seta.
+    Ta funkcja próbuje go dokleić do właściwego seta: 7-6(6) 4-6 6-3.
+    """
     sets: List[str] = []
-    max_len = min(len(p1_scores), len(p2_scores))
+    i = 0
+    j = 0
 
-    for idx in range(max_len):
-        p1 = normalize_space(p1_scores[idx])
-        p2 = normalize_space(p2_scores[idx])
+    while i < len(p1_scores) and j < len(p2_scores):
+        p1_token = normalize_space(p1_scores[i])
+        p2_token = normalize_space(p2_scores[j])
 
-        p1_parts = p1.split()
-        p2_parts = p2.split()
+        n1 = score_main_number(p1_token)
+        n2 = score_main_number(p2_token)
+        if n1 is None or n2 is None:
+            i += 1
+            j += 1
+            continue
 
-        p1_main = p1_parts[0] if p1_parts else p1
-        p2_main = p2_parts[0] if p2_parts else p2
+        tie = score_extra_number(p1_token) or score_extra_number(p2_token)
 
-        set_text = f"{p1_main}-{p2_main}"
+        # Lookahead: tie-break może być osobnym tokenem po stronie przegranego seta.
+        if tie is None:
+            remaining_p1 = len(p1_scores) - i
+            remaining_p2 = len(p2_scores) - j
 
-        # Jeśli jedna ze stron ma dodatkową liczbę, traktujemy ją jak tie-break.
-        # Przykład z ATP: 7 / 6 8 -> 7-6(8)
-        tie = None
-        if len(p1_parts) > 1:
-            tie = p1_parts[1]
-        elif len(p2_parts) > 1:
-            tie = p2_parts[1]
+            if n1 == 7 and n2 == 6 and j + 1 < len(p2_scores):
+                next_loser_token = normalize_space(p2_scores[j + 1])
+                if is_plain_digit_token(next_loser_token) and remaining_p2 > remaining_p1:
+                    tie = next_loser_token
+                    j += 1
 
+            elif n2 == 7 and n1 == 6 and i + 1 < len(p1_scores):
+                next_loser_token = normalize_space(p1_scores[i + 1])
+                if is_plain_digit_token(next_loser_token) and remaining_p1 > remaining_p2:
+                    tie = next_loser_token
+                    i += 1
+
+        set_text = f"{n1}-{n2}"
         if tie:
             set_text += f"({tie})"
-
         sets.append(set_text)
+
+        i += 1
+        j += 1
 
     return " ".join(sets)
 
@@ -378,21 +412,21 @@ def winner_from_displayed_scores(player1: str, player2: str, p1_scores: List[str
     p1_sets = 0
     p2_sets = 0
 
-    for p1, p2 in zip(p1_scores, p2_scores):
-        n1 = score_main_number(p1)
-        n2 = score_main_number(p2)
-        if n1 is None or n2 is None:
+    score_text = make_score_from_displayed_numbers(p1_scores, p2_scores)
+    for one_set in score_text.split():
+        match = re.match(r"(\d+)-(\d+)", one_set)
+        if not match:
             continue
+        n1 = int(match.group(1))
+        n2 = int(match.group(2))
         if n1 > n2:
             p1_sets += 1
         elif n2 > n1:
             p2_sets += 1
 
-    # W widoku ATP zwycięzca często jest pierwszym zawodnikiem w karcie.
     if p1_sets >= p2_sets:
         return player1
     return player2
-
 
 def parse_match_block(block: List[str], current_date: str, event_id: str) -> Optional[Dict[str, Any]]:
     if not block:
@@ -408,10 +442,6 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
             game_line = line
             break
 
-    # Zamiast brać ślepo pierwsze dwie "nazwy", szukamy pary zawodników,
-    # po której realnie występują liczby wyników. To naprawia finały,
-    # gdzie ATP dodaje po drodze teksty typu "Centre Court", komunikaty live,
-    # obrazki albo notatki punktowe.
     entries: List[Dict[str, Any]] = []
     current_entry: Optional[Dict[str, Any]] = None
 
@@ -427,9 +457,7 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
         if line in {"H2H", "Stats"}:
             continue
 
-        # Bardzo ważne: liczby wyników trzeba złapać PRZED is_noise_line().
-        # is_noise_line() celowo traktuje same cyfry jako szum, ale tutaj
-        # te same cyfry są setami przypisanymi do aktualnego zawodnika.
+        # Najpierw łapiemy liczby, bo is_noise_line traktuje same cyfry jako szum.
         if current_entry and is_score_token(line):
             current_entry["scores"].append(line)
             continue
@@ -443,7 +471,6 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
             entries.append(current_entry)
             continue
 
-    # Zostaw tylko wpisy, które wyglądają jak zawodnik oraz mają wynik.
     scored_entries = [
         entry for entry in entries
         if entry.get("name") and len(entry.get("scores", [])) > 0
@@ -452,23 +479,42 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
     if len(scored_entries) < 2:
         return None
 
-    # Najczęściej pierwszy komplet z wynikami to dokładnie para z meczu.
-    player1 = scored_entries[0]["name"]
-    player2 = scored_entries[1]["name"]
-    p1_scores = scored_entries[0]["scores"]
-    p2_scores = scored_entries[1]["scores"]
+    raw_player1 = scored_entries[0]["name"]
+    raw_player2 = scored_entries[1]["name"]
+    raw_p1_scores = scored_entries[0]["scores"]
+    raw_p2_scores = scored_entries[1]["scores"]
 
     if game_line:
         winner, score, raw_source = parse_score_from_game_set(game_line)
         if not winner:
-            winner = winner_from_displayed_scores(player1, player2, p1_scores, p2_scores)
+            winner = winner_from_displayed_scores(raw_player1, raw_player2, raw_p1_scores, raw_p2_scores)
         if not score:
-            score = make_score_from_displayed_numbers(p1_scores, p2_scores)
+            if winner == raw_player2:
+                score = make_score_from_displayed_numbers(raw_p2_scores, raw_p1_scores)
+            else:
+                score = make_score_from_displayed_numbers(raw_p1_scores, raw_p2_scores)
         if not raw_source:
             raw_source = game_line
+
+        if winner == raw_player2:
+            player1 = raw_player2
+            player2 = raw_player1
+        else:
+            player1 = raw_player1
+            player2 = raw_player2
+
     else:
-        score = make_score_from_displayed_numbers(p1_scores, p2_scores)
-        winner = winner_from_displayed_scores(player1, player2, p1_scores, p2_scores)
+        winner = winner_from_displayed_scores(raw_player1, raw_player2, raw_p1_scores, raw_p2_scores)
+
+        if winner == raw_player2:
+            player1 = raw_player2
+            player2 = raw_player1
+            score = make_score_from_displayed_numbers(raw_p2_scores, raw_p1_scores)
+        else:
+            player1 = raw_player1
+            player2 = raw_player2
+            score = make_score_from_displayed_numbers(raw_p1_scores, raw_p2_scores)
+
         raw_source = "Parsed from displayed score numbers"
 
     if not score:
@@ -484,8 +530,8 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
         "opponentId": "",
         "opponentName": player2,
         "winnerPlayerId": "",
-        "winnerName": winner,
-        "isPlayerWinner": winner == player1,
+        "winnerName": player1,
+        "isPlayerWinner": True,
         "matchState": "F",
         "reason": None,
         "formattedScore": score,

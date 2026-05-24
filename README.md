@@ -1,8 +1,12 @@
-# ATP data updater v8
+# ATP data updater v9
 
-Naprawa po v7:
-- liczby wyników są teraz przypisywane do zawodnika przed filtrowaniem `is_noise_line`,
-- v7 traktował same cyfry jako szum i dlatego potrafił wygenerować `count: 0`,
-- dodany bezpiecznik: jeśli nowy parser zwróci 0 meczów, a w repo był wcześniej dobry `matches.json`, skrypt zachowa stary plik zamiast go wyzerować.
+Poprawka tie-breaków i kolejności zawodników:
+
+- wynik jest teraz zawsze w perspektywie zwycięzcy,
+- zwycięzca jest zawsze zapisywany jako `playerName`,
+- przegrany jako `opponentName`,
+- parser lepiej obsługuje tie-breaki, gdy ATP rozbija wynik na osobne tokeny,
+  np. `7`, `6`, `6` -> `7-6(6)`,
+- zapobiega dziwnym wynikom setów w aplikacji.
 
 Po podmianie uruchom workflow `Update ATP Data` w repo `atp-data`.
