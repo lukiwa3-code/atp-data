@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T21:02:29.148518+00:00",
+  "generatedAt": "2026-05-24T06:02:23.692561+00:00",
   "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results",
   "tournament": {
     "id": "9900",
@@ -25,6 +25,99 @@
     "prizeMoney": "$5,903,345",
     "totalFinancialCommitment": "$5,903,345"
   },
-  "count": 0,
-  "players": []
+  "count": 23,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex de Minaur"
+    },
+    {
+      "id": "",
+      "name": "Barbora Krejcikova"
+    },
+    {
+      "id": "",
+      "name": "Belinda Bencic"
+    },
+    {
+      "id": "",
+      "name": "Christian Harrison"
+    },
+    {
+      "id": "",
+      "name": "Coco Gauff"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Elise Mertens"
+    },
+    {
+      "id": "",
+      "name": "Guido Andreozzi"
+    },
+    {
+      "id": "",
+      "name": "Hubert Hurkacz"
+    },
+    {
+      "id": "",
+      "name": "Iga Swiatek"
+    },
+    {
+      "id": "",
+      "name": "Jakub Mensik"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jan Zielinski"
+    },
+    {
+      "id": "",
+      "name": "John-Patrick Smith"
+    },
+    {
+      "id": "",
+      "name": "Maria Sakkari"
+    },
+    {
+      "id": "",
+      "name": "Maya Joint"
+    },
+    {
+      "id": "",
+      "name": "Sander Gille"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Solana Sierra"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
 }
