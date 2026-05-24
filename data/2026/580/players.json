@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T15:49:10.792606+00:00",
+  "generatedAt": "2026-05-24T19:01:07.124428+00:00",
   "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/results",
   "tournament": {
     "id": "580",
@@ -25,7 +25,7 @@
     "prizeMoney": "A$49,171,000",
     "totalFinancialCommitment": "A$49,171,000"
   },
-  "count": 237,
+  "count": 235,
   "players": [
     {
       "id": "",
@@ -57,6 +57,10 @@
     },
     {
       "id": "",
+      "name": "Aleksandr Shevchenko"
+    },
+    {
+      "id": "",
       "name": "Alex Barrena"
     },
     {
@@ -82,10 +86,6 @@
     {
       "id": "",
       "name": "Alexander Bublik"
-    },
-    {
-      "id": "",
-      "name": "Alexander Shevchenko"
     },
     {
       "id": "",
@@ -246,10 +246,6 @@
     {
       "id": "",
       "name": "Daniel Altmaier"
-    },
-    {
-      "id": "",
-      "name": "Daniel Elahi Galan"
     },
     {
       "id": "",
@@ -778,10 +774,6 @@
     {
       "id": "",
       "name": "Rafael Jodar"
-    },
-    {
-      "id": "",
-      "name": "Raphael Collignon"
     },
     {
       "id": "",

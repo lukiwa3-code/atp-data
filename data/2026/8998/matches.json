@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T15:49:10.792606+00:00",
+  "generatedAt": "2026-05-24T19:01:07.124428+00:00",
   "source": "https://www.atptour.com/en/scores/archive/adelaide/8998/2026/results",
   "tournament": {
     "id": "8998",
@@ -113,6 +113,23 @@
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 6-3 6-2 ."
     },
     {
+      "matchId": "RES-7647E025B4",
+      "date": "Fri, 16 January, 2026",
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "playerId": "",
+      "playerName": "Ugo Humbert",
+      "opponentId": "",
+      "opponentName": "Alexander Shevchenko",
+      "winnerPlayerId": "",
+      "winnerName": "Ugo Humbert",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-0 6-3",
+      "sourceText": "Game Set and Match Ugo Humbert. Ugo Humbert wins the match 6-0 6-3 ."
+    },
+    {
       "matchId": "RES-9F130B02FA",
       "date": "Fri, 16 January, 2026",
       "round": "QF",
@@ -128,40 +145,6 @@
       "reason": null,
       "formattedScore": "7-6(4) 6-2",
       "sourceText": "Game Set and Match Alejandro Davidovich Fokina. Alejandro Davidovich Fokina wins the match 7-6(4) 6-2 ."
-    },
-    {
-      "matchId": "RES-FD1742123D",
-      "date": "Fri, 16 January, 2026",
-      "round": "QF",
-      "roundLong": "Quarterfinals",
-      "playerId": "",
-      "playerName": "Ugo Humbert",
-      "opponentId": "",
-      "opponentName": "Aleksandr Shevchenko",
-      "winnerPlayerId": "",
-      "winnerName": "Ugo Humbert",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "6-0 6-3",
-      "sourceText": "Game Set and Match Ugo Humbert. Ugo Humbert wins the match 6-0 6-3 ."
-    },
-    {
-      "matchId": "RES-1AF9E03BDA",
-      "date": "Thu, 15 January, 2026",
-      "round": "R16",
-      "roundLong": "Round of 16",
-      "playerId": "",
-      "playerName": "Aleksandr Shevchenko",
-      "opponentId": "",
-      "opponentName": "Marton Fucsovics",
-      "winnerPlayerId": "",
-      "winnerName": "Aleksandr Shevchenko",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "6-3 7-6(6)",
-      "sourceText": "Game Set and Match Aleksandr Shevchenko. Aleksandr Shevchenko wins the match 6-3 7-6(6)."
     },
     {
       "matchId": "RES-298EA925CD",
@@ -247,6 +230,23 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Alejandro Davidovich Fokina. Alejandro Davidovich Fokina wins the match 6-3 6-2 ."
+    },
+    {
+      "matchId": "RES-B0F438181A",
+      "date": "Thu, 15 January, 2026",
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "playerId": "",
+      "playerName": "Alexander Shevchenko",
+      "opponentId": "",
+      "opponentName": "Marton Fucsovics",
+      "winnerPlayerId": "",
+      "winnerName": "Alexander Shevchenko",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-3 7-6(6)",
+      "sourceText": "Game Set and Match Alexander Shevchenko. Alexander Shevchenko wins the match 6-3 7-6(6)."
     },
     {
       "matchId": "RES-E6EF616651",
@@ -351,21 +351,21 @@
       "sourceText": "Game Set and Match Jaume Munar. Jaume Munar wins the match 6-3 6-0 ."
     },
     {
-      "matchId": "RES-46DF9B958D",
+      "matchId": "RES-0D43B99C62",
       "date": "Wed, 14 January, 2026",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
-      "playerName": "Aleksandr Shevchenko",
+      "playerName": "Alexander Shevchenko",
       "opponentId": "",
       "opponentName": "Damir Dzumhur",
       "winnerPlayerId": "",
-      "winnerName": "Aleksandr Shevchenko",
+      "winnerName": "Alexander Shevchenko",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "4-6 6-4 7-5",
-      "sourceText": "Game Set and Match Aleksandr Shevchenko. Aleksandr Shevchenko wins the match 4-6 6-4 7-5 ."
+      "sourceText": "Game Set and Match Alexander Shevchenko. Alexander Shevchenko wins the match 4-6 6-4 7-5 ."
     },
     {
       "matchId": "RES-807CB93922",
@@ -470,23 +470,6 @@
       "sourceText": "Game Set and Match Marton Fucsovics. Marton Fucsovics wins the match 6-4 6-4 ."
     },
     {
-      "matchId": "RES-094731DD6A",
-      "date": "Tue, 13 January, 2026",
-      "round": "Q2",
-      "roundLong": "2nd Round Qualifying",
-      "playerId": "",
-      "playerName": "Aleksandr Shevchenko",
-      "opponentId": "",
-      "opponentName": "Filip Misolic",
-      "winnerPlayerId": "",
-      "winnerName": "Aleksandr Shevchenko",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "7-5 6-3",
-      "sourceText": "Game Set and Match Aleksandr Shevchenko. Aleksandr Shevchenko wins the match 7-5 6-3 ."
-    },
-    {
       "matchId": "RES-2BD2EDBB07",
       "date": "Tue, 13 January, 2026",
       "round": "Q2",
@@ -502,6 +485,23 @@
       "reason": null,
       "formattedScore": "6-4 6-7(7) 6-3",
       "sourceText": "Game Set and Match Aleksandar Vukic. Aleksandar Vukic wins the match 6-4 6-7(7) 6-3 ."
+    },
+    {
+      "matchId": "RES-363CEAE4C4",
+      "date": "Tue, 13 January, 2026",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "playerId": "",
+      "playerName": "Alexander Shevchenko",
+      "opponentId": "",
+      "opponentName": "Filip Misolic",
+      "winnerPlayerId": "",
+      "winnerName": "Alexander Shevchenko",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "7-5 6-3",
+      "sourceText": "Game Set and Match Alexander Shevchenko. Alexander Shevchenko wins the match 7-5 6-3 ."
     },
     {
       "matchId": "RES-4FAC5014B8",
@@ -553,23 +553,6 @@
       "reason": null,
       "formattedScore": "7-6(4) 7-6(4)",
       "sourceText": "Game Set and Match Jacob Fearnley. Jacob Fearnley wins the match 7-6(4) 7-6(4)."
-    },
-    {
-      "matchId": "RES-25A8875C81",
-      "date": "Mon, 12 January, 2026",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "playerId": "",
-      "playerName": "Aleksandr Shevchenko",
-      "opponentId": "",
-      "opponentName": "Carlos Taberner",
-      "winnerPlayerId": "",
-      "winnerName": "Aleksandr Shevchenko",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "6-3 6-2",
-      "sourceText": "Game Set and Match Aleksandr Shevchenko. Aleksandr Shevchenko wins the match 6-3 6-2 ."
     },
     {
       "matchId": "RES-44386DEE7A",
@@ -672,6 +655,23 @@
       "reason": null,
       "formattedScore": "6-7(4) 6-3 6-2",
       "sourceText": "Game Set and Match Aleksandar Vukic. Aleksandar Vukic wins the match 6-7(4) 6-3 6-2 ."
+    },
+    {
+      "matchId": "RES-EF417AB32F",
+      "date": "Mon, 12 January, 2026",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "playerId": "",
+      "playerName": "Alexander Shevchenko",
+      "opponentId": "",
+      "opponentName": "Carlos Taberner",
+      "winnerPlayerId": "",
+      "winnerName": "Alexander Shevchenko",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-3 6-2",
+      "sourceText": "Game Set and Match Alexander Shevchenko. Alexander Shevchenko wins the match 6-3 6-2 ."
     }
   ]
 }
