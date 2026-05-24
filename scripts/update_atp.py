@@ -65,6 +65,37 @@ def save_json(path: Path, data: Any) -> None:
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def load_existing_json(path: Path) -> Optional[Any]:
+    try:
+        if not path.exists():
+            return None
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return None
+
+
+def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
+    """Nie kasuj dobrych danych, jeśli świeży parser zwróci 0 meczów.
+
+    To jest bezpiecznik na wypadek, gdy ATP zmieni HTML albo parser trafi
+    na chwilowo pustą/dziwną odpowiedź.
+    """
+    new_count = int(new_payload.get("count") or 0)
+    old_payload = load_existing_json(path)
+    old_count = 0
+    if isinstance(old_payload, dict):
+        old_count = int(old_payload.get("count") or 0)
+
+    if new_count == 0 and old_count > 0:
+        old_payload["preservedBecauseNewParseWasEmpty"] = True
+        old_payload["lastFailedUpdateAt"] = new_payload.get("generatedAt")
+        save_json(path, old_payload)
+        return old_payload
+
+    save_json(path, new_payload)
+    return new_payload
+
+
 def fetch_text(url: str, referer: Optional[str] = None) -> str:
     headers = dict(HEADERS)
     if referer:
@@ -395,6 +426,14 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
             break
         if line in {"H2H", "Stats"}:
             continue
+
+        # Bardzo ważne: liczby wyników trzeba złapać PRZED is_noise_line().
+        # is_noise_line() celowo traktuje same cyfry jako szum, ale tutaj
+        # te same cyfry są setami przypisanymi do aktualnego zawodnika.
+        if current_entry and is_score_token(line):
+            current_entry["scores"].append(line)
+            continue
+
         if is_noise_line(line):
             continue
 
@@ -403,9 +442,6 @@ def parse_match_block(block: List[str], current_date: str, event_id: str) -> Opt
             current_entry = {"name": name, "scores": []}
             entries.append(current_entry)
             continue
-
-        if current_entry and is_score_token(line):
-            current_entry["scores"].append(line)
 
     # Zostaw tylko wpisy, które wyglądają jak zawodnik oraz mają wynik.
     scored_entries = [
@@ -640,16 +676,15 @@ def main() -> None:
                 "players": players,
             },
         )
-        save_json(
-            folder / "matches.json",
-            {
-                "generatedAt": generated_at,
-                "source": source_url,
-                "tournament": tournament,
-                "count": len(matches),
-                "matches": matches,
-            },
-        )
+        matches_payload = {
+            "generatedAt": generated_at,
+            "source": source_url,
+            "tournament": tournament,
+            "count": len(matches),
+            "matches": matches,
+        }
+        saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
+        saved_matches_count = int(saved_matches_payload.get("count") or 0)
 
         index_items.append(
             {
@@ -657,7 +692,7 @@ def main() -> None:
                 "id": event_id,
                 "name": name,
                 "players": len(players),
-                "matches": len(matches),
+                "matches": saved_matches_count,
                 "matchesPath": f"data/{year}/{event_id}/matches.json",
                 "source": source_url,
             }

@@ -1,9 +1,8 @@
-# ATP data updater v7
+# ATP data updater v8
 
-Zmiana względem v6:
-- parser nie bierze już ślepo pierwszych dwóch tekstów wyglądających jak nazwy,
-- wybiera pierwszą parę zawodników, przy której faktycznie występują liczby wyników,
-- filtruje teksty typu `player-photo`, `wins the point`, `match point`, `serve` itd.,
-- powinno to naprawić brak finału Hamburga: Ignacio Buse vs Tommy Paul.
+Naprawa po v7:
+- liczby wyników są teraz przypisywane do zawodnika przed filtrowaniem `is_noise_line`,
+- v7 traktował same cyfry jako szum i dlatego potrafił wygenerować `count: 0`,
+- dodany bezpiecznik: jeśli nowy parser zwróci 0 meczów, a w repo był wcześniej dobry `matches.json`, skrypt zachowa stary plik zamiast go wyzerować.
 
 Po podmianie uruchom workflow `Update ATP Data` w repo `atp-data`.
