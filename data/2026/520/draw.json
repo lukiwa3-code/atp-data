@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T19:54:03.227177+00:00",
+  "generatedAt": "2026-05-24T21:14:50.666801+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -996,10 +996,10 @@
           "bracketOrder": 24,
           "round": "R64",
           "roundLong": "Round of 64",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "V. Royer",
+          "player1FullName": "Valentin Royer",
+          "player1Id": "R0EB",
+          "player1Country": "FRA",
           "player1ScoreTokens": [],
           "player2": "TBA",
           "player2FullName": "TBA",
@@ -2001,14 +2001,22 @@
           "player1FullName": "Hugo Dellien",
           "player1Id": "DA31",
           "player1Country": "BOL",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "2",
+            "2"
+          ],
           "player2": "V. Royer",
           "player2FullName": "Valentin Royer",
           "player2Id": "R0EB",
           "player2Country": "FRA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6",
+            "6"
+          ],
+          "winnerName": "Valentin Royer",
+          "formattedScore": "6-4 6-2 6-2"
         },
         {
           "bracketOrder": 48,
