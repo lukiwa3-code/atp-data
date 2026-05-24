@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T06:21:28.286990+00:00",
+  "generatedAt": "2026-05-24T09:10:56.698163+00:00",
   "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/results",
   "tournament": {
     "id": "580",
@@ -980,6 +980,23 @@
       "sourceText": "Parsed from displayed score numbers"
     },
     {
+      "matchId": "RES-5E27ED27DC",
+      "date": "Wed, 21 January, 2026",
+      "round": "R64",
+      "roundLong": "Round of 64",
+      "playerId": "",
+      "playerName": "Learner Tien",
+      "opponentId": "",
+      "opponentName": "Alexander Shevchenko",
+      "winnerPlayerId": "",
+      "winnerName": "Learner Tien",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-2 5-7 6-1 6-0",
+      "sourceText": "Parsed from displayed score numbers"
+    },
+    {
       "matchId": "RES-6434B3B0DE",
       "date": "Wed, 21 January, 2026",
       "round": "R64",
@@ -1011,23 +1028,6 @@
       "matchState": "F",
       "reason": null,
       "formattedScore": "3-6 6-1 6-3 2-0",
-      "sourceText": "Parsed from displayed score numbers"
-    },
-    {
-      "matchId": "RES-BEC888DE6B",
-      "date": "Wed, 21 January, 2026",
-      "round": "R64",
-      "roundLong": "Round of 64",
-      "playerId": "",
-      "playerName": "Learner Tien",
-      "opponentId": "",
-      "opponentName": "Aleksandr Shevchenko",
-      "winnerPlayerId": "",
-      "winnerName": "Learner Tien",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "6-2 5-7 6-1 6-0",
       "sourceText": "Parsed from displayed score numbers"
     },
     {
@@ -1303,6 +1303,23 @@
       "sourceText": "Parsed from displayed score numbers"
     },
     {
+      "matchId": "RES-56795A8EEF",
+      "date": "Mon, 19 January, 2026",
+      "round": "R128",
+      "roundLong": "Round of 128",
+      "playerId": "",
+      "playerName": "Alexander Shevchenko",
+      "opponentId": "",
+      "opponentName": "Elias Ymer",
+      "winnerPlayerId": "",
+      "winnerName": "Alexander Shevchenko",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "3-6 7-5 6-4 6-1",
+      "sourceText": "Parsed from displayed score numbers"
+    },
+    {
       "matchId": "RES-5DB776B356",
       "date": "Mon, 19 January, 2026",
       "round": "R128",
@@ -1334,23 +1351,6 @@
       "matchState": "F",
       "reason": null,
       "formattedScore": "7-5 7-6(1) 7-5",
-      "sourceText": "Parsed from displayed score numbers"
-    },
-    {
-      "matchId": "RES-79C2544DDC",
-      "date": "Mon, 19 January, 2026",
-      "round": "R128",
-      "roundLong": "Round of 128",
-      "playerId": "",
-      "playerName": "Aleksandr Shevchenko",
-      "opponentId": "",
-      "opponentName": "Elias Ymer",
-      "winnerPlayerId": "",
-      "winnerName": "Aleksandr Shevchenko",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "3-6 7-5 6-4 6-1",
       "sourceText": "Parsed from displayed score numbers"
     },
     {
