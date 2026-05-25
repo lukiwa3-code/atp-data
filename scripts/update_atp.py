@@ -4,7 +4,7 @@ import re
 import time
 import unicodedata
 import hashlib
-from datetime import datetime, timezone
+from datetime import datetime, timezone, date
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -153,12 +153,104 @@ def extract_year_from_text(text: Optional[str]) -> Optional[str]:
     return match.group(1) if match else None
 
 
+
+MONTHS = {
+    "january": 1,
+    "february": 2,
+    "march": 3,
+    "april": 4,
+    "may": 5,
+    "june": 6,
+    "july": 7,
+    "august": 8,
+    "september": 9,
+    "october": 10,
+    "november": 11,
+    "december": 12,
+}
+
+
+def parse_date_part(part: str, default_year: Optional[int], default_month: Optional[int]) -> Optional[date]:
+    value = normalize_space(part.replace(",", " "))
+    if not value:
+        return None
+
+    year_match = re.search(r"(20\d{2})", value)
+    year_value = int(year_match.group(1)) if year_match else default_year
+
+    month_value = default_month
+    for month_name, month_number in MONTHS.items():
+        if re.search(rf"\b{month_name}\b", value, flags=re.IGNORECASE):
+            month_value = month_number
+            break
+
+    numbers = [int(x) for x in re.findall(r"\b\d{1,4}\b", value)]
+    day_value = None
+    for number in numbers:
+        if number != year_value and 1 <= number <= 31:
+            day_value = number
+            break
+
+    if not year_value or not month_value or not day_value:
+        return None
+
+    try:
+        return date(year_value, month_value, day_value)
+    except ValueError:
+        return None
+
+
+def parse_tournament_date_range(date_text: Optional[str], year_text: Optional[str]) -> Tuple[Optional[date], Optional[date]]:
+    if not date_text:
+        return None, None
+
+    normalized = normalize_space(str(date_text).replace("–", "-").replace("—", "-"))
+    parts = [part.strip() for part in normalized.split("-") if part.strip()]
+
+    default_year = None
+    if year_text and str(year_text).isdigit():
+        default_year = int(str(year_text))
+
+    if len(parts) == 1:
+        single = parse_date_part(parts[0], default_year, None)
+        return single, single
+
+    if len(parts) < 2:
+        return None, None
+
+    left = parts[0]
+    right = parts[-1]
+
+    end_date = parse_date_part(right, default_year, None)
+
+    fallback_year = end_date.year if end_date else default_year
+    fallback_month = end_date.month if end_date else None
+    start_date = parse_date_part(left, fallback_year, fallback_month)
+
+    # Jeśli start ma miesiąc po dacie końca przy tym samym roku, to znaczy,
+    # że turniej mógł przechodzić przez zmianę roku. ATP rzadko tak robi,
+    # ale zostawiamy bez agresywnego zgadywania.
+    return start_date, end_date
+
+
+def computed_status_from_dates(start_date: Optional[date], end_date: Optional[date], today: date) -> Tuple[Optional[bool], Optional[bool], Optional[bool]]:
+    if not start_date or not end_date:
+        return None, None, None
+
+    is_current = start_date <= today <= end_date
+    is_past = end_date < today
+    is_upcoming = start_date > today
+
+    return is_current, is_past, is_upcoming
+
+
 def fetch_calendar() -> Dict[str, Any]:
     return fetch_json(ATP_CALENDAR_URL)
 
 
 def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
     flat: List[Dict[str, Any]] = []
+    today = datetime.now(timezone.utc).date()
 
     for month in calendar.get("TournamentDates", []):
         display_month = month.get("DisplayDate")
@@ -179,6 +271,16 @@ def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
                 or extract_year_from_text(display_month)
             )
 
+            date_start, date_end = parse_tournament_date_range(tournament.get("FormattedDate"), year)
+            computed_is_current, computed_is_past, computed_is_upcoming = computed_status_from_dates(date_start, date_end, today)
+
+            atp_is_live = tournament.get("IsLive")
+            atp_is_past = tournament.get("IsPastEvent")
+
+            is_live = computed_is_current if computed_is_current is not None else atp_is_live
+            is_past = computed_is_past if computed_is_past is not None else atp_is_past
+            is_upcoming = computed_is_upcoming if computed_is_upcoming is not None else (not bool(atp_is_live) and not bool(atp_is_past))
+
             flat.append(
                 {
                     "id": str(tournament.get("Id") or ""),
@@ -187,8 +289,16 @@ def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
                     "location": tournament.get("Location"),
                     "date": tournament.get("FormattedDate"),
                     "month": display_month,
-                    "isLive": tournament.get("IsLive"),
-                    "isPastEvent": tournament.get("IsPastEvent"),
+                    "dateStart": date_start.isoformat() if date_start else None,
+                    "dateEnd": date_end.isoformat() if date_end else None,
+                    "isLive": is_live,
+                    "isPastEvent": is_past,
+                    "isUpcoming": is_upcoming,
+                    "computedIsCurrent": computed_is_current,
+                    "computedIsPastEvent": computed_is_past,
+                    "computedIsUpcoming": computed_is_upcoming,
+                    "atpIsLive": atp_is_live,
+                    "atpIsPastEvent": atp_is_past,
                     "type": tournament.get("Type"),
                     "eventType": tournament.get("EventType"),
                     "surface": tournament.get("Surface"),

@@ -1,9 +1,14 @@
-# ATP data updater v13
+# ATP data updater v14
 
-Nowość:
-- generuje `draw.json` z zakładki Draws ATP,
-- `draw.json` zawiera prawdziwą kolejność drabinki ATP: `bracketOrder`,
-- `matches.json` nadal zawiera wyniki z zakładki Results,
-- aplikacja może teraz wyświetlać rundy według drabinki, również dla turnieju, który jeszcze trwa.
+Naprawy:
+- status turnieju nie bazuje już tylko na polach ATP `IsLive` i `IsPastEvent`,
+- skrypt parsuje datę turnieju i dodaje:
+  - dateStart
+  - dateEnd
+  - computedIsCurrent
+  - computedIsPastEvent
+  - computedIsUpcoming
+- Hamburg i Geneva po zakończeniu dat powinny przejść do `Zakończone`,
+- French Open zostanie w `Teraz`, jeśli dzisiejsza data mieści się między startem i końcem turnieju.
 
 Po podmianie uruchom workflow `Update ATP Data` w repo `atp-data`.
