@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T21:14:50.666801+00:00",
+  "generatedAt": "2026-05-25T12:51:38.411061+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -639,15 +639,15 @@
           "bracketOrder": 3,
           "round": "R64",
           "roundLong": "Round of 64",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "A. Rinderknech",
+          "player1FullName": "Arthur Rinderknech",
+          "player1Id": "RC91",
+          "player1Country": "FRA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "M. Berrettini",
+          "player2FullName": "Matteo Berrettini",
+          "player2Id": "BK40",
+          "player2Country": "ITA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -877,10 +877,10 @@
           "bracketOrder": 17,
           "round": "R64",
           "roundLong": "Round of 64",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "A. de Minaur",
+          "player1FullName": "Alex De Minaur",
+          "player1Id": "DH58",
+          "player1Country": "AUS",
           "player1ScoreTokens": [],
           "player2": "A. Blockx",
           "player2FullName": "Alexander Blockx",
@@ -962,10 +962,10 @@
           "bracketOrder": 22,
           "round": "R64",
           "roundLong": "Round of 64",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "L. Sonego",
+          "player1FullName": "Lorenzo Sonego",
+          "player1Id": "SU87",
+          "player1Country": "ITA",
           "player1ScoreTokens": [],
           "player2": "TBA",
           "player2FullName": "TBA",
@@ -1001,10 +1001,10 @@
           "player1Id": "R0EB",
           "player1Country": "FRA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "N. Djokovic",
+          "player2FullName": "Novak Djokovic",
+          "player2Id": "D643",
+          "player2Country": "SRB",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -1018,10 +1018,10 @@
           "player1Id": "B0NN",
           "player1Country": "USA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "A. Michelsen",
+          "player2FullName": "Alex Michelsen",
+          "player2Id": "M0QI",
+          "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -1035,9 +1035,9 @@
           "player1Id": "D994",
           "player1Country": "AUS",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
+          "player2": "R. Jodar",
+          "player2FullName": "Rafael Jodar",
+          "player2Id": "SR:COMPETITOR:972327",
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "",
@@ -1069,10 +1069,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "P. Carreno Busta",
+          "player2FullName": "Pablo Carreno Busta",
+          "player2Id": "CD85",
+          "player2Country": "ESP",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -1229,14 +1229,22 @@
           "player1FullName": "Arthur Rinderknech",
           "player1Id": "RC91",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "6",
+            "6"
+          ],
           "player2": "J. Rodionov",
           "player2FullName": "Jurij Rodionov",
           "player2Id": "R09X",
           "player2Country": "AUT",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 5",
+            "2",
+            "3"
+          ],
+          "winnerName": "Arthur Rinderknech",
+          "formattedScore": "7-6(5) 6-2 6-3"
         },
         {
           "bracketOrder": 6,
@@ -1246,14 +1254,24 @@
           "player1FullName": "Marton Fucsovics",
           "player1Id": "F724",
           "player1Country": "HUN",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "5",
+            "1",
+            "2"
+          ],
           "player2": "M. Berrettini",
           "player2FullName": "Matteo Berrettini",
           "player2Id": "BK40",
           "player2Country": "ITA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 2",
+            "7",
+            "6",
+            "6"
+          ],
+          "winnerName": "Matteo Berrettini",
+          "formattedScore": "6-7(2) 7-5 6-1 6-2"
         },
         {
           "bracketOrder": 7,
@@ -1468,10 +1486,10 @@
           "player1Id": "V0DZ",
           "player1Country": "FRA",
           "player1ScoreTokens": [],
-          "player2": "P. Kypson",
-          "player2FullName": "Patrick Kypson",
-          "player2Id": "K0A3",
-          "player2Country": "USA",
+          "player2": "V. Gaubas",
+          "player2FullName": "Vilius Gaubas",
+          "player2Id": "G0FW",
+          "player2Country": "LTU",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -1705,14 +1723,22 @@
           "player1FullName": "Alex De Minaur",
           "player1Id": "DH58",
           "player1Country": "AUS",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6",
+            "6"
+          ],
           "player2": "T. Samuel",
           "player2FullName": "Toby Samuel",
           "player2Id": "S0TM",
           "player2Country": "GBR",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "4",
+            "2"
+          ],
+          "winnerName": "Alex De Minaur",
+          "formattedScore": "6-4 6-4 6-2"
         },
         {
           "bracketOrder": 34,
@@ -1917,14 +1943,26 @@
           "player1FullName": "Lorenzo Sonego",
           "player1Id": "SU87",
           "player1Country": "ITA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "5",
+            "6",
+            "1",
+            "6"
+          ],
           "player2": "P. Herbert",
           "player2FullName": "Pierre Hugues Herbert",
           "player2Id": "H996",
           "player2Country": "FRA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 3",
+            "7",
+            "2",
+            "6",
+            "4"
+          ],
+          "winnerName": "Lorenzo Sonego",
+          "formattedScore": "7-6(3) 5-7 6-2 1-6 6-4"
         },
         {
           "bracketOrder": 44,
@@ -2026,14 +2064,24 @@
           "player1FullName": "Giovanni Mpetshi Perricard",
           "player1Id": "M0GZ",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "5",
+            "1",
+            "4"
+          ],
           "player2": "N. Djokovic",
           "player2FullName": "Novak Djokovic",
           "player2Id": "D643",
           "player2Country": "SRB",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "5",
+            "7",
+            "6",
+            "6"
+          ],
+          "winnerName": "Novak Djokovic",
+          "formattedScore": "5-7 7-5 6-1 6-4"
         },
         {
           "bracketOrder": 49,
@@ -2070,14 +2118,22 @@
           "player1FullName": "Alexander Shevchenko",
           "player1Id": "S0H2",
           "player1Country": "KAZ",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "2",
+            "4",
+            "2"
+          ],
           "player2": "A. Michelsen",
           "player2FullName": "Alex Michelsen",
           "player2Id": "M0QI",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6",
+            "6"
+          ],
+          "winnerName": "Alex Michelsen",
+          "formattedScore": "6-2 6-4 6-2"
         },
         {
           "bracketOrder": 51,
@@ -2110,14 +2166,22 @@
           "player1FullName": "Aleksandar Kovacevic",
           "player1Id": "K0AZ",
           "player1Country": "USA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "1",
+            "0",
+            "4"
+          ],
           "player2": "R. Jodar",
           "player2FullName": "Rafael Jodar",
           "player2Id": "SR:COMPETITOR:972327",
           "player2Country": "",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6",
+            "6"
+          ],
+          "winnerName": "Rafael Jodar",
+          "formattedScore": "6-1 6-0 6-4"
         },
         {
           "bracketOrder": 53,
@@ -2200,14 +2264,22 @@
           "player1FullName": "Pablo Carreno Busta",
           "player1Id": "CD85",
           "player1Country": "ESP",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "7",
+            "6"
+          ],
           "player2": "J. Lehecka",
           "player2FullName": "Jiri Lehecka",
           "player2Id": "L0BV",
           "player2Country": "CZE",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "3",
+            "6 3",
+            "3"
+          ],
+          "winnerName": "Pablo Carreno Busta",
+          "formattedScore": "6-3 7-6(3) 6-3"
         },
         {
           "bracketOrder": 57,
