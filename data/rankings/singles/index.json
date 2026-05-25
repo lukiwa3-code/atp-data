@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-05-25T19:29:05.095849+00:00",
+  "count": 16,
+  "items": [
+    {
+      "rankingDate": "2026-05-25",
+      "count": 2257,
+      "path": "data/rankings/singles/2026-05-25.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000"
+    },
+    {
+      "rankingDate": "2026-05-18",
+      "count": 2265,
+      "path": "data/rankings/singles/2026-05-18.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-05-18"
+    },
+    {
+      "rankingDate": "2026-05-04",
+      "count": 2235,
+      "path": "data/rankings/singles/2026-05-04.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-05-04"
+    },
+    {
+      "rankingDate": "2026-04-20",
+      "count": 2230,
+      "path": "data/rankings/singles/2026-04-20.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-04-20"
+    },
+    {
+      "rankingDate": "2026-04-13",
+      "count": 2231,
+      "path": "data/rankings/singles/2026-04-13.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-04-13"
+    },
+    {
+      "rankingDate": "2026-04-06",
+      "count": 2229,
+      "path": "data/rankings/singles/2026-04-06.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-04-06"
+    },
+    {
+      "rankingDate": "2026-03-30",
+      "count": 2229,
+      "path": "data/rankings/singles/2026-03-30.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-03-30"
+    },
+    {
+      "rankingDate": "2026-03-16",
+      "count": 2233,
+      "path": "data/rankings/singles/2026-03-16.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-03-16"
+    },
+    {
+      "rankingDate": "2026-03-02",
+      "count": 2233,
+      "path": "data/rankings/singles/2026-03-02.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-03-02"
+    },
+    {
+      "rankingDate": "2026-02-23",
+      "count": 2229,
+      "path": "data/rankings/singles/2026-02-23.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-02-23"
+    },
+    {
+      "rankingDate": "2026-02-16",
+      "count": 2231,
+      "path": "data/rankings/singles/2026-02-16.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-02-16"
+    },
+    {
+      "rankingDate": "2026-02-09",
+      "count": 2228,
+      "path": "data/rankings/singles/2026-02-09.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-02-09"
+    },
+    {
+      "rankingDate": "2026-02-02",
+      "count": 2223,
+      "path": "data/rankings/singles/2026-02-02.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-02-02"
+    },
+    {
+      "rankingDate": "2026-01-19",
+      "count": 2229,
+      "path": "data/rankings/singles/2026-01-19.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-01-19"
+    },
+    {
+      "rankingDate": "2026-01-12",
+      "count": 2225,
+      "path": "data/rankings/singles/2026-01-12.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-01-12"
+    },
+    {
+      "rankingDate": "2026-01-05",
+      "count": 2223,
+      "path": "data/rankings/singles/2026-01-05.json",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-01-05"
+    }
+  ]
+}
