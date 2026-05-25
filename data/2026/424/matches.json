@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/dallas/424/2026/results",
   "tournament": {
     "id": "424",
@@ -34,6 +34,10 @@
     "totalFinancialCommitment": "$3,116,195"
   },
   "count": 43,
+  "rankingDatesUsed": [
+    "2026-02-02",
+    "2026-02-09"
+  ],
   "matches": [
     {
       "matchId": "RES-FC05D88AB8",
@@ -51,7 +55,19 @@
       "reason": null,
       "formattedScore": "3-6 6-3 7-5",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 3-6 6-3 7-5 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 9,
+      "playerRankingPoints": 3560,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 7,
+      "opponentRankingPoints": 3940,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Taylor Fritz",
+      "opponentRankingPlayerId": "FB98",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-CA5D3CE428",
@@ -69,7 +85,19 @@
       "reason": null,
       "formattedScore": "4-6 6-4 7-6(4)",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 4-6 6-4 7-6(4).",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 9,
+      "playerRankingPoints": 3560,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 40,
+      "opponentRankingPoints": 1160,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Denis Shapovalov",
+      "opponentRankingPlayerId": "SU55",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-BF60506090",
@@ -87,7 +115,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 7-6(3)",
       "sourceText": "Game Set and Match Taylor Fritz. Taylor Fritz wins the match 7-6(5) 7-6(3).",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 7,
+      "playerRankingPoints": 3940,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Taylor Fritz",
+      "playerRankingPlayerId": "FB98",
+      "playerCountry": "USA",
+      "opponentRank": 61,
+      "opponentRankingPoints": 890,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Marin Cilic",
+      "opponentRankingPlayerId": "C977",
+      "opponentCountry": "CRO"
     },
     {
       "matchId": "RES-CFEFD6C737",
@@ -105,7 +145,19 @@
       "reason": null,
       "formattedScore": "5-7 6-3 6-4",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 5-7 6-3 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 9,
+      "playerRankingPoints": 3560,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 66,
+      "opponentRankingPoints": 820,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Miomir Kecmanovic",
+      "opponentRankingPlayerId": "KI95",
+      "opponentCountry": "SRB"
     },
     {
       "matchId": "RES-0F2FF09B3A",
@@ -123,7 +175,19 @@
       "reason": null,
       "formattedScore": "5-7 6-4 6-3",
       "sourceText": "Game Set and Match Denis Shapovalov. Denis Shapovalov wins the match 5-7 6-4 6-3 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 40,
+      "playerRankingPoints": 1160,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Denis Shapovalov",
+      "playerRankingPlayerId": "SU55",
+      "playerCountry": "CAN",
+      "opponentRank": 14,
+      "opponentRankingPoints": 2535,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Alejandro Davidovich Fokina",
+      "opponentRankingPlayerId": "DH50",
+      "opponentCountry": "ESP"
     },
     {
       "matchId": "RES-C1ED135D94",
@@ -141,7 +205,19 @@
       "reason": null,
       "formattedScore": "6-7(2) 6-4 7-6(5)",
       "sourceText": "Game Set and Match Taylor Fritz. Taylor Fritz wins the match 6-7(2) 6-4 7-6(5).",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 7,
+      "playerRankingPoints": 3940,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Taylor Fritz",
+      "playerRankingPlayerId": "FB98",
+      "playerCountry": "USA",
+      "opponentRank": 53,
+      "opponentRankingPoints": 960,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Sebastian Korda",
+      "opponentRankingPlayerId": "K0AH",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-A656FA04D5",
@@ -159,7 +235,19 @@
       "reason": null,
       "formattedScore": "6-1 6-4",
       "sourceText": "Game Set and Match Marin Cilic. Marin Cilic wins the match 6-1 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 61,
+      "playerRankingPoints": 890,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Marin Cilic",
+      "playerRankingPlayerId": "C977",
+      "playerCountry": "CRO",
+      "opponentRank": 181,
+      "opponentRankingPoints": 331,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Jack Pinnington Jones",
+      "opponentRankingPlayerId": "P0HT",
+      "opponentCountry": "GBR"
     },
     {
       "matchId": "RES-00368AB01B",
@@ -177,7 +265,19 @@
       "reason": null,
       "formattedScore": "7-6(2) 6-7(4) 6-3",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 7-6(2) 6-7(4) 6-3 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 9,
+      "playerRankingPoints": 3560,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 52,
+      "opponentRankingPoints": 975,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Adrian Mannarino",
+      "opponentRankingPlayerId": "ME82",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-C84F5D768E",
@@ -195,7 +295,19 @@
       "reason": null,
       "formattedScore": "5-7 6-4 6-4",
       "sourceText": "Game Set and Match Miomir Kecmanovic. Miomir Kecmanovic wins the match 5-7 6-4 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 66,
+      "playerRankingPoints": 820,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Miomir Kecmanovic",
+      "playerRankingPlayerId": "KI95",
+      "playerCountry": "SRB",
+      "opponentRank": 24,
+      "opponentRankingPoints": 1700,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Tommy Paul",
+      "opponentRankingPlayerId": "PL56",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-8EA754E3A1",
@@ -213,7 +325,19 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Denis Shapovalov. Denis Shapovalov wins the match 6-4 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 40,
+      "playerRankingPoints": 1160,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Denis Shapovalov",
+      "playerRankingPlayerId": "SU55",
+      "playerCountry": "CAN",
+      "opponentRank": 78,
+      "opponentRankingPoints": 721,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Aleksandar Kovacevic",
+      "opponentRankingPlayerId": "K0AZ",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-81174EA749",
@@ -231,7 +355,19 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Alejandro Davidovich Fokina. Alejandro Davidovich Fokina wins the match 6-4 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 14,
+      "playerRankingPoints": 2535,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Alejandro Davidovich Fokina",
+      "playerRankingPlayerId": "DH50",
+      "playerCountry": "ESP",
+      "opponentRank": 41,
+      "opponentRankingPoints": 1160,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Alex Michelsen",
+      "opponentRankingPlayerId": "M0QI",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-E9D850C707",
@@ -249,7 +385,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Taylor Fritz. Taylor Fritz wins the match 6-3 6-4 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 7,
+      "playerRankingPoints": 3940,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Taylor Fritz",
+      "playerRankingPlayerId": "FB98",
+      "playerCountry": "USA",
+      "opponentRank": 29,
+      "opponentRankingPoints": 1535,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Brandon Nakashima",
+      "opponentRankingPlayerId": "N0AE",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-86BE457D5A",
@@ -267,7 +415,19 @@
       "reason": null,
       "formattedScore": "7-5 6-1",
       "sourceText": "Game Set and Match Sebastian Korda. Sebastian Korda wins the match 7-5 6-1 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 53,
+      "playerRankingPoints": 960,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Sebastian Korda",
+      "playerRankingPlayerId": "K0AH",
+      "playerCountry": "USA",
+      "opponentRank": 30,
+      "opponentRankingPoints": 1510,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Frances Tiafoe",
+      "opponentRankingPlayerId": "TD51",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-11430F3DC7",
@@ -285,7 +445,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 6-3",
       "sourceText": "Game Set and Match Marin Cilic. Marin Cilic wins the match 7-6(4) 6-3 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 61,
+      "playerRankingPoints": 890,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Marin Cilic",
+      "playerRankingPlayerId": "C977",
+      "playerCountry": "CRO",
+      "opponentRank": 74,
+      "opponentRankingPoints": 758,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Ethan Quinn",
+      "opponentRankingPlayerId": "Q02L",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-CB8569CB11",
@@ -303,7 +475,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 4-6 7-6(4)",
       "sourceText": "Game Set and Match Jack Pinnington Jones. Jack Pinnington Jones wins the match 7-6(5) 4-6 7-6(4).",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 181,
+      "playerRankingPoints": 331,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Jack Pinnington Jones",
+      "playerRankingPlayerId": "P0HT",
+      "playerCountry": "GBR",
+      "opponentRank": 68,
+      "opponentRankingPoints": 781,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Eliot Spizzirri",
+      "opponentRankingPlayerId": "S0JA",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-5CB51A820C",
@@ -321,7 +505,19 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 6-4 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 9,
+      "playerRankingPoints": 3560,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 38,
+      "opponentRankingPoints": 1175,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Gabriel Diallo",
+      "opponentRankingPlayerId": "D0F6",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-1AF515BB06",
@@ -339,7 +535,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Adrian Mannarino. Adrian Mannarino wins the match 6-4 6-2 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 52,
+      "playerRankingPoints": 975,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Adrian Mannarino",
+      "playerRankingPlayerId": "ME82",
+      "playerCountry": "FRA",
+      "opponentRank": 93,
+      "opponentRankingPoints": 643,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Adam Walton",
+      "opponentRankingPlayerId": "W09E",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-64EC47F017",
@@ -357,7 +565,19 @@
       "reason": null,
       "formattedScore": "6-7(3) 6-3 7-6(3)",
       "sourceText": "Game Set and Match Miomir Kecmanovic. Miomir Kecmanovic wins the match 6-7(3) 6-3 7-6(3).",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 66,
+      "playerRankingPoints": 820,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Miomir Kecmanovic",
+      "playerRankingPlayerId": "KI95",
+      "playerCountry": "SRB",
+      "opponentRank": 144,
+      "opponentRankingPoints": 441,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Sho Shimabukuro",
+      "opponentRankingPlayerId": "SY67",
+      "opponentCountry": "JPN"
     },
     {
       "matchId": "RES-A102319AE2",
@@ -375,7 +595,19 @@
       "reason": null,
       "formattedScore": "4-6 6-4 7-6(4)",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 4-6 6-4 7-6(4).",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 24,
+      "playerRankingPoints": 1700,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 45,
+      "opponentRankingPoints": 1042,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Jenson Brooksby",
+      "opponentRankingPlayerId": "B0CD",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-FA19A911AA",
@@ -393,7 +625,19 @@
       "reason": null,
       "formattedScore": "6-1 6-2",
       "sourceText": "Game Set and Match Denis Shapovalov. Denis Shapovalov wins the match 6-1 6-2 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 40,
+      "playerRankingPoints": 1160,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Denis Shapovalov",
+      "playerRankingPlayerId": "SU55",
+      "playerCountry": "CAN",
+      "opponentRank": 124,
+      "opponentRankingPoints": 498,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Rafael Jodar",
+      "opponentRankingPlayerId": "J0DZ",
+      "opponentCountry": "ESP"
     },
     {
       "matchId": "RES-A8A4524FED",
@@ -411,7 +655,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(1)",
       "sourceText": "Game Set and Match Aleksandar Kovacevic. Aleksandar Kovacevic wins the match 6-4 7-6(1).",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 78,
+      "playerRankingPoints": 721,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Aleksandar Kovacevic",
+      "playerRankingPlayerId": "K0AZ",
+      "playerCountry": "USA",
+      "opponentRank": 109,
+      "opponentRankingPoints": 552,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Patrick Kypson",
+      "opponentRankingPlayerId": "K0A3",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-CC4BAACB31",
@@ -429,7 +685,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(1)",
       "sourceText": "Game Set and Match Alejandro Davidovich Fokina. Alejandro Davidovich Fokina wins the match 6-4 7-6(1).",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 14,
+      "playerRankingPoints": 2535,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Alejandro Davidovich Fokina",
+      "playerRankingPlayerId": "DH50",
+      "playerCountry": "ESP",
+      "opponentRank": 110,
+      "opponentRankingPoints": 551,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Zachary Svajda",
+      "opponentRankingPlayerId": "S0K7",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-34364FB7AE",
@@ -447,7 +715,19 @@
       "reason": null,
       "formattedScore": "5-7 6-4 6-4",
       "sourceText": "Game Set and Match Alex Michelsen. Alex Michelsen wins the match 5-7 6-4 6-4 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 41,
+      "playerRankingPoints": 1160,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Alex Michelsen",
+      "playerRankingPlayerId": "M0QI",
+      "playerCountry": "USA",
+      "opponentRank": 43,
+      "opponentRankingPoints": 1105,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Grigor Dimitrov",
+      "opponentRankingPlayerId": "D875",
+      "opponentCountry": "BUL"
     },
     {
       "matchId": "RES-67B19F6266",
@@ -465,7 +745,19 @@
       "reason": null,
       "formattedScore": "6-4 5-7 7-6(1)",
       "sourceText": "Game Set and Match Taylor Fritz. Taylor Fritz wins the match 6-4 5-7 7-6(1).",
-      "bracketOrder": 9
+      "bracketOrder": 9,
+      "playerRank": 7,
+      "playerRankingPoints": 3940,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Taylor Fritz",
+      "playerRankingPlayerId": "FB98",
+      "playerCountry": "USA",
+      "opponentRank": 59,
+      "opponentRankingPoints": 895,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Marcos Giron",
+      "opponentRankingPlayerId": "GC88",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-6A7AA5E00A",
@@ -483,7 +775,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Brandon Nakashima. Brandon Nakashima wins the match 6-3 6-4 .",
-      "bracketOrder": 10
+      "bracketOrder": 10,
+      "playerRank": 29,
+      "playerRankingPoints": 1535,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Brandon Nakashima",
+      "playerRankingPlayerId": "N0AE",
+      "playerCountry": "USA",
+      "opponentRank": 107,
+      "opponentRankingPoints": 553,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Mattia Bellucci",
+      "opponentRankingPlayerId": "B0GG",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-B8045C3F7F",
@@ -501,7 +805,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Sebastian Korda. Sebastian Korda wins the match 6-3 6-4 .",
-      "bracketOrder": 11
+      "bracketOrder": 11,
+      "playerRank": 53,
+      "playerRankingPoints": 960,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Sebastian Korda",
+      "playerRankingPlayerId": "K0AH",
+      "playerCountry": "USA",
+      "opponentRank": 151,
+      "opponentRankingPoints": 414,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Michael Zheng",
+      "opponentRankingPlayerId": "Z0BZ",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-2D0310D16A",
@@ -519,7 +835,19 @@
       "reason": null,
       "formattedScore": "4-6 6-2 6-2",
       "sourceText": "Game Set and Match Frances Tiafoe. Frances Tiafoe wins the match 4-6 6-2 6-2 .",
-      "bracketOrder": 12
+      "bracketOrder": 12,
+      "playerRank": 30,
+      "playerRankingPoints": 1510,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Frances Tiafoe",
+      "playerRankingPlayerId": "TD51",
+      "playerCountry": "USA",
+      "opponentRank": 64,
+      "opponentRankingPoints": 849,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Terence Atmane",
+      "opponentRankingPlayerId": "A0GC",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-DE48AC72F6",
@@ -537,7 +865,19 @@
       "reason": null,
       "formattedScore": "7-5 7-6(4)",
       "sourceText": "Game Set and Match Marin Cilic. Marin Cilic wins the match 7-5 7-6(4).",
-      "bracketOrder": 13
+      "bracketOrder": 13,
+      "playerRank": 61,
+      "playerRankingPoints": 890,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Marin Cilic",
+      "playerRankingPlayerId": "C977",
+      "playerCountry": "CRO",
+      "opponentRank": 23,
+      "opponentRankingPoints": 1710,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Learner Tien",
+      "opponentRankingPlayerId": "T0HA",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-EEA285819F",
@@ -555,7 +895,19 @@
       "reason": null,
       "formattedScore": "7-6(3) 7-5",
       "sourceText": "Game Set and Match Ethan Quinn. Ethan Quinn wins the match 7-6(3) 7-5 .",
-      "bracketOrder": 14
+      "bracketOrder": 14,
+      "playerRank": 74,
+      "playerRankingPoints": 758,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Ethan Quinn",
+      "playerRankingPlayerId": "Q02L",
+      "playerCountry": "USA",
+      "opponentRank": 363,
+      "opponentRankingPoints": 131,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Trevor Svajda",
+      "opponentRankingPlayerId": "S0VM",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-F1B117B611",
@@ -573,7 +925,19 @@
       "reason": null,
       "formattedScore": "6-2 6-2",
       "sourceText": "Game Set and Match Jack Pinnington Jones. Jack Pinnington Jones wins the match 6-2 6-2 .",
-      "bracketOrder": 15
+      "bracketOrder": 15,
+      "playerRank": 181,
+      "playerRankingPoints": 331,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Jack Pinnington Jones",
+      "playerRankingPlayerId": "P0HT",
+      "playerCountry": "GBR",
+      "opponentRank": 20,
+      "opponentRankingPoints": 1955,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Flavio Cobolli",
+      "opponentRankingPlayerId": "C0E9",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-023666BBC0",
@@ -591,7 +955,19 @@
       "reason": null,
       "formattedScore": "6-2 6-4",
       "sourceText": "Game Set and Match Eliot Spizzirri. Eliot Spizzirri wins the match 6-2 6-4 .",
-      "bracketOrder": 16
+      "bracketOrder": 16,
+      "playerRank": 68,
+      "playerRankingPoints": 781,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Eliot Spizzirri",
+      "playerRankingPlayerId": "S0JA",
+      "playerCountry": "USA",
+      "opponentRank": 83,
+      "opponentRankingPoints": 691,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "James Duckworth",
+      "opponentRankingPlayerId": "D994",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-6A887FAEED",
@@ -609,7 +985,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 5-7 7-5",
       "sourceText": "Game Set and Match Jack Pinnington Jones. Jack Pinnington Jones wins the match 7-6(4) 5-7 7-5 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 173,
+      "playerRankingPoints": 344,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Jack Pinnington Jones",
+      "playerRankingPlayerId": "P0HT",
+      "playerCountry": "GBR",
+      "opponentRank": 107,
+      "opponentRankingPoints": 552,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Patrick Kypson",
+      "opponentRankingPlayerId": "K0A3",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-3B7DF49A52",
@@ -627,7 +1015,19 @@
       "reason": null,
       "formattedScore": "6-3 5-7 6-4",
       "sourceText": "Game Set and Match Zachary Svajda. Zachary Svajda wins the match 6-3 5-7 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 109,
+      "playerRankingPoints": 551,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Zachary Svajda",
+      "playerRankingPlayerId": "S0K7",
+      "playerCountry": "USA",
+      "opponentRank": 218,
+      "opponentRankingPoints": 262,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Tristan Boyer",
+      "opponentRankingPlayerId": "B0EJ",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-BC92477766",
@@ -645,7 +1045,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 7-6(6)",
       "sourceText": "Game Set and Match Rafael Jodar. Rafael Jodar wins the match 7-6(5) 7-6(6).",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 124,
+      "playerRankingPoints": 498,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Rafael Jodar",
+      "playerRankingPlayerId": "J0DZ",
+      "playerCountry": "ESP",
+      "opponentRank": 244,
+      "opponentRankingPoints": 227,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Murphy Cassone",
+      "opponentRankingPlayerId": "C0HT",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-B311AB37C3",
@@ -663,7 +1075,19 @@
       "reason": null,
       "formattedScore": "6-3 6-3",
       "sourceText": "Game Set and Match Sho Shimabukuro. Sho Shimabukuro wins the match 6-3 6-3 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 141,
+      "playerRankingPoints": 441,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Sho Shimabukuro",
+      "playerRankingPlayerId": "SY67",
+      "playerCountry": "JPN",
+      "opponentRank": 194,
+      "opponentRankingPoints": 313,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Bernard Tomic",
+      "opponentRankingPlayerId": "TA46",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-929EB883B8",
@@ -681,7 +1105,19 @@
       "reason": null,
       "formattedScore": "6-3 6-1",
       "sourceText": "Game Set and Match Jack Pinnington Jones. Jack Pinnington Jones wins the match 6-3 6-1 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 173,
+      "playerRankingPoints": 344,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Jack Pinnington Jones",
+      "playerRankingPlayerId": "P0HT",
+      "playerCountry": "GBR",
+      "opponentRank": 325,
+      "opponentRankingPoints": 155,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Daniel Dutra da Silva",
+      "opponentRankingPlayerId": "SG56",
+      "opponentCountry": "BRA"
     },
     {
       "matchId": "RES-9D96CA21EB",
@@ -699,7 +1135,19 @@
       "reason": null,
       "formattedScore": "6-2 6-1",
       "sourceText": "Game Set and Match Patrick Kypson. Patrick Kypson wins the match 6-2 6-1 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 107,
+      "playerRankingPoints": 552,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Patrick Kypson",
+      "playerRankingPlayerId": "K0A3",
+      "playerCountry": "USA",
+      "opponentRank": 377,
+      "opponentRankingPoints": 124,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Pedro Sakamoto",
+      "opponentRankingPlayerId": "SL94",
+      "opponentCountry": "BRA"
     },
     {
       "matchId": "RES-3C2FB55F48",
@@ -717,7 +1165,19 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Zachary Svajda. Zachary Svajda wins the match 6-3 6-2 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 109,
+      "playerRankingPoints": 551,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Zachary Svajda",
+      "playerRankingPlayerId": "S0K7",
+      "playerCountry": "USA",
+      "opponentRank": 952,
+      "opponentRankingPoints": 19,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Georgi Georgiev",
+      "opponentRankingPlayerId": "G0OF",
+      "opponentCountry": "BUL"
     },
     {
       "matchId": "RES-00A6BEC80B",
@@ -735,7 +1195,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Tristan Boyer. Tristan Boyer wins the match 6-4 6-2 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 218,
+      "playerRankingPoints": 262,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Tristan Boyer",
+      "playerRankingPlayerId": "B0EJ",
+      "playerCountry": "USA",
+      "opponentRank": 1608,
+      "opponentRankingPoints": 3,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Alex Finkelstein",
+      "opponentRankingPlayerId": "F0HT",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-D21BD79862",
@@ -753,7 +1225,19 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Rafael Jodar. Rafael Jodar wins the match 6-3 6-2 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 124,
+      "playerRankingPoints": 498,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Rafael Jodar",
+      "playerRankingPlayerId": "J0DZ",
+      "playerCountry": "ESP",
+      "opponentRank": 249,
+      "opponentRankingPoints": 221,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Mitchell Krueger",
+      "opponentRankingPlayerId": "KC12",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-C68A8BDF03",
@@ -771,7 +1255,19 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Murphy Cassone. Murphy Cassone wins the match 6-2 6-3 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 244,
+      "playerRankingPoints": 227,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Murphy Cassone",
+      "playerRankingPlayerId": "C0HT",
+      "playerCountry": "USA",
+      "opponentRank": 297,
+      "opponentRankingPoints": 177,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Alex Rybakov",
+      "opponentRankingPlayerId": "RG42",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-1AA73F5ABF",
@@ -789,7 +1285,13 @@
       "reason": null,
       "formattedScore": "6-0 6-4",
       "sourceText": "Game Set and Match Sho Shimabukuro. Sho Shimabukuro wins the match 6-0 6-4 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 141,
+      "playerRankingPoints": 441,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Sho Shimabukuro",
+      "playerRankingPlayerId": "SY67",
+      "playerCountry": "JPN"
     },
     {
       "matchId": "RES-3A369FC636",
@@ -807,7 +1309,13 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Bernard Tomic. Bernard Tomic wins the match 6-3 6-2 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 194,
+      "playerRankingPoints": 313,
+      "playerRankingDate": "2026-02-02",
+      "playerRankingName": "Bernard Tomic",
+      "playerRankingPlayerId": "TA46",
+      "playerCountry": "AUS"
     }
   ]
 }

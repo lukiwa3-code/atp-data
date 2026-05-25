@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/marrakech/360/2026/results",
   "tournament": {
     "id": "360",
@@ -34,6 +34,9 @@
     "totalFinancialCommitment": "€691,875"
   },
   "count": 38,
+  "rankingDatesUsed": [
+    "2026-03-30"
+  ],
   "matches": [
     {
       "matchId": "RES-437A47A6AE",
@@ -51,7 +54,19 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Rafael Jodar. Rafael Jodar wins the match 6-3 6-2 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 89,
+      "playerRankingPoints": 652,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Rafael Jodar",
+      "playerRankingPlayerId": "J0DZ",
+      "playerCountry": "ESP",
+      "opponentRank": 117,
+      "opponentRankingPoints": 561,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Marco Trungelliti",
+      "opponentRankingPlayerId": "TA29",
+      "opponentCountry": "ARG"
     },
     {
       "matchId": "RES-8176D3A2BF",
@@ -69,7 +84,19 @@
       "reason": null,
       "formattedScore": "6-2 6-1",
       "sourceText": "Game Set and Match Rafael Jodar. Rafael Jodar wins the match 6-2 6-1 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 89,
+      "playerRankingPoints": 652,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Rafael Jodar",
+      "playerRankingPlayerId": "J0DZ",
+      "playerCountry": "ESP",
+      "opponentRank": 67,
+      "opponentRankingPoints": 780,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Camilo Ugo Carabelli",
+      "opponentRankingPlayerId": "U182",
+      "opponentCountry": "ARG"
     },
     {
       "matchId": "RES-89BEAEB8C7",
@@ -87,7 +114,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(2)",
       "sourceText": "Game Set and Match Marco Trungelliti. Marco Trungelliti wins the match 6-4 7-6(2).",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 117,
+      "playerRankingPoints": 561,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Marco Trungelliti",
+      "playerRankingPlayerId": "TA29",
+      "playerCountry": "ARG",
+      "opponentRank": 19,
+      "opponentRankingPoints": 2050,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Luciano Darderi",
+      "opponentRankingPlayerId": "D0FJ",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-467CAF41CC",
@@ -105,7 +144,19 @@
       "reason": null,
       "formattedScore": "6-2 2-0 RET",
       "sourceText": "Game Set and Match Rafael Jodar. Rafael Jodar wins the match 6-2 2-0 RET.",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 89,
+      "playerRankingPoints": 652,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Rafael Jodar",
+      "playerRankingPlayerId": "J0DZ",
+      "playerCountry": "ESP",
+      "opponentRank": 94,
+      "opponentRankingPoints": 645,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Alexandre Muller",
+      "opponentRankingPlayerId": "MP20",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-1B60E77772",
@@ -123,7 +174,19 @@
       "reason": null,
       "formattedScore": "0-6 6-3 6-2",
       "sourceText": "Game Set and Match Camilo Ugo Carabelli. Camilo Ugo Carabelli wins the match 0-6 6-3 6-2 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 67,
+      "playerRankingPoints": 780,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Camilo Ugo Carabelli",
+      "playerRankingPlayerId": "U182",
+      "playerCountry": "ARG",
+      "opponentRank": 109,
+      "opponentRankingPoints": 601,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Luca Van Assche",
+      "opponentRankingPlayerId": "V0DZ",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-E4CA2DF888",
@@ -141,7 +204,19 @@
       "reason": null,
       "formattedScore": "4-6 6-3 6-4",
       "sourceText": "Game Set and Match Marco Trungelliti. Marco Trungelliti wins the match 4-6 6-3 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 117,
+      "playerRankingPoints": 561,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Marco Trungelliti",
+      "playerRankingPlayerId": "TA29",
+      "playerCountry": "ARG",
+      "opponentRank": 32,
+      "opponentRankingPoints": 1403,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Corentin Moutet",
+      "opponentRankingPlayerId": "MW02",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-3F815E981B",
@@ -159,7 +234,19 @@
       "reason": null,
       "formattedScore": "6-4 4-6 6-3",
       "sourceText": "Game Set and Match Rafael Jodar. Rafael Jodar wins the match 6-4 4-6 6-3 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 89,
+      "playerRankingPoints": 652,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Rafael Jodar",
+      "playerRankingPlayerId": "J0DZ",
+      "playerCountry": "ESP",
+      "opponentRank": 55,
+      "opponentRankingPoints": 930,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Tomas Machac",
+      "opponentRankingPlayerId": "M0FH",
+      "opponentCountry": "CZE"
     },
     {
       "matchId": "RES-5F6A81AC49",
@@ -177,7 +264,19 @@
       "reason": null,
       "formattedScore": "6-3 7-6(3)",
       "sourceText": "Game Set and Match Alexandre Muller. Alexandre Muller wins the match 6-3 7-6(3).",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 94,
+      "playerRankingPoints": 645,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Alexandre Muller",
+      "playerRankingPlayerId": "MP20",
+      "playerCountry": "FRA",
+      "opponentRank": 70,
+      "opponentRankingPoints": 763,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Vit Kopriva",
+      "opponentRankingPlayerId": "KI82",
+      "opponentCountry": "CZE"
     },
     {
       "matchId": "RES-5A03AA729F",
@@ -195,7 +294,19 @@
       "reason": null,
       "formattedScore": "6-3 3-6 7-5",
       "sourceText": "Game Set and Match Camilo Ugo Carabelli. Camilo Ugo Carabelli wins the match 6-3 3-6 7-5 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 67,
+      "playerRankingPoints": 780,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Camilo Ugo Carabelli",
+      "playerRankingPlayerId": "U182",
+      "playerCountry": "ARG",
+      "opponentRank": 59,
+      "opponentRankingPoints": 864,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Ignacio Buse",
+      "opponentRankingPlayerId": "B0ID",
+      "opponentCountry": "PER"
     },
     {
       "matchId": "RES-9041768DEA",
@@ -213,7 +324,19 @@
       "reason": null,
       "formattedScore": "6-4 1-6 6-3",
       "sourceText": "Game Set and Match Luca Van Assche. Luca Van Assche wins the match 6-4 1-6 6-3 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 109,
+      "playerRankingPoints": 601,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Luca Van Assche",
+      "playerRankingPlayerId": "V0DZ",
+      "playerCountry": "FRA",
+      "opponentRank": 30,
+      "opponentRankingPoints": 1585,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Tallon Griekspoor",
+      "opponentRankingPlayerId": "GJ37",
+      "opponentCountry": "NED"
     },
     {
       "matchId": "RES-EDA0643A8C",
@@ -231,7 +354,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 6-3",
       "sourceText": "Game Set and Match Marco Trungelliti. Marco Trungelliti wins the match 7-6(4) 6-3 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 117,
+      "playerRankingPoints": 561,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Marco Trungelliti",
+      "playerRankingPlayerId": "TA29",
+      "playerCountry": "ARG",
+      "opponentRank": 53,
+      "opponentRankingPoints": 955,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Kamil Majchrzak",
+      "opponentRankingPlayerId": "MQ75",
+      "opponentCountry": "POL"
     },
     {
       "matchId": "RES-0DBC7F297D",
@@ -249,7 +384,19 @@
       "reason": null,
       "formattedScore": "6-0 6-2",
       "sourceText": "Game Set and Match Corentin Moutet. Corentin Moutet wins the match 6-0 6-2 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 32,
+      "playerRankingPoints": 1403,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Corentin Moutet",
+      "playerRankingPlayerId": "MW02",
+      "playerCountry": "FRA",
+      "opponentRank": 587,
+      "opponentRankingPoints": 64,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Taha Baadi",
+      "opponentRankingPlayerId": "B0D6",
+      "opponentCountry": "MAR"
     },
     {
       "matchId": "RES-E705A9919B",
@@ -267,7 +414,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Luciano Darderi. Luciano Darderi wins the match 6-4 6-2 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 19,
+      "playerRankingPoints": 2050,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Luciano Darderi",
+      "playerRankingPlayerId": "D0FJ",
+      "playerCountry": "ITA",
+      "opponentRank": 73,
+      "opponentRankingPoints": 740,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Mattia Bellucci",
+      "opponentRankingPlayerId": "B0GG",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-82FC70D42A",
@@ -285,7 +444,19 @@
       "reason": null,
       "formattedScore": "6-4 6-7(3) 6-2",
       "sourceText": "Game Set and Match Yannick Hanfmann. Yannick Hanfmann wins the match 6-4 6-7(3) 6-2 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 61,
+      "playerRankingPoints": 857,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Yannick Hanfmann",
+      "playerRankingPlayerId": "H997",
+      "playerCountry": "GER",
+      "opponentRank": 731,
+      "opponentRankingPoints": 41,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Karim Bennani",
+      "opponentRankingPlayerId": "B0QQ",
+      "opponentCountry": "MAR"
     },
     {
       "matchId": "RES-083A36EB31",
@@ -303,7 +474,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Rafael Jodar. Rafael Jodar wins the match 6-3 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 89,
+      "playerRankingPoints": 652,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Rafael Jodar",
+      "playerRankingPlayerId": "J0DZ",
+      "playerCountry": "ESP",
+      "opponentRank": 132,
+      "opponentRankingPoints": 486,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Dusan Lajovic",
+      "opponentRankingPlayerId": "L987",
+      "opponentCountry": "SRB"
     },
     {
       "matchId": "RES-1AB45169AF",
@@ -321,7 +504,19 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Alexandre Muller. Alexandre Muller wins the match 6-2 6-3 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 94,
+      "playerRankingPoints": 645,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Alexandre Muller",
+      "playerRankingPlayerId": "MP20",
+      "playerCountry": "FRA",
+      "opponentRank": 208,
+      "opponentRankingPoints": 285,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Federico Cina",
+      "opponentRankingPlayerId": "C0NB",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-9852A5ADAB",
@@ -339,7 +534,19 @@
       "reason": null,
       "formattedScore": "6-7(4) 7-5 6-2",
       "sourceText": "Game Set and Match Vit Kopriva. Vit Kopriva wins the match 6-7(4) 7-5 6-2 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 70,
+      "playerRankingPoints": 763,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Vit Kopriva",
+      "playerRankingPlayerId": "KI82",
+      "playerCountry": "CZE",
+      "opponentRank": 81,
+      "opponentRankingPoints": 680,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Hamad Medjedovic",
+      "opponentRankingPlayerId": "M0JF",
+      "opponentCountry": "SRB"
     },
     {
       "matchId": "RES-AC693C1F96",
@@ -357,7 +564,19 @@
       "reason": null,
       "formattedScore": "6-7(2) 6-3 6-4",
       "sourceText": "Game Set and Match Camilo Ugo Carabelli. Camilo Ugo Carabelli wins the match 6-7(2) 6-3 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 67,
+      "playerRankingPoints": 780,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Camilo Ugo Carabelli",
+      "playerRankingPlayerId": "U182",
+      "playerCountry": "ARG",
+      "opponentRank": 202,
+      "opponentRankingPoints": 292,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Timofey Skatov",
+      "opponentRankingPlayerId": "S0GR",
+      "opponentCountry": "KAZ"
     },
     {
       "matchId": "RES-8096084474",
@@ -375,7 +594,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 6-7(2) 6-4",
       "sourceText": "Game Set and Match Ignacio Buse. Ignacio Buse wins the match 7-6(5) 6-7(2) 6-4 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 59,
+      "playerRankingPoints": 864,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Ignacio Buse",
+      "playerRankingPlayerId": "B0ID",
+      "playerCountry": "PER",
+      "opponentRank": 91,
+      "opponentRankingPoints": 650,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Matteo Berrettini",
+      "opponentRankingPlayerId": "BK40",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-7AAE5126A5",
@@ -393,7 +624,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(5)",
       "sourceText": "Game Set and Match Luca Van Assche. Luca Van Assche wins the match 6-4 7-6(5).",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 109,
+      "playerRankingPoints": 601,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Luca Van Assche",
+      "playerRankingPlayerId": "V0DZ",
+      "playerCountry": "FRA",
+      "opponentRank": 116,
+      "opponentRankingPoints": 564,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Hugo Gaston",
+      "opponentRankingPlayerId": "G09O",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-2023D32143",
@@ -411,7 +654,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 6-2",
       "sourceText": "Game Set and Match Marco Trungelliti. Marco Trungelliti wins the match 7-6(5) 6-2 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 117,
+      "playerRankingPoints": 561,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Marco Trungelliti",
+      "playerRankingPlayerId": "TA29",
+      "playerCountry": "ARG",
+      "opponentRank": 133,
+      "opponentRankingPoints": 483,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Henrique Rocha",
+      "opponentRankingPlayerId": "R0GO",
+      "opponentCountry": "POR"
     },
     {
       "matchId": "RES-E5DE1E372F",
@@ -429,7 +684,19 @@
       "reason": null,
       "formattedScore": "7-6(3) 3-6 6-3",
       "sourceText": "Game Set and Match Kamil Majchrzak. Kamil Majchrzak wins the match 7-6(3) 3-6 6-3 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 53,
+      "playerRankingPoints": 955,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Kamil Majchrzak",
+      "playerRankingPlayerId": "MQ75",
+      "playerCountry": "POL",
+      "opponentRank": 69,
+      "opponentRankingPoints": 776,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Juan Manuel Cerundolo",
+      "opponentRankingPlayerId": "C0C8",
+      "opponentCountry": "ARG"
     },
     {
       "matchId": "RES-196CCF0ABF",
@@ -447,7 +714,19 @@
       "reason": null,
       "formattedScore": "6-2 3-6 6-1",
       "sourceText": "Game Set and Match Taha Baadi. Taha Baadi wins the match 6-2 3-6 6-1 .",
-      "bracketOrder": 9
+      "bracketOrder": 9,
+      "playerRank": 587,
+      "playerRankingPoints": 64,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Taha Baadi",
+      "playerRankingPlayerId": "B0D6",
+      "playerCountry": "MAR",
+      "opponentRank": 84,
+      "opponentRankingPoints": 663,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Aleksandar Vukic",
+      "opponentRankingPlayerId": "V832",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-D554962098",
@@ -465,7 +744,19 @@
       "reason": null,
       "formattedScore": "6-3 3-6 6-4",
       "sourceText": "Game Set and Match Mattia Bellucci. Mattia Bellucci wins the match 6-3 3-6 6-4 .",
-      "bracketOrder": 10
+      "bracketOrder": 10,
+      "playerRank": 73,
+      "playerRankingPoints": 740,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Mattia Bellucci",
+      "playerRankingPlayerId": "B0GG",
+      "playerCountry": "ITA",
+      "opponentRank": 555,
+      "opponentRankingPoints": 70,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Reda Bennani",
+      "opponentRankingPlayerId": "B0PU",
+      "opponentCountry": "MAR"
     },
     {
       "matchId": "RES-631019A934",
@@ -483,7 +774,19 @@
       "reason": null,
       "formattedScore": "7-6(6) 6-4",
       "sourceText": "Game Set and Match Yannick Hanfmann. Yannick Hanfmann wins the match 7-6(6) 6-4 .",
-      "bracketOrder": 11
+      "bracketOrder": 11,
+      "playerRank": 61,
+      "playerRankingPoints": 857,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Yannick Hanfmann",
+      "playerRankingPlayerId": "H997",
+      "playerCountry": "GER",
+      "opponentRank": 99,
+      "opponentRankingPoints": 625,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Jesper de Jong",
+      "opponentRankingPlayerId": "D0C1",
+      "opponentCountry": "NED"
     },
     {
       "matchId": "RES-5D7FF1DEEC",
@@ -501,7 +804,19 @@
       "reason": null,
       "formattedScore": "6-4 6-7(5) 6-2",
       "sourceText": "Game Set and Match Karim Bennani. Karim Bennani wins the match 6-4 6-7(5) 6-2 .",
-      "bracketOrder": 12
+      "bracketOrder": 12,
+      "playerRank": 731,
+      "playerRankingPoints": 41,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Karim Bennani",
+      "playerRankingPlayerId": "B0QQ",
+      "playerCountry": "MAR",
+      "opponentRank": 90,
+      "opponentRankingPoints": 650,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Quentin Halys",
+      "opponentRankingPlayerId": "HB64",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-A6413C9802",
@@ -519,7 +834,19 @@
       "reason": null,
       "formattedScore": "7-6(8) 6-4",
       "sourceText": "Game Set and Match Marco Trungelliti. Marco Trungelliti wins the match 7-6(8) 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 117,
+      "playerRankingPoints": 561,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Marco Trungelliti",
+      "playerRankingPlayerId": "TA29",
+      "playerCountry": "ARG",
+      "opponentRank": 166,
+      "opponentRankingPoints": 366,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Rei Sakamoto",
+      "opponentRankingPlayerId": "S0UV",
+      "opponentCountry": "JPN"
     },
     {
       "matchId": "RES-4601B62BDF",
@@ -537,7 +864,19 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Dusan Lajovic. Dusan Lajovic wins the match 6-4 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 132,
+      "playerRankingPoints": 486,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Dusan Lajovic",
+      "playerRankingPlayerId": "L987",
+      "playerCountry": "SRB",
+      "opponentRank": 152,
+      "opponentRankingPoints": 406,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Lloyd Harris",
+      "opponentRankingPlayerId": "HG86",
+      "opponentCountry": "RSA"
     },
     {
       "matchId": "RES-2BB128B0CC",
@@ -555,7 +894,19 @@
       "reason": null,
       "formattedScore": "6-1 6-2",
       "sourceText": "Game Set and Match Henrique Rocha. Henrique Rocha wins the match 6-1 6-2 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 133,
+      "playerRankingPoints": 483,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Henrique Rocha",
+      "playerRankingPlayerId": "R0GO",
+      "playerCountry": "POR",
+      "opponentRank": 141,
+      "opponentRankingPoints": 444,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Nicolai Budkov Kjaer",
+      "opponentRankingPlayerId": "B0U4",
+      "opponentCountry": "NOR"
     },
     {
       "matchId": "RES-0F5A503A74",
@@ -573,7 +924,19 @@
       "reason": null,
       "formattedScore": "6-3 6-3",
       "sourceText": "Game Set and Match Timofey Skatov. Timofey Skatov wins the match 6-3 6-3 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 202,
+      "playerRankingPoints": 292,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Timofey Skatov",
+      "playerRankingPlayerId": "S0GR",
+      "playerCountry": "KAZ",
+      "opponentRank": 144,
+      "opponentRankingPoints": 435,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Moez Echargui",
+      "opponentRankingPlayerId": "EA13",
+      "opponentCountry": "TUN"
     },
     {
       "matchId": "RES-8087223EA6",

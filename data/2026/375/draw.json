@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/draws",
   "tournament": {
     "id": "375",
@@ -35,6 +35,9 @@
   },
   "countRounds": 5,
   "countMatches": 31,
+  "rankingDatesUsed": [
+    "2026-02-02"
+  ],
   "rounds": [
     {
       "round": "F",
@@ -63,7 +66,17 @@
             "6 4"
           ],
           "winnerName": "Felix Auger Aliassime",
-          "formattedScore": "6-3 7-6(4)"
+          "formattedScore": "6-3 7-6(4)",
+          "player1Rank": 8,
+          "player1RankingPoints": 3725,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Felix Auger-Aliassime",
+          "player1RankingPlayerId": "AG37",
+          "player2Rank": 70,
+          "player2RankingPoints": 810,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Adrian Mannarino",
+          "player2RankingPlayerId": "ME82"
         }
       ]
     },
@@ -96,7 +109,17 @@
             "1"
           ],
           "winnerName": "Felix Auger Aliassime",
-          "formattedScore": "6-4 6-7(5) 6-1"
+          "formattedScore": "6-4 6-7(5) 6-1",
+          "player1Rank": 8,
+          "player1RankingPoints": 3725,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Felix Auger-Aliassime",
+          "player1RankingPlayerId": "AG37",
+          "player2Rank": 150,
+          "player2RankingPoints": 403,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Titouan Droguet",
+          "player2RankingPlayerId": "D0DW"
         },
         {
           "bracketOrder": 2,
@@ -121,7 +144,17 @@
             "4"
           ],
           "winnerName": "Adrian Mannarino",
-          "formattedScore": "1-6 6-3 6-4"
+          "formattedScore": "1-6 6-3 6-4",
+          "player1Rank": 70,
+          "player1RankingPoints": 810,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Adrian Mannarino",
+          "player1RankingPlayerId": "ME82",
+          "player2Rank": 160,
+          "player2RankingPoints": 373,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Martin Damm",
+          "player2RankingPlayerId": "D0DT"
         }
       ]
     },
@@ -152,7 +185,17 @@
             "2"
           ],
           "winnerName": "Felix Auger Aliassime",
-          "formattedScore": "6-4 6-2"
+          "formattedScore": "6-4 6-2",
+          "player1Rank": 8,
+          "player1RankingPoints": 3725,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Felix Auger-Aliassime",
+          "player1RankingPlayerId": "AG37",
+          "player2Rank": 42,
+          "player2RankingPoints": 1110,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Arthur Fils",
+          "player2RankingPlayerId": "F0F1"
         },
         {
           "bracketOrder": 2,
@@ -175,7 +218,17 @@
             "7"
           ],
           "winnerName": "Titouan Droguet",
-          "formattedScore": "7-6(5) 7-6(1)"
+          "formattedScore": "7-6(5) 7-6(1)",
+          "player1Rank": 29,
+          "player1RankingPoints": 1565,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Tallon Griekspoor",
+          "player1RankingPlayerId": "GJ37",
+          "player2Rank": 150,
+          "player2RankingPoints": 403,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Titouan Droguet",
+          "player2RankingPlayerId": "D0DW"
         },
         {
           "bracketOrder": 3,
@@ -200,7 +253,17 @@
             "4"
           ],
           "winnerName": "Adrian Mannarino",
-          "formattedScore": "5-7 6-4 6-4"
+          "formattedScore": "5-7 6-4 6-4",
+          "player1Rank": 70,
+          "player1RankingPoints": 810,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Adrian Mannarino",
+          "player1RankingPlayerId": "ME82",
+          "player2Rank": 168,
+          "player2RankingPoints": 353,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Arthur Gea",
+          "player2RankingPlayerId": "G0IX"
         },
         {
           "bracketOrder": 4,
@@ -223,7 +286,17 @@
             "6 8"
           ],
           "winnerName": "Martin Damm",
-          "formattedScore": "6-3 7-6(8)"
+          "formattedScore": "6-3 7-6(8)",
+          "player1Rank": 160,
+          "player1RankingPoints": 373,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Martin Damm",
+          "player1RankingPlayerId": "D0DT",
+          "player2Rank": 106,
+          "player2RankingPoints": 571,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Luca Nardi",
+          "player2RankingPlayerId": "N0BG"
         }
       ]
     },
@@ -254,7 +327,17 @@
             "6 3"
           ],
           "winnerName": "Felix Auger Aliassime",
-          "formattedScore": "6-4 7-6(3)"
+          "formattedScore": "6-4 7-6(3)",
+          "player1Rank": 8,
+          "player1RankingPoints": 3725,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Felix Auger-Aliassime",
+          "player1RankingPlayerId": "AG37",
+          "player2Rank": 113,
+          "player2RankingPoints": 537,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Stan Wawrinka",
+          "player2RankingPlayerId": "W367"
         },
         {
           "bracketOrder": 2,
@@ -277,7 +360,17 @@
             "7"
           ],
           "winnerName": "Arthur Fils",
-          "formattedScore": "7-6(4) 7-5"
+          "formattedScore": "7-6(4) 7-5",
+          "player1Rank": 174,
+          "player1RankingPoints": 343,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Ugo Blanchet",
+          "player1RankingPlayerId": "BV16",
+          "player2Rank": 42,
+          "player2RankingPoints": 1110,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Arthur Fils",
+          "player2RankingPlayerId": "F0F1"
         },
         {
           "bracketOrder": 3,
@@ -300,7 +393,17 @@
             "4"
           ],
           "winnerName": "Tallon Griekspoor",
-          "formattedScore": "6-4 6-4"
+          "formattedScore": "6-4 6-4",
+          "player1Rank": 29,
+          "player1RankingPoints": 1565,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Tallon Griekspoor",
+          "player1RankingPlayerId": "GJ37",
+          "player2Rank": 100,
+          "player2RankingPoints": 616,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Pablo Carreno Busta",
+          "player2RankingPlayerId": "CD85"
         },
         {
           "bracketOrder": 4,
@@ -325,7 +428,17 @@
             "4"
           ],
           "winnerName": "Titouan Droguet",
-          "formattedScore": "4-6 7-6(5) 6-4"
+          "formattedScore": "4-6 7-6(5) 6-4",
+          "player1Rank": 150,
+          "player1RankingPoints": 403,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Titouan Droguet",
+          "player1RankingPlayerId": "D0DW",
+          "player2Rank": 83,
+          "player2RankingPoints": 709,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Aleksandar Kovacevic",
+          "player2RankingPlayerId": "K0AZ"
         },
         {
           "bracketOrder": 5,
@@ -350,7 +463,17 @@
             "7"
           ],
           "winnerName": "Adrian Mannarino",
-          "formattedScore": "6-7(4) 6-3 7-6(4)"
+          "formattedScore": "6-7(4) 6-3 7-6(4)",
+          "player1Rank": 38,
+          "player1RankingPoints": 1320,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Ugo Humbert",
+          "player1RankingPlayerId": "HH26",
+          "player2Rank": 70,
+          "player2RankingPoints": 810,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Adrian Mannarino",
+          "player2RankingPlayerId": "ME82"
         },
         {
           "bracketOrder": 6,
@@ -373,7 +496,17 @@
             "5"
           ],
           "winnerName": "Arthur Gea",
-          "formattedScore": "6 4"
+          "formattedScore": "6 4",
+          "player1Rank": 168,
+          "player1RankingPoints": 353,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Arthur Gea",
+          "player1RankingPlayerId": "G0IX",
+          "player2Rank": 28,
+          "player2RankingPoints": 1610,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Tomas Machac",
+          "player2RankingPlayerId": "M0FH"
         },
         {
           "bracketOrder": 7,
@@ -396,7 +529,17 @@
             "3"
           ],
           "winnerName": "Martin Damm",
-          "formattedScore": "6-1 6-3"
+          "formattedScore": "6-1 6-3",
+          "player1Rank": 160,
+          "player1RankingPoints": 373,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Martin Damm",
+          "player1RankingPlayerId": "D0DT",
+          "player2Rank": 89,
+          "player2RankingPoints": 670,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Roberto Bautista Agut",
+          "player2RankingPlayerId": "BD06"
         },
         {
           "bracketOrder": 8,
@@ -419,7 +562,17 @@
             "3"
           ],
           "winnerName": "Luca Nardi",
-          "formattedScore": "6-2 6-3"
+          "formattedScore": "6-2 6-3",
+          "player1Rank": 106,
+          "player1RankingPoints": 571,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Luca Nardi",
+          "player1RankingPlayerId": "N0BG",
+          "player2Rank": 20,
+          "player2RankingPoints": 1955,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Flavio Cobolli",
+          "player2RankingPlayerId": "C0E9"
         }
       ]
     },
@@ -444,7 +597,12 @@
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "Felix Auger Aliassime",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player1Rank": 8,
+          "player1RankingPoints": 3725,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Felix Auger-Aliassime",
+          "player1RankingPlayerId": "AG37"
         },
         {
           "bracketOrder": 2,
@@ -467,7 +625,17 @@
             "6"
           ],
           "winnerName": "Stan Wawrinka",
-          "formattedScore": "7-6(3) 6-4"
+          "formattedScore": "7-6(3) 6-4",
+          "player1Rank": 80,
+          "player1RankingPoints": 717,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Hamad Medjedovic",
+          "player1RankingPlayerId": "M0JF",
+          "player2Rank": 113,
+          "player2RankingPoints": 537,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Stan Wawrinka",
+          "player2RankingPlayerId": "W367"
         },
         {
           "bracketOrder": 3,
@@ -490,7 +658,17 @@
             "6"
           ],
           "winnerName": "Ugo Blanchet",
-          "formattedScore": "6-4 6-3"
+          "formattedScore": "6-4 6-3",
+          "player1Rank": 282,
+          "player1RankingPoints": 185,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Andrea Vavassori",
+          "player1RankingPlayerId": "VA08",
+          "player2Rank": 174,
+          "player2RankingPoints": 343,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Ugo Blanchet",
+          "player2RankingPlayerId": "BV16"
         },
         {
           "bracketOrder": 4,
@@ -515,7 +693,17 @@
             "6"
           ],
           "winnerName": "Arthur Fils",
-          "formattedScore": "7-6(7) 6-7(4) 6-2"
+          "formattedScore": "7-6(7) 6-7(4) 6-2",
+          "player1Rank": 56,
+          "player1RankingPoints": 920,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Valentin Royer",
+          "player1RankingPlayerId": "R0EB",
+          "player2Rank": 42,
+          "player2RankingPoints": 1110,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Arthur Fils",
+          "player2RankingPlayerId": "F0F1"
         },
         {
           "bracketOrder": 5,
@@ -532,7 +720,12 @@
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "Tallon Griekspoor",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player1Rank": 29,
+          "player1RankingPoints": 1565,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Tallon Griekspoor",
+          "player1RankingPlayerId": "GJ37"
         },
         {
           "bracketOrder": 6,
@@ -557,7 +750,17 @@
             "7"
           ],
           "winnerName": "Pablo Carreno Busta",
-          "formattedScore": "4-6 6-3 7-6(4)"
+          "formattedScore": "4-6 6-3 7-6(4)",
+          "player1Rank": 69,
+          "player1RankingPoints": 820,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Miomir Kecmanovic",
+          "player1RankingPlayerId": "KI95",
+          "player2Rank": 100,
+          "player2RankingPoints": 616,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Pablo Carreno Busta",
+          "player2RankingPlayerId": "CD85"
         },
         {
           "bracketOrder": 7,
@@ -580,7 +783,17 @@
             "6 2"
           ],
           "winnerName": "Titouan Droguet",
-          "formattedScore": "6-2 7-6(2)"
+          "formattedScore": "6-2 7-6(2)",
+          "player1Rank": 150,
+          "player1RankingPoints": 403,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Titouan Droguet",
+          "player1RankingPlayerId": "D0DW",
+          "player2Rank": 125,
+          "player2RankingPoints": 498,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Jan Choinski",
+          "player2RankingPlayerId": "CH12"
         },
         {
           "bracketOrder": 8,
@@ -605,7 +818,17 @@
             "6"
           ],
           "winnerName": "Aleksandar Kovacevic",
-          "formattedScore": "6-7(5) 6-2 6-2"
+          "formattedScore": "6-7(5) 6-2 6-2",
+          "player1Rank": 552,
+          "player1RankingPoints": 70,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Moise Kouame",
+          "player1RankingPlayerId": "K0O4",
+          "player2Rank": 83,
+          "player2RankingPoints": 709,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Aleksandar Kovacevic",
+          "player2RankingPlayerId": "K0AZ"
         },
         {
           "bracketOrder": 9,
@@ -628,7 +851,17 @@
             "4"
           ],
           "winnerName": "Ugo Humbert",
-          "formattedScore": "6-3 6-4"
+          "formattedScore": "6-3 6-4",
+          "player1Rank": 38,
+          "player1RankingPoints": 1320,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Ugo Humbert",
+          "player1RankingPlayerId": "HH26",
+          "player2Rank": 67,
+          "player2RankingPoints": 849,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Botic van de Zandschulp",
+          "player2RankingPlayerId": "V812"
         },
         {
           "bracketOrder": 10,
@@ -651,7 +884,17 @@
             "6"
           ],
           "winnerName": "Adrian Mannarino",
-          "formattedScore": "7-6(3) 6-1"
+          "formattedScore": "7-6(3) 6-1",
+          "player1Rank": 77,
+          "player1RankingPoints": 728,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Pedro Martinez",
+          "player1RankingPlayerId": "MO44",
+          "player2Rank": 70,
+          "player2RankingPoints": 810,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Adrian Mannarino",
+          "player2RankingPlayerId": "ME82"
         },
         {
           "bracketOrder": 11,
@@ -674,7 +917,17 @@
             "0"
           ],
           "winnerName": "Arthur Gea",
-          "formattedScore": "6 0"
+          "formattedScore": "6 0",
+          "player1Rank": 168,
+          "player1RankingPoints": 353,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Arthur Gea",
+          "player1RankingPlayerId": "G0IX",
+          "player2Rank": 57,
+          "player2RankingPoints": 905,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Giovanni Mpetshi Perricard",
+          "player2RankingPlayerId": "M0GZ"
         },
         {
           "bracketOrder": 12,
@@ -691,7 +944,12 @@
           "player2Country": "CZE",
           "player2ScoreTokens": [],
           "winnerName": "Tomas Machac",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player2Rank": 28,
+          "player2RankingPoints": 1610,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Tomas Machac",
+          "player2RankingPlayerId": "M0FH"
         },
         {
           "bracketOrder": 13,
@@ -714,7 +972,17 @@
             "6"
           ],
           "winnerName": "Martin Damm",
-          "formattedScore": "7-6(5) 6-4"
+          "formattedScore": "7-6(5) 6-4",
+          "player1Rank": 52,
+          "player1RankingPoints": 965,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Hubert Hurkacz",
+          "player1RankingPlayerId": "HB71",
+          "player2Rank": 160,
+          "player2RankingPoints": 373,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Martin Damm",
+          "player2RankingPlayerId": "D0DT"
         },
         {
           "bracketOrder": 14,
@@ -739,7 +1007,17 @@
             "5"
           ],
           "winnerName": "Roberto Bautista Agut",
-          "formattedScore": "5-7 6-3 7-5"
+          "formattedScore": "5-7 6-3 7-5",
+          "player1Rank": 89,
+          "player1RankingPoints": 670,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Roberto Bautista Agut",
+          "player1RankingPlayerId": "BD06",
+          "player2Rank": 119,
+          "player2RankingPoints": 511,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Christopher O'Connell",
+          "player2RankingPlayerId": "O483"
         },
         {
           "bracketOrder": 15,
@@ -762,7 +1040,17 @@
             "6"
           ],
           "winnerName": "Luca Nardi",
-          "formattedScore": "6-3 6-3"
+          "formattedScore": "6-3 6-3",
+          "player1Rank": 137,
+          "player1RankingPoints": 464,
+          "player1RankingDate": "2026-02-02",
+          "player1RankingName": "Nikoloz Basilashvili",
+          "player1RankingPlayerId": "BG23",
+          "player2Rank": 106,
+          "player2RankingPoints": 571,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Luca Nardi",
+          "player2RankingPlayerId": "N0BG"
         },
         {
           "bracketOrder": 16,
@@ -779,7 +1067,12 @@
           "player2Country": "ITA",
           "player2ScoreTokens": [],
           "winnerName": "Flavio Cobolli",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player2Rank": 20,
+          "player2RankingPoints": 1955,
+          "player2RankingDate": "2026-02-02",
+          "player2RankingName": "Flavio Cobolli",
+          "player2RankingPlayerId": "C0E9"
         }
       ]
     }

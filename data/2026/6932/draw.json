@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/draws",
   "tournament": {
     "id": "6932",
@@ -35,6 +35,10 @@
   },
   "countRounds": 5,
   "countMatches": 31,
+  "rankingDatesUsed": [
+    "2026-02-09",
+    "2026-02-16"
+  ],
   "rounds": [
     {
       "round": "F",
@@ -65,7 +69,17 @@
             "6"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "3-6 7-6(3) 6-4"
+          "formattedScore": "3-6 7-6(3) 6-4",
+          "player1Rank": 68,
+          "player1RankingPoints": 808,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Alejandro Tabilo",
+          "player1RankingPlayerId": "TE30",
+          "player2Rank": 51,
+          "player2RankingPoints": 1020,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Tomas Martin Etcheverry",
+          "player2RankingPlayerId": "EA24"
         }
       ]
     },
@@ -96,7 +110,17 @@
             "3"
           ],
           "winnerName": "Alejandro Tabilo",
-          "formattedScore": "6-3 6-3"
+          "formattedScore": "6-3 6-3",
+          "player1Rank": 68,
+          "player1RankingPoints": 808,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Alejandro Tabilo",
+          "player1RankingPlayerId": "TE30",
+          "player2Rank": 91,
+          "player2RankingPoints": 648,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Ignacio Buse",
+          "player2RankingPlayerId": "B0ID"
         },
         {
           "bracketOrder": 2,
@@ -121,7 +145,17 @@
             "6 4"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "4-6 7-6(2) 7-6(4)"
+          "formattedScore": "4-6 7-6(2) 7-6(4)",
+          "player1Rank": 51,
+          "player1RankingPoints": 1020,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Tomas Martin Etcheverry",
+          "player1RankingPlayerId": "EA24",
+          "player2Rank": 87,
+          "player2RankingPoints": 660,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Vit Kopriva",
+          "player2RankingPlayerId": "KI82"
         }
       ]
     },
@@ -154,7 +188,17 @@
             "6"
           ],
           "winnerName": "Alejandro Tabilo",
-          "formattedScore": "7-6(2) 6-7(6) 6-1"
+          "formattedScore": "7-6(2) 6-7(6) 6-1",
+          "player1Rank": 92,
+          "player1RankingPoints": 647,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Thiago Agustin Tirante",
+          "player1RankingPlayerId": "T0A1",
+          "player2Rank": 68,
+          "player2RankingPoints": 808,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Alejandro Tabilo",
+          "player2RankingPlayerId": "TE30"
         },
         {
           "bracketOrder": 2,
@@ -179,7 +223,17 @@
             "3"
           ],
           "winnerName": "Ignacio Buse",
-          "formattedScore": "6-3 2-6 6-3"
+          "formattedScore": "6-3 2-6 6-3",
+          "player1Rank": 91,
+          "player1RankingPoints": 648,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Ignacio Buse",
+          "player1RankingPlayerId": "B0ID",
+          "player2Rank": 57,
+          "player2RankingPoints": 910,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Matteo Berrettini",
+          "player2RankingPlayerId": "BK40"
         },
         {
           "bracketOrder": 3,
@@ -202,7 +256,17 @@
             "4"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "7-6(4) 6-4"
+          "formattedScore": "7-6(4) 6-4",
+          "player1Rank": 51,
+          "player1RankingPoints": 1020,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Tomas Martin Etcheverry",
+          "player1RankingPlayerId": "EA24",
+          "player2Rank": 147,
+          "player2RankingPoints": 425,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Jaime Faria",
+          "player2RankingPlayerId": "F0F2"
         },
         {
           "bracketOrder": 4,
@@ -225,7 +289,17 @@
             "4"
           ],
           "winnerName": "Vit Kopriva",
-          "formattedScore": "6-4 6-4"
+          "formattedScore": "6-4 6-4",
+          "player1Rank": 87,
+          "player1RankingPoints": 660,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Vit Kopriva",
+          "player1RankingPlayerId": "KI82",
+          "player2Rank": 78,
+          "player2RankingPoints": 706,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Juan Manuel Cerundolo",
+          "player2RankingPlayerId": "C0C8"
         }
       ]
     },
@@ -256,7 +330,17 @@
             "3"
           ],
           "winnerName": "Thiago Agustin Tirante",
-          "formattedScore": "6 3"
+          "formattedScore": "6 3",
+          "player1Rank": 19,
+          "player1RankingPoints": 2220,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Francisco Cerundolo",
+          "player1RankingPlayerId": "C0AU",
+          "player2Rank": 92,
+          "player2RankingPoints": 647,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Thiago Agustin Tirante",
+          "player2RankingPlayerId": "T0A1"
         },
         {
           "bracketOrder": 2,
@@ -281,7 +365,17 @@
             "2"
           ],
           "winnerName": "Alejandro Tabilo",
-          "formattedScore": "4-6 7-6(0) 6-2"
+          "formattedScore": "4-6 7-6(0) 6-2",
+          "player1Rank": 68,
+          "player1RankingPoints": 808,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Alejandro Tabilo",
+          "player1RankingPlayerId": "TE30",
+          "player2Rank": 163,
+          "player2RankingPoints": 376,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Francesco Passaro",
+          "player2RankingPlayerId": "P0CT"
         },
         {
           "bracketOrder": 3,
@@ -306,7 +400,17 @@
             "6"
           ],
           "winnerName": "Ignacio Buse",
-          "formattedScore": "5-7 6-3 6-4"
+          "formattedScore": "5-7 6-3 6-4",
+          "player1Rank": 38,
+          "player1RankingPoints": 1190,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Joao Fonseca",
+          "player1RankingPlayerId": "F0FV",
+          "player2Rank": 91,
+          "player2RankingPoints": 648,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Ignacio Buse",
+          "player2RankingPlayerId": "B0ID"
         },
         {
           "bracketOrder": 4,
@@ -331,7 +435,17 @@
             "2"
           ],
           "winnerName": "Matteo Berrettini",
-          "formattedScore": "3-6 6-4 6-2"
+          "formattedScore": "3-6 6-4 6-2",
+          "player1Rank": 57,
+          "player1RankingPoints": 910,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Matteo Berrettini",
+          "player1RankingPlayerId": "BK40",
+          "player2Rank": 129,
+          "player2RankingPoints": 485,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Dusan Lajovic",
+          "player2RankingPlayerId": "L987"
         },
         {
           "bracketOrder": 5,
@@ -354,7 +468,17 @@
             "4"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "7-6(1) 6-4"
+          "formattedScore": "7-6(1) 6-4",
+          "player1Rank": 51,
+          "player1RankingPoints": 1020,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Tomas Martin Etcheverry",
+          "player1RankingPlayerId": "EA24",
+          "player2Rank": 126,
+          "player2RankingPoints": 490,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Vilius Gaubas",
+          "player2RankingPlayerId": "G0FW"
         },
         {
           "bracketOrder": 6,
@@ -377,7 +501,17 @@
             "6"
           ],
           "winnerName": "Jaime Faria",
-          "formattedScore": "7-6(1) 6-4"
+          "formattedScore": "7-6(1) 6-4",
+          "player1Rank": 62,
+          "player1RankingPoints": 877,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Damir Dzumhur",
+          "player1RankingPlayerId": "D923",
+          "player2Rank": 147,
+          "player2RankingPoints": 425,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Jaime Faria",
+          "player2RankingPlayerId": "F0F2"
         },
         {
           "bracketOrder": 7,
@@ -400,7 +534,17 @@
             "6"
           ],
           "winnerName": "Vit Kopriva",
-          "formattedScore": "6-3 6-1"
+          "formattedScore": "6-3 6-1",
+          "player1Rank": 102,
+          "player1RankingPoints": 580,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Roman Andres Burruchaga",
+          "player1RankingPlayerId": "B0FV",
+          "player2Rank": 87,
+          "player2RankingPoints": 660,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Vit Kopriva",
+          "player2RankingPlayerId": "KI82"
         },
         {
           "bracketOrder": 8,
@@ -425,7 +569,17 @@
             "6"
           ],
           "winnerName": "Juan Manuel Cerundolo",
-          "formattedScore": "6-4 6-7(1) 6-4"
+          "formattedScore": "6-4 6-7(1) 6-4",
+          "player1Rank": 90,
+          "player1RankingPoints": 653,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Yannick Hanfmann",
+          "player1RankingPlayerId": "H997",
+          "player2Rank": 78,
+          "player2RankingPoints": 706,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Juan Manuel Cerundolo",
+          "player2RankingPlayerId": "C0C8"
         }
       ]
     },
@@ -456,7 +610,17 @@
             "4"
           ],
           "winnerName": "Francisco Cerundolo",
-          "formattedScore": "6-3 6-4"
+          "formattedScore": "6-3 6-4",
+          "player1Rank": 19,
+          "player1RankingPoints": 2220,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Francisco Cerundolo",
+          "player1RankingPlayerId": "C0AU",
+          "player2Rank": 74,
+          "player2RankingPoints": 750,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Mariano Navone",
+          "player2RankingPlayerId": "N0BS"
         },
         {
           "bracketOrder": 2,
@@ -479,7 +643,17 @@
             "6"
           ],
           "winnerName": "Thiago Agustin Tirante",
-          "formattedScore": "7-5 6-3"
+          "formattedScore": "7-5 6-3",
+          "player1Rank": 89,
+          "player1RankingPoints": 656,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Cristian Garin",
+          "player1RankingPlayerId": "GD64",
+          "player2Rank": 92,
+          "player2RankingPoints": 647,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Thiago Agustin Tirante",
+          "player2RankingPlayerId": "T0A1"
         },
         {
           "bracketOrder": 3,
@@ -502,7 +676,17 @@
             "3"
           ],
           "winnerName": "Alejandro Tabilo",
-          "formattedScore": "6-3 6-3"
+          "formattedScore": "6-3 6-3",
+          "player1Rank": 68,
+          "player1RankingPoints": 808,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Alejandro Tabilo",
+          "player1RankingPlayerId": "TE30",
+          "player2Rank": 76,
+          "player2RankingPoints": 710,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Emilio Nava",
+          "player2RankingPlayerId": "N0AM"
         },
         {
           "bracketOrder": 4,
@@ -525,7 +709,17 @@
             "6"
           ],
           "winnerName": "Francesco Passaro",
-          "formattedScore": "6-3 6-4"
+          "formattedScore": "6-3 6-4",
+          "player1Rank": 122,
+          "player1RankingPoints": 507,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Dino Prizmic",
+          "player1RankingPlayerId": "P0HW",
+          "player2Rank": 163,
+          "player2RankingPoints": 376,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Francesco Passaro",
+          "player2RankingPlayerId": "P0CT"
         },
         {
           "bracketOrder": 5,
@@ -548,7 +742,17 @@
             "1"
           ],
           "winnerName": "Joao Fonseca",
-          "formattedScore": "7-6(1) 6-1"
+          "formattedScore": "7-6(1) 6-1",
+          "player1Rank": 38,
+          "player1RankingPoints": 1190,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Joao Fonseca",
+          "player1RankingPlayerId": "F0FV",
+          "player2Rank": 208,
+          "player2RankingPoints": 290,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Thiago Monteiro",
+          "player2RankingPlayerId": "MJ08"
         },
         {
           "bracketOrder": 6,
@@ -573,7 +777,17 @@
             "6"
           ],
           "winnerName": "Ignacio Buse",
-          "formattedScore": "4-6 7-5 6-4"
+          "formattedScore": "4-6 7-5 6-4",
+          "player1Rank": 348,
+          "player1RankingPoints": 138,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Igor Marcondes",
+          "player1RankingPlayerId": "RD48",
+          "player2Rank": 91,
+          "player2RankingPoints": 648,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Ignacio Buse",
+          "player2RankingPlayerId": "B0ID"
         },
         {
           "bracketOrder": 7,
@@ -596,7 +810,17 @@
             "7"
           ],
           "winnerName": "Matteo Berrettini",
-          "formattedScore": "7-6(1) 7-5"
+          "formattedScore": "7-6(1) 7-5",
+          "player1Rank": 107,
+          "player1RankingPoints": 563,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Tomas Barrios Vera",
+          "player1RankingPlayerId": "BS86",
+          "player2Rank": 57,
+          "player2RankingPoints": 910,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Matteo Berrettini",
+          "player2RankingPlayerId": "BK40"
         },
         {
           "bracketOrder": 8,
@@ -619,7 +843,17 @@
             "6 7"
           ],
           "winnerName": "Dusan Lajovic",
-          "formattedScore": "6-4 7-6(7)"
+          "formattedScore": "6-4 7-6(7)",
+          "player1Rank": 129,
+          "player1RankingPoints": 485,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Dusan Lajovic",
+          "player1RankingPlayerId": "L987",
+          "player2Rank": 54,
+          "player2RankingPoints": 961,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Daniel Altmaier",
+          "player2RankingPlayerId": "AE14"
         },
         {
           "bracketOrder": 9,
@@ -644,7 +878,17 @@
             "4"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "3-6 6-3 6-4"
+          "formattedScore": "3-6 6-3 6-4",
+          "player1Rank": 51,
+          "player1RankingPoints": 1020,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Tomas Martin Etcheverry",
+          "player1RankingPlayerId": "EA24",
+          "player2Rank": 63,
+          "player2RankingPoints": 869,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Francisco Comesana",
+          "player2RankingPlayerId": "C0DF"
         },
         {
           "bracketOrder": 10,
@@ -669,7 +913,17 @@
             "6"
           ],
           "winnerName": "Vilius Gaubas",
-          "formattedScore": "6-3 2-6 6-2"
+          "formattedScore": "6-3 2-6 6-2",
+          "player1Rank": 1593,
+          "player1RankingPoints": 3,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Guto Miguel",
+          "player1RankingPlayerId": "M0WY",
+          "player2Rank": 126,
+          "player2RankingPoints": 490,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Vilius Gaubas",
+          "player2RankingPlayerId": "G0FW"
         },
         {
           "bracketOrder": 11,
@@ -694,7 +948,17 @@
             "4"
           ],
           "winnerName": "Damir Dzumhur",
-          "formattedScore": "0-6 7-6(5) 6-4"
+          "formattedScore": "0-6 7-6(5) 6-4",
+          "player1Rank": 62,
+          "player1RankingPoints": 877,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Damir Dzumhur",
+          "player1RankingPlayerId": "D923",
+          "player2Rank": 101,
+          "player2RankingPoints": 586,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Pedro Martinez",
+          "player2RankingPlayerId": "MO44"
         },
         {
           "bracketOrder": 12,
@@ -717,7 +981,17 @@
             "1"
           ],
           "winnerName": "Jaime Faria",
-          "formattedScore": "7-5 6-1"
+          "formattedScore": "7-5 6-1",
+          "player1Rank": 147,
+          "player1RankingPoints": 425,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Jaime Faria",
+          "player1RankingPlayerId": "F0F2",
+          "player2Rank": 32,
+          "player2RankingPoints": 1495,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Sebastian Baez",
+          "player2RankingPlayerId": "B0BI"
         },
         {
           "bracketOrder": 13,
@@ -740,7 +1014,17 @@
             "6"
           ],
           "winnerName": "Roman Andres Burruchaga",
-          "formattedScore": "6-3 6-4"
+          "formattedScore": "6-3 6-4",
+          "player1Rank": 46,
+          "player1RankingPoints": 1068,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Camilo Ugo Carabelli",
+          "player1RankingPlayerId": "U182",
+          "player2Rank": 102,
+          "player2RankingPoints": 580,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Roman Andres Burruchaga",
+          "player2RankingPlayerId": "B0FV"
         },
         {
           "bracketOrder": 14,
@@ -763,7 +1047,17 @@
             "7"
           ],
           "winnerName": "Vit Kopriva",
-          "formattedScore": "6-2 7-6(5)"
+          "formattedScore": "6-2 7-6(5)",
+          "player1Rank": 258,
+          "player1RankingPoints": 207,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Gustavo Heide",
+          "player1RankingPlayerId": "H0DU",
+          "player2Rank": 87,
+          "player2RankingPoints": 660,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Vit Kopriva",
+          "player2RankingPlayerId": "KI82"
         },
         {
           "bracketOrder": 15,
@@ -786,7 +1080,17 @@
             "4"
           ],
           "winnerName": "Yannick Hanfmann",
-          "formattedScore": "7-6(3) 6-4"
+          "formattedScore": "7-6(3) 6-4",
+          "player1Rank": 90,
+          "player1RankingPoints": 653,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Yannick Hanfmann",
+          "player1RankingPlayerId": "H997",
+          "player2Rank": 207,
+          "player2RankingPoints": 291,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Joao Lucas Reis Da Silva",
+          "player2RankingPlayerId": "R0A7"
         },
         {
           "bracketOrder": 16,
@@ -811,7 +1115,17 @@
             "4"
           ],
           "winnerName": "Juan Manuel Cerundolo",
-          "formattedScore": "6-1 3-6 6-4"
+          "formattedScore": "6-1 3-6 6-4",
+          "player1Rank": 78,
+          "player1RankingPoints": 706,
+          "player1RankingDate": "2026-02-16",
+          "player1RankingName": "Juan Manuel Cerundolo",
+          "player1RankingPlayerId": "C0C8",
+          "player2Rank": 21,
+          "player2RankingPoints": 1904,
+          "player2RankingDate": "2026-02-16",
+          "player2RankingName": "Luciano Darderi",
+          "player2RankingPlayerId": "D0FJ"
         }
       ]
     }

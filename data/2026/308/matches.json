@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/munich/308/2026/results",
   "tournament": {
     "id": "308",
@@ -34,6 +34,10 @@
     "totalFinancialCommitment": "€2,814,655"
   },
   "count": 43,
+  "rankingDatesUsed": [
+    "2026-04-06",
+    "2026-04-13"
+  ],
   "matches": [
     {
       "matchId": "RES-ACD4B21F91",
@@ -51,7 +55,19 @@
       "reason": null,
       "formattedScore": "6-2 7-5",
       "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 6,
+      "playerRankingPoints": 3900,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 16,
+      "opponentRankingPoints": 2320,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Flavio Cobolli",
+      "opponentRankingPlayerId": "C0E9",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-6ADF881C87",
@@ -69,7 +85,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 6-3 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 6,
+      "playerRankingPoints": 3900,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 166,
+      "opponentRankingPoints": 376,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Alex Molcan",
+      "opponentRankingPlayerId": "MV14",
+      "opponentCountry": "SVK"
     },
     {
       "matchId": "RES-D19BC6C9EF",
@@ -87,7 +115,19 @@
       "reason": null,
       "formattedScore": "6-3 6-3",
       "sourceText": "Game Set and Match Flavio Cobolli. Flavio Cobolli wins the match 6-3 6-3 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 16,
+      "playerRankingPoints": 2320,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Flavio Cobolli",
+      "playerRankingPlayerId": "C0E9",
+      "playerCountry": "ITA",
+      "opponentRank": 3,
+      "opponentRankingPoints": 5555,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Alexander Zverev",
+      "opponentRankingPlayerId": "Z355",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-5E904C656A",
@@ -105,7 +145,19 @@
       "reason": null,
       "formattedScore": "6-3 3-6 6-3",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 6-3 3-6 6-3 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 6,
+      "playerRankingPoints": 3900,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 35,
+      "opponentRankingPoints": 1315,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Joao Fonseca",
+      "opponentRankingPlayerId": "F0FV",
+      "opponentCountry": "BRA"
     },
     {
       "matchId": "RES-548C862B0A",
@@ -123,7 +175,19 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Alex Molcan. Alex Molcan wins the match 6-4 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 166,
+      "playerRankingPoints": 376,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Alex Molcan",
+      "playerRankingPlayerId": "MV14",
+      "playerCountry": "SVK",
+      "opponentRank": 39,
+      "opponentRankingPoints": 1120,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Denis Shapovalov",
+      "opponentRankingPlayerId": "SU55",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-E118076337",
@@ -141,7 +205,19 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Flavio Cobolli. Flavio Cobolli wins the match 6-3 6-2 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 16,
+      "playerRankingPoints": 2320,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Flavio Cobolli",
+      "playerRankingPlayerId": "C0E9",
+      "playerCountry": "ITA",
+      "opponentRank": 78,
+      "opponentRankingPoints": 738,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Vit Kopriva",
+      "opponentRankingPlayerId": "KI82",
+      "opponentCountry": "CZE"
     },
     {
       "matchId": "RES-E6DDECABD5",
@@ -159,7 +235,19 @@
       "reason": null,
       "formattedScore": "5-7 6-0 6-2",
       "sourceText": "Game Set and Match Alexander Zverev. Alexander Zverev wins the match 5-7 6-0 6-2 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 3,
+      "playerRankingPoints": 5555,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Alexander Zverev",
+      "playerRankingPlayerId": "Z355",
+      "playerCountry": "GER",
+      "opponentRank": 19,
+      "opponentRankingPoints": 2020,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Francisco Cerundolo",
+      "opponentRankingPlayerId": "C0AU",
+      "opponentCountry": "ARG"
     },
     {
       "matchId": "RES-233AA84F1A",
@@ -177,7 +265,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(8)",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 6-4 7-6(8).",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 6,
+      "playerRankingPoints": 3900,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 72,
+      "opponentRankingPoints": 772,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Alexander Blockx",
+      "opponentRankingPlayerId": "B0PG",
+      "opponentCountry": "BEL"
     },
     {
       "matchId": "RES-BACE28C742",
@@ -195,7 +295,19 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Joao Fonseca. Joao Fonseca wins the match 6-3 6-2 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 35,
+      "playerRankingPoints": 1315,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Joao Fonseca",
+      "playerRankingPlayerId": "F0FV",
+      "playerCountry": "BRA",
+      "opponentRank": 26,
+      "opponentRankingPoints": 1676,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Arthur Rinderknech",
+      "opponentRankingPlayerId": "RC91",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-29894627A1",
@@ -213,7 +325,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(10)",
       "sourceText": "Game Set and Match Alex Molcan. Alex Molcan wins the match 6-4 7-6(10).",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 166,
+      "playerRankingPoints": 376,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Alex Molcan",
+      "playerRankingPlayerId": "MV14",
+      "playerCountry": "SVK",
+      "opponentRank": 56,
+      "opponentRankingPoints": 880,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Daniel Altmaier",
+      "opponentRankingPlayerId": "AE14",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-BF5B14CF4D",
@@ -231,7 +355,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 6-2",
       "sourceText": "Game Set and Match Denis Shapovalov. Denis Shapovalov wins the match 7-6(4) 6-2 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 39,
+      "playerRankingPoints": 1120,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Denis Shapovalov",
+      "playerRankingPlayerId": "SU55",
+      "playerCountry": "CAN",
+      "opponentRank": 42,
+      "opponentRankingPoints": 1105,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Fabian Marozsan",
+      "opponentRankingPlayerId": "M0CI",
+      "opponentCountry": "HUN"
     },
     {
       "matchId": "RES-B35EE1439E",
@@ -249,7 +385,19 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Flavio Cobolli. Flavio Cobolli wins the match 6-2 6-3 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 16,
+      "playerRankingPoints": 2320,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Flavio Cobolli",
+      "playerRankingPlayerId": "C0E9",
+      "playerCountry": "ITA",
+      "opponentRank": 40,
+      "opponentRankingPoints": 1110,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Zizou Bergs",
+      "opponentRankingPlayerId": "BU13",
+      "opponentCountry": "BEL"
     },
     {
       "matchId": "RES-10D1C92F41",
@@ -267,7 +415,19 @@
       "reason": null,
       "formattedScore": "2-6 6-4 6-1",
       "sourceText": "Game Set and Match Vit Kopriva. Vit Kopriva wins the match 2-6 6-4 6-1 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 78,
+      "playerRankingPoints": 738,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Vit Kopriva",
+      "playerRankingPlayerId": "KI82",
+      "playerCountry": "CZE",
+      "opponentRank": 21,
+      "opponentRankingPoints": 1920,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Luciano Darderi",
+      "opponentRankingPlayerId": "D0FJ",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-C67E834DC7",
@@ -285,7 +445,19 @@
       "reason": null,
       "formattedScore": "6-1 6-2",
       "sourceText": "Game Set and Match Alexander Zverev. Alexander Zverev wins the match 6-1 6-2 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 3,
+      "playerRankingPoints": 5555,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Alexander Zverev",
+      "playerRankingPlayerId": "Z355",
+      "playerCountry": "GER",
+      "opponentRank": 37,
+      "opponentRankingPoints": 1175,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Gabriel Diallo",
+      "opponentRankingPlayerId": "D0F6",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-FEDB280BFA",
@@ -303,7 +475,19 @@
       "reason": null,
       "formattedScore": "6-3 6-0",
       "sourceText": "Game Set and Match Francisco Cerundolo. Francisco Cerundolo wins the match 6-3 6-0 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 19,
+      "playerRankingPoints": 2020,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Francisco Cerundolo",
+      "playerRankingPlayerId": "C0AU",
+      "playerCountry": "ARG",
+      "opponentRank": 49,
+      "opponentRankingPoints": 931,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Botic van de Zandschulp",
+      "opponentRankingPlayerId": "V812",
+      "opponentCountry": "NED"
     },
     {
       "matchId": "RES-9C4A3D9006",
@@ -321,7 +505,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 3-6 6-3",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 7-6(4) 3-6 6-3 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 6,
+      "playerRankingPoints": 3900,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 112,
+      "opponentRankingPoints": 580,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Emilio Nava",
+      "opponentRankingPlayerId": "N0AM",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-E076A8901D",
@@ -339,7 +535,19 @@
       "reason": null,
       "formattedScore": "7-6(2) 6-2",
       "sourceText": "Game Set and Match Alexander Blockx. Alexander Blockx wins the match 7-6(2) 6-2 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 72,
+      "playerRankingPoints": 772,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Alexander Blockx",
+      "playerRankingPlayerId": "B0PG",
+      "playerCountry": "BEL",
+      "opponentRank": 51,
+      "opponentRankingPoints": 899,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Yannick Hanfmann",
+      "opponentRankingPlayerId": "H997",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-4D5B82EF45",
@@ -357,7 +565,19 @@
       "reason": null,
       "formattedScore": "7-6(1) 6-3",
       "sourceText": "Game Set and Match Joao Fonseca. Joao Fonseca wins the match 7-6(1) 6-3 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 35,
+      "playerRankingPoints": 1315,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Joao Fonseca",
+      "playerRankingPlayerId": "F0FV",
+      "playerCountry": "BRA",
+      "opponentRank": 45,
+      "opponentRankingPoints": 1068,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Alejandro Tabilo",
+      "opponentRankingPlayerId": "TE30",
+      "opponentCountry": "CHI"
     },
     {
       "matchId": "RES-60F98C61F9",
@@ -375,7 +595,19 @@
       "reason": null,
       "formattedScore": "6-3 6-3",
       "sourceText": "Game Set and Match Arthur Rinderknech. Arthur Rinderknech wins the match 6-3 6-3 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 26,
+      "playerRankingPoints": 1676,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Arthur Rinderknech",
+      "playerRankingPlayerId": "RC91",
+      "playerCountry": "FRA",
+      "opponentRank": 36,
+      "opponentRankingPoints": 1200,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Alex Michelsen",
+      "opponentRankingPlayerId": "M0QI",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-58875167FE",
@@ -393,7 +625,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Alex Molcan. Alex Molcan wins the match 6-4 6-2 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 166,
+      "playerRankingPoints": 376,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Alex Molcan",
+      "playerRankingPlayerId": "MV14",
+      "playerCountry": "SVK",
+      "opponentRank": 11,
+      "opponentRankingPoints": 3445,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Alexander Bublik",
+      "opponentRankingPlayerId": "BK92",
+      "opponentCountry": "KAZ"
     },
     {
       "matchId": "RES-3EA4609078",
@@ -411,7 +655,19 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Daniel Altmaier. Daniel Altmaier wins the match 6-2 6-3 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 56,
+      "playerRankingPoints": 880,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Daniel Altmaier",
+      "playerRankingPlayerId": "AE14",
+      "playerCountry": "GER",
+      "opponentRank": 48,
+      "opponentRankingPoints": 950,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Marin Cilic",
+      "opponentRankingPlayerId": "C977",
+      "opponentCountry": "CRO"
     },
     {
       "matchId": "RES-6D0DCF9C36",
@@ -429,7 +685,19 @@
       "reason": null,
       "formattedScore": "6-4 3-6 6-2",
       "sourceText": "Game Set and Match Denis Shapovalov. Denis Shapovalov wins the match 6-4 3-6 6-2 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 39,
+      "playerRankingPoints": 1120,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Denis Shapovalov",
+      "playerRankingPlayerId": "SU55",
+      "playerCountry": "CAN",
+      "opponentRank": 32,
+      "opponentRankingPoints": 1430,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Tallon Griekspoor",
+      "opponentRankingPlayerId": "GJ37",
+      "opponentCountry": "NED"
     },
     {
       "matchId": "RES-DAD819F310",
@@ -447,7 +715,19 @@
       "reason": null,
       "formattedScore": "3-6 7-6(5) 6-4",
       "sourceText": "Game Set and Match Fabian Marozsan. Fabian Marozsan wins the match 3-6 7-6(5) 6-4 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 42,
+      "playerRankingPoints": 1105,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Fabian Marozsan",
+      "playerRankingPlayerId": "M0CI",
+      "playerCountry": "HUN",
+      "opponentRank": 67,
+      "opponentRankingPoints": 805,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Stefanos Tsitsipas",
+      "opponentRankingPlayerId": "TE51",
+      "opponentCountry": "GRE"
     },
     {
       "matchId": "RES-82C6CAF572",
@@ -465,7 +745,19 @@
       "reason": null,
       "formattedScore": "6-4 7-5",
       "sourceText": "Game Set and Match Flavio Cobolli. Flavio Cobolli wins the match 6-4 7-5 .",
-      "bracketOrder": 9
+      "bracketOrder": 9,
+      "playerRank": 16,
+      "playerRankingPoints": 2320,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Flavio Cobolli",
+      "playerRankingPlayerId": "C0E9",
+      "playerCountry": "ITA",
+      "opponentRank": 258,
+      "opponentRankingPoints": 210,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Diego Dedura",
+      "opponentRankingPlayerId": "D0LJ",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-4AC653A845",
@@ -483,7 +775,19 @@
       "reason": null,
       "formattedScore": "6-1 6-4",
       "sourceText": "Game Set and Match Zizou Bergs. Zizou Bergs wins the match 6-1 6-4 .",
-      "bracketOrder": 10
+      "bracketOrder": 10,
+      "playerRank": 40,
+      "playerRankingPoints": 1110,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Zizou Bergs",
+      "playerRankingPlayerId": "BU13",
+      "playerCountry": "BEL",
+      "opponentRank": 260,
+      "opponentRankingPoints": 208,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Marko Topo",
+      "opponentRankingPlayerId": "T0FI",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-653BA03BFF",
@@ -501,7 +805,19 @@
       "reason": null,
       "formattedScore": "6-3 5-7 6-2",
       "sourceText": "Game Set and Match Vit Kopriva. Vit Kopriva wins the match 6-3 5-7 6-2 .",
-      "bracketOrder": 11
+      "bracketOrder": 11,
+      "playerRank": 78,
+      "playerRankingPoints": 738,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Vit Kopriva",
+      "playerRankingPlayerId": "KI82",
+      "playerCountry": "CZE",
+      "opponentRank": 184,
+      "opponentRankingPoints": 323,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Justin Engel",
+      "opponentRankingPlayerId": "E0DD",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-2D8A137AFE",
@@ -519,7 +835,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 3-6 6-1",
       "sourceText": "Game Set and Match Luciano Darderi. Luciano Darderi wins the match 7-6(5) 3-6 6-1 .",
-      "bracketOrder": 12
+      "bracketOrder": 12,
+      "playerRank": 21,
+      "playerRankingPoints": 1920,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Luciano Darderi",
+      "playerRankingPlayerId": "D0FJ",
+      "playerCountry": "ITA",
+      "opponentRank": 242,
+      "opponentRankingPoints": 230,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Zhizhen Zhang",
+      "opponentRankingPlayerId": "Z371",
+      "opponentCountry": "CHN"
     },
     {
       "matchId": "RES-B16699412B",
@@ -537,7 +865,19 @@
       "reason": null,
       "formattedScore": "6-3 3-6 7-6(2)",
       "sourceText": "Game Set and Match Alexander Zverev. Alexander Zverev wins the match 6-3 3-6 7-6(2).",
-      "bracketOrder": 13
+      "bracketOrder": 13,
+      "playerRank": 3,
+      "playerRankingPoints": 5555,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Alexander Zverev",
+      "playerRankingPlayerId": "Z355",
+      "playerCountry": "GER",
+      "opponentRank": 58,
+      "opponentRankingPoints": 875,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Miomir Kecmanovic",
+      "opponentRankingPlayerId": "KI95",
+      "opponentCountry": "SRB"
     },
     {
       "matchId": "RES-AA60FF9621",
@@ -555,7 +895,19 @@
       "reason": null,
       "formattedScore": "6-1 6-2",
       "sourceText": "Game Set and Match Gabriel Diallo. Gabriel Diallo wins the match 6-1 6-2 .",
-      "bracketOrder": 14
+      "bracketOrder": 14,
+      "playerRank": 37,
+      "playerRankingPoints": 1175,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Gabriel Diallo",
+      "playerRankingPlayerId": "D0F6",
+      "playerCountry": "CAN",
+      "opponentRank": 208,
+      "opponentRankingPoints": 282,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Vitaliy Sachko",
+      "opponentRankingPlayerId": "SS25",
+      "opponentCountry": "UKR"
     },
     {
       "matchId": "RES-A9364233A8",
@@ -573,7 +925,19 @@
       "reason": null,
       "formattedScore": "6-2 6-2",
       "sourceText": "Game Set and Match Francisco Cerundolo. Francisco Cerundolo wins the match 6-2 6-2 .",
-      "bracketOrder": 15
+      "bracketOrder": 15,
+      "playerRank": 19,
+      "playerRankingPoints": 2020,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Francisco Cerundolo",
+      "playerRankingPlayerId": "C0AU",
+      "playerCountry": "ARG",
+      "opponentRank": 292,
+      "opponentRankingPoints": 179,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Sumit Nagal",
+      "opponentRankingPlayerId": "N897",
+      "opponentCountry": "IND"
     },
     {
       "matchId": "RES-783BCDF1F6",
@@ -591,7 +955,19 @@
       "reason": null,
       "formattedScore": "7-6(7) 6-3",
       "sourceText": "Game Set and Match Botic van de Zandschulp. Botic van de Zandschulp wins the match 7-6(7) 6-3 .",
-      "bracketOrder": 16
+      "bracketOrder": 16,
+      "playerRank": 49,
+      "playerRankingPoints": 931,
+      "playerRankingDate": "2026-04-13",
+      "playerRankingName": "Botic van de Zandschulp",
+      "playerRankingPlayerId": "V812",
+      "playerCountry": "NED",
+      "opponentRank": 340,
+      "opponentRankingPoints": 148,
+      "opponentRankingDate": "2026-04-13",
+      "opponentRankingName": "Marc-Andrea Huesler",
+      "opponentRankingPlayerId": "HH06",
+      "opponentCountry": "SUI"
     },
     {
       "matchId": "RES-4379C75717",
@@ -609,7 +985,19 @@
       "reason": null,
       "formattedScore": "6-1 7-6(4)",
       "sourceText": "Game Set and Match Alex Molcan. Alex Molcan wins the match 6-1 7-6(4).",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 163,
+      "playerRankingPoints": 376,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Alex Molcan",
+      "playerRankingPlayerId": "MV14",
+      "playerCountry": "SVK",
+      "opponentRank": 103,
+      "opponentRankingPoints": 615,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Emilio Nava",
+      "opponentRankingPlayerId": "N0AM",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-C263D523CC",
@@ -627,7 +1015,19 @@
       "reason": null,
       "formattedScore": "6-7(8) 6-3 6-3",
       "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 258,
+      "playerRankingPoints": 207,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Diego Dedura",
+      "playerRankingPlayerId": "D0LJ",
+      "playerCountry": "GER",
+      "opponentRank": 287,
+      "opponentRankingPoints": 180,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Sumit Nagal",
+      "opponentRankingPlayerId": "N897",
+      "opponentCountry": "IND"
     },
     {
       "matchId": "RES-079F7CA92F",
@@ -645,7 +1045,19 @@
       "reason": null,
       "formattedScore": "6-0 6-1",
       "sourceText": "Game Set and Match Marc-Andrea Huesler. Marc-Andrea Huesler wins the match 6-0 6-1 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 283,
+      "playerRankingPoints": 183,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Marc-Andrea Huesler",
+      "playerRankingPlayerId": "HH06",
+      "playerCountry": "SUI",
+      "opponentRank": 257,
+      "opponentRankingPoints": 208,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Marko Topo",
+      "opponentRankingPlayerId": "T0FI",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-051DAE8466",
@@ -663,7 +1075,19 @@
       "reason": null,
       "formattedScore": "6-2 7-6(3)",
       "sourceText": "Game Set and Match Vitaliy Sachko. Vitaliy Sachko wins the match 6-2 7-6(3).",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 180,
+      "playerRankingPoints": 332,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Vitaliy Sachko",
+      "playerRankingPlayerId": "SS25",
+      "playerCountry": "UKR",
+      "opponentRank": 729,
+      "opponentRankingPoints": 41,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Max Hans Rehberg",
+      "opponentRankingPlayerId": "R0ED",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-90C19C8C9B",
@@ -681,7 +1105,19 @@
       "reason": null,
       "formattedScore": "0-6 6-3 6-4",
       "sourceText": "Game Set and Match Alex Molcan. Alex Molcan wins the match 0-6 6-3 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 163,
+      "playerRankingPoints": 376,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Alex Molcan",
+      "playerRankingPlayerId": "MV14",
+      "playerCountry": "SVK",
+      "opponentRank": 204,
+      "opponentRankingPoints": 286,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Roberto Carballes Baena",
+      "opponentRankingPlayerId": "CF59",
+      "opponentCountry": "ESP"
     },
     {
       "matchId": "RES-86CE7D0D6F",
@@ -699,7 +1135,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Emilio Nava. Emilio Nava wins the match 6-4 6-2 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 103,
+      "playerRankingPoints": 615,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Emilio Nava",
+      "playerRankingPlayerId": "N0AM",
+      "playerCountry": "USA",
+      "opponentRank": 177,
+      "opponentRankingPoints": 335,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "David Goffin",
+      "opponentRankingPlayerId": "GB88",
+      "opponentCountry": "BEL"
     },
     {
       "matchId": "RES-2BB0B0B952",
@@ -717,7 +1165,13 @@
       "reason": null,
       "formattedScore": "6-3 7-6(5)",
       "sourceText": "Game Set and Match Diego Dedura. Diego Dedura wins the match 6-3 7-6(5).",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 258,
+      "playerRankingPoints": 207,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Diego Dedura",
+      "playerRankingPlayerId": "D0LJ",
+      "playerCountry": "GER"
     },
     {
       "matchId": "RES-C678049F97",
@@ -735,7 +1189,19 @@
       "reason": null,
       "formattedScore": "6-1 6-3 0-0 RET",
       "sourceText": "Game Set and Match Sumit Nagal. Sumit Nagal wins the match 6-1 6-3 0-0 RET.",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 287,
+      "playerRankingPoints": 180,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Sumit Nagal",
+      "playerRankingPlayerId": "N897",
+      "playerCountry": "IND",
+      "opponentRank": 209,
+      "opponentRankingPoints": 283,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Lorenzo Giustino",
+      "opponentRankingPlayerId": "GA79",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-A2C4152AFD",
@@ -753,7 +1219,19 @@
       "reason": null,
       "formattedScore": "6-4 4-6 6-4",
       "sourceText": "Game Set and Match Marc-Andrea Huesler. Marc-Andrea Huesler wins the match 6-4 4-6 6-4 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 283,
+      "playerRankingPoints": 183,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Marc-Andrea Huesler",
+      "playerRankingPlayerId": "HH06",
+      "playerCountry": "SUI",
+      "opponentRank": 118,
+      "opponentRankingPoints": 533,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Jan Choinski",
+      "opponentRankingPlayerId": "CH12",
+      "opponentCountry": "GBR"
     },
     {
       "matchId": "RES-3D8EC037D2",
@@ -771,7 +1249,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Marko Topo. Marko Topo wins the match 6-3 6-4 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 257,
+      "playerRankingPoints": 208,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Marko Topo",
+      "playerRankingPlayerId": "T0FI",
+      "playerCountry": "GER",
+      "opponentRank": 160,
+      "opponentRankingPoints": 381,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Ugo Blanchet",
+      "opponentRankingPlayerId": "BV16",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-5032ACDE63",
@@ -789,7 +1279,19 @@
       "reason": null,
       "formattedScore": "7-5 6-4",
       "sourceText": "Game Set and Match Vitaliy Sachko. Vitaliy Sachko wins the match 7-5 6-4 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 180,
+      "playerRankingPoints": 332,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Vitaliy Sachko",
+      "playerRankingPlayerId": "SS25",
+      "playerCountry": "UKR",
+      "opponentRank": 81,
+      "opponentRankingPoints": 681,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Damir Dzumhur",
+      "opponentRankingPlayerId": "D923",
+      "opponentCountry": "BIH"
     },
     {
       "matchId": "RES-360588A9D9",
@@ -807,7 +1309,19 @@
       "reason": null,
       "formattedScore": "6-2 7-6(1)",
       "sourceText": "Game Set and Match Max Hans Rehberg. Max Hans Rehberg wins the match 6-2 7-6(1).",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 729,
+      "playerRankingPoints": 41,
+      "playerRankingDate": "2026-04-06",
+      "playerRankingName": "Max Hans Rehberg",
+      "playerRankingPlayerId": "R0ED",
+      "playerCountry": "GER",
+      "opponentRank": 166,
+      "opponentRankingPoints": 372,
+      "opponentRankingDate": "2026-04-06",
+      "opponentRankingName": "Arthur Fery",
+      "opponentRankingPlayerId": "F0DM",
+      "opponentCountry": "GBR"
     }
   ]
 }

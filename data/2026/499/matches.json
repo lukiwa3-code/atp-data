@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/results",
   "tournament": {
     "id": "499",
@@ -34,6 +34,10 @@
     "totalFinancialCommitment": "$788,349"
   },
   "count": 38,
+  "rankingDatesUsed": [
+    "2026-02-09",
+    "2026-02-16"
+  ],
   "matches": [
     {
       "matchId": "RES-5FF36C3C87",
@@ -51,7 +55,19 @@
       "reason": null,
       "formattedScore": "6-4 6-3",
       "sourceText": "Game Set and Match Sebastian Korda. Sebastian Korda wins the match 6-4 6-3 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 50,
+      "playerRankingPoints": 1020,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Sebastian Korda",
+      "playerRankingPlayerId": "K0AH",
+      "playerCountry": "USA",
+      "opponentRank": 24,
+      "opponentRankingPoints": 1700,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Tommy Paul",
+      "opponentRankingPlayerId": "PL56",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-E67DD30227",
@@ -69,7 +85,19 @@
       "reason": null,
       "formattedScore": "7-6(1) 6-1",
       "sourceText": "Game Set and Match Sebastian Korda. Sebastian Korda wins the match 7-6(1) 6-1 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 50,
+      "playerRankingPoints": 1020,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Sebastian Korda",
+      "playerRankingPlayerId": "K0AH",
+      "playerCountry": "USA",
+      "opponentRank": 20,
+      "opponentRankingPoints": 1955,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Flavio Cobolli",
+      "opponentRankingPlayerId": "C0E9",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-C7C42D7AA6",
@@ -87,7 +115,19 @@
       "reason": null,
       "formattedScore": "4-6 6-4 6-3",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 4-6 6-4 6-3 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 24,
+      "playerRankingPoints": 1700,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 23,
+      "opponentRankingPoints": 1710,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Learner Tien",
+      "opponentRankingPlayerId": "T0HA",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-1223BE98FC",
@@ -105,7 +145,19 @@
       "reason": null,
       "formattedScore": "4-6 6-2 6-2",
       "sourceText": "Game Set and Match Sebastian Korda. Sebastian Korda wins the match 4-6 6-2 6-2 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 50,
+      "playerRankingPoints": 1020,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Sebastian Korda",
+      "playerRankingPlayerId": "K0AH",
+      "playerCountry": "USA",
+      "opponentRank": 13,
+      "opponentRankingPoints": 2625,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Casper Ruud",
+      "opponentRankingPlayerId": "RH16",
+      "opponentCountry": "NOR"
     },
     {
       "matchId": "RES-1D0232617F",
@@ -123,7 +175,19 @@
       "reason": null,
       "formattedScore": "7-5 6-7(7) 6-2",
       "sourceText": "Game Set and Match Flavio Cobolli. Flavio Cobolli wins the match 7-5 6-7(7) 6-2 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 20,
+      "playerRankingPoints": 1955,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Flavio Cobolli",
+      "playerRankingPlayerId": "C0E9",
+      "playerCountry": "ITA",
+      "opponentRank": 137,
+      "opponentRankingPoints": 458,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Coleman Wong",
+      "opponentRankingPlayerId": "W0BH",
+      "opponentCountry": "HKG"
     },
     {
       "matchId": "RES-66E250CB82",
@@ -141,7 +205,19 @@
       "reason": null,
       "formattedScore": "6-4 6-3",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 6-4 6-3 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 24,
+      "playerRankingPoints": 1700,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 8,
+      "opponentRankingPoints": 4220,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Taylor Fritz",
+      "opponentRankingPlayerId": "FB98",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-56837C86F6",
@@ -159,7 +235,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 3-6 7-5",
       "sourceText": "Game Set and Match Learner Tien. Learner Tien wins the match 7-6(5) 3-6 7-5 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 23,
+      "playerRankingPoints": 1710,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Learner Tien",
+      "playerRankingPlayerId": "T0HA",
+      "playerCountry": "USA",
+      "opponentRank": 28,
+      "opponentRankingPoints": 1550,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Frances Tiafoe",
+      "opponentRankingPlayerId": "TD51",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-12B4F9756E",
@@ -177,7 +265,19 @@
       "reason": null,
       "formattedScore": "6-3 7-6(6)",
       "sourceText": "Game Set and Match Sebastian Korda. Sebastian Korda wins the match 6-3 7-6(6).",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 50,
+      "playerRankingPoints": 1020,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Sebastian Korda",
+      "playerRankingPlayerId": "K0AH",
+      "playerCountry": "USA",
+      "opponentRank": 41,
+      "opponentRankingPoints": 1110,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Alex Michelsen",
+      "opponentRankingPlayerId": "M0QI",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-9732FD45A7",
@@ -195,7 +295,19 @@
       "reason": null,
       "formattedScore": "4-6 7-6(6) 6-4",
       "sourceText": "Game Set and Match Casper Ruud. Casper Ruud wins the match 4-6 7-6(6) 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 13,
+      "playerRankingPoints": 2625,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Casper Ruud",
+      "playerRankingPlayerId": "RH16",
+      "playerCountry": "NOR",
+      "opponentRank": 64,
+      "opponentRankingPoints": 855,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Marcos Giron",
+      "opponentRankingPlayerId": "GC88",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-076A6A36E8",
@@ -213,7 +325,19 @@
       "reason": null,
       "formattedScore": "7-5 6-4",
       "sourceText": "Game Set and Match Flavio Cobolli. Flavio Cobolli wins the match 7-5 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 20,
+      "playerRankingPoints": 1955,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Flavio Cobolli",
+      "playerRankingPlayerId": "C0E9",
+      "playerCountry": "ITA",
+      "opponentRank": 66,
+      "opponentRankingPoints": 833,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Terence Atmane",
+      "opponentRankingPlayerId": "A0GC",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-B8FBB1E737",
@@ -231,7 +355,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(4)",
       "sourceText": "Game Set and Match Coleman Wong. Coleman Wong wins the match 6-4 7-6(4).",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 137,
+      "playerRankingPoints": 458,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Coleman Wong",
+      "playerRankingPlayerId": "W0BH",
+      "playerCountry": "HKG",
+      "opponentRank": 29,
+      "opponentRankingPoints": 1535,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Brandon Nakashima",
+      "opponentRankingPlayerId": "N0AE",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-460D5DAC11",
@@ -249,7 +385,19 @@
       "reason": null,
       "formattedScore": "7-6(11) 6-3",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 7-6(11) 6-3 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 24,
+      "playerRankingPoints": 1700,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 93,
+      "opponentRankingPoints": 643,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Adam Walton",
+      "opponentRankingPlayerId": "W09E",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-D560E138FF",
@@ -267,7 +415,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 6-4",
       "sourceText": "Game Set and Match Taylor Fritz. Taylor Fritz wins the match 7-6(4) 6-4 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 8,
+      "playerRankingPoints": 4220,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Taylor Fritz",
+      "playerRankingPlayerId": "FB98",
+      "playerCountry": "USA",
+      "opponentRank": 118,
+      "opponentRankingPoints": 523,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Rafael Jodar",
+      "opponentRankingPlayerId": "J0DZ",
+      "opponentCountry": "ESP"
     },
     {
       "matchId": "RES-D34447F030",
@@ -285,7 +445,19 @@
       "reason": null,
       "formattedScore": "6-4 3-6 7-5",
       "sourceText": "Game Set and Match Frances Tiafoe. Frances Tiafoe wins the match 6-4 3-6 7-5 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 28,
+      "playerRankingPoints": 1550,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Frances Tiafoe",
+      "playerRankingPlayerId": "TD51",
+      "playerCountry": "USA",
+      "opponentRank": 106,
+      "opponentRankingPoints": 563,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Zachary Svajda",
+      "opponentRankingPlayerId": "S0K7",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-95EE77A786",
@@ -303,7 +475,19 @@
       "reason": null,
       "formattedScore": "6-4 7-5",
       "sourceText": "Game Set and Match Sebastian Korda. Sebastian Korda wins the match 6-4 7-5 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 50,
+      "playerRankingPoints": 1020,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Sebastian Korda",
+      "playerRankingPlayerId": "K0AH",
+      "playerCountry": "USA",
+      "opponentRank": 116,
+      "opponentRankingPoints": 535,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Mackenzie McDonald",
+      "opponentRankingPlayerId": "MK66",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-992F263DFC",
@@ -321,7 +505,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 6-4",
       "sourceText": "Game Set and Match Alex Michelsen. Alex Michelsen wins the match 7-6(4) 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 41,
+      "playerRankingPoints": 1110,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Alex Michelsen",
+      "playerRankingPlayerId": "M0QI",
+      "playerCountry": "USA",
+      "opponentRank": 26,
+      "opponentRankingPoints": 1605,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Valentin Vacherot",
+      "opponentRankingPlayerId": "VA25",
+      "opponentCountry": "MON"
     },
     {
       "matchId": "RES-0EC0AA8E12",
@@ -339,7 +535,19 @@
       "reason": null,
       "formattedScore": "6-3 7-5",
       "sourceText": "Game Set and Match Marcos Giron. Marcos Giron wins the match 6-3 7-5 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 64,
+      "playerRankingPoints": 855,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Marcos Giron",
+      "playerRankingPlayerId": "GC88",
+      "playerCountry": "USA",
+      "opponentRank": 135,
+      "opponentRankingPoints": 466,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Sho Shimabukuro",
+      "opponentRankingPlayerId": "SY67",
+      "opponentCountry": "JPN"
     },
     {
       "matchId": "RES-1F5698F9CB",
@@ -357,7 +565,19 @@
       "reason": null,
       "formattedScore": "6-3 2-6 6-4",
       "sourceText": "Game Set and Match Terence Atmane. Terence Atmane wins the match 6-3 2-6 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 66,
+      "playerRankingPoints": 833,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Terence Atmane",
+      "playerRankingPlayerId": "A0GC",
+      "playerCountry": "FRA",
+      "opponentRank": 105,
+      "opponentRankingPoints": 565,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Patrick Kypson",
+      "opponentRankingPlayerId": "K0A3",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-44AA119A46",
@@ -375,7 +595,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 4-6 6-3",
       "sourceText": "Game Set and Match Coleman Wong. Coleman Wong wins the match 7-6(5) 4-6 6-3 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 137,
+      "playerRankingPoints": 458,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Coleman Wong",
+      "playerRankingPlayerId": "W0BH",
+      "playerCountry": "HKG",
+      "opponentRank": 45,
+      "opponentRankingPoints": 1070,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Nuno Borges",
+      "opponentRankingPlayerId": "BT72",
+      "opponentCountry": "POR"
     },
     {
       "matchId": "RES-0737D55A8C",
@@ -393,7 +625,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 7-6(5)",
       "sourceText": "Game Set and Match Brandon Nakashima. Brandon Nakashima wins the match 7-6(4) 7-6(5).",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 29,
+      "playerRankingPoints": 1535,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Brandon Nakashima",
+      "playerRankingPlayerId": "N0AE",
+      "playerCountry": "USA",
+      "opponentRank": 43,
+      "opponentRankingPoints": 1090,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Marin Cilic",
+      "opponentRankingPlayerId": "C977",
+      "opponentCountry": "CRO"
     },
     {
       "matchId": "RES-C52FA7A58A",
@@ -411,7 +655,19 @@
       "reason": null,
       "formattedScore": "4-6 6-3 6-4",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 4-6 6-3 6-4 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 24,
+      "playerRankingPoints": 1700,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 34,
+      "opponentRankingPoints": 1383,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Corentin Moutet",
+      "opponentRankingPlayerId": "MW02",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-45458BD7D6",
@@ -429,7 +685,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 6-3",
       "sourceText": "Game Set and Match Adam Walton. Adam Walton wins the match 7-6(4) 6-3 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 93,
+      "playerRankingPoints": 643,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Adam Walton",
+      "playerRankingPlayerId": "W09E",
+      "playerCountry": "AUS",
+      "opponentRank": 39,
+      "opponentRankingPoints": 1175,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Gabriel Diallo",
+      "opponentRankingPlayerId": "D0F6",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-BC6410432C",
@@ -447,7 +715,19 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Rafael Jodar. Rafael Jodar wins the match 6-2 6-3 .",
-      "bracketOrder": 9
+      "bracketOrder": 9,
+      "playerRank": 118,
+      "playerRankingPoints": 523,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Rafael Jodar",
+      "playerRankingPlayerId": "J0DZ",
+      "playerCountry": "ESP",
+      "opponentRank": 70,
+      "opponentRankingPoints": 776,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Ethan Quinn",
+      "opponentRankingPlayerId": "Q02L",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-AEF8DB0789",
@@ -465,7 +745,19 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Frances Tiafoe. Frances Tiafoe wins the match 6-4 6-4 .",
-      "bracketOrder": 10
+      "bracketOrder": 10,
+      "playerRank": 28,
+      "playerRankingPoints": 1550,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Frances Tiafoe",
+      "playerRankingPlayerId": "TD51",
+      "playerCountry": "USA",
+      "opponentRank": 113,
+      "opponentRankingPoints": 546,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Rinky Hijikata",
+      "opponentRankingPlayerId": "H0BH",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-590FA28DED",
@@ -483,7 +775,19 @@
       "reason": null,
       "formattedScore": "7-6(4) 6-3",
       "sourceText": "Game Set and Match Zachary Svajda. Zachary Svajda wins the match 7-6(4) 6-3 .",
-      "bracketOrder": 11
+      "bracketOrder": 11,
+      "playerRank": 106,
+      "playerRankingPoints": 563,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Zachary Svajda",
+      "playerRankingPlayerId": "S0K7",
+      "playerCountry": "USA",
+      "opponentRank": 75,
+      "opponentRankingPoints": 746,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Aleksandar Kovacevic",
+      "opponentRankingPlayerId": "K0AZ",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-52E46F6233",
@@ -501,7 +805,19 @@
       "reason": null,
       "formattedScore": "6-1 6-4",
       "sourceText": "Game Set and Match Miomir Kecmanovic. Miomir Kecmanovic wins the match 6-1 6-4 .",
-      "bracketOrder": 12
+      "bracketOrder": 12,
+      "playerRank": 83,
+      "playerRankingPoints": 670,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Miomir Kecmanovic",
+      "playerRankingPlayerId": "KI95",
+      "playerCountry": "SRB",
+      "opponentRank": 109,
+      "opponentRankingPoints": 553,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Mattia Bellucci",
+      "opponentRankingPlayerId": "B0GG",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-F4171CE609",
@@ -519,7 +835,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Sho Shimabukuro. Sho Shimabukuro wins the match 6-3 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 144,
+      "playerRankingPoints": 441,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Sho Shimabukuro",
+      "playerRankingPlayerId": "SY67",
+      "playerCountry": "JPN",
+      "opponentRank": 93,
+      "opponentRankingPoints": 643,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Adam Walton",
+      "opponentRankingPlayerId": "W09E",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-622BF932A2",
@@ -537,7 +865,19 @@
       "reason": null,
       "formattedScore": "6-4 6-3",
       "sourceText": "Game Set and Match Rinky Hijikata. Rinky Hijikata wins the match 6-4 6-3 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 113,
+      "playerRankingPoints": 546,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Rinky Hijikata",
+      "playerRankingPlayerId": "H0BH",
+      "playerCountry": "AUS",
+      "opponentRank": 98,
+      "opponentRankingPoints": 618,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Dalibor Svrcina",
+      "opponentRankingPlayerId": "S0GD",
+      "opponentCountry": "CZE"
     },
     {
       "matchId": "RES-069DE38109",
@@ -555,7 +895,19 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Coleman Wong. Coleman Wong wins the match 6-4 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 136,
+      "playerRankingPoints": 466,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Coleman Wong",
+      "playerRankingPlayerId": "W0BH",
+      "playerCountry": "HKG",
+      "opponentRank": 102,
+      "opponentRankingPoints": 570,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Tristan Schoolkate",
+      "opponentRankingPlayerId": "S0N0",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-1A12900478",
@@ -573,7 +925,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Zachary Svajda. Zachary Svajda wins the match 6-3 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 110,
+      "playerRankingPoints": 551,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Zachary Svajda",
+      "playerRankingPlayerId": "S0K7",
+      "playerCountry": "USA",
+      "opponentRank": 147,
+      "opponentRankingPoints": 427,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Yibing Wu",
+      "opponentRankingPlayerId": "WB32",
+      "opponentCountry": "CHN"
     },
     {
       "matchId": "RES-F76B7F9EFC",
@@ -591,7 +955,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(4)",
       "sourceText": "Game Set and Match Sho Shimabukuro. Sho Shimabukuro wins the match 6-4 7-6(4).",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 144,
+      "playerRankingPoints": 441,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Sho Shimabukuro",
+      "playerRankingPlayerId": "SY67",
+      "playerCountry": "JPN",
+      "opponentRank": 1608,
+      "opponentRankingPoints": 3,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Benjamin Willwerth",
+      "opponentRankingPlayerId": "W0FH",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-E7C59886A0",
@@ -609,7 +985,19 @@
       "reason": null,
       "formattedScore": "6-3 4-6 6-4",
       "sourceText": "Game Set and Match Adam Walton. Adam Walton wins the match 6-3 4-6 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 93,
+      "playerRankingPoints": 643,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Adam Walton",
+      "playerRankingPlayerId": "W09E",
+      "playerCountry": "AUS",
+      "opponentRank": 630,
+      "opponentRankingPoints": 56,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Nicolas Moreno De Alboran",
+      "opponentRankingPlayerId": "MW18",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-869453E456",
@@ -627,7 +1015,19 @@
       "reason": null,
       "formattedScore": "6-3 3-6 7-6(2)",
       "sourceText": "Game Set and Match Rinky Hijikata. Rinky Hijikata wins the match 6-3 3-6 7-6(2).",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 113,
+      "playerRankingPoints": 546,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Rinky Hijikata",
+      "playerRankingPlayerId": "H0BH",
+      "playerCountry": "AUS",
+      "opponentRank": 300,
+      "opponentRankingPoints": 172,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Michael Mmoh",
+      "opponentRankingPlayerId": "MP01",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-73A121AF97",
@@ -645,7 +1045,19 @@
       "reason": null,
       "formattedScore": "3-6 6-1 6-4",
       "sourceText": "Game Set and Match Dalibor Svrcina. Dalibor Svrcina wins the match 3-6 6-1 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 98,
+      "playerRankingPoints": 618,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Dalibor Svrcina",
+      "playerRankingPlayerId": "S0GD",
+      "playerCountry": "CZE",
+      "opponentRank": 177,
+      "opponentRankingPoints": 341,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Nicolas Mejia",
+      "opponentRankingPlayerId": "M0AW",
+      "opponentCountry": "COL"
     },
     {
       "matchId": "RES-9CB32A769E",
@@ -663,7 +1075,19 @@
       "reason": null,
       "formattedScore": "6-2 6-2",
       "sourceText": "Game Set and Match Coleman Wong. Coleman Wong wins the match 6-2 6-2 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 136,
+      "playerRankingPoints": 466,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Coleman Wong",
+      "playerRankingPlayerId": "W0BH",
+      "playerCountry": "HKG",
+      "opponentRank": 157,
+      "opponentRankingPoints": 386,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Yoshihito Nishioka",
+      "opponentRankingPlayerId": "N732",
+      "opponentCountry": "JPN"
     },
     {
       "matchId": "RES-7CD883B48A",
@@ -681,7 +1105,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(5)",
       "sourceText": "Game Set and Match Tristan Schoolkate. Tristan Schoolkate wins the match 6-4 7-6(5).",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 102,
+      "playerRankingPoints": 570,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Tristan Schoolkate",
+      "playerRankingPlayerId": "S0N0",
+      "playerCountry": "AUS",
+      "opponentRank": 242,
+      "opponentRankingPoints": 227,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Murphy Cassone",
+      "opponentRankingPlayerId": "C0HT",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-AB211C65BC",
@@ -699,7 +1135,19 @@
       "reason": null,
       "formattedScore": "6-2 6-1",
       "sourceText": "Game Set and Match Zachary Svajda. Zachary Svajda wins the match 6-2 6-1 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 110,
+      "playerRankingPoints": 551,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Zachary Svajda",
+      "playerRankingPlayerId": "S0K7",
+      "playerCountry": "USA",
+      "opponentRank": 149,
+      "opponentRankingPoints": 422,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Liam Draxl",
+      "opponentRankingPlayerId": "D0DP",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-3CB56EA7D6",
@@ -717,7 +1165,19 @@
       "reason": null,
       "formattedScore": "7-5 6-1",
       "sourceText": "Game Set and Match Yibing Wu. Yibing Wu wins the match 7-5 6-1 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 147,
+      "playerRankingPoints": 427,
+      "playerRankingDate": "2026-02-09",
+      "playerRankingName": "Yibing Wu",
+      "playerRankingPlayerId": "WB32",
+      "playerCountry": "CHN",
+      "opponentRank": 142,
+      "opponentRankingPoints": 446,
+      "opponentRankingDate": "2026-02-09",
+      "opponentRankingName": "Colton Smith",
+      "opponentRankingPlayerId": "S0ZE",
+      "opponentCountry": "USA"
     }
   ]
 }

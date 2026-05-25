@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/acapulco/807/2026/draws",
   "tournament": {
     "id": "807",
@@ -35,6 +35,10 @@
   },
   "countRounds": 5,
   "countMatches": 31,
+  "rankingDatesUsed": [
+    "2026-02-16",
+    "2026-02-23"
+  ],
   "rounds": [
     {
       "round": "F",
@@ -63,7 +67,17 @@
             "4"
           ],
           "winnerName": "Flavio Cobolli",
-          "formattedScore": "7-6(4) 6-4"
+          "formattedScore": "7-6(4) 6-4",
+          "player1Rank": 20,
+          "player1RankingPoints": 2030,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Flavio Cobolli",
+          "player1RankingPlayerId": "C0E9",
+          "player2Rank": 28,
+          "player2RankingPoints": 1590,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Frances Tiafoe",
+          "player2RankingPlayerId": "TD51"
         }
       ]
     },
@@ -96,7 +110,17 @@
             "6"
           ],
           "winnerName": "Flavio Cobolli",
-          "formattedScore": "7-6(5) 3-6 6-4"
+          "formattedScore": "7-6(5) 3-6 6-4",
+          "player1Rank": 84,
+          "player1RankingPoints": 685,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Miomir Kecmanovic",
+          "player1RankingPlayerId": "KI95",
+          "player2Rank": 20,
+          "player2RankingPoints": 2030,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Flavio Cobolli",
+          "player2RankingPlayerId": "C0E9"
         },
         {
           "bracketOrder": 2,
@@ -121,7 +145,17 @@
             "4"
           ],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": "3-6 7-6(6) 6-4"
+          "formattedScore": "3-6 7-6(6) 6-4",
+          "player1Rank": 28,
+          "player1RankingPoints": 1590,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Frances Tiafoe",
+          "player1RankingPlayerId": "TD51",
+          "player2Rank": 29,
+          "player2RankingPoints": 1535,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Brandon Nakashima",
+          "player2RankingPlayerId": "N0AE"
         }
       ]
     },
@@ -152,7 +186,17 @@
             "3"
           ],
           "winnerName": "Miomir Kecmanovic",
-          "formattedScore": "6-3 6-3"
+          "formattedScore": "6-3 6-3",
+          "player1Rank": 84,
+          "player1RankingPoints": 685,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Miomir Kecmanovic",
+          "player1RankingPlayerId": "KI95",
+          "player2Rank": 63,
+          "player2RankingPoints": 858,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Terence Atmane",
+          "player2RankingPlayerId": "A0GC"
         },
         {
           "bracketOrder": 2,
@@ -175,7 +219,17 @@
             "6"
           ],
           "winnerName": "Flavio Cobolli",
-          "formattedScore": "7-6(4) 6-1"
+          "formattedScore": "7-6(4) 6-1",
+          "player1Rank": 142,
+          "player1RankingPoints": 434,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Yibing Wu",
+          "player1RankingPlayerId": "WB32",
+          "player2Rank": 20,
+          "player2RankingPoints": 2030,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Flavio Cobolli",
+          "player2RankingPlayerId": "C0E9"
         },
         {
           "bracketOrder": 3,
@@ -198,7 +252,17 @@
             "4"
           ],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": "6-3 6-4"
+          "formattedScore": "6-3 6-4",
+          "player1Rank": 28,
+          "player1RankingPoints": 1590,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Frances Tiafoe",
+          "player1RankingPlayerId": "TD51",
+          "player2Rank": 110,
+          "player2RankingPoints": 553,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Mattia Bellucci",
+          "player2RankingPlayerId": "B0GG"
         },
         {
           "bracketOrder": 4,
@@ -223,7 +287,17 @@
             "6"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "2-6 6-2 6-3"
+          "formattedScore": "2-6 6-2 6-3",
+          "player1Rank": 27,
+          "player1RankingPoints": 1591,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Valentin Vacherot",
+          "player1RankingPlayerId": "VA25",
+          "player2Rank": 29,
+          "player2RankingPoints": 1535,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Brandon Nakashima",
+          "player2RankingPlayerId": "N0AE"
         }
       ]
     },
@@ -256,7 +330,17 @@
             "7"
           ],
           "winnerName": "Miomir Kecmanovic",
-          "formattedScore": "6-3 6-7(3) 7-6(4)"
+          "formattedScore": "6-3 6-7(3) 7-6(4)",
+          "player1Rank": 4,
+          "player1RankingPoints": 4555,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Alexander Zverev",
+          "player1RankingPlayerId": "Z355",
+          "player2Rank": 84,
+          "player2RankingPoints": 685,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Miomir Kecmanovic",
+          "player2RankingPlayerId": "KI95"
         },
         {
           "bracketOrder": 2,
@@ -281,7 +365,17 @@
             "1"
           ],
           "winnerName": "Terence Atmane",
-          "formattedScore": "6-2 4-6 6-1"
+          "formattedScore": "6-2 4-6 6-1",
+          "player1Rank": 63,
+          "player1RankingPoints": 858,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Terence Atmane",
+          "player1RankingPlayerId": "A0GC",
+          "player2Rank": 114,
+          "player2RankingPoints": 548,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Rafael Jodar",
+          "player2RankingPlayerId": "J0DZ"
         },
         {
           "bracketOrder": 3,
@@ -304,7 +398,17 @@
             "6 4"
           ],
           "winnerName": "Yibing Wu",
-          "formattedScore": "6-3 7-6(4)"
+          "formattedScore": "6-3 7-6(4)",
+          "player1Rank": 142,
+          "player1RankingPoints": 434,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Yibing Wu",
+          "player1RankingPlayerId": "WB32",
+          "player2Rank": 130,
+          "player2RankingPoints": 479,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Sho Shimabukuro",
+          "player2RankingPlayerId": "SY67"
         },
         {
           "bracketOrder": 4,
@@ -327,7 +431,17 @@
             "6"
           ],
           "winnerName": "Flavio Cobolli",
-          "formattedScore": "6-4 6-4"
+          "formattedScore": "6-4 6-4",
+          "player1Rank": 123,
+          "player1RankingPoints": 519,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Dalibor Svrcina",
+          "player1RankingPlayerId": "S0GD",
+          "player2Rank": 20,
+          "player2RankingPoints": 2030,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Flavio Cobolli",
+          "player2RankingPlayerId": "C0E9"
         },
         {
           "bracketOrder": 5,
@@ -352,7 +466,17 @@
             "6 7"
           ],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": "6-4 3-6 7-6(7)"
+          "formattedScore": "6-4 3-6 7-6(7)",
+          "player1Rank": 28,
+          "player1RankingPoints": 1590,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Frances Tiafoe",
+          "player1RankingPlayerId": "TD51",
+          "player2Rank": 75,
+          "player2RankingPoints": 746,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Aleksandar Kovacevic",
+          "player2RankingPlayerId": "K0AZ"
         },
         {
           "bracketOrder": 6,
@@ -375,7 +499,17 @@
             "3"
           ],
           "winnerName": "Mattia Bellucci",
-          "formattedScore": "6-3 6-3"
+          "formattedScore": "6-3 6-3",
+          "player1Rank": 110,
+          "player1RankingPoints": 553,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Mattia Bellucci",
+          "player1RankingPlayerId": "B0GG",
+          "player2Rank": 14,
+          "player2RankingPoints": 2470,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Alejandro Davidovich Fokina",
+          "player2RankingPlayerId": "DH50"
         },
         {
           "bracketOrder": 7,
@@ -398,7 +532,17 @@
             "3"
           ],
           "winnerName": "Valentin Vacherot",
-          "formattedScore": "6-3 6-3"
+          "formattedScore": "6-3 6-3",
+          "player1Rank": 27,
+          "player1RankingPoints": 1591,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Valentin Vacherot",
+          "player1RankingPlayerId": "VA25",
+          "player2Rank": 170,
+          "player2RankingPoints": 360,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Gael Monfils",
+          "player2RankingPlayerId": "MC65"
         },
         {
           "bracketOrder": 8,
@@ -421,7 +565,17 @@
             "4"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "6-4 6-4"
+          "formattedScore": "6-4 6-4",
+          "player1Rank": 29,
+          "player1RankingPoints": 1535,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Brandon Nakashima",
+          "player1RankingPlayerId": "N0AE",
+          "player2Rank": 103,
+          "player2RankingPoints": 565,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Patrick Kypson",
+          "player2RankingPlayerId": "K0A3"
         }
       ]
     },
@@ -452,7 +606,17 @@
             "4"
           ],
           "winnerName": "Alexander Zverev",
-          "formattedScore": "6-2 6-4"
+          "formattedScore": "6-2 6-4",
+          "player1Rank": 4,
+          "player1RankingPoints": 4555,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Alexander Zverev",
+          "player1RankingPlayerId": "Z355",
+          "player2Rank": 35,
+          "player2RankingPoints": 1383,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Corentin Moutet",
+          "player2RankingPlayerId": "MW02"
         },
         {
           "bracketOrder": 2,
@@ -475,7 +639,17 @@
             "6"
           ],
           "winnerName": "Miomir Kecmanovic",
-          "formattedScore": "6-2 6-2"
+          "formattedScore": "6-2 6-2",
+          "player1Rank": 108,
+          "player1RankingPoints": 556,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Tristan Schoolkate",
+          "player1RankingPlayerId": "S0N0",
+          "player2Rank": 84,
+          "player2RankingPoints": 685,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Miomir Kecmanovic",
+          "player2RankingPlayerId": "KI95"
         },
         {
           "bracketOrder": 3,
@@ -498,7 +672,17 @@
             "3"
           ],
           "winnerName": "Terence Atmane",
-          "formattedScore": "6-3 6-3"
+          "formattedScore": "6-3 6-3",
+          "player1Rank": 63,
+          "player1RankingPoints": 858,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Terence Atmane",
+          "player1RankingPlayerId": "A0GC",
+          "player2Rank": 44,
+          "player2RankingPoints": 1105,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Grigor Dimitrov",
+          "player2RankingPlayerId": "D875"
         },
         {
           "bracketOrder": 4,
@@ -521,7 +705,17 @@
             "2"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6-3 6-2"
+          "formattedScore": "6-3 6-2",
+          "player1Rank": 114,
+          "player1RankingPoints": 548,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Rafael Jodar",
+          "player1RankingPlayerId": "J0DZ",
+          "player2Rank": 26,
+          "player2RankingPoints": 1603,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Cameron Norrie",
+          "player2RankingPlayerId": "N771"
         },
         {
           "bracketOrder": 5,
@@ -544,7 +738,17 @@
             "7"
           ],
           "winnerName": "Yibing Wu",
-          "formattedScore": "7-6(2) 7-6(1)"
+          "formattedScore": "7-6(2) 7-6(1)",
+          "player1Rank": 12,
+          "player1RankingPoints": 2665,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Casper Ruud",
+          "player1RankingPlayerId": "RH16",
+          "player2Rank": 142,
+          "player2RankingPoints": 434,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Yibing Wu",
+          "player2RankingPlayerId": "WB32"
         },
         {
           "bracketOrder": 6,
@@ -567,7 +771,17 @@
             "6"
           ],
           "winnerName": "Sho Shimabukuro",
-          "formattedScore": "6-3 6-4"
+          "formattedScore": "6-3 6-4",
+          "player1Rank": 51,
+          "player1RankingPoints": 1025,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Adrian Mannarino",
+          "player1RankingPlayerId": "ME82",
+          "player2Rank": 130,
+          "player2RankingPoints": 479,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Sho Shimabukuro",
+          "player2RankingPlayerId": "SY67"
         },
         {
           "bracketOrder": 7,
@@ -590,7 +804,17 @@
             "6"
           ],
           "winnerName": "Dalibor Svrcina",
-          "formattedScore": "6-4 6-1"
+          "formattedScore": "6-4 6-1",
+          "player1Rank": 83,
+          "player1RankingPoints": 691,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "James Duckworth",
+          "player1RankingPlayerId": "D994",
+          "player2Rank": 123,
+          "player2RankingPoints": 519,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Dalibor Svrcina",
+          "player2RankingPlayerId": "S0GD"
         },
         {
           "bracketOrder": 8,
@@ -613,7 +837,17 @@
             "7"
           ],
           "winnerName": "Flavio Cobolli",
-          "formattedScore": "7-6(3) 7-6(3)"
+          "formattedScore": "7-6(3) 7-6(3)",
+          "player1Rank": 218,
+          "player1RankingPoints": 270,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Rodrigo Pacheco Mendez",
+          "player1RankingPlayerId": "P0J1",
+          "player2Rank": 20,
+          "player2RankingPoints": 2030,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Flavio Cobolli",
+          "player2RankingPlayerId": "C0E9"
         },
         {
           "bracketOrder": 9,
@@ -636,7 +870,17 @@
             "4"
           ],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": "6-4 6-4"
+          "formattedScore": "6-4 6-4",
+          "player1Rank": 28,
+          "player1RankingPoints": 1590,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Frances Tiafoe",
+          "player1RankingPlayerId": "TD51",
+          "player2Rank": 48,
+          "player2RankingPoints": 1045,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Nuno Borges",
+          "player2RankingPlayerId": "BT72"
         },
         {
           "bracketOrder": 10,
@@ -659,7 +903,17 @@
             "7"
           ],
           "winnerName": "Aleksandar Kovacevic",
-          "formattedScore": "7-6(1) 7-6(3)"
+          "formattedScore": "7-6(1) 7-6(3)",
+          "player1Rank": 87,
+          "player1RankingPoints": 669,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Adam Walton",
+          "player1RankingPlayerId": "W09E",
+          "player2Rank": 75,
+          "player2RankingPoints": 746,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Aleksandar Kovacevic",
+          "player2RankingPlayerId": "K0AZ"
         },
         {
           "bracketOrder": 11,
@@ -682,7 +936,17 @@
             "6"
           ],
           "winnerName": "Mattia Bellucci",
-          "formattedScore": "7-6(5) 6-3"
+          "formattedScore": "7-6(5) 6-3",
+          "player1Rank": 115,
+          "player1RankingPoints": 547,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Rinky Hijikata",
+          "player1RankingPlayerId": "H0BH",
+          "player2Rank": 110,
+          "player2RankingPoints": 553,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Mattia Bellucci",
+          "player2RankingPlayerId": "B0GG"
         },
         {
           "bracketOrder": 12,
@@ -705,7 +969,17 @@
             "6"
           ],
           "winnerName": "Alejandro Davidovich Fokina",
-          "formattedScore": "7-5 6-3"
+          "formattedScore": "7-5 6-3",
+          "player1Rank": 53,
+          "player1RankingPoints": 961,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Daniel Altmaier",
+          "player1RankingPlayerId": "AE14",
+          "player2Rank": 14,
+          "player2RankingPoints": 2470,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Alejandro Davidovich Fokina",
+          "player2RankingPlayerId": "DH50"
         },
         {
           "bracketOrder": 13,
@@ -730,7 +1004,17 @@
             "2"
           ],
           "winnerName": "Valentin Vacherot",
-          "formattedScore": "4-6 6-3 6-2"
+          "formattedScore": "4-6 6-3 6-2",
+          "player1Rank": 27,
+          "player1RankingPoints": 1591,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Valentin Vacherot",
+          "player1RankingPlayerId": "VA25",
+          "player2Rank": 125,
+          "player2RankingPoints": 515,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Coleman Wong",
+          "player2RankingPlayerId": "W0BH"
         },
         {
           "bracketOrder": 14,
@@ -753,7 +1037,17 @@
             "7"
           ],
           "winnerName": "Gael Monfils",
-          "formattedScore": "6-4 7-6(5)"
+          "formattedScore": "6-4 7-6(5)",
+          "player1Rank": 60,
+          "player1RankingPoints": 877,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Damir Dzumhur",
+          "player1RankingPlayerId": "D923",
+          "player2Rank": 170,
+          "player2RankingPoints": 360,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Gael Monfils",
+          "player2RankingPlayerId": "MC65"
         },
         {
           "bracketOrder": 15,
@@ -776,7 +1070,17 @@
             "4"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "6-3 6-4"
+          "formattedScore": "6-3 6-4",
+          "player1Rank": 29,
+          "player1RankingPoints": 1535,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Brandon Nakashima",
+          "player1RankingPlayerId": "N0AE",
+          "player2Rank": 190,
+          "player2RankingPoints": 328,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Elias Ymer",
+          "player2RankingPlayerId": "Y218"
         },
         {
           "bracketOrder": 16,
@@ -801,7 +1105,17 @@
             "6 4"
           ],
           "winnerName": "Patrick Kypson",
-          "formattedScore": "6-1 6-7(4) 7-6(4)"
+          "formattedScore": "6-1 6-7(4) 7-6(4)",
+          "player1Rank": 103,
+          "player1RankingPoints": 565,
+          "player1RankingDate": "2026-02-23",
+          "player1RankingName": "Patrick Kypson",
+          "player1RankingPlayerId": "K0A3",
+          "player2Rank": 6,
+          "player2RankingPoints": 4235,
+          "player2RankingDate": "2026-02-23",
+          "player2RankingName": "Alex de Minaur",
+          "player2RankingPlayerId": "DH58"
         }
       ]
     }

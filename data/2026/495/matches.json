@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/dubai/495/2026/results",
   "tournament": {
     "id": "495",
@@ -34,6 +34,10 @@
     "totalFinancialCommitment": "$3,327,680"
   },
   "count": 43,
+  "rankingDatesUsed": [
+    "2026-02-16",
+    "2026-02-23"
+  ],
   "matches": [
     {
       "matchId": "RES-0C945B80E0",
@@ -51,7 +55,19 @@
       "reason": "Walkover",
       "formattedScore": "W/O",
       "sourceText": "Winner: D. MEDVEDEV by Walkover",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 11,
+      "playerRankingPoints": 2960,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Daniil Medvedev",
+      "playerRankingPlayerId": "MM58",
+      "playerCountry": "RUS",
+      "opponentRank": 25,
+      "opponentRankingPoints": 1655,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Tallon Griekspoor",
+      "opponentRankingPlayerId": "GJ37",
+      "opponentCountry": "NED"
     },
     {
       "matchId": "RES-4647A03836",
@@ -69,7 +85,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Daniil Medvedev. Daniil Medvedev wins the match 6-4 6-2 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 11,
+      "playerRankingPoints": 2960,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Daniil Medvedev",
+      "playerRankingPlayerId": "MM58",
+      "playerCountry": "RUS",
+      "opponentRank": 8,
+      "opponentRankingPoints": 4080,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Felix Auger-Aliassime",
+      "opponentRankingPlayerId": "AG37",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-3C3B96B79A",
@@ -87,7 +115,19 @@
       "reason": null,
       "formattedScore": "7-5 7-6(6)",
       "sourceText": "Game Set and Match Tallon Griekspoor. Tallon Griekspoor wins the match 7-5 7-6(6).",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 25,
+      "playerRankingPoints": 1655,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Tallon Griekspoor",
+      "playerRankingPlayerId": "GJ37",
+      "playerCountry": "NED",
+      "opponentRank": 18,
+      "opponentRankingPoints": 2210,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Andrey Rublev",
+      "opponentRankingPlayerId": "RE44",
+      "opponentCountry": "RUS"
     },
     {
       "matchId": "RES-1851165336",
@@ -105,7 +145,19 @@
       "reason": null,
       "formattedScore": "6-2 6-1",
       "sourceText": "Game Set and Match Daniil Medvedev. Daniil Medvedev wins the match 6-2 6-1 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 11,
+      "playerRankingPoints": 2960,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Daniil Medvedev",
+      "playerRankingPlayerId": "MM58",
+      "playerCountry": "RUS",
+      "opponentRank": 49,
+      "opponentRankingPoints": 1042,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Jenson Brooksby",
+      "opponentRankingPlayerId": "B0CD",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-8133FE6C68",
@@ -123,7 +175,19 @@
       "reason": null,
       "formattedScore": "6-3 7-6(2)",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-3 7-6(2).",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 8,
+      "playerRankingPoints": 4080,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Felix Auger-Aliassime",
+      "playerRankingPlayerId": "AG37",
+      "playerCountry": "CAN",
+      "opponentRank": 24,
+      "opponentRankingPoints": 1760,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Jiri Lehecka",
+      "opponentRankingPlayerId": "L0BV",
+      "opponentCountry": "CZE"
     },
     {
       "matchId": "RES-7A4D8493C9",
@@ -141,7 +205,19 @@
       "reason": null,
       "formattedScore": "6-3 3-6 6-2",
       "sourceText": "Game Set and Match Tallon Griekspoor. Tallon Griekspoor wins the match 6-3 3-6 6-2 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 25,
+      "playerRankingPoints": 1655,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Tallon Griekspoor",
+      "playerRankingPlayerId": "GJ37",
+      "playerCountry": "NED",
+      "opponentRank": 13,
+      "opponentRankingPoints": 2595,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Jakub Mensik",
+      "opponentRankingPlayerId": "M0NI",
+      "opponentCountry": "CZE"
     },
     {
       "matchId": "RES-C7B51741DD",
@@ -159,7 +235,19 @@
       "reason": null,
       "formattedScore": "6-2 6-4",
       "sourceText": "Game Set and Match Andrey Rublev. Andrey Rublev wins the match 6-2 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 18,
+      "playerRankingPoints": 2210,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Andrey Rublev",
+      "playerRankingPlayerId": "RE44",
+      "playerCountry": "RUS",
+      "opponentRank": 31,
+      "opponentRankingPoints": 1530,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Arthur Rinderknech",
+      "opponentRankingPlayerId": "RC91",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-7CC767ED78",
@@ -177,7 +265,19 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Daniil Medvedev. Daniil Medvedev wins the match 6-2 6-3 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 11,
+      "playerRankingPoints": 2960,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Daniil Medvedev",
+      "playerRankingPlayerId": "MM58",
+      "playerCountry": "RUS",
+      "opponentRank": 99,
+      "opponentRankingPoints": 599,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Stan Wawrinka",
+      "opponentRankingPlayerId": "W367",
+      "opponentCountry": "SUI"
     },
     {
       "matchId": "RES-64BD230BD2",
@@ -195,7 +295,19 @@
       "reason": null,
       "formattedScore": "7-6(6) 6-4",
       "sourceText": "Game Set and Match Jenson Brooksby. Jenson Brooksby wins the match 7-6(6) 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 49,
+      "playerRankingPoints": 1042,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Jenson Brooksby",
+      "playerRankingPlayerId": "B0CD",
+      "playerCountry": "USA",
+      "opponentRank": 16,
+      "opponentRankingPoints": 2450,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Karen Khachanov",
+      "opponentRankingPlayerId": "KE29",
+      "opponentCountry": "RUS"
     },
     {
       "matchId": "RES-FF842F76B0",
@@ -213,7 +325,19 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-4 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 8,
+      "playerRankingPoints": 4080,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Felix Auger-Aliassime",
+      "playerRankingPlayerId": "AG37",
+      "playerCountry": "CAN",
+      "opponentRank": 58,
+      "opponentRankingPoints": 905,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Giovanni Mpetshi Perricard",
+      "opponentRankingPlayerId": "M0GZ",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-E583964D48",
@@ -231,7 +355,19 @@
       "reason": null,
       "formattedScore": "7-6(6) 6-4",
       "sourceText": "Game Set and Match Jiri Lehecka. Jiri Lehecka wins the match 7-6(6) 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 24,
+      "playerRankingPoints": 1760,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Jiri Lehecka",
+      "playerRankingPlayerId": "L0BV",
+      "playerCountry": "CZE",
+      "opponentRank": 124,
+      "opponentRankingPoints": 516,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Pablo Carreno Busta",
+      "opponentRankingPlayerId": "CD85",
+      "opponentCountry": "ESP"
     },
     {
       "matchId": "RES-63692FF92E",
@@ -249,7 +385,19 @@
       "reason": null,
       "formattedScore": "6-3 7-6(4)",
       "sourceText": "Game Set and Match Tallon Griekspoor. Tallon Griekspoor wins the match 6-3 7-6(4).",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 25,
+      "playerRankingPoints": 1655,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Tallon Griekspoor",
+      "playerRankingPlayerId": "GJ37",
+      "playerCountry": "NED",
+      "opponentRank": 10,
+      "opponentRankingPoints": 3405,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Alexander Bublik",
+      "opponentRankingPlayerId": "BK92",
+      "opponentCountry": "KAZ"
     },
     {
       "matchId": "RES-EDC1248F5E",
@@ -267,7 +415,19 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Jakub Mensik. Jakub Mensik wins the match 6-3 6-2 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 13,
+      "playerRankingPoints": 2595,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Jakub Mensik",
+      "playerRankingPlayerId": "M0NI",
+      "playerCountry": "CZE",
+      "opponentRank": 47,
+      "opponentRankingPoints": 1050,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Alexei Popyrin",
+      "opponentRankingPlayerId": "P09Z",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-E9AA63F2EC",
@@ -285,7 +445,19 @@
       "reason": null,
       "formattedScore": "6-4 6-7(5) 6-3",
       "sourceText": "Game Set and Match Andrey Rublev. Andrey Rublev wins the match 6-4 6-7(5) 6-3 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 18,
+      "playerRankingPoints": 2210,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Andrey Rublev",
+      "playerRankingPlayerId": "RE44",
+      "playerCountry": "RUS",
+      "opponentRank": 37,
+      "opponentRankingPoints": 1285,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Ugo Humbert",
+      "opponentRankingPlayerId": "HH26",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-5BF2087883",
@@ -303,7 +475,19 @@
       "reason": null,
       "formattedScore": "7-5 6-7(4) 6-4",
       "sourceText": "Game Set and Match Arthur Rinderknech. Arthur Rinderknech wins the match 7-5 6-7(4) 6-4 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 31,
+      "playerRankingPoints": 1530,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Arthur Rinderknech",
+      "playerRankingPlayerId": "RC91",
+      "playerCountry": "FRA",
+      "opponentRank": 15,
+      "opponentRankingPoints": 2460,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Jack Draper",
+      "opponentRankingPlayerId": "D0CO",
+      "opponentCountry": "GBR"
     },
     {
       "matchId": "RES-84A2D4046A",
@@ -321,7 +505,19 @@
       "reason": null,
       "formattedScore": "6-1 6-3",
       "sourceText": "Game Set and Match Daniil Medvedev. Daniil Medvedev wins the match 6-1 6-3 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 11,
+      "playerRankingPoints": 2960,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Daniil Medvedev",
+      "playerRankingPlayerId": "MM58",
+      "playerCountry": "RUS",
+      "opponentRank": 262,
+      "opponentRankingPoints": 205,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Juncheng Shang",
+      "opponentRankingPlayerId": "S0RE",
+      "opponentCountry": "CHN"
     },
     {
       "matchId": "RES-B7C858CA85",
@@ -339,7 +535,19 @@
       "reason": null,
       "formattedScore": "7-5 6-3",
       "sourceText": "Game Set and Match Stan Wawrinka. Stan Wawrinka wins the match 7-5 6-3 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 99,
+      "playerRankingPoints": 599,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Stan Wawrinka",
+      "playerRankingPlayerId": "W367",
+      "playerCountry": "SUI",
+      "opponentRank": 289,
+      "opponentRankingPoints": 180,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Benjamin Hassan",
+      "opponentRankingPlayerId": "HG94",
+      "opponentCountry": "LBN"
     },
     {
       "matchId": "RES-8E989BD78E",
@@ -357,7 +565,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Jenson Brooksby. Jenson Brooksby wins the match 6-3 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 49,
+      "playerRankingPoints": 1042,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Jenson Brooksby",
+      "playerRankingPlayerId": "B0CD",
+      "playerCountry": "USA",
+      "opponentRank": 46,
+      "opponentRankingPoints": 1080,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Zizou Bergs",
+      "opponentRankingPlayerId": "BU13",
+      "opponentCountry": "BEL"
     },
     {
       "matchId": "RES-CD9E462E0F",
@@ -375,7 +595,19 @@
       "reason": null,
       "formattedScore": "6-7(5) 6-2 6-3",
       "sourceText": "Game Set and Match Karen Khachanov. Karen Khachanov wins the match 6-7(5) 6-2 6-3 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 16,
+      "playerRankingPoints": 2450,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Karen Khachanov",
+      "playerRankingPlayerId": "KE29",
+      "playerCountry": "RUS",
+      "opponentRank": 92,
+      "opponentRankingPoints": 656,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Aleksandr Shevchenko",
+      "opponentRankingPlayerId": "S0H2",
+      "opponentCountry": "KAZ"
     },
     {
       "matchId": "RES-C4B37E3810",
@@ -393,7 +625,19 @@
       "reason": null,
       "formattedScore": "6-3 7-6(4)",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-3 7-6(4).",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 8,
+      "playerRankingPoints": 4080,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Felix Auger-Aliassime",
+      "playerRankingPlayerId": "AG37",
+      "playerCountry": "CAN",
+      "opponentRank": 263,
+      "opponentRankingPoints": 205,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Zhizhen Zhang",
+      "opponentRankingPlayerId": "Z371",
+      "opponentCountry": "CHN"
     },
     {
       "matchId": "RES-A930C4274F",
@@ -411,7 +655,19 @@
       "reason": null,
       "formattedScore": "7-6(3) 6-7(3) 7-6(4)",
       "sourceText": "Game Set and Match Giovanni Mpetshi Perricard. Giovanni Mpetshi Perricard wins the match 7-6(3) 6-7(3) 7-6(4).",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 58,
+      "playerRankingPoints": 905,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Giovanni Mpetshi Perricard",
+      "playerRankingPlayerId": "M0GZ",
+      "playerCountry": "FRA",
+      "opponentRank": 141,
+      "opponentRankingPoints": 435,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Moez Echargui",
+      "opponentRankingPlayerId": "EA13",
+      "opponentCountry": "TUN"
     },
     {
       "matchId": "RES-C70E911E2A",
@@ -429,7 +685,19 @@
       "reason": null,
       "formattedScore": "4-6 6-4 6-2",
       "sourceText": "Game Set and Match Jiri Lehecka. Jiri Lehecka wins the match 4-6 6-4 6-2 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 24,
+      "playerRankingPoints": 1760,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Jiri Lehecka",
+      "playerRankingPlayerId": "L0BV",
+      "playerCountry": "CZE",
+      "opponentRank": 109,
+      "opponentRankingPoints": 554,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Luca Nardi",
+      "opponentRankingPlayerId": "N0BG",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-13C918FE7E",
@@ -447,7 +715,19 @@
       "reason": null,
       "formattedScore": "6-2 6-4",
       "sourceText": "Game Set and Match Pablo Carreno Busta. Pablo Carreno Busta wins the match 6-2 6-4 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 124,
+      "playerRankingPoints": 516,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Pablo Carreno Busta",
+      "playerRankingPlayerId": "CD85",
+      "playerCountry": "ESP",
+      "opponentRank": 36,
+      "opponentRankingPoints": 1350,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Denis Shapovalov",
+      "opponentRankingPlayerId": "SU55",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-3E1A37D058",
@@ -465,7 +745,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Tallon Griekspoor. Tallon Griekspoor wins the match 6-3 6-4 .",
-      "bracketOrder": 9
+      "bracketOrder": 9,
+      "playerRank": 25,
+      "playerRankingPoints": 1655,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Tallon Griekspoor",
+      "playerRankingPlayerId": "GJ37",
+      "playerCountry": "NED",
+      "opponentRank": 131,
+      "opponentRankingPoints": 475,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Otto Virtanen",
+      "opponentRankingPlayerId": "V0AM",
+      "opponentCountry": "FIN"
     },
     {
       "matchId": "RES-41266C6865",
@@ -483,7 +775,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Alexander Bublik. Alexander Bublik wins the match 6-3 6-4 .",
-      "bracketOrder": 10
+      "bracketOrder": 10,
+      "playerRank": 10,
+      "playerRankingPoints": 3405,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Alexander Bublik",
+      "playerRankingPlayerId": "BK92",
+      "playerCountry": "KAZ",
+      "opponentRank": 80,
+      "opponentRankingPoints": 706,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Jan-Lennard Struff",
+      "opponentRankingPlayerId": "SL28",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-783728F89E",
@@ -501,7 +805,19 @@
       "reason": null,
       "formattedScore": "6-4 7-6(7)",
       "sourceText": "Game Set and Match Jakub Mensik. Jakub Mensik wins the match 6-4 7-6(7).",
-      "bracketOrder": 11
+      "bracketOrder": 11,
+      "playerRank": 13,
+      "playerRankingPoints": 2595,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Jakub Mensik",
+      "playerRankingPlayerId": "M0NI",
+      "playerCountry": "CZE",
+      "opponentRank": 73,
+      "opponentRankingPoints": 775,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Hubert Hurkacz",
+      "opponentRankingPlayerId": "HB71",
+      "opponentCountry": "POL"
     },
     {
       "matchId": "RES-E03852159B",
@@ -519,7 +835,19 @@
       "reason": null,
       "formattedScore": "3-6 6-3 7-5",
       "sourceText": "Game Set and Match Alexei Popyrin. Alexei Popyrin wins the match 3-6 6-3 7-5 .",
-      "bracketOrder": 12
+      "bracketOrder": 12,
+      "playerRank": 47,
+      "playerRankingPoints": 1050,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Alexei Popyrin",
+      "playerRankingPlayerId": "P09Z",
+      "playerCountry": "AUS",
+      "opponentRank": 56,
+      "opponentRankingPoints": 920,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Kamil Majchrzak",
+      "opponentRankingPlayerId": "MQ75",
+      "opponentCountry": "POL"
     },
     {
       "matchId": "RES-A656009F6D",
@@ -537,7 +865,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Andrey Rublev. Andrey Rublev wins the match 6-3 6-4 .",
-      "bracketOrder": 13
+      "bracketOrder": 13,
+      "playerRank": 18,
+      "playerRankingPoints": 2210,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Andrey Rublev",
+      "playerRankingPlayerId": "RE44",
+      "playerCountry": "RUS",
+      "opponentRank": 54,
+      "opponentRankingPoints": 935,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Valentin Royer",
+      "opponentRankingPlayerId": "R0EB",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-C757DCE645",
@@ -555,7 +895,19 @@
       "reason": null,
       "formattedScore": "6-4 7-5",
       "sourceText": "Game Set and Match Ugo Humbert. Ugo Humbert wins the match 6-4 7-5 .",
-      "bracketOrder": 14
+      "bracketOrder": 14,
+      "playerRank": 37,
+      "playerRankingPoints": 1285,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Ugo Humbert",
+      "playerRankingPlayerId": "HH26",
+      "playerCountry": "FRA",
+      "opponentRank": 30,
+      "opponentRankingPoints": 1535,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Stefanos Tsitsipas",
+      "opponentRankingPlayerId": "TE51",
+      "opponentCountry": "GRE"
     },
     {
       "matchId": "RES-1DB6F1449A",
@@ -573,7 +925,19 @@
       "reason": null,
       "formattedScore": "3-6 6-3 6-4",
       "sourceText": "Game Set and Match Arthur Rinderknech. Arthur Rinderknech wins the match 3-6 6-3 6-4 .",
-      "bracketOrder": 15
+      "bracketOrder": 15,
+      "playerRank": 31,
+      "playerRankingPoints": 1530,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Arthur Rinderknech",
+      "playerRankingPlayerId": "RC91",
+      "playerCountry": "FRA",
+      "opponentRank": 50,
+      "opponentRankingPoints": 1040,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Fabian Marozsan",
+      "opponentRankingPlayerId": "M0CI",
+      "opponentCountry": "HUN"
     },
     {
       "matchId": "RES-2BA2F3CC8C",
@@ -591,7 +955,19 @@
       "reason": null,
       "formattedScore": "7-6(8) 6-3",
       "sourceText": "Game Set and Match Jack Draper. Jack Draper wins the match 7-6(8) 6-3 .",
-      "bracketOrder": 16
+      "bracketOrder": 16,
+      "playerRank": 15,
+      "playerRankingPoints": 2460,
+      "playerRankingDate": "2026-02-23",
+      "playerRankingName": "Jack Draper",
+      "playerRankingPlayerId": "D0CO",
+      "playerCountry": "GBR",
+      "opponentRank": 68,
+      "opponentRankingPoints": 800,
+      "opponentRankingDate": "2026-02-23",
+      "opponentRankingName": "Quentin Halys",
+      "opponentRankingPlayerId": "HB64",
+      "opponentCountry": "FRA"
     },
     {
       "matchId": "RES-D1F1B70056",
@@ -609,7 +985,19 @@
       "reason": null,
       "formattedScore": "4-6 6-3 7-6(3)",
       "sourceText": "Game Set and Match Giovanni Mpetshi Perricard. Giovanni Mpetshi Perricard wins the match 4-6 6-3 7-6(3).",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 58,
+      "playerRankingPoints": 905,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Giovanni Mpetshi Perricard",
+      "playerRankingPlayerId": "M0GZ",
+      "playerCountry": "FRA",
+      "opponentRank": 124,
+      "opponentRankingPoints": 498,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Jan Choinski",
+      "opponentRankingPlayerId": "CH12",
+      "opponentCountry": "GBR"
     },
     {
       "matchId": "RES-E694140919",
@@ -627,7 +1015,19 @@
       "reason": null,
       "formattedScore": "7-6(6) 7-5",
       "sourceText": "Game Set and Match Quentin Halys. Quentin Halys wins the match 7-6(6) 7-5 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 72,
+      "playerRankingPoints": 762,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Quentin Halys",
+      "playerRankingPlayerId": "HB64",
+      "playerCountry": "FRA",
+      "opponentRank": 79,
+      "opponentRankingPoints": 696,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Aleksandr Shevchenko",
+      "opponentRankingPlayerId": "S0H2",
+      "opponentCountry": "KAZ"
     },
     {
       "matchId": "RES-9E261FC0A9",
@@ -645,7 +1045,19 @@
       "reason": null,
       "formattedScore": "6-7(7) 6-4 6-4",
       "sourceText": "Game Set and Match Otto Virtanen. Otto Virtanen wins the match 6-7(7) 6-4 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 128,
+      "playerRankingPoints": 488,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Otto Virtanen",
+      "playerRankingPlayerId": "V0AM",
+      "playerCountry": "FIN",
+      "opponentRank": 77,
+      "opponentRankingPoints": 706,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Jan-Lennard Struff",
+      "opponentRankingPlayerId": "SL28",
+      "opponentCountry": "GER"
     },
     {
       "matchId": "RES-67433270FE",
@@ -663,7 +1075,19 @@
       "reason": null,
       "formattedScore": "6-7(4) 6-4 7-6(5)",
       "sourceText": "Game Set and Match Pablo Carreno Busta. Pablo Carreno Busta wins the match 6-7(4) 6-4 7-6(5).",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 123,
+      "playerRankingPoints": 504,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Pablo Carreno Busta",
+      "playerRankingPlayerId": "CD85",
+      "playerCountry": "ESP",
+      "opponentRank": 94,
+      "opponentRankingPoints": 629,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Luca Nardi",
+      "opponentRankingPlayerId": "N0BG",
+      "opponentCountry": "ITA"
     },
     {
       "matchId": "RES-72C0D3D008",
@@ -681,7 +1105,19 @@
       "reason": null,
       "formattedScore": "6-1 7-6(4)",
       "sourceText": "Game Set and Match Giovanni Mpetshi Perricard. Giovanni Mpetshi Perricard wins the match 6-1 7-6(4).",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 58,
+      "playerRankingPoints": 905,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Giovanni Mpetshi Perricard",
+      "playerRankingPlayerId": "M0GZ",
+      "playerCountry": "FRA",
+      "opponentRank": 117,
+      "opponentRankingPoints": 525,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Shintaro Mochizuki",
+      "opponentRankingPlayerId": "M0HU",
+      "opponentCountry": "JPN"
     },
     {
       "matchId": "RES-AC02396374",
@@ -699,7 +1135,19 @@
       "reason": null,
       "formattedScore": "6-1 7-6(4)",
       "sourceText": "Game Set and Match Jan Choinski. Jan Choinski wins the match 6-1 7-6(4).",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 124,
+      "playerRankingPoints": 498,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Jan Choinski",
+      "playerRankingPlayerId": "CH12",
+      "playerCountry": "GBR",
+      "opponentRank": 86,
+      "opponentRankingPoints": 665,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Jesper de Jong",
+      "opponentRankingPlayerId": "D0C1",
+      "opponentCountry": "NED"
     },
     {
       "matchId": "RES-49D7DBBBE8",
@@ -717,7 +1165,19 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Quentin Halys. Quentin Halys wins the match 6-3 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 72,
+      "playerRankingPoints": 762,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Quentin Halys",
+      "playerRankingPlayerId": "HB64",
+      "playerCountry": "FRA",
+      "opponentRank": 95,
+      "opponentRankingPoints": 626,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Christopher O'Connell",
+      "opponentRankingPlayerId": "O483",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-7758F22E14",
@@ -735,7 +1195,19 @@
       "reason": null,
       "formattedScore": "7-6(1) 6-4",
       "sourceText": "Game Set and Match Aleksandr Shevchenko. Aleksandr Shevchenko wins the match 7-6(1) 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 79,
+      "playerRankingPoints": 696,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Aleksandr Shevchenko",
+      "playerRankingPlayerId": "S0H2",
+      "playerCountry": "KAZ",
+      "opponentRank": 136,
+      "opponentRankingPoints": 464,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Nikoloz Basilashvili",
+      "opponentRankingPlayerId": "BG23",
+      "opponentCountry": "GEO"
     },
     {
       "matchId": "RES-D368E8737D",
@@ -753,7 +1225,19 @@
       "reason": null,
       "formattedScore": "6-2 6-2",
       "sourceText": "Game Set and Match Otto Virtanen. Otto Virtanen wins the match 6-2 6-2 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 128,
+      "playerRankingPoints": 488,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Otto Virtanen",
+      "playerRankingPlayerId": "V0AM",
+      "playerCountry": "FIN",
+      "opponentRank": 88,
+      "opponentRankingPoints": 656,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Aleksandar Vukic",
+      "opponentRankingPlayerId": "V832",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-4C90B567C4",
@@ -771,7 +1255,13 @@
       "reason": null,
       "formattedScore": "6-0 6-1",
       "sourceText": "Game Set and Match Jan-Lennard Struff. Jan-Lennard Struff wins the match 6-0 6-1 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 77,
+      "playerRankingPoints": 706,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Jan-Lennard Struff",
+      "playerRankingPlayerId": "SL28",
+      "playerCountry": "GER"
     },
     {
       "matchId": "RES-9CB0210F4A",
@@ -789,7 +1279,19 @@
       "reason": null,
       "formattedScore": "6-3 6-2",
       "sourceText": "Game Set and Match Pablo Carreno Busta. Pablo Carreno Busta wins the match 6-3 6-2 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 123,
+      "playerRankingPoints": 504,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Pablo Carreno Busta",
+      "playerRankingPlayerId": "CD85",
+      "playerCountry": "ESP",
+      "opponentRank": 55,
+      "opponentRankingPoints": 936,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Botic van de Zandschulp",
+      "opponentRankingPlayerId": "V812",
+      "opponentCountry": "NED"
     },
     {
       "matchId": "RES-724D873270",
@@ -807,7 +1309,19 @@
       "reason": null,
       "formattedScore": "2-6 6-2 7-6(3)",
       "sourceText": "Game Set and Match Luca Nardi. Luca Nardi wins the match 2-6 6-2 7-6(3).",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 94,
+      "playerRankingPoints": 629,
+      "playerRankingDate": "2026-02-16",
+      "playerRankingName": "Luca Nardi",
+      "playerRankingPlayerId": "N0BG",
+      "playerCountry": "ITA",
+      "opponentRank": 131,
+      "opponentRankingPoints": 472,
+      "opponentRankingDate": "2026-02-16",
+      "opponentRankingName": "Marco Trungelliti",
+      "opponentRankingPlayerId": "TA29",
+      "opponentCountry": "ARG"
     }
   ]
 }

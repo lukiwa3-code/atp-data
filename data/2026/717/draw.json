@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/houston/717/2026/draws",
   "tournament": {
     "id": "717",
@@ -35,6 +35,9 @@
   },
   "countRounds": 5,
   "countMatches": 31,
+  "rankingDatesUsed": [
+    "2026-03-30"
+  ],
   "rounds": [
     {
       "round": "F",
@@ -65,7 +68,17 @@
             "7"
           ],
           "winnerName": "Tommy Paul",
-          "formattedScore": "6-1 3-6 7-5"
+          "formattedScore": "6-1 3-6 7-5",
+          "player1Rank": 77,
+          "player1RankingPoints": 703,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Roman Andres Burruchaga",
+          "player1RankingPlayerId": "B0FV",
+          "player2Rank": 21,
+          "player2RankingPoints": 1915,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Tommy Paul",
+          "player2RankingPlayerId": "PL56"
         }
       ]
     },
@@ -96,7 +109,17 @@
             "6"
           ],
           "winnerName": "Roman Andres Burruchaga",
-          "formattedScore": "6-1 6-1"
+          "formattedScore": "6-1 6-1",
+          "player1Rank": 83,
+          "player1RankingPoints": 673,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Thiago Agustin Tirante",
+          "player1RankingPlayerId": "T0A1",
+          "player2Rank": 77,
+          "player2RankingPoints": 703,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Roman Andres Burruchaga",
+          "player2RankingPlayerId": "B0FV"
         },
         {
           "bracketOrder": 2,
@@ -121,7 +144,17 @@
             "6 7"
           ],
           "winnerName": "Tommy Paul",
-          "formattedScore": "7-5 4-6 7-6(7)"
+          "formattedScore": "7-5 4-6 7-6(7)",
+          "player1Rank": 21,
+          "player1RankingPoints": 1915,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Tommy Paul",
+          "player1RankingPlayerId": "PL56",
+          "player2Rank": 18,
+          "player2RankingPoints": 2070,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Frances Tiafoe",
+          "player2RankingPlayerId": "TD51"
         }
       ]
     },
@@ -154,7 +187,17 @@
             "6"
           ],
           "winnerName": "Thiago Agustin Tirante",
-          "formattedScore": "6-7(5) 6-3 6-4"
+          "formattedScore": "6-7(5) 6-3 6-4",
+          "player1Rank": 9,
+          "player1RankingPoints": 3860,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Ben Shelton",
+          "player1RankingPlayerId": "S0S1",
+          "player2Rank": 83,
+          "player2RankingPoints": 673,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Thiago Agustin Tirante",
+          "player2RankingPlayerId": "T0A1"
         },
         {
           "bracketOrder": 2,
@@ -177,7 +220,17 @@
             "6"
           ],
           "winnerName": "Roman Andres Burruchaga",
-          "formattedScore": "7-5 6-4"
+          "formattedScore": "7-5 6-4",
+          "player1Rank": 22,
+          "player1RankingPoints": 1845,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Learner Tien",
+          "player1RankingPlayerId": "T0HA",
+          "player2Rank": 77,
+          "player2RankingPoints": 703,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Roman Andres Burruchaga",
+          "player2RankingPlayerId": "B0FV"
         },
         {
           "bracketOrder": 3,
@@ -200,7 +253,17 @@
             "6"
           ],
           "winnerName": "Tommy Paul",
-          "formattedScore": "6-4 6-2"
+          "formattedScore": "6-4 6-2",
+          "player1Rank": 31,
+          "player1RankingPoints": 1500,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Tomas Martin Etcheverry",
+          "player1RankingPlayerId": "EA24",
+          "player2Rank": 21,
+          "player2RankingPoints": 1915,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Tommy Paul",
+          "player2RankingPlayerId": "PL56"
         },
         {
           "bracketOrder": 4,
@@ -225,7 +288,17 @@
             "7"
           ],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": "3-6 6-4 7-6(6)"
+          "formattedScore": "3-6 6-4 7-6(6)",
+          "player1Rank": 45,
+          "player1RankingPoints": 1010,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Alexei Popyrin",
+          "player1RankingPlayerId": "P09Z",
+          "player2Rank": 18,
+          "player2RankingPoints": 2070,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Frances Tiafoe",
+          "player2RankingPlayerId": "TD51"
         }
       ]
     },
@@ -256,7 +329,17 @@
             "6 3"
           ],
           "winnerName": "Ben Shelton",
-          "formattedScore": "7-6(5) 7-6(3)"
+          "formattedScore": "7-6(5) 7-6(3)",
+          "player1Rank": 9,
+          "player1RankingPoints": 3860,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Ben Shelton",
+          "player1RankingPlayerId": "S0S1",
+          "player2Rank": 263,
+          "player2RankingPoints": 205,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Zhizhen Zhang",
+          "player2RankingPlayerId": "Z371"
         },
         {
           "bracketOrder": 2,
@@ -279,7 +362,17 @@
             "0"
           ],
           "winnerName": "Thiago Agustin Tirante",
-          "formattedScore": "6-2 6-0"
+          "formattedScore": "6-2 6-0",
+          "player1Rank": 83,
+          "player1RankingPoints": 673,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Thiago Agustin Tirante",
+          "player1RankingPlayerId": "T0A1",
+          "player2Rank": 125,
+          "player2RankingPoints": 501,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Mackenzie McDonald",
+          "player2RankingPlayerId": "MK66"
         },
         {
           "bracketOrder": 3,
@@ -304,7 +397,17 @@
             "1"
           ],
           "winnerName": "Learner Tien",
-          "formattedScore": "6-3 3-6 6-1"
+          "formattedScore": "6-3 3-6 6-1",
+          "player1Rank": 22,
+          "player1RankingPoints": 1845,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Learner Tien",
+          "player1RankingPlayerId": "T0HA",
+          "player2Rank": 193,
+          "player2RankingPoints": 306,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Nishesh Basavareddy",
+          "player2RankingPlayerId": "B0NN"
         },
         {
           "bracketOrder": 4,
@@ -329,7 +432,17 @@
             "4"
           ],
           "winnerName": "Roman Andres Burruchaga",
-          "formattedScore": "6-4 2-6 6-4"
+          "formattedScore": "6-4 2-6 6-4",
+          "player1Rank": 77,
+          "player1RankingPoints": 703,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Roman Andres Burruchaga",
+          "player1RankingPlayerId": "B0FV",
+          "player2Rank": 33,
+          "player2RankingPoints": 1395,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Brandon Nakashima",
+          "player2RankingPlayerId": "N0AE"
         },
         {
           "bracketOrder": 5,
@@ -354,7 +467,17 @@
             "3"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "6-7(5) 6-0 6-3"
+          "formattedScore": "6-7(5) 6-0 6-3",
+          "player1Rank": 31,
+          "player1RankingPoints": 1500,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Tomas Martin Etcheverry",
+          "player1RankingPlayerId": "EA24",
+          "player2Rank": 165,
+          "player2RankingPoints": 369,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Alex Bolt",
+          "player2RankingPlayerId": "BI81"
         },
         {
           "bracketOrder": 6,
@@ -379,7 +502,17 @@
             "6"
           ],
           "winnerName": "Tommy Paul",
-          "formattedScore": "3-6 6-4 6-4"
+          "formattedScore": "3-6 6-4 6-4",
+          "player1Rank": 101,
+          "player1RankingPoints": 621,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Adolfo Daniel Vallejo",
+          "player1RankingPlayerId": "V0DP",
+          "player2Rank": 21,
+          "player2RankingPoints": 1915,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Tommy Paul",
+          "player2RankingPlayerId": "PL56"
         },
         {
           "bracketOrder": 7,
@@ -404,7 +537,17 @@
             "6"
           ],
           "winnerName": "Alexei Popyrin",
-          "formattedScore": "6-0 4-6 6-1"
+          "formattedScore": "6-0 4-6 6-1",
+          "player1Rank": 35,
+          "player1RankingPoints": 1225,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Alex Michelsen",
+          "player1RankingPlayerId": "M0QI",
+          "player2Rank": 45,
+          "player2RankingPoints": 1010,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Alexei Popyrin",
+          "player2RankingPlayerId": "P09Z"
         },
         {
           "bracketOrder": 8,
@@ -429,7 +572,17 @@
             "6"
           ],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": "6-4 3-6 6-2"
+          "formattedScore": "6-4 3-6 6-2",
+          "player1Rank": 102,
+          "player1RankingPoints": 619,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Rinky Hijikata",
+          "player1RankingPlayerId": "H0BH",
+          "player2Rank": 18,
+          "player2RankingPoints": 2070,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Frances Tiafoe",
+          "player2RankingPlayerId": "TD51"
         }
       ]
     },
@@ -454,7 +607,12 @@
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "Ben Shelton",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player1Rank": 9,
+          "player1RankingPoints": 3860,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Ben Shelton",
+          "player1RankingPlayerId": "S0S1"
         },
         {
           "bracketOrder": 2,
@@ -477,7 +635,17 @@
             "6"
           ],
           "winnerName": "Zhizhen Zhang",
-          "formattedScore": "6-1 6-3"
+          "formattedScore": "6-1 6-3",
+          "player1Rank": 138,
+          "player1RankingPoints": 456,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Jack Pinnington Jones",
+          "player1RankingPlayerId": "P0HT",
+          "player2Rank": 263,
+          "player2RankingPoints": 205,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Zhizhen Zhang",
+          "player2RankingPlayerId": "Z371"
         },
         {
           "bracketOrder": 3,
@@ -500,7 +668,17 @@
             "6"
           ],
           "winnerName": "Thiago Agustin Tirante",
-          "formattedScore": "6-0 6-3"
+          "formattedScore": "6-0 6-3",
+          "player1Rank": 164,
+          "player1RankingPoints": 371,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Colton Smith",
+          "player1RankingPlayerId": "S0ZE",
+          "player2Rank": 83,
+          "player2RankingPoints": 673,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Thiago Agustin Tirante",
+          "player2RankingPlayerId": "T0A1"
         },
         {
           "bracketOrder": 4,
@@ -523,7 +701,17 @@
             "2"
           ],
           "winnerName": "Mackenzie Mcdonald",
-          "formattedScore": "6-4 6-2"
+          "formattedScore": "6-4 6-2",
+          "player1Rank": 125,
+          "player1RankingPoints": 501,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Mackenzie McDonald",
+          "player1RankingPlayerId": "MK66",
+          "player2Rank": 41,
+          "player2RankingPoints": 1115,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Jenson Brooksby",
+          "player2RankingPlayerId": "B0CD"
         },
         {
           "bracketOrder": 5,
@@ -540,7 +728,12 @@
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "Learner Tien",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player1Rank": 22,
+          "player1RankingPoints": 1845,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Learner Tien",
+          "player1RankingPlayerId": "T0HA"
         },
         {
           "bracketOrder": 6,
@@ -565,7 +758,17 @@
             "4"
           ],
           "winnerName": "Nishesh Basavareddy",
-          "formattedScore": "6-3 2-6 6-4"
+          "formattedScore": "6-3 2-6 6-4",
+          "player1Rank": 193,
+          "player1RankingPoints": 306,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Nishesh Basavareddy",
+          "player1RankingPlayerId": "B0NN",
+          "player2Rank": 147,
+          "player2RankingPoints": 430,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Liam Draxl",
+          "player2RankingPlayerId": "D0DP"
         },
         {
           "bracketOrder": 7,
@@ -588,7 +791,17 @@
             "3"
           ],
           "winnerName": "Roman Andres Burruchaga",
-          "formattedScore": "6-2 6-3"
+          "formattedScore": "6-2 6-3",
+          "player1Rank": 77,
+          "player1RankingPoints": 703,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Roman Andres Burruchaga",
+          "player1RankingPlayerId": "B0FV",
+          "player2Rank": 105,
+          "player2RankingPoints": 614,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Adam Walton",
+          "player2RankingPlayerId": "W09E"
         },
         {
           "bracketOrder": 8,
@@ -611,7 +824,17 @@
             "6"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "7-6(0) 6-2"
+          "formattedScore": "7-6(0) 6-2",
+          "player1Rank": 126,
+          "player1RankingPoints": 499,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Martin Damm",
+          "player1RankingPlayerId": "D0DT",
+          "player2Rank": 33,
+          "player2RankingPoints": 1395,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Brandon Nakashima",
+          "player2RankingPlayerId": "N0AE"
         },
         {
           "bracketOrder": 9,
@@ -636,7 +859,17 @@
             "4"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "1-6 6-1 6-4"
+          "formattedScore": "1-6 6-1 6-4",
+          "player1Rank": 31,
+          "player1RankingPoints": 1500,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Tomas Martin Etcheverry",
+          "player1RankingPlayerId": "EA24",
+          "player2Rank": 182,
+          "player2RankingPoints": 331,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Federico Agustin Gomez",
+          "player2RankingPlayerId": "GJ16"
         },
         {
           "bracketOrder": 10,
@@ -659,7 +892,17 @@
             "2"
           ],
           "winnerName": "Alex Bolt",
-          "formattedScore": "7-6(6) 6-2"
+          "formattedScore": "7-6(6) 6-2",
+          "player1Rank": 165,
+          "player1RankingPoints": 369,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Alex Bolt",
+          "player1RankingPlayerId": "BI81",
+          "player2Rank": 118,
+          "player2RankingPoints": 559,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Yibing Wu",
+          "player2RankingPlayerId": "WB32"
         },
         {
           "bracketOrder": 11,
@@ -682,7 +925,17 @@
             "4"
           ],
           "winnerName": "Adolfo Daniel Vallejo",
-          "formattedScore": "6-1 6-4"
+          "formattedScore": "6-1 6-4",
+          "player1Rank": 101,
+          "player1RankingPoints": 621,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Adolfo Daniel Vallejo",
+          "player1RankingPlayerId": "V0DP",
+          "player2Rank": 82,
+          "player2RankingPoints": 674,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Zachary Svajda",
+          "player2RankingPlayerId": "S0K7"
         },
         {
           "bracketOrder": 12,
@@ -699,7 +952,12 @@
           "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "Tommy Paul",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player2Rank": 21,
+          "player2RankingPoints": 1915,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Tommy Paul",
+          "player2RankingPlayerId": "PL56"
         },
         {
           "bracketOrder": 13,
@@ -722,7 +980,17 @@
             "2"
           ],
           "winnerName": "Alex Michelsen",
-          "formattedScore": "6-4 6-2"
+          "formattedScore": "6-4 6-2",
+          "player1Rank": 35,
+          "player1RankingPoints": 1225,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Alex Michelsen",
+          "player1RankingPlayerId": "M0QI",
+          "player2Rank": 124,
+          "player2RankingPoints": 503,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Coleman Wong",
+          "player2RankingPlayerId": "W0BH"
         },
         {
           "bracketOrder": 14,
@@ -747,7 +1015,17 @@
             "3"
           ],
           "winnerName": "Alexei Popyrin",
-          "formattedScore": "4-6 6-4 6-3"
+          "formattedScore": "4-6 6-4 6-3",
+          "player1Rank": 45,
+          "player1RankingPoints": 1010,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Alexei Popyrin",
+          "player1RankingPlayerId": "P09Z",
+          "player2Rank": 96,
+          "player2RankingPoints": 640,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Patrick Kypson",
+          "player2RankingPlayerId": "K0A3"
         },
         {
           "bracketOrder": 15,
@@ -770,7 +1048,17 @@
             "6"
           ],
           "winnerName": "Rinky Hijikata",
-          "formattedScore": "6-4 6-2"
+          "formattedScore": "6-4 6-2",
+          "player1Rank": 85,
+          "player1RankingPoints": 661,
+          "player1RankingDate": "2026-03-30",
+          "player1RankingName": "Aleksandar Kovacevic",
+          "player1RankingPlayerId": "K0AZ",
+          "player2Rank": 102,
+          "player2RankingPoints": 619,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Rinky Hijikata",
+          "player2RankingPlayerId": "H0BH"
         },
         {
           "bracketOrder": 16,
@@ -787,7 +1075,12 @@
           "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player2Rank": 18,
+          "player2RankingPoints": 2070,
+          "player2RankingDate": "2026-03-30",
+          "player2RankingName": "Frances Tiafoe",
+          "player2RankingPlayerId": "TD51"
         }
       ]
     }

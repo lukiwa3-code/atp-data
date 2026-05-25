@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/geneva/322/2026/draws",
   "tournament": {
     "id": "322",
@@ -35,6 +35,9 @@
   },
   "countRounds": 5,
   "countMatches": 31,
+  "rankingDatesUsed": [
+    "2026-05-18"
+  ],
   "rounds": [
     {
       "round": "F",

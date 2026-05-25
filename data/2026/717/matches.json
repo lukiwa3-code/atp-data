@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/houston/717/2026/results",
   "tournament": {
     "id": "717",
@@ -34,6 +34,9 @@
     "totalFinancialCommitment": "$788,349"
   },
   "count": 39,
+  "rankingDatesUsed": [
+    "2026-03-30"
+  ],
   "matches": [
     {
       "matchId": "RES-017FBD3A62",
@@ -51,7 +54,19 @@
       "reason": null,
       "formattedScore": "6-1 3-6 7-5",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 6-1 3-6 7-5 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 21,
+      "playerRankingPoints": 1915,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 77,
+      "opponentRankingPoints": 703,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Roman Andres Burruchaga",
+      "opponentRankingPlayerId": "B0FV",
+      "opponentCountry": "ARG"
     },
     {
       "matchId": "RES-E5ED7362F7",
@@ -69,7 +84,19 @@
       "reason": null,
       "formattedScore": "7-5 4-6 7-6(7)",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 7-5 4-6 7-6(7).",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 21,
+      "playerRankingPoints": 1915,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 18,
+      "opponentRankingPoints": 2070,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Frances Tiafoe",
+      "opponentRankingPlayerId": "TD51",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-910C8D8652",
@@ -87,7 +114,19 @@
       "reason": null,
       "formattedScore": "6-1 6-1",
       "sourceText": "Game Set and Match Roman Andres Burruchaga. Roman Andres Burruchaga wins the match 6-1 6-1 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 77,
+      "playerRankingPoints": 703,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Roman Andres Burruchaga",
+      "playerRankingPlayerId": "B0FV",
+      "playerCountry": "ARG",
+      "opponentRank": 83,
+      "opponentRankingPoints": 673,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Thiago Agustin Tirante",
+      "opponentRankingPlayerId": "T0A1",
+      "opponentCountry": "ARG"
     },
     {
       "matchId": "RES-700F26BA91",
@@ -105,7 +144,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 6-4 6-2 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 21,
+      "playerRankingPoints": 1915,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 31,
+      "opponentRankingPoints": 1500,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Tomas Martin Etcheverry",
+      "opponentRankingPlayerId": "EA24",
+      "opponentCountry": "ARG"
     },
     {
       "matchId": "RES-4961281F03",
@@ -123,7 +174,19 @@
       "reason": null,
       "formattedScore": "3-6 6-4 7-6(6)",
       "sourceText": "Game Set and Match Frances Tiafoe. Frances Tiafoe wins the match 3-6 6-4 7-6(6).",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 18,
+      "playerRankingPoints": 2070,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Frances Tiafoe",
+      "playerRankingPlayerId": "TD51",
+      "playerCountry": "USA",
+      "opponentRank": 45,
+      "opponentRankingPoints": 1010,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Alexei Popyrin",
+      "opponentRankingPlayerId": "P09Z",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-7082787858",
@@ -141,7 +204,19 @@
       "reason": null,
       "formattedScore": "7-5 6-4",
       "sourceText": "Game Set and Match Roman Andres Burruchaga. Roman Andres Burruchaga wins the match 7-5 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 77,
+      "playerRankingPoints": 703,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Roman Andres Burruchaga",
+      "playerRankingPlayerId": "B0FV",
+      "playerCountry": "ARG",
+      "opponentRank": 22,
+      "opponentRankingPoints": 1845,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Learner Tien",
+      "opponentRankingPlayerId": "T0HA",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-A0D2D42564",
@@ -159,7 +234,19 @@
       "reason": null,
       "formattedScore": "6-7(5) 6-3 6-4",
       "sourceText": "Game Set and Match Thiago Agustin Tirante. Thiago Agustin Tirante wins the match 6-7(5) 6-3 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 83,
+      "playerRankingPoints": 673,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Thiago Agustin Tirante",
+      "playerRankingPlayerId": "T0A1",
+      "playerCountry": "ARG",
+      "opponentRank": 9,
+      "opponentRankingPoints": 3860,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Ben Shelton",
+      "opponentRankingPlayerId": "S0S1",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-7D84C0C115",
@@ -177,7 +264,19 @@
       "reason": null,
       "formattedScore": "3-6 6-4 6-4",
       "sourceText": "Game Set and Match Tommy Paul. Tommy Paul wins the match 3-6 6-4 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 21,
+      "playerRankingPoints": 1915,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Tommy Paul",
+      "playerRankingPlayerId": "PL56",
+      "playerCountry": "USA",
+      "opponentRank": 101,
+      "opponentRankingPoints": 621,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Adolfo Daniel Vallejo",
+      "opponentRankingPlayerId": "V0DP",
+      "opponentCountry": "PAR"
     },
     {
       "matchId": "RES-71FFCF6FB3",
@@ -195,7 +294,19 @@
       "reason": null,
       "formattedScore": "6-7(5) 6-0 6-3",
       "sourceText": "Game Set and Match Tomas Martin Etcheverry. Tomas Martin Etcheverry wins the match 6-7(5) 6-0 6-3 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 31,
+      "playerRankingPoints": 1500,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Tomas Martin Etcheverry",
+      "playerRankingPlayerId": "EA24",
+      "playerCountry": "ARG",
+      "opponentRank": 165,
+      "opponentRankingPoints": 369,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Alex Bolt",
+      "opponentRankingPlayerId": "BI81",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-026544CE81",
@@ -213,7 +324,19 @@
       "reason": null,
       "formattedScore": "6-4 3-6 6-2",
       "sourceText": "Game Set and Match Frances Tiafoe. Frances Tiafoe wins the match 6-4 3-6 6-2 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 18,
+      "playerRankingPoints": 2070,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Frances Tiafoe",
+      "playerRankingPlayerId": "TD51",
+      "playerCountry": "USA",
+      "opponentRank": 102,
+      "opponentRankingPoints": 619,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Rinky Hijikata",
+      "opponentRankingPlayerId": "H0BH",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-0AA895151B",
@@ -231,7 +354,19 @@
       "reason": null,
       "formattedScore": "6-0 4-6 6-1",
       "sourceText": "Game Set and Match Alexei Popyrin. Alexei Popyrin wins the match 6-0 4-6 6-1 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 45,
+      "playerRankingPoints": 1010,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Alexei Popyrin",
+      "playerRankingPlayerId": "P09Z",
+      "playerCountry": "AUS",
+      "opponentRank": 35,
+      "opponentRankingPoints": 1225,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Alex Michelsen",
+      "opponentRankingPlayerId": "M0QI",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-6A6CCE3A6C",
@@ -249,7 +384,19 @@
       "reason": null,
       "formattedScore": "6-4 2-6 6-4",
       "sourceText": "Game Set and Match Roman Andres Burruchaga. Roman Andres Burruchaga wins the match 6-4 2-6 6-4 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 77,
+      "playerRankingPoints": 703,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Roman Andres Burruchaga",
+      "playerRankingPlayerId": "B0FV",
+      "playerCountry": "ARG",
+      "opponentRank": 33,
+      "opponentRankingPoints": 1395,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Brandon Nakashima",
+      "opponentRankingPlayerId": "N0AE",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-0193F98B37",
@@ -267,7 +414,19 @@
       "reason": null,
       "formattedScore": "6-3 3-6 6-1",
       "sourceText": "Game Set and Match Learner Tien. Learner Tien wins the match 6-3 3-6 6-1 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 22,
+      "playerRankingPoints": 1845,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Learner Tien",
+      "playerRankingPlayerId": "T0HA",
+      "playerCountry": "USA",
+      "opponentRank": 193,
+      "opponentRankingPoints": 306,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Nishesh Basavareddy",
+      "opponentRankingPlayerId": "B0NN",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-4CCBE39668",
@@ -285,7 +444,19 @@
       "reason": null,
       "formattedScore": "6-2 6-0",
       "sourceText": "Game Set and Match Thiago Agustin Tirante. Thiago Agustin Tirante wins the match 6-2 6-0 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 83,
+      "playerRankingPoints": 673,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Thiago Agustin Tirante",
+      "playerRankingPlayerId": "T0A1",
+      "playerCountry": "ARG",
+      "opponentRank": 125,
+      "opponentRankingPoints": 501,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Mackenzie McDonald",
+      "opponentRankingPlayerId": "MK66",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-26842980DE",
@@ -303,7 +474,19 @@
       "reason": null,
       "formattedScore": "7-6(5) 7-6(3)",
       "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 7-6(5) 7-6(3).",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 9,
+      "playerRankingPoints": 3860,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Ben Shelton",
+      "playerRankingPlayerId": "S0S1",
+      "playerCountry": "USA",
+      "opponentRank": 263,
+      "opponentRankingPoints": 205,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Zhizhen Zhang",
+      "opponentRankingPlayerId": "Z371",
+      "opponentCountry": "CHN"
     },
     {
       "matchId": "RES-DBF2292838",
@@ -321,7 +504,19 @@
       "reason": null,
       "formattedScore": "6-1 6-4",
       "sourceText": "Game Set and Match Adolfo Daniel Vallejo. Adolfo Daniel Vallejo wins the match 6-1 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 1,
+      "playerRank": 101,
+      "playerRankingPoints": 621,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Adolfo Daniel Vallejo",
+      "playerRankingPlayerId": "V0DP",
+      "playerCountry": "PAR",
+      "opponentRank": 82,
+      "opponentRankingPoints": 674,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Zachary Svajda",
+      "opponentRankingPlayerId": "S0K7",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-0B469D5056",
@@ -339,7 +534,19 @@
       "reason": null,
       "formattedScore": "1-6 6-1 6-4",
       "sourceText": "Game Set and Match Tomas Martin Etcheverry. Tomas Martin Etcheverry wins the match 1-6 6-1 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 2,
+      "playerRank": 31,
+      "playerRankingPoints": 1500,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Tomas Martin Etcheverry",
+      "playerRankingPlayerId": "EA24",
+      "playerCountry": "ARG",
+      "opponentRank": 182,
+      "opponentRankingPoints": 331,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Federico Agustin Gomez",
+      "opponentRankingPlayerId": "GJ16",
+      "opponentCountry": "ARG"
     },
     {
       "matchId": "RES-6651E4F3D6",
@@ -357,7 +564,19 @@
       "reason": null,
       "formattedScore": "7-6(6) 6-2",
       "sourceText": "Game Set and Match Alex Bolt. Alex Bolt wins the match 7-6(6) 6-2 .",
-      "bracketOrder": 3
+      "bracketOrder": 3,
+      "playerRank": 165,
+      "playerRankingPoints": 369,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Alex Bolt",
+      "playerRankingPlayerId": "BI81",
+      "playerCountry": "AUS",
+      "opponentRank": 118,
+      "opponentRankingPoints": 559,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Yibing Wu",
+      "opponentRankingPlayerId": "WB32",
+      "opponentCountry": "CHN"
     },
     {
       "matchId": "RES-5E2F9B9B81",
@@ -375,7 +594,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Rinky Hijikata. Rinky Hijikata wins the match 6-4 6-2 .",
-      "bracketOrder": 4
+      "bracketOrder": 4,
+      "playerRank": 102,
+      "playerRankingPoints": 619,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Rinky Hijikata",
+      "playerRankingPlayerId": "H0BH",
+      "playerCountry": "AUS",
+      "opponentRank": 85,
+      "opponentRankingPoints": 661,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Aleksandar Kovacevic",
+      "opponentRankingPlayerId": "K0AZ",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-34E4393BEC",
@@ -393,7 +624,19 @@
       "reason": null,
       "formattedScore": "4-6 6-4 6-3",
       "sourceText": "Game Set and Match Alexei Popyrin. Alexei Popyrin wins the match 4-6 6-4 6-3 .",
-      "bracketOrder": 5
+      "bracketOrder": 5,
+      "playerRank": 45,
+      "playerRankingPoints": 1010,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Alexei Popyrin",
+      "playerRankingPlayerId": "P09Z",
+      "playerCountry": "AUS",
+      "opponentRank": 96,
+      "opponentRankingPoints": 640,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Patrick Kypson",
+      "opponentRankingPlayerId": "K0A3",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-BA501C84D2",
@@ -411,7 +654,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Alex Michelsen. Alex Michelsen wins the match 6-4 6-2 .",
-      "bracketOrder": 6
+      "bracketOrder": 6,
+      "playerRank": 35,
+      "playerRankingPoints": 1225,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Alex Michelsen",
+      "playerRankingPlayerId": "M0QI",
+      "playerCountry": "USA",
+      "opponentRank": 124,
+      "opponentRankingPoints": 503,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Coleman Wong",
+      "opponentRankingPlayerId": "W0BH",
+      "opponentCountry": "HKG"
     },
     {
       "matchId": "RES-EE6AE0E885",
@@ -429,7 +684,19 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Roman Andres Burruchaga. Roman Andres Burruchaga wins the match 6-2 6-3 .",
-      "bracketOrder": 7
+      "bracketOrder": 7,
+      "playerRank": 77,
+      "playerRankingPoints": 703,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Roman Andres Burruchaga",
+      "playerRankingPlayerId": "B0FV",
+      "playerCountry": "ARG",
+      "opponentRank": 105,
+      "opponentRankingPoints": 614,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Adam Walton",
+      "opponentRankingPlayerId": "W09E",
+      "opponentCountry": "AUS"
     },
     {
       "matchId": "RES-C9124451E9",
@@ -447,7 +714,19 @@
       "reason": null,
       "formattedScore": "7-6(0) 6-2",
       "sourceText": "Game Set and Match Brandon Nakashima. Brandon Nakashima wins the match 7-6(0) 6-2 .",
-      "bracketOrder": 8
+      "bracketOrder": 8,
+      "playerRank": 33,
+      "playerRankingPoints": 1395,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Brandon Nakashima",
+      "playerRankingPlayerId": "N0AE",
+      "playerCountry": "USA",
+      "opponentRank": 126,
+      "opponentRankingPoints": 499,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Martin Damm",
+      "opponentRankingPlayerId": "D0DT",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-745BFDA22E",
@@ -465,7 +744,19 @@
       "reason": null,
       "formattedScore": "6-3 2-6 6-4",
       "sourceText": "Game Set and Match Nishesh Basavareddy. Nishesh Basavareddy wins the match 6-3 2-6 6-4 .",
-      "bracketOrder": 9
+      "bracketOrder": 9,
+      "playerRank": 193,
+      "playerRankingPoints": 306,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Nishesh Basavareddy",
+      "playerRankingPlayerId": "B0NN",
+      "playerCountry": "USA",
+      "opponentRank": 147,
+      "opponentRankingPoints": 430,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Liam Draxl",
+      "opponentRankingPlayerId": "D0DP",
+      "opponentCountry": "CAN"
     },
     {
       "matchId": "RES-B86033D33C",
@@ -483,7 +774,19 @@
       "reason": null,
       "formattedScore": "6-0 6-3",
       "sourceText": "Game Set and Match Thiago Agustin Tirante. Thiago Agustin Tirante wins the match 6-0 6-3 .",
-      "bracketOrder": 10
+      "bracketOrder": 10,
+      "playerRank": 83,
+      "playerRankingPoints": 673,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Thiago Agustin Tirante",
+      "playerRankingPlayerId": "T0A1",
+      "playerCountry": "ARG",
+      "opponentRank": 164,
+      "opponentRankingPoints": 371,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Colton Smith",
+      "opponentRankingPlayerId": "S0ZE",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-87EC4E2EF8",
@@ -501,7 +804,19 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Mackenzie McDonald. Mackenzie McDonald wins the match 6-4 6-2 .",
-      "bracketOrder": 11
+      "bracketOrder": 11,
+      "playerRank": 125,
+      "playerRankingPoints": 501,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Mackenzie McDonald",
+      "playerRankingPlayerId": "MK66",
+      "playerCountry": "USA",
+      "opponentRank": 41,
+      "opponentRankingPoints": 1115,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Jenson Brooksby",
+      "opponentRankingPlayerId": "B0CD",
+      "opponentCountry": "USA"
     },
     {
       "matchId": "RES-C1E7562A87",
@@ -519,7 +834,19 @@
       "reason": null,
       "formattedScore": "6-1 6-3",
       "sourceText": "Game Set and Match Zhizhen Zhang. Zhizhen Zhang wins the match 6-1 6-3 .",
-      "bracketOrder": 12
+      "bracketOrder": 12,
+      "playerRank": 263,
+      "playerRankingPoints": 205,
+      "playerRankingDate": "2026-03-30",
+      "playerRankingName": "Zhizhen Zhang",
+      "playerRankingPlayerId": "Z371",
+      "playerCountry": "CHN",
+      "opponentRank": 138,
+      "opponentRankingPoints": 456,
+      "opponentRankingDate": "2026-03-30",
+      "opponentRankingName": "Jack Pinnington Jones",
+      "opponentRankingPlayerId": "P0HT",
+      "opponentCountry": "GBR"
     },
     {
       "matchId": "RES-9B1F95EEFE",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
+  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
   "source": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-results",
   "tournament": {
     "id": "8096",
@@ -34,5 +34,8 @@
     "totalFinancialCommitment": null
   },
   "count": 0,
+  "rankingDatesUsed": [
+    "2026-02-02"
+  ],
   "matches": []
 }
