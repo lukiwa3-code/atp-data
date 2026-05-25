@@ -1,4 +1,6 @@
+import argparse
 import html
+import os
 import json
 import re
 import time
@@ -6,7 +8,8 @@ import unicodedata
 import hashlib
 from datetime import datetime, timezone, date
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple, Set
+from urllib.parse import urlencode
 
 import requests
 from bs4 import BeautifulSoup
@@ -17,6 +20,8 @@ DATA_DIR = BASE_DIR / "data"
 
 ATP_BASE_URL = "https://www.atptour.com"
 ATP_CALENDAR_URL = "https://www.atptour.com/en/-/tournaments/calendar/tour"
+ATP_RANKINGS_URL = "https://www.atptour.com/en/rankings/singles"
+RANKINGS_DIR = DATA_DIR / "rankings" / "singles"
 
 # Wyniki pobieramy teraz z zakładki Results, a nie z Player Draw.
 # To jest znacznie pewniejsze dla zakończonych turniejów, np. Acapulco.
@@ -73,6 +78,452 @@ def load_existing_json(path: Path) -> Optional[Any]:
         return json.loads(path.read_text(encoding="utf-8"))
     except Exception:
         return None
+
+
+
+def parse_int(value: Any) -> Optional[int]:
+    text = normalize_space(str(value or ""))
+    if not text or text in {"-", "None"}:
+        return None
+
+    text = re.sub(r"[^\d-]", "", text)
+    if not text or text == "-":
+        return None
+
+    try:
+        return int(text)
+    except ValueError:
+        return None
+
+
+def ranking_url_for_date(ranking_date: Optional[str] = None) -> str:
+    params = {"rankRange": "0-5000"}
+
+    if ranking_date:
+        params["dateWeek"] = ranking_date
+
+    return f"{ATP_RANKINGS_URL}?{urlencode(params)}"
+
+
+def monday_for_date(value: date) -> date:
+    return value - timedelta_days(value.weekday())
+
+
+def timedelta_days(days: int):
+    from datetime import timedelta
+    return timedelta(days=days)
+
+
+def normalize_date_value(value: str) -> Optional[str]:
+    text = normalize_space(value)
+    if not text:
+        return None
+
+    if text.lower() == "current week":
+        return None
+
+    if re.fullmatch(r"\d{4}-\d{2}-\d{2}", text):
+        return text
+
+    match = re.fullmatch(r"(\d{4})\.(\d{2})\.(\d{2})", text)
+    if match:
+        return f"{match.group(1)}-{match.group(2)}-{match.group(3)}"
+
+    return None
+
+
+def parse_match_date_text(value: Optional[str], fallback_year: Optional[str]) -> Optional[date]:
+    if not value:
+        return None
+
+    year_value = None
+    if fallback_year and str(fallback_year).isdigit():
+        year_value = int(str(fallback_year))
+
+    parsed = parse_date_part(str(value), year_value, None)
+    return parsed
+
+
+def ranking_date_for_match_text(value: Optional[str], tournament: Dict[str, Any]) -> Optional[str]:
+    year = str(tournament.get("year") or "")
+    parsed = parse_match_date_text(value, year)
+
+    if not parsed:
+        date_start_text = tournament.get("dateStart")
+        if date_start_text:
+            try:
+                parsed = date.fromisoformat(str(date_start_text))
+            except Exception:
+                parsed = None
+
+    if not parsed:
+        date_start, _ = parse_tournament_date_range(tournament.get("date"), year)
+        parsed = date_start
+
+    if not parsed:
+        return None
+
+    return monday_for_date(parsed).isoformat()
+
+
+def full_name_from_ranking_href(href: Optional[str]) -> Tuple[str, str]:
+    if not href:
+        return "", ""
+
+    match = re.search(r"/players/([^/]+)/([^/]+)/(?:overview|rankings-breakdown)", href, flags=re.IGNORECASE)
+    if not match:
+        return "", ""
+
+    slug = match.group(1)
+    player_id = match.group(2).upper()
+
+    name = " ".join(part.capitalize() for part in slug.split("-") if part)
+    name = name.replace(" De ", " de ").replace(" Van ", " van ").replace(" Del ", " del ")
+
+    return name, player_id
+
+
+def country_from_flag_use(use_href: Optional[str]) -> str:
+    if not use_href:
+        return ""
+
+    match = re.search(r"#flag-([a-z]{2,3})", use_href, flags=re.IGNORECASE)
+    return match.group(1).upper() if match else ""
+
+
+def parse_rankings_html(html_text: str, ranking_date: Optional[str], source_url: str, generated_at: str) -> Dict[str, Any]:
+    soup = BeautifulSoup(html_text, "html.parser")
+
+    if not ranking_date:
+        selected = soup.select_one("#dateWeek-filter option[selected]")
+        if selected:
+            ranking_date = normalize_date_value(selected.get("value")) or normalize_date_value(selected.get_text(" ", strip=True))
+
+    rows = soup.select("table.mega-table.desktop-table.non-live tbody tr.lower-row")
+    if not rows:
+        rows = soup.select("table.mega-table tbody tr.lower-row")
+
+    players: List[Dict[str, Any]] = []
+
+    for row in rows:
+        rank_value = parse_int(row.select_one("td.rank").get_text(" ", strip=True) if row.select_one("td.rank") else "")
+        link = row.select_one("td.player a[href]")
+        if not rank_value or not link:
+            continue
+
+        href = link.get("href") or ""
+        full_name, player_id = full_name_from_ranking_href(href)
+        display_name_el = link.select_one(".lastName")
+        display_name = normalize_space(display_name_el.get_text(" ", strip=True)) if display_name_el else normalize_space(link.get_text(" ", strip=True))
+
+        link_text = normalize_space(link.get_text(" ", strip=True))
+        if link_text and "." not in link_text and len(link_text.split()) >= 2:
+            full_name = link_text
+
+        if not full_name:
+            full_name = display_name
+
+        flag_use = row.select_one("svg.atp-flag use[href]")
+        country = country_from_flag_use(flag_use.get("href") if flag_use else "")
+
+        points_text = row.select_one("td.points").get_text(" ", strip=True) if row.select_one("td.points") else ""
+        best_text = row.select_one("td.best").get_text(" ", strip=True) if row.select_one("td.best") else ""
+
+        player = {
+            "rank": rank_value,
+            "name": full_name,
+            "displayName": display_name,
+            "playerId": player_id,
+            "country": country,
+            "points": parse_int(points_text),
+            "nextBest": parse_int(best_text),
+            "profileUrl": href,
+            "nameKey": player_key(full_name),
+            "displayNameKey": player_key(display_name),
+        }
+        players.append(player)
+
+    return {
+        "generatedAt": generated_at,
+        "source": source_url,
+        "rankingDate": ranking_date,
+        "count": len(players),
+        "players": players,
+    }
+
+
+def rankings_path(ranking_date: str) -> Path:
+    return RANKINGS_DIR / f"{ranking_date}.json"
+
+
+def load_ranking_snapshot(ranking_date: str) -> Optional[Dict[str, Any]]:
+    payload = load_existing_json(rankings_path(ranking_date))
+    return payload if isinstance(payload, dict) else None
+
+
+def fetch_ranking_snapshot(ranking_date: str, generated_at: str, force: bool = False) -> Dict[str, Any]:
+    path = rankings_path(ranking_date)
+
+    if path.exists() and not force:
+        existing = load_ranking_snapshot(ranking_date)
+        if existing:
+            return existing
+
+    url = ranking_url_for_date(ranking_date)
+    print(f"Fetching ATP ranking snapshot {ranking_date}...")
+    html_text = fetch_text(url, referer=ATP_RANKINGS_URL)
+    payload = parse_rankings_html(html_text, ranking_date, url, generated_at)
+
+    if payload.get("count", 0) == 0:
+        raise RuntimeError(f"No ranking rows parsed for {ranking_date}")
+
+    save_json(path, payload)
+    time.sleep(REQUEST_SLEEP_SECONDS)
+    return payload
+
+
+def fetch_current_ranking_page(generated_at: str) -> Dict[str, Any]:
+    url = ranking_url_for_date(None)
+    html_text = fetch_text(url, referer=ATP_RANKINGS_URL)
+
+    soup = BeautifulSoup(html_text, "html.parser")
+    selected = soup.select_one("#dateWeek-filter option[selected]")
+    ranking_date = None
+    if selected:
+        ranking_date = normalize_date_value(selected.get("value")) or normalize_date_value(selected.get_text(" ", strip=True))
+
+    if not ranking_date:
+        ranking_date = monday_for_date(datetime.now(timezone.utc).date()).isoformat()
+
+    payload = parse_rankings_html(html_text, ranking_date, url, generated_at)
+    if payload.get("count", 0) > 0:
+        save_json(rankings_path(ranking_date), payload)
+
+    return payload
+
+
+def available_ranking_dates_from_current_page(generated_at: str) -> List[str]:
+    url = ranking_url_for_date(None)
+    print("Discovering ATP ranking dates...")
+    html_text = fetch_text(url, referer=ATP_RANKINGS_URL)
+
+    soup = BeautifulSoup(html_text, "html.parser")
+    dates: List[str] = []
+
+    for option in soup.select("#dateWeek-filter option"):
+        date_value = normalize_date_value(option.get("value")) or normalize_date_value(option.get_text(" ", strip=True))
+        if date_value and date_value not in dates:
+            dates.append(date_value)
+
+    selected = soup.select_one("#dateWeek-filter option[selected]")
+    selected_date = None
+    if selected:
+        selected_date = normalize_date_value(selected.get("value")) or normalize_date_value(selected.get_text(" ", strip=True))
+
+    if selected_date and selected_date not in dates:
+        dates.insert(0, selected_date)
+
+    # Przy okazji zapisujemy aktualny ranking, aby nie pobierać tej strony drugi raz.
+    try:
+        current_payload = parse_rankings_html(html_text, selected_date, url, generated_at)
+        if current_payload.get("rankingDate") and current_payload.get("count", 0) > 0:
+            save_json(rankings_path(current_payload["rankingDate"]), current_payload)
+    except Exception as exc:
+        print(f"WARN could not save current ranking page: {exc}")
+
+    dates.sort(reverse=True)
+    return dates
+
+
+def ranking_lookup(payload: Optional[Dict[str, Any]]) -> Dict[str, Dict[str, Dict[str, Any]]]:
+    result = {
+        "by_id": {},
+        "by_name": {},
+    }
+
+    if not payload:
+        return result
+
+    for player in payload.get("players", []):
+        player_id = str(player.get("playerId") or "").upper()
+        if player_id:
+            result["by_id"][player_id] = player
+
+        for key_source in [player.get("name"), player.get("displayName")]:
+            key = player_key(str(key_source or ""))
+            if key and key not in result["by_name"]:
+                result["by_name"][key] = player
+
+    return result
+
+
+def find_player_ranking(lookup: Dict[str, Dict[str, Dict[str, Any]]], player_id: Optional[str], *names: str) -> Optional[Dict[str, Any]]:
+    id_key = str(player_id or "").upper()
+    if id_key and id_key in lookup["by_id"]:
+        return lookup["by_id"][id_key]
+
+    for name in names:
+        key = player_key(str(name or ""))
+        if key and key in lookup["by_name"]:
+            return lookup["by_name"][key]
+
+    return None
+
+
+def apply_ranking_fields(target: Dict[str, Any], prefix: str, ranking: Optional[Dict[str, Any]], ranking_date: Optional[str]) -> None:
+    if not ranking:
+        return
+
+    target[f"{prefix}Rank"] = ranking.get("rank")
+    target[f"{prefix}RankingPoints"] = ranking.get("points")
+    target[f"{prefix}RankingDate"] = ranking_date
+    target[f"{prefix}RankingName"] = ranking.get("name")
+    target[f"{prefix}RankingPlayerId"] = ranking.get("playerId")
+
+    country = ranking.get("country")
+    if country and not target.get(f"{prefix}Country"):
+        target[f"{prefix}Country"] = country
+
+
+def enrich_draw_with_rankings(draw_rounds: List[Dict[str, Any]], tournament: Dict[str, Any], generated_at: str) -> Set[str]:
+    used_dates: Set[str] = set()
+    ranking_date = ranking_date_for_match_text(None, tournament)
+    if not ranking_date:
+        return used_dates
+
+    try:
+        payload = fetch_ranking_snapshot(ranking_date, generated_at)
+    except Exception as exc:
+        print(f"WARN ranking snapshot failed for draw {tournament.get('name')} {ranking_date}: {exc}")
+        return used_dates
+
+    used_dates.add(ranking_date)
+    lookup = ranking_lookup(payload)
+
+    for round_item in draw_rounds:
+        for match in round_item.get("matches", []):
+            p1 = find_player_ranking(
+                lookup,
+                match.get("player1Id"),
+                match.get("player1FullName"),
+                match.get("player1"),
+            )
+            p2 = find_player_ranking(
+                lookup,
+                match.get("player2Id"),
+                match.get("player2FullName"),
+                match.get("player2"),
+            )
+
+            apply_ranking_fields(match, "player1", p1, ranking_date)
+            apply_ranking_fields(match, "player2", p2, ranking_date)
+
+    return used_dates
+
+
+def enrich_matches_with_rankings(matches: List[Dict[str, Any]], tournament: Dict[str, Any], generated_at: str) -> Set[str]:
+    used_dates: Set[str] = set()
+    cache: Dict[str, Dict[str, Dict[str, Dict[str, Any]]]] = {}
+
+    for match in matches:
+        ranking_date = ranking_date_for_match_text(match.get("date"), tournament)
+        if not ranking_date:
+            continue
+
+        if ranking_date not in cache:
+            try:
+                payload = fetch_ranking_snapshot(ranking_date, generated_at)
+                cache[ranking_date] = ranking_lookup(payload)
+                used_dates.add(ranking_date)
+            except Exception as exc:
+                print(f"WARN ranking snapshot failed for match {tournament.get('name')} {ranking_date}: {exc}")
+                continue
+
+        lookup = cache[ranking_date]
+
+        player_ranking = find_player_ranking(
+            lookup,
+            match.get("playerId"),
+            match.get("playerName"),
+        )
+        opponent_ranking = find_player_ranking(
+            lookup,
+            match.get("opponentId"),
+            match.get("opponentName"),
+        )
+
+        apply_ranking_fields(match, "player", player_ranking, ranking_date)
+        apply_ranking_fields(match, "opponent", opponent_ranking, ranking_date)
+
+
+    return used_dates
+
+
+def rebuild_rankings_index(generated_at: str) -> Dict[str, Any]:
+    RANKINGS_DIR.mkdir(parents=True, exist_ok=True)
+
+    items: List[Dict[str, Any]] = []
+
+    for path in sorted(RANKINGS_DIR.glob("*.json")):
+        if path.name == "index.json":
+            continue
+
+        payload = load_existing_json(path)
+        if not isinstance(payload, dict):
+            continue
+
+        ranking_date = payload.get("rankingDate") or path.stem
+        items.append(
+            {
+                "rankingDate": ranking_date,
+                "count": payload.get("count", 0),
+                "path": f"data/rankings/singles/{path.name}",
+                "source": payload.get("source"),
+            }
+        )
+
+    items.sort(key=lambda item: str(item.get("rankingDate") or ""), reverse=True)
+
+    index_payload = {
+        "generatedAt": generated_at,
+        "count": len(items),
+        "items": items,
+    }
+
+    save_json(RANKINGS_DIR / "index.json", index_payload)
+    return index_payload
+
+
+def backfill_rankings(start_date: str, end_date: Optional[str], generated_at: str, force: bool = False, max_weeks: Optional[int] = None) -> None:
+    start = date.fromisoformat(start_date)
+    end = date.fromisoformat(end_date) if end_date else datetime.now(timezone.utc).date()
+
+    available_dates = available_ranking_dates_from_current_page(generated_at)
+    selected_dates = [
+        value for value in available_dates
+        if start <= date.fromisoformat(value) <= end
+    ]
+
+    selected_dates.sort()
+
+    if max_weeks is not None and max_weeks > 0:
+        selected_dates = selected_dates[:max_weeks]
+
+    print(f"Backfilling ranking snapshots: {len(selected_dates)} weeks from {start.isoformat()} to {end.isoformat()}")
+
+    for index, ranking_date in enumerate(selected_dates, start=1):
+        path = rankings_path(ranking_date)
+        if path.exists() and not force:
+            print(f"[{index}/{len(selected_dates)}] Ranking {ranking_date}: already exists")
+            continue
+
+        try:
+            print(f"[{index}/{len(selected_dates)}] Ranking {ranking_date}")
+            fetch_ranking_snapshot(ranking_date, generated_at, force=force)
+        except Exception as exc:
+            print(f"WARN ranking backfill failed {ranking_date}: {exc}")
+
+    rebuild_rankings_index(generated_at)
 
 
 def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
@@ -1420,6 +1871,10 @@ def main() -> None:
             print(f"WARN tournament draw failed: {year}/{event_id} {name}: {exc}")
             draw_rounds, draw_source_url = [], None
 
+        ranking_dates_used: Set[str] = set()
+        ranking_dates_used.update(enrich_draw_with_rankings(draw_rounds, tournament, generated_at))
+        ranking_dates_used.update(enrich_matches_with_rankings(matches, tournament, generated_at))
+
         folder = DATA_DIR / year / event_id
         save_json(folder / "tournament.json", tournament)
 
@@ -1432,6 +1887,7 @@ def main() -> None:
                 "tournament": tournament,
                 "countRounds": len(draw_rounds),
                 "countMatches": draw_match_count,
+                "rankingDatesUsed": sorted(ranking_dates_used),
                 "rounds": draw_rounds,
             },
         )
@@ -1450,6 +1906,7 @@ def main() -> None:
             "source": source_url,
             "tournament": tournament,
             "count": len(matches),
+            "rankingDatesUsed": sorted(ranking_dates_used),
             "matches": matches,
         }
         saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
@@ -1464,6 +1921,7 @@ def main() -> None:
                 "matches": saved_matches_count,
                 "drawRounds": len(draw_rounds),
                 "drawMatches": draw_match_count,
+                "rankingDatesUsed": sorted(ranking_dates_used),
                 "matchesPath": f"data/{year}/{event_id}/matches.json",
                 "drawPath": f"data/{year}/{event_id}/draw.json",
                 "source": source_url,
@@ -1482,8 +1940,54 @@ def main() -> None:
         },
     )
 
+    rebuild_rankings_index(generated_at)
+
     print("Done.")
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Update ATP tournament, draw, results and ranking data.")
+    parser.add_argument(
+        "--rankings-only",
+        action="store_true",
+        help="Only backfill ATP singles ranking snapshots, without tournament update.",
+    )
+    parser.add_argument(
+        "--rankings-start-date",
+        default=os.environ.get("RANKINGS_BACKFILL_START_DATE", "2024-01-01"),
+        help="First ranking week to fetch, e.g. 2024-01-01. Change this to older date later if needed.",
+    )
+    parser.add_argument(
+        "--rankings-end-date",
+        default=os.environ.get("RANKINGS_BACKFILL_END_DATE"),
+        help="Last ranking week to fetch. Defaults to today.",
+    )
+    parser.add_argument(
+        "--rankings-force",
+        action="store_true",
+        help="Re-download ranking snapshots even if JSON files already exist.",
+    )
+    parser.add_argument(
+        "--rankings-max-weeks",
+        type=int,
+        default=int(os.environ.get("RANKINGS_MAX_WEEKS", "0")),
+        help="Optional safety limit for number of ranking weeks. 0 means no limit.",
+    )
+    return parser.parse_args()
+
+
 if __name__ == "__main__":
-    main()
+    args = parse_args()
+    generated_at = datetime.now(timezone.utc).isoformat()
+
+    if args.rankings_only:
+        max_weeks = args.rankings_max_weeks if args.rankings_max_weeks and args.rankings_max_weeks > 0 else None
+        backfill_rankings(
+            start_date=args.rankings_start_date,
+            end_date=args.rankings_end_date,
+            generated_at=generated_at,
+            force=args.rankings_force,
+            max_weeks=max_weeks,
+        )
+    else:
+        main()
