@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:51:38.411061+00:00",
+  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
   "source": "https://www.atptour.com/en/scores/archive/indian-wells/404/2026/results",
   "tournament": {
     "id": "404",
@@ -8,8 +8,16 @@
     "location": "Indian Wells, United States",
     "date": "4 - 15 March, 2026",
     "month": "March, 2026",
+    "dateStart": "2026-03-04",
+    "dateEnd": "2026-03-15",
     "isLive": false,
     "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "1000",
     "eventType": "Tour",
     "surface": "Hard",

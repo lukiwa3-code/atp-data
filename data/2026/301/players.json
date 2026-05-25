@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:51:38.411061+00:00",
+  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
   "source": "https://www.atptour.com/en/scores/archive/auckland/301/2026/results",
   "tournament": {
     "id": "301",
@@ -8,8 +8,16 @@
     "location": "Auckland, New Zealand",
     "date": "12 - 17 January, 2026",
     "month": "January, 2026",
+    "dateStart": "2026-01-12",
+    "dateEnd": "2026-01-17",
     "isLive": false,
     "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Hard",
@@ -25,167 +33,6 @@
     "prizeMoney": "$700,045",
     "totalFinancialCommitment": "$788,349"
   },
-  "count": 40,
-  "players": [
-    {
-      "id": "",
-      "name": "Adrian Mannarino"
-    },
-    {
-      "id": "",
-      "name": "Alejandro Tabilo"
-    },
-    {
-      "id": "",
-      "name": "Aleksandar Kovacevic"
-    },
-    {
-      "id": "",
-      "name": "Alex Michelsen"
-    },
-    {
-      "id": "",
-      "name": "Alexandre Muller"
-    },
-    {
-      "id": "",
-      "name": "Anton Shepp"
-    },
-    {
-      "id": "",
-      "name": "Ben Shelton"
-    },
-    {
-      "id": "",
-      "name": "Cameron Norrie"
-    },
-    {
-      "id": "",
-      "name": "Camilo Ugo Carabelli"
-    },
-    {
-      "id": "",
-      "name": "Casper Ruud"
-    },
-    {
-      "id": "",
-      "name": "Cristian Garin"
-    },
-    {
-      "id": "",
-      "name": "Dalibor Svrcina"
-    },
-    {
-      "id": "",
-      "name": "Eliot Spizzirri"
-    },
-    {
-      "id": "",
-      "name": "Emilio Nava"
-    },
-    {
-      "id": "",
-      "name": "Fabian Marozsan"
-    },
-    {
-      "id": "",
-      "name": "Francisco Comesana"
-    },
-    {
-      "id": "",
-      "name": "Gael Monfils"
-    },
-    {
-      "id": "",
-      "name": "Geoffrey Blancaneaux"
-    },
-    {
-      "id": "",
-      "name": "Giovanni Mpetshi Perricard"
-    },
-    {
-      "id": "",
-      "name": "Hamad Medjedovic"
-    },
-    {
-      "id": "",
-      "name": "Hugo Gaston"
-    },
-    {
-      "id": "",
-      "name": "Isaac Becroft"
-    },
-    {
-      "id": "",
-      "name": "Jakub Mensik"
-    },
-    {
-      "id": "",
-      "name": "James Watt"
-    },
-    {
-      "id": "",
-      "name": "Jan-Lennard Struff"
-    },
-    {
-      "id": "",
-      "name": "Jenson Brooksby"
-    },
-    {
-      "id": "",
-      "name": "Juan Manuel Cerundolo"
-    },
-    {
-      "id": "",
-      "name": "Luciano Darderi"
-    },
-    {
-      "id": "",
-      "name": "Marcos Giron"
-    },
-    {
-      "id": "",
-      "name": "Mariano Navone"
-    },
-    {
-      "id": "",
-      "name": "Mattia Bellucci"
-    },
-    {
-      "id": "",
-      "name": "Nuno Borges"
-    },
-    {
-      "id": "",
-      "name": "Pablo Carreno Busta"
-    },
-    {
-      "id": "",
-      "name": "Patrick Kypson"
-    },
-    {
-      "id": "",
-      "name": "Roberto Bautista Agut"
-    },
-    {
-      "id": "",
-      "name": "Sebastian Baez"
-    },
-    {
-      "id": "",
-      "name": "Shintaro Mochizuki"
-    },
-    {
-      "id": "",
-      "name": "Tomas Martin Etcheverry"
-    },
-    {
-      "id": "",
-      "name": "Valentin Royer"
-    },
-    {
-      "id": "",
-      "name": "Vit Kopriva"
-    }
-  ]
+  "count": 0,
+  "players": []
 }

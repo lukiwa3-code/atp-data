@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:51:38.411061+00:00",
+  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
   "source": "https://www.atptour.com/en/scores/archive/santiago/8996/2026/draws",
   "tournament": {
     "id": "8996",
@@ -8,8 +8,16 @@
     "location": "Santiago, Chile",
     "date": "23 February - 1 March, 2026",
     "month": "February, 2026",
+    "dateStart": "2026-02-23",
+    "dateEnd": "2026-03-01",
     "isLive": false,
     "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Clay",

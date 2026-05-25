@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:51:38.411061+00:00",
+  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rome/416/2026/results",
   "tournament": {
     "id": "416",
@@ -8,8 +8,16 @@
     "location": "Rome, Italy",
     "date": "6 - 17 May, 2026",
     "month": "May, 2026",
+    "dateStart": "2026-05-06",
+    "dateEnd": "2026-05-17",
     "isLive": false,
     "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "1000",
     "eventType": "Tour",
     "surface": "Clay",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:51:38.411061+00:00",
+  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
   "count": 30,
   "items": [
     {
@@ -58,7 +58,7 @@
       "year": "2026",
       "id": "301",
       "name": "ASB Classic",
-      "players": 40,
+      "players": 0,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -363,8 +363,8 @@
       "drawMatches": 31,
       "matchesPath": "data/2026/414/matches.json",
       "drawPath": "data/2026/414/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/hamburg/414/results",
-      "drawSource": "https://www.atptour.com/en/scores/current/hamburg/414/draws"
+      "source": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/draws"
     },
     {
       "year": "2026",
@@ -376,15 +376,15 @@
       "drawMatches": 31,
       "matchesPath": "data/2026/322/matches.json",
       "drawPath": "data/2026/322/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/geneva/322/results",
-      "drawSource": "https://www.atptour.com/en/scores/current/geneva/322/draws"
+      "source": "https://www.atptour.com/en/scores/archive/geneva/322/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/geneva/322/2026/draws"
     },
     {
       "year": "2026",
       "id": "520",
       "name": "Roland Garros",
-      "players": 166,
-      "matches": 118,
+      "players": 183,
+      "matches": 128,
       "drawRounds": 7,
       "drawMatches": 127,
       "matchesPath": "data/2026/520/matches.json",

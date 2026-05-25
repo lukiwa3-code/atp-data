@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:51:38.411061+00:00",
+  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
   "source": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2026/results",
   "tournament": {
     "id": "410",
@@ -8,8 +8,16 @@
     "location": "Monte-Carlo, Monaco",
     "date": "5 - 12 April, 2026",
     "month": "April, 2026",
+    "dateStart": "2026-04-05",
+    "dateEnd": "2026-04-12",
     "isLive": false,
     "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "1000",
     "eventType": "Tour",
     "surface": "Clay",

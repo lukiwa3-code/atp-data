@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T12:51:38.411061+00:00",
+  "generatedAt": "2026-05-25T17:02:18.741903+00:00",
   "source": "https://www.atptour.com/en/scores/archive/bucharest/4462/2026/draws",
   "tournament": {
     "id": "4462",
@@ -8,8 +8,16 @@
     "location": "Bucharest, Romania",
     "date": "30 March - 5 April, 2026",
     "month": "March, 2026",
+    "dateStart": "2026-03-30",
+    "dateEnd": "2026-04-05",
     "isLive": false,
     "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Clay",
