@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-25T21:57:52.112225+00:00",
+  "generatedAt": "2026-05-26T04:12:13.462570+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -910,10 +910,10 @@
           "player1Id": "C0AU",
           "player1Country": "ARG",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "H. Gaston",
+          "player2FullName": "Hugo Gaston",
+          "player2Id": "G09O",
+          "player2Country": "FRA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": "",
@@ -921,7 +921,12 @@
           "player1RankingPoints": 1570,
           "player1RankingDate": "2026-05-18",
           "player1RankingName": "Francisco Cerundolo",
-          "player1RankingPlayerId": "C0AU"
+          "player1RankingPlayerId": "C0AU",
+          "player2Rank": 120,
+          "player2RankingPoints": 527,
+          "player2RankingDate": "2026-05-18",
+          "player2RankingName": "Hugo Gaston",
+          "player2RankingPlayerId": "G09O"
         },
         {
           "bracketOrder": 16,
@@ -2269,14 +2274,26 @@
           "player1FullName": "Hugo Gaston",
           "player1Id": "G09O",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6",
+            "3",
+            "2",
+            "6"
+          ],
           "player2": "G. Monfils",
           "player2FullName": "Gael Monfils",
           "player2Id": "MC65",
           "player2Country": "FRA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": "",
+          "player2ScoreTokens": [
+            "2",
+            "3",
+            "6",
+            "6",
+            "0"
+          ],
+          "winnerName": "Hugo Gaston",
+          "formattedScore": "6-2 6-3 3-6 2-6 6-0",
           "player1Rank": 120,
           "player1RankingPoints": 527,
           "player1RankingDate": "2026-05-18",
