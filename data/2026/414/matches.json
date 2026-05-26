@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T04:12:13.462570+00:00",
+  "generatedAt": "2026-05-26T10:11:15.012774+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/results",
   "tournament": {
     "id": "414",
@@ -16,8 +16,8 @@
     "computedIsCurrent": false,
     "computedIsPastEvent": true,
     "computedIsUpcoming": false,
-    "atpIsLive": true,
-    "atpIsPastEvent": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "500",
     "eventType": "Tour",
     "surface": "Clay",
@@ -53,7 +53,7 @@
       "matchState": "F",
       "reason": null,
       "formattedScore": "7-6(6) 4-6 6-3",
-      "sourceText": "Parsed from displayed score numbers",
+      "sourceText": "Game Set and Match Ignacio Buse. Ignacio Buse wins the match 7-6(6) 4-6 6-3 .",
       "bracketOrder": 1,
       "playerRank": 57,
       "playerRankingPoints": 893,

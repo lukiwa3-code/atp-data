@@ -1,6 +1,6 @@
 {
   "source": "https://www.atptour.com/en/-/tournaments/calendar/tour",
-  "generatedAt": "2026-05-26T04:12:13.462570+00:00",
+  "generatedAt": "2026-05-26T10:11:15.012774+00:00",
   "data": {
     "TournamentDates": [
       {
@@ -959,8 +959,8 @@
             "Name": "Bitpanda Hamburg Open",
             "Location": "Hamburg, Germany",
             "FormattedDate": "17 - 23 May, 2026",
-            "IsLive": true,
-            "IsPastEvent": false,
+            "IsLive": false,
+            "IsPastEvent": true,
             "ScoresUrl": "/en/scores/archive/hamburg/414/2026/results",
             "DrawsUrl": "/en/scores/archive/hamburg/414/2026/draws",
             "TournamentSiteUrl": "https://www.hamburgopenatp500.com/",
@@ -993,8 +993,8 @@
             "Name": "Gonet Geneva Open",
             "Location": "Geneva, Switzerland",
             "FormattedDate": "17 - 23 May, 2026",
-            "IsLive": true,
-            "IsPastEvent": false,
+            "IsLive": false,
+            "IsPastEvent": true,
             "ScoresUrl": "/en/scores/archive/geneva/322/2026/results",
             "DrawsUrl": "/en/scores/archive/geneva/322/2026/draws",
             "TournamentSiteUrl": "https://www.gonetgenevaopen.com",

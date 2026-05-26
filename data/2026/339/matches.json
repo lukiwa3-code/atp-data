@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T04:12:13.462570+00:00",
+  "generatedAt": "2026-05-26T10:11:15.012774+00:00",
   "source": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/results",
   "tournament": {
     "id": "339",
@@ -1390,14 +1390,14 @@
       "opponentCountry": "ESP"
     },
     {
-      "matchId": "RES-9C75595FDA",
+      "matchId": "RES-1E54BF1E9A",
       "date": "Sat, 03 January, 2026",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
       "playerName": "Raphael Collignon",
       "opponentId": "",
-      "opponentName": "Alexander Shevchenko",
+      "opponentName": "Aleksandr Shevchenko",
       "winnerPlayerId": "",
       "winnerName": "Raphael Collignon",
       "isPlayerWinner": true,
@@ -1411,7 +1411,13 @@
       "playerRankingDate": "2025-12-29",
       "playerRankingName": "Raphael Collignon",
       "playerRankingPlayerId": "C0JP",
-      "playerCountry": "BEL"
+      "playerCountry": "BEL",
+      "opponentRank": 97,
+      "opponentRankingPoints": 652,
+      "opponentRankingDate": "2025-12-29",
+      "opponentRankingName": "Aleksandr Shevchenko",
+      "opponentRankingPlayerId": "S0H2",
+      "opponentCountry": "KAZ"
     },
     {
       "matchId": "RES-F1CFF6A022",

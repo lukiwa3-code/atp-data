@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T04:12:13.462570+00:00",
+  "generatedAt": "2026-05-26T10:11:15.012774+00:00",
   "source": "https://www.atptour.com/en/scores/archive/geneva/322/2026/draws",
   "tournament": {
     "id": "322",
@@ -16,8 +16,8 @@
     "computedIsCurrent": false,
     "computedIsPastEvent": true,
     "computedIsUpcoming": false,
-    "atpIsLive": true,
-    "atpIsPastEvent": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Clay",
