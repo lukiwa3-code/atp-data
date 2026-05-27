@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "generatedAt": "2026-05-27T20:26:08.862416+00:00",
   "source": "https://www.atptour.com/en/scores/archive/istanbul/3105/2026/draws",
   "tournament": {
     "id": "3105",
@@ -18,8 +18,8 @@
     "computedIsCurrent": false,
     "computedIsPastEvent": true,
     "computedIsUpcoming": false,
-    "atpIsLive": true,
-    "atpIsPastEvent": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
     "type": "CH",
     "eventType": "CH",
     "surface": "Clay",
