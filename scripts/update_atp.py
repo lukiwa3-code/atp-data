@@ -20,6 +20,7 @@ DATA_DIR = BASE_DIR / "data"
 
 ATP_BASE_URL = "https://www.atptour.com"
 ATP_CALENDAR_URL = "https://www.atptour.com/en/-/tournaments/calendar/tour"
+CHALLENGER_CALENDAR_URL = "https://www.atptour.com/en/-/tournaments/calendar/challenger"
 ATP_RANKINGS_URL = "https://www.atptour.com/en/rankings/singles"
 RANKINGS_DIR = DATA_DIR / "rankings" / "singles"
 
@@ -590,6 +591,18 @@ def current_results_url_from_archive(url: Optional[str]) -> Optional[str]:
     return None
 
 
+def current_challenger_section_url(tournament: Dict[str, Any], section: str) -> Optional[str]:
+    schedule_url = tournament.get("scheduleUrl")
+    if not schedule_url:
+        return None
+
+    match = re.search(r"(/en/scores/)current-challenger/([^/]+)/([^/]+)/daily-schedule", str(schedule_url))
+    if not match:
+        return None
+
+    return f"{match.group(1)}current-challenger/{match.group(2)}/{match.group(3)}/{section}"
+
+
 def extract_year_from_url(url: Optional[str]) -> Optional[str]:
     if not url:
         return None
@@ -695,11 +708,11 @@ def computed_status_from_dates(start_date: Optional[date], end_date: Optional[da
     return is_current, is_past, is_upcoming
 
 
-def fetch_calendar() -> Dict[str, Any]:
-    return fetch_json(ATP_CALENDAR_URL)
+def fetch_calendar(url: str = ATP_CALENDAR_URL) -> Dict[str, Any]:
+    return fetch_json(url)
 
 
-def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
+def flatten_tournaments(calendar: Dict[str, Any], level: str = "atp", level_name: str = "ATP Tour") -> List[Dict[str, Any]]:
     flat: List[Dict[str, Any]] = []
     today = datetime.now(timezone.utc).date()
 
@@ -735,6 +748,8 @@ def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
             flat.append(
                 {
                     "id": str(tournament.get("Id") or ""),
+                    "level": level,
+                    "levelName": level_name,
                     "year": year,
                     "name": tournament.get("Name"),
                     "location": tournament.get("Location"),
@@ -1726,8 +1741,12 @@ def extract_draw_from_html(html_text: str) -> List[Dict[str, Any]]:
 def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, Any]], Optional[str]]:
     draws_url_raw = tournament.get("drawsUrl")
     current_url = current_draw_url_from_archive(draws_url_raw)
+    challenger_current_url = current_challenger_section_url(tournament, "draws")
 
     candidates: List[str] = []
+
+    if tournament.get("isLive") and challenger_current_url:
+        candidates.append(challenger_current_url)
 
     if tournament.get("isLive") and current_url:
         candidates.append(current_url)
@@ -1737,6 +1756,9 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
 
     if current_url and current_url not in candidates:
         candidates.append(current_url)
+
+    if challenger_current_url and challenger_current_url not in candidates:
+        candidates.append(challenger_current_url)
 
     last_error: Optional[str] = None
 
@@ -1761,11 +1783,15 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
 def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]], Optional[str]]:
     scores_url_raw = tournament.get("scoresUrl")
     current_url = current_results_url_from_archive(scores_url_raw)
+    challenger_current_url = current_challenger_section_url(tournament, "results")
 
     # Ważne:
     # Dla turniejów live ATP często szybciej aktualizuje /current/.../results,
     # a /archive/.../results potrafi być opóźnione. Dlatego live -> current najpierw.
     candidates: List[str] = []
+    if tournament.get("isLive") and challenger_current_url:
+        candidates.append(challenger_current_url)
+
     if tournament.get("isLive") and current_url:
         candidates.append(current_url)
 
@@ -1774,6 +1800,9 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
 
     if current_url and current_url not in candidates:
         candidates.append(current_url)
+
+    if challenger_current_url and challenger_current_url not in candidates:
+        candidates.append(challenger_current_url)
 
     # Awaryjnie z drawUrl tworzymy resultsUrl.
     draws_url = tournament.get("drawsUrl")
@@ -1821,35 +1850,44 @@ def select_tournaments_for_results(flat: List[Dict[str, Any]]) -> List[Dict[str,
     return list(unique.values())
 
 
-def main() -> None:
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    generated_at = datetime.now(timezone.utc).isoformat()
+def process_calendar_level(
+    level: str,
+    level_name: str,
+    calendar_url: str,
+    output_root: Path,
+    generated_at: str,
+) -> List[Dict[str, Any]]:
+    output_root.mkdir(parents=True, exist_ok=True)
 
-    print("Fetching ATP calendar...")
-    calendar = fetch_calendar()
-    flat_tournaments = flatten_tournaments(calendar)
+    print(f"Fetching {level_name} calendar...")
+    calendar = fetch_calendar(calendar_url)
+    flat_tournaments = flatten_tournaments(calendar, level=level, level_name=level_name)
 
     save_json(
-        DATA_DIR / "tournaments.json",
+        output_root / "tournaments.json",
         {
-            "source": ATP_CALENDAR_URL,
+            "source": calendar_url,
             "generatedAt": generated_at,
+            "level": level,
+            "levelName": level_name,
             "data": calendar,
         },
     )
 
     save_json(
-        DATA_DIR / "tournaments_flat.json",
+        output_root / "tournaments_flat.json",
         {
-            "source": ATP_CALENDAR_URL,
+            "source": calendar_url,
             "generatedAt": generated_at,
+            "level": level,
+            "levelName": level_name,
             "count": len(flat_tournaments),
             "tournaments": flat_tournaments,
         },
     )
 
     selected = select_tournaments_for_results(flat_tournaments)
-    print(f"Generating results for {len(selected)} tournaments...")
+    print(f"Generating {level_name} results for {len(selected)} tournaments...")
 
     index_items: List[Dict[str, Any]] = []
 
@@ -1857,25 +1895,25 @@ def main() -> None:
         year = str(tournament.get("year") or "")
         event_id = str(tournament.get("id") or "")
         name = tournament.get("name")
-        print(f"[{index}/{len(selected)}] Tournament: {year}/{event_id} {name}")
+        print(f"[{level_name} {index}/{len(selected)}] Tournament: {year}/{event_id} {name}")
 
         try:
             players, matches, source_url = fetch_tournament_results(tournament)
         except Exception as exc:
-            print(f"WARN tournament results failed: {year}/{event_id} {name}: {exc}")
+            print(f"WARN tournament results failed: {level}/{year}/{event_id} {name}: {exc}")
             players, matches, source_url = [], [], None
 
         try:
             draw_rounds, draw_source_url = fetch_tournament_draw(tournament)
         except Exception as exc:
-            print(f"WARN tournament draw failed: {year}/{event_id} {name}: {exc}")
+            print(f"WARN tournament draw failed: {level}/{year}/{event_id} {name}: {exc}")
             draw_rounds, draw_source_url = [], None
 
         ranking_dates_used: Set[str] = set()
         ranking_dates_used.update(enrich_draw_with_rankings(draw_rounds, tournament, generated_at))
         ranking_dates_used.update(enrich_matches_with_rankings(matches, tournament, generated_at))
 
-        folder = DATA_DIR / year / event_id
+        folder = output_root / year / event_id
         save_json(folder / "tournament.json", tournament)
 
         draw_match_count = sum(len(round_item.get("matches", [])) for round_item in draw_rounds)
@@ -1885,26 +1923,34 @@ def main() -> None:
                 "generatedAt": generated_at,
                 "source": draw_source_url,
                 "tournament": tournament,
+                "level": level,
+                "levelName": level_name,
                 "countRounds": len(draw_rounds),
                 "countMatches": draw_match_count,
                 "rankingDatesUsed": sorted(ranking_dates_used),
                 "rounds": draw_rounds,
             },
         )
+
         save_json(
             folder / "players.json",
             {
                 "generatedAt": generated_at,
                 "source": source_url,
                 "tournament": tournament,
+                "level": level,
+                "levelName": level_name,
                 "count": len(players),
                 "players": players,
             },
         )
+
         matches_payload = {
             "generatedAt": generated_at,
             "source": source_url,
             "tournament": tournament,
+            "level": level,
+            "levelName": level_name,
             "count": len(matches),
             "rankingDatesUsed": sorted(ranking_dates_used),
             "matches": matches,
@@ -1912,8 +1958,12 @@ def main() -> None:
         saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
         saved_matches_count = int(saved_matches_payload.get("count") or 0)
 
+        relative_prefix = "" if output_root == DATA_DIR else f"{output_root.relative_to(DATA_DIR).as_posix()}/"
+
         index_items.append(
             {
+                "level": level,
+                "levelName": level_name,
                 "year": year,
                 "id": event_id,
                 "name": name,
@@ -1922,8 +1972,8 @@ def main() -> None:
                 "drawRounds": len(draw_rounds),
                 "drawMatches": draw_match_count,
                 "rankingDatesUsed": sorted(ranking_dates_used),
-                "matchesPath": f"data/{year}/{event_id}/matches.json",
-                "drawPath": f"data/{year}/{event_id}/draw.json",
+                "matchesPath": f"data/{relative_prefix}{year}/{event_id}/matches.json",
+                "drawPath": f"data/{relative_prefix}{year}/{event_id}/draw.json",
                 "source": source_url,
                 "drawSource": draw_source_url,
             }
@@ -1932,11 +1982,51 @@ def main() -> None:
         time.sleep(REQUEST_SLEEP_SECONDS)
 
     save_json(
-        DATA_DIR / "results_index.json",
+        output_root / "results_index.json",
         {
             "generatedAt": generated_at,
+            "level": level,
+            "levelName": level_name,
             "count": len(index_items),
             "items": index_items,
+        },
+    )
+
+    return index_items
+
+
+def main() -> None:
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    generated_at = datetime.now(timezone.utc).isoformat()
+
+    all_index_items: List[Dict[str, Any]] = []
+
+    all_index_items.extend(
+        process_calendar_level(
+            level="atp",
+            level_name="ATP Tour",
+            calendar_url=ATP_CALENDAR_URL,
+            output_root=DATA_DIR,
+            generated_at=generated_at,
+        )
+    )
+
+    all_index_items.extend(
+        process_calendar_level(
+            level="challenger",
+            level_name="ATP Challenger",
+            calendar_url=CHALLENGER_CALENDAR_URL,
+            output_root=DATA_DIR / "challenger",
+            generated_at=generated_at,
+        )
+    )
+
+    save_json(
+        DATA_DIR / "results_index_all.json",
+        {
+            "generatedAt": generated_at,
+            "count": len(all_index_items),
+            "items": all_index_items,
         },
     )
 
