@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T04:25:23.272398+00:00",
+  "generatedAt": "2026-05-27T10:08:41.206443+00:00",
   "count": 30,
   "items": [
     {
@@ -72,11 +72,12 @@
       "year": "2026",
       "id": "301",
       "name": "ASB Classic",
-      "players": 0,
+      "players": 40,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
+        "2026-01-05",
         "2026-01-12"
       ],
       "matchesPath": "data/2026/301/matches.json",

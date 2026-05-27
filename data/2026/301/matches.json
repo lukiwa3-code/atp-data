@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T20:21:26.579208+00:00",
+  "generatedAt": "2026-05-27T10:08:41.206443+00:00",
   "source": "https://www.atptour.com/en/scores/archive/auckland/301/2026/results",
   "tournament": {
     "id": "301",
@@ -1209,7 +1209,5 @@
       "opponentRankingPlayerId": "CD85",
       "opponentCountry": "ESP"
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-05-27T04:25:23.272398+00:00"
+  ]
 }
