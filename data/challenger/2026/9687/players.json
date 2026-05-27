@@ -1,0 +1,235 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/madrid/9687/2026/results",
+  "tournament": {
+    "id": "9687",
+    "level": "challenger",
+    "levelName": "ATP Challenger",
+    "year": "2026",
+    "name": "Grand Prix Open Comunidad de Madrid by Silverway",
+    "location": "Madrid, Spain",
+    "date": "6 - 12 April, 2026",
+    "month": "April, 2026",
+    "dateStart": "2026-04-06",
+    "dateEnd": "2026-04-12",
+    "isLive": false,
+    "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
+    "type": "CH",
+    "eventType": "CH",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/madrid/9687/2026/results",
+    "drawsUrl": "/en/scores/archive/madrid/9687/2026/draws",
+    "scheduleUrl": "/en/scores/current-challenger/madrid/9687/daily-schedule",
+    "overviewUrl": "/en/tournaments/madrid/9687/overview",
+    "countryFlagUrl": "/-/media/images/flags/esp.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "€97,640",
+    "totalFinancialCommitment": "€97,640"
+  },
+  "level": "challenger",
+  "levelName": "ATP Challenger",
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alex Martinez"
+    },
+    {
+      "id": "",
+      "name": "Alexander Donski"
+    },
+    {
+      "id": "",
+      "name": "Andrej Nedic"
+    },
+    {
+      "id": "",
+      "name": "Andrew Paulson"
+    },
+    {
+      "id": "",
+      "name": "Arthur Gea"
+    },
+    {
+      "id": "",
+      "name": "Asier Meneses Perny"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Chris Rodesch"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Daniel Lara Salmeron"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Dominic Stricker"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Federico Cina"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Henry Bernet"
+    },
+    {
+      "id": "",
+      "name": "Inaki Montes-De La Torre"
+    },
+    {
+      "id": "",
+      "name": "Ivan Ivanov"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Mario Gonzalez Fernandez"
+    },
+    {
+      "id": "",
+      "name": "Martin Cozar Gimenez"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Michiel De Krom"
+    },
+    {
+      "id": "",
+      "name": "Miguel Damas"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Nerman Fatic"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Jarry"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Sanchez Izquierdo"
+    },
+    {
+      "id": "",
+      "name": "Oriol Roca Batalla"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Pablo Manzano Lapuerta"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Rafael Izquierdo Luque"
+    },
+    {
+      "id": "",
+      "name": "Roman Safiullin"
+    },
+    {
+      "id": "",
+      "name": "Sergi Perez Contri"
+    },
+    {
+      "id": "",
+      "name": "Stefan Palosi"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Svyatoslav Gulin"
+    },
+    {
+      "id": "",
+      "name": "Toby Samuel"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    },
+    {
+      "id": "",
+      "name": "Zsombor Piros"
+    }
+  ]
+}

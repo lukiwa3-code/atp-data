@@ -1,0 +1,235 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/brisbane/2969/2026/results",
+  "tournament": {
+    "id": "2969",
+    "level": "challenger",
+    "levelName": "ATP Challenger",
+    "year": "2026",
+    "name": "Brisbane Tennis International #2",
+    "location": "Brisbane, Australia",
+    "date": "9 - 15 February, 2026",
+    "month": "February, 2026",
+    "dateStart": "2026-02-09",
+    "dateEnd": "2026-02-15",
+    "isLive": false,
+    "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
+    "type": "CH",
+    "eventType": "CH",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/brisbane/2969/2026/results",
+    "drawsUrl": "/en/scores/archive/brisbane/2969/2026/draws",
+    "scheduleUrl": "/en/scores/current-challenger/brisbane-2/2969/daily-schedule",
+    "overviewUrl": "/en/tournaments/brisbane/2969/overview",
+    "countryFlagUrl": "/-/media/images/flags/aus.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "$107,000",
+    "totalFinancialCommitment": "$107,000"
+  },
+  "level": "challenger",
+  "levelName": "ATP Challenger",
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Aoran Wang"
+    },
+    {
+      "id": "",
+      "name": "Arthur Weber"
+    },
+    {
+      "id": "",
+      "name": "Blake Ellis"
+    },
+    {
+      "id": "",
+      "name": "Brandon Walkin"
+    },
+    {
+      "id": "",
+      "name": "Chase Ferguson"
+    },
+    {
+      "id": "",
+      "name": "Colin Sinclair"
+    },
+    {
+      "id": "",
+      "name": "Cooper Kose"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Cruz Hewitt"
+    },
+    {
+      "id": "",
+      "name": "Dane Sweeny"
+    },
+    {
+      "id": "",
+      "name": "Daniel Jovanovski"
+    },
+    {
+      "id": "",
+      "name": "Darwin Blanch"
+    },
+    {
+      "id": "",
+      "name": "David Jorda Sanchis"
+    },
+    {
+      "id": "",
+      "name": "Duje Markovina"
+    },
+    {
+      "id": "",
+      "name": "Enzo Aguiard"
+    },
+    {
+      "id": "",
+      "name": "Ethan Cook"
+    },
+    {
+      "id": "",
+      "name": "Fajing Sun"
+    },
+    {
+      "id": "",
+      "name": "Hayato Matsuoka"
+    },
+    {
+      "id": "",
+      "name": "Hikaru Shiraishi"
+    },
+    {
+      "id": "",
+      "name": "Hiroki Moriya"
+    },
+    {
+      "id": "",
+      "name": "Jake Delaney"
+    },
+    {
+      "id": "",
+      "name": "Jamie Mackenzie"
+    },
+    {
+      "id": "",
+      "name": "Jesse Delaney"
+    },
+    {
+      "id": "",
+      "name": "Joshua Charlton"
+    },
+    {
+      "id": "",
+      "name": "Kokoro Isomura"
+    },
+    {
+      "id": "",
+      "name": "Li Tu"
+    },
+    {
+      "id": "",
+      "name": "Linang Xiao"
+    },
+    {
+      "id": "",
+      "name": "Marc Polmans"
+    },
+    {
+      "id": "",
+      "name": "Masamichi Imamura"
+    },
+    {
+      "id": "",
+      "name": "Matt Hulme"
+    },
+    {
+      "id": "",
+      "name": "Matthew Dellavedova"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Naoki Nakagawa"
+    },
+    {
+      "id": "",
+      "name": "Oliver Anderson"
+    },
+    {
+      "id": "",
+      "name": "Omar Jasika"
+    },
+    {
+      "id": "",
+      "name": "Pavle Marinkov"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Ryo Tabata"
+    },
+    {
+      "id": "",
+      "name": "Shinji Hazawa"
+    },
+    {
+      "id": "",
+      "name": "Tai Sach"
+    },
+    {
+      "id": "",
+      "name": "Taiyo Yamanaka"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Ty Host"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yi Zhou"
+    },
+    {
+      "id": "",
+      "name": "Yuki Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Zhizhen Zhang"
+    }
+  ]
+}

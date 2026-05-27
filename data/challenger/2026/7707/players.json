@@ -1,0 +1,239 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/francavilla-al-mare/7707/2026/results",
+  "tournament": {
+    "id": "7707",
+    "level": "challenger",
+    "levelName": "ATP Challenger",
+    "year": "2026",
+    "name": "Abruzzo Open Francavilla al Mare",
+    "location": "Francavilla al Mare, Italy",
+    "date": "4 - 10 May, 2026",
+    "month": "May, 2026",
+    "dateStart": "2026-05-04",
+    "dateEnd": "2026-05-10",
+    "isLive": false,
+    "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
+    "type": "CH",
+    "eventType": "CH",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/francavilla-al-mare/7707/2026/results",
+    "drawsUrl": "/en/scores/archive/francavilla-al-mare/7707/2026/draws",
+    "scheduleUrl": "/en/scores/current-challenger/francavilla-al-mare/7707/daily-schedule",
+    "overviewUrl": "/en/tournaments/francavilla-al-mare/7707/overview",
+    "countryFlagUrl": "/-/media/images/flags/ita.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "€97,640",
+    "totalFinancialCommitment": "€97,640"
+  },
+  "level": "challenger",
+  "levelName": "ATP Challenger",
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(6/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrea Guerrieri"
+    },
+    {
+      "id": "",
+      "name": "Andrea Paolini"
+    },
+    {
+      "id": "",
+      "name": "Angelo De Cesaris"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Kittay"
+    },
+    {
+      "id": "",
+      "name": "Buvaysar Gadamauri"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Daniele Rapagnetta"
+    },
+    {
+      "id": "",
+      "name": "Fabrizio Andaloro"
+    },
+    {
+      "id": "",
+      "name": "Facundo Diaz Acosta"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Felix Gill"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Piraino"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Gustavo Heide"
+    },
+    {
+      "id": "",
+      "name": "Guy Den Ouden"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Henry Bernet"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Bilardo"
+    },
+    {
+      "id": "",
+      "name": "James Watt"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Prado Angelo"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Lilian Marmousez"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Max Schoenhaus"
+    },
+    {
+      "id": "",
+      "name": "Michalis Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Sanchez Izquierdo"
+    },
+    {
+      "id": "",
+      "name": "Nishesh Basavareddy"
+    },
+    {
+      "id": "",
+      "name": "Raffaele Ciurnelli"
+    },
+    {
+      "id": "",
+      "name": "Ryan Seggerman"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Thiago Seyboth Wild"
+    },
+    {
+      "id": "",
+      "name": "Toby Samuel"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Yannick Theodor Alexandrescou"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

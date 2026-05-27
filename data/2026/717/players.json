@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/houston/717/2026/results",
   "tournament": {
     "id": "717",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
     "location": "Houston, United States",
@@ -33,6 +35,8 @@
     "prizeMoney": "$700,045",
     "totalFinancialCommitment": "$788,349"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 40,
   "players": [
     {

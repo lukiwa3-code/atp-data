@@ -1,0 +1,818 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/bengaluru/3107/2026/draws",
+  "tournament": {
+    "id": "3107",
+    "level": "challenger",
+    "levelName": "ATP Challenger",
+    "year": "2026",
+    "name": "KARNATAKA OPEN",
+    "location": "Bengaluru, India",
+    "date": "11 - 16 May, 2026",
+    "month": "May, 2026",
+    "dateStart": "2026-05-11",
+    "dateEnd": "2026-05-16",
+    "isLive": false,
+    "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
+    "type": "CH",
+    "eventType": "CH",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/bengaluru/3107/2026/results",
+    "drawsUrl": "/en/scores/archive/bengaluru/3107/2026/draws",
+    "scheduleUrl": "/en/scores/current-challenger/bengaluru-2/3107/daily-schedule",
+    "overviewUrl": "/en/tournaments/bengaluru/3107/overview",
+    "countryFlagUrl": "/-/media/images/flags/ind.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "$63,000",
+    "totalFinancialCommitment": "$63,000"
+  },
+  "level": "challenger",
+  "levelName": "ATP Challenger",
+  "countRounds": 5,
+  "countMatches": 31,
+  "rankingDatesUsed": [
+    "2026-05-04"
+  ],
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Final",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "K. Smith",
+          "player1FullName": "Keegan Smith",
+          "player1Id": "S0DQ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "P. Sekulic",
+          "player2FullName": "Philip Sekulic",
+          "player2Id": "S0TI",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "2",
+            "5"
+          ],
+          "winnerName": "Keegan Smith",
+          "formattedScore": "6-2 7-5"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semifinals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "K. Smith",
+          "player1FullName": "Keegan Smith",
+          "player1Id": "S0DQ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "I. Ivashka",
+          "player2FullName": "Ilya Ivashka",
+          "player2Id": "I305",
+          "player2Country": "BLR",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Keegan Smith",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "P. Sekulic",
+          "player1FullName": "Philip Sekulic",
+          "player1Id": "S0TI",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "K. Tyagi",
+          "player2FullName": "Kriish Tyagi",
+          "player2Id": "T0IL",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "0",
+            "2"
+          ],
+          "winnerName": "Philip Sekulic",
+          "formattedScore": "6-0 6-2"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarterfinals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "K. Smith",
+          "player1FullName": "Keegan Smith",
+          "player1Id": "S0DQ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "O. Milic",
+          "player2FullName": "Ognjen Milic",
+          "player2Id": "M0UR",
+          "player2Country": "SRB",
+          "player2ScoreTokens": [
+            "6 5",
+            "3"
+          ],
+          "winnerName": "Keegan Smith",
+          "formattedScore": "7-6(5) 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Sureshkumar",
+          "player1FullName": "Manish Sureshkumar",
+          "player1Id": "SY74",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "I. Ivashka",
+          "player2FullName": "Ilya Ivashka",
+          "player2Id": "I305",
+          "player2Country": "BLR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Ilya Ivashka",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Jones",
+          "player1FullName": "Maximus Jones",
+          "player1Id": "J0D2",
+          "player1Country": "THA",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "1"
+          ],
+          "player2": "P. Sekulic",
+          "player2FullName": "Philip Sekulic",
+          "player2Id": "S0TI",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6 6",
+            "6",
+            "6"
+          ],
+          "winnerName": "Philip Sekulic",
+          "formattedScore": "6-7(6) 6-3 6-1"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "K. Tyagi",
+          "player1FullName": "Kriish Tyagi",
+          "player1Id": "T0IL",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "7",
+            "5",
+            "6"
+          ],
+          "player2": "H. Stewart",
+          "player2FullName": "Hamish Stewart",
+          "player2Id": "S0EX",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6 7",
+            "7",
+            "4"
+          ],
+          "winnerName": "Kriish Tyagi",
+          "formattedScore": "7-6(7) 5-7 6-4"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "K. Smith",
+          "player1FullName": "Keegan Smith",
+          "player1Id": "S0DQ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "player2": "D. Palan",
+          "player2FullName": "Dominik Palan",
+          "player2Id": "P0E9",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "4"
+          ],
+          "winnerName": "Keegan Smith",
+          "formattedScore": "4-6 6-3 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Charlton",
+          "player1FullName": "Joshua Charlton",
+          "player1Id": "C09Y",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "player2": "O. Milic",
+          "player2FullName": "Ognjen Milic",
+          "player2Id": "M0UR",
+          "player2Country": "SRB",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "winnerName": "Ognjen Milic",
+          "formattedScore": "3-6 6-4 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Gray",
+          "player1FullName": "Alastair Gray",
+          "player1Id": "G0AO",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "M. Sureshkumar",
+          "player2FullName": "Manish Sureshkumar",
+          "player2Id": "SY74",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "6",
+            "3"
+          ],
+          "winnerName": "Manish Sureshkumar",
+          "formattedScore": "6 3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "I. Ivashka",
+          "player1FullName": "Ilya Ivashka",
+          "player1Id": "I305",
+          "player1Country": "BLR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "K. Isomura",
+          "player2FullName": "Kokoro Isomura",
+          "player2Id": "I0AX",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "1",
+            "2"
+          ],
+          "winnerName": "Ilya Ivashka",
+          "formattedScore": "6-1 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Jones",
+          "player1FullName": "Maximus Jones",
+          "player1Id": "J0D2",
+          "player1Country": "THA",
+          "player1ScoreTokens": [
+            "6",
+            "6 5",
+            "6"
+          ],
+          "player2": "A. Vales",
+          "player2FullName": "Amit Vales",
+          "player2Id": "V0G2",
+          "player2Country": "ISR",
+          "player2ScoreTokens": [
+            "2",
+            "7",
+            "4"
+          ],
+          "winnerName": "Maximus Jones",
+          "formattedScore": "6-2 6-7(5) 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "C. Papa",
+          "player1FullName": "Christopher Papa",
+          "player1Id": "P0F0",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "player2": "P. Sekulic",
+          "player2FullName": "Philip Sekulic",
+          "player2Id": "S0TI",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Philip Sekulic",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "Y. Kawahashi",
+          "player1FullName": "Yuta Kawahashi",
+          "player1Id": "K0AK",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "K. Tyagi",
+          "player2FullName": "Kriish Tyagi",
+          "player2Id": "T0IL",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Kriish Tyagi",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Sasikumar",
+          "player1FullName": "Mukund Sasikumar",
+          "player1Id": "MP13",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "H. Stewart",
+          "player2FullName": "Hamish Stewart",
+          "player2Id": "S0EX",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Hamish Stewart",
+          "formattedScore": "6-4 6-4"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Smith",
+          "player1FullName": "Keegan Smith",
+          "player1Id": "S0DQ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "R. Taguchi",
+          "player2FullName": "Ryotaro Taguchi",
+          "player2Id": "T0IA",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "1",
+            "4"
+          ],
+          "winnerName": "Keegan Smith",
+          "formattedScore": "6-1 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Palan",
+          "player1FullName": "Dominik Palan",
+          "player1Id": "P0E9",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "M. Kesharwani",
+          "player2FullName": "Maan Kesharwani",
+          "player2Id": "K0MW",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "6 10",
+            "4"
+          ],
+          "winnerName": "Dominik Palan",
+          "formattedScore": "7-6(10) 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Dev",
+          "player1FullName": "S D Prajwal Dev",
+          "player1Id": "DH23",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "1",
+            "4"
+          ],
+          "player2": "J. Charlton",
+          "player2FullName": "Joshua Charlton",
+          "player2Id": "C09Y",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Joshua Charlton",
+          "formattedScore": "6-1 6-4"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Javia",
+          "player1FullName": "Dev Javia",
+          "player1Id": "J0CL",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "1",
+            "6 5"
+          ],
+          "player2": "O. Milic",
+          "player2FullName": "Ognjen Milic",
+          "player2Id": "M0UR",
+          "player2Country": "SRB",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Ognjen Milic",
+          "formattedScore": "6-1 7-6(5)"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Bar Biryukov",
+          "player1FullName": "Petr Bar Biryukov",
+          "player1Id": "B0LQ",
+          "player1Country": "RUS",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "6 3"
+          ],
+          "player2": "A. Gray",
+          "player2FullName": "Alastair Gray",
+          "player2Id": "G0AO",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6 5",
+            "6",
+            "7"
+          ],
+          "winnerName": "Alastair Gray",
+          "formattedScore": "6-7(5) 6-4 7-6(3)"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Karki",
+          "player1FullName": "Ronit Karki",
+          "player1Id": "K0OY",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "6 7"
+          ],
+          "player2": "M. Sureshkumar",
+          "player2FullName": "Manish Sureshkumar",
+          "player2Id": "SY74",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Manish Sureshkumar",
+          "formattedScore": "6-4 7-6(7)"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "I. Ivashka",
+          "player1FullName": "Ilya Ivashka",
+          "player1Id": "I305",
+          "player1Country": "BLR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "K. Lee",
+          "player2FullName": "Kuan Yi Lee",
+          "player2Id": "LH70",
+          "player2Country": "TPE",
+          "player2ScoreTokens": [
+            "2",
+            "0"
+          ],
+          "winnerName": "Ilya Ivashka",
+          "formattedScore": "6-2 6-0"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Isomura",
+          "player1FullName": "Kokoro Isomura",
+          "player1Id": "I0AX",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "K. Singh",
+          "player2FullName": "Karan Singh",
+          "player2Id": "S0RI",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "6 6",
+            "3"
+          ],
+          "winnerName": "Kokoro Isomura",
+          "formattedScore": "7-6(6) 6-3"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Jones",
+          "player1FullName": "Maximus Jones",
+          "player1Id": "J0D2",
+          "player1Country": "THA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "S. Rawat",
+          "player2FullName": "Sidharth Rawat",
+          "player2Id": "RB86",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "4",
+            "6 3"
+          ],
+          "winnerName": "Maximus Jones",
+          "formattedScore": "6-4 7-6(3)"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Vales",
+          "player1FullName": "Amit Vales",
+          "player1Id": "V0G2",
+          "player1Country": "ISR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Vishal Balsekar",
+          "player2FullName": "Aditya Vishal Balsekar",
+          "player2Id": "V0GI",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "winnerName": "Amit Vales",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Matsuda",
+          "player1FullName": "Ryuki Matsuda",
+          "player1Id": "M0G0",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6 5",
+            "6",
+            "2"
+          ],
+          "player2": "C. Papa",
+          "player2FullName": "Christopher Papa",
+          "player2Id": "P0F0",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "7",
+            "3",
+            "6"
+          ],
+          "winnerName": "Christopher Papa",
+          "formattedScore": "7-6(5) 3-6 6-2"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Singh",
+          "player1FullName": "Digvijaypratap Singh",
+          "player1Id": "SY71",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "6 5",
+            "6 5"
+          ],
+          "player2": "P. Sekulic",
+          "player2FullName": "Philip Sekulic",
+          "player2Id": "S0TI",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Philip Sekulic",
+          "formattedScore": "7-6(5) 7-6(5)"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Hernandez",
+          "player1FullName": "Alex Hernandez",
+          "player1Id": "H0CD",
+          "player1Country": "MEX",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "4"
+          ],
+          "player2": "Y. Kawahashi",
+          "player2FullName": "Yuta Kawahashi",
+          "player2Id": "K0AK",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "winnerName": "Yuta Kawahashi",
+          "formattedScore": "6-3 3-6 6-4"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Tyagi",
+          "player1FullName": "Kriish Tyagi",
+          "player1Id": "T0IL",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "T. Yamanaka",
+          "player2FullName": "Taiyo Yamanaka",
+          "player2Id": "Y0A8",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "2",
+            "5"
+          ],
+          "winnerName": "Kriish Tyagi",
+          "formattedScore": "6-2 7-5"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Leong",
+          "player1FullName": "Mitsuki Wei Kang Leong",
+          "player1Id": "L0I5",
+          "player1Country": "MAS",
+          "player1ScoreTokens": [
+            "3",
+            "6 1"
+          ],
+          "player2": "M. Sasikumar",
+          "player2FullName": "Mukund Sasikumar",
+          "player2Id": "MP13",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Mukund Sasikumar",
+          "formattedScore": "6-3 7-6(1)"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "O. Jasika",
+          "player1FullName": "Omar Jasika",
+          "player1Id": "J553",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "3"
+          ],
+          "player2": "H. Stewart",
+          "player2FullName": "Hamish Stewart",
+          "player2Id": "S0EX",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6 5",
+            "6"
+          ],
+          "winnerName": "Hamish Stewart",
+          "formattedScore": "6-4 6-7(5) 6-3"
+        }
+      ]
+    }
+  ]
+}

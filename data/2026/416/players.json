@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rome/416/2026/results",
   "tournament": {
     "id": "416",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Internazionali BNL d'Italia",
     "location": "Rome, Italy",
@@ -33,6 +35,8 @@
     "prizeMoney": "€8,235,540",
     "totalFinancialCommitment": "€9,647,275"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 130,
   "players": [
     {

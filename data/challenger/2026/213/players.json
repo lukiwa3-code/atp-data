@@ -1,0 +1,247 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/san-luis-potosi/213/2026/results",
+  "tournament": {
+    "id": "213",
+    "level": "challenger",
+    "levelName": "ATP Challenger",
+    "year": "2026",
+    "name": "Banorte Tennis Open",
+    "location": "San Luis Potosi, Mexico",
+    "date": "30 March - 5 April, 2026",
+    "month": "March, 2026",
+    "dateStart": "2026-03-30",
+    "dateEnd": "2026-04-05",
+    "isLive": false,
+    "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
+    "type": "CH",
+    "eventType": "CH",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/san-luis-potosi/213/2026/results",
+    "drawsUrl": "/en/scores/archive/san-luis-potosi/213/2026/draws",
+    "scheduleUrl": "/en/scores/current-challenger/san-luis-potosi/213/daily-schedule",
+    "overviewUrl": "/en/tournaments/san-luis-potosi/213/overview",
+    "countryFlagUrl": "/-/media/images/flags/mex.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "$107,000",
+    "totalFinancialCommitment": "$107,000"
+  },
+  "level": "challenger",
+  "levelName": "ATP Challenger",
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(2/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Alafia Ayeni"
+    },
+    {
+      "id": "",
+      "name": "Alan Fernando Rubio Fierros"
+    },
+    {
+      "id": "",
+      "name": "Alan Magadan"
+    },
+    {
+      "id": "",
+      "name": "Alan Raul Sau Franco"
+    },
+    {
+      "id": "",
+      "name": "Alex Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Alfonso Cossio Gonzalez"
+    },
+    {
+      "id": "",
+      "name": "Andrew Fenty"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Federico Zeballos"
+    },
+    {
+      "id": "",
+      "name": "Gray Voelzke"
+    },
+    {
+      "id": "",
+      "name": "Guillaume Dalmasso"
+    },
+    {
+      "id": "",
+      "name": "Guillermo Tunas"
+    },
+    {
+      "id": "",
+      "name": "Ivan Marrero Curbelo"
+    },
+    {
+      "id": "",
+      "name": "Jake Delaney"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Mario Gonzalez Fernandez"
+    },
+    {
+      "id": "",
+      "name": "Mateus Alves"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Matteo Covato"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maxwell Mckennon"
+    },
+    {
+      "id": "",
+      "name": "Miguel Tobon"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Moreno De Alboran"
+    },
+    {
+      "id": "",
+      "name": "Oswaldo Alejandro Reyes Tirado"
+    },
+    {
+      "id": "",
+      "name": "Patricio Alvarado"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Pranav Kumar"
+    },
+    {
+      "id": "",
+      "name": "Preston Brown"
+    },
+    {
+      "id": "",
+      "name": "Rafael De Alba"
+    },
+    {
+      "id": "",
+      "name": "Robin Catry"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Alujas"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Samuel Alejandro Linde Palacios"
+    },
+    {
+      "id": "",
+      "name": "Samuel Heredia"
+    },
+    {
+      "id": "",
+      "name": "Stefan Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Theodore Winegar"
+    },
+    {
+      "id": "",
+      "name": "Thijmen Loof"
+    },
+    {
+      "id": "",
+      "name": "Tibo Colson"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Vladyslav Orlov"
+    },
+    {
+      "id": "",
+      "name": "XXXXXXX AVILA"
+    }
+  ]
+}

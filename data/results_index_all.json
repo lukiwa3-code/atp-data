@@ -1,0 +1,2500 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "count": 136,
+  "items": [
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "9900",
+      "name": "United Cup",
+      "players": 23,
+      "matches": 21,
+      "drawRounds": 3,
+      "drawMatches": 7,
+      "rankingDatesUsed": [
+        "2025-12-29"
+      ],
+      "matchesPath": "data/2026/9900/matches.json",
+      "drawPath": "data/2026/9900/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "339",
+      "name": "Brisbane International presented by ANZ",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2025-12-29",
+        "2026-01-05"
+      ],
+      "matchesPath": "data/2026/339/matches.json",
+      "drawPath": "data/2026/339/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "336",
+      "name": "Bank of China Hong Kong Tennis Open",
+      "players": 40,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2025-12-29",
+        "2026-01-05"
+      ],
+      "matchesPath": "data/2026/336/matches.json",
+      "drawPath": "data/2026/336/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "8998",
+      "name": "Adelaide International",
+      "players": 39,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-12"
+      ],
+      "matchesPath": "data/2026/8998/matches.json",
+      "drawPath": "data/2026/8998/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/adelaide/8998/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/adelaide/8998/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "301",
+      "name": "ASB Classic",
+      "players": 40,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-05",
+        "2026-01-12"
+      ],
+      "matchesPath": "data/2026/301/matches.json",
+      "drawPath": "data/2026/301/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/auckland/301/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/auckland/301/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "580",
+      "name": "Australian Open",
+      "players": 235,
+      "matches": 217,
+      "drawRounds": 7,
+      "drawMatches": 127,
+      "rankingDatesUsed": [
+        "2026-01-12",
+        "2026-01-19"
+      ],
+      "matchesPath": "data/2026/580/matches.json",
+      "drawPath": "data/2026/580/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "375",
+      "name": "Open Occitanie",
+      "players": 39,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02"
+      ],
+      "matchesPath": "data/2026/375/matches.json",
+      "drawPath": "data/2026/375/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "8096",
+      "name": "Davis Cup Qualifiers 1st Rd",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 2,
+      "drawMatches": 3,
+      "rankingDatesUsed": [
+        "2026-02-02"
+      ],
+      "matchesPath": "data/2026/8096/matches.json",
+      "drawPath": "data/2026/8096/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "424",
+      "name": "Nexo Dallas Open",
+      "players": 43,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02",
+        "2026-02-09"
+      ],
+      "matchesPath": "data/2026/424/matches.json",
+      "drawPath": "data/2026/424/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/dallas/424/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/dallas/424/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "407",
+      "name": "ABN AMRO Open",
+      "players": 42,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02",
+        "2026-02-09",
+        "2026-02-16"
+      ],
+      "matchesPath": "data/2026/407/matches.json",
+      "drawPath": "data/2026/407/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/rotterdam/407/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/rotterdam/407/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "506",
+      "name": "IEB+ Argentina Open",
+      "players": 39,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02",
+        "2026-02-09"
+      ],
+      "matchesPath": "data/2026/506/matches.json",
+      "drawPath": "data/2026/506/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/buenos-aires/506/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/buenos-aires/506/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "451",
+      "name": "Qatar ExxonMobil Open",
+      "players": 42,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-09",
+        "2026-02-16"
+      ],
+      "matchesPath": "data/2026/451/matches.json",
+      "drawPath": "data/2026/451/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/doha/451/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/doha/451/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "6932",
+      "name": "Rio Open presented by Claro",
+      "players": 40,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-09",
+        "2026-02-16"
+      ],
+      "matchesPath": "data/2026/6932/matches.json",
+      "drawPath": "data/2026/6932/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "499",
+      "name": "Delray Beach Open",
+      "players": 39,
+      "matches": 38,
+      "drawRounds": 5,
+      "drawMatches": 30,
+      "rankingDatesUsed": [
+        "2026-02-09",
+        "2026-02-16"
+      ],
+      "matchesPath": "data/2026/499/matches.json",
+      "drawPath": "data/2026/499/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "495",
+      "name": "Dubai Duty Free Tennis Championships",
+      "players": 41,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-16",
+        "2026-02-23"
+      ],
+      "matchesPath": "data/2026/495/matches.json",
+      "drawPath": "data/2026/495/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/dubai/495/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/dubai/495/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "807",
+      "name": "Abierto Mexicano Telcel presentado por HSBC",
+      "players": 42,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-16",
+        "2026-02-23"
+      ],
+      "matchesPath": "data/2026/807/matches.json",
+      "drawPath": "data/2026/807/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/acapulco/807/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/acapulco/807/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "8996",
+      "name": "BCI Seguros Chile Open",
+      "players": 39,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-16",
+        "2026-02-23"
+      ],
+      "matchesPath": "data/2026/8996/matches.json",
+      "drawPath": "data/2026/8996/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/santiago/8996/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/santiago/8996/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "404",
+      "name": "BNP Paribas Open",
+      "players": 131,
+      "matches": 131,
+      "drawRounds": 7,
+      "drawMatches": 127,
+      "rankingDatesUsed": [
+        "2026-03-02"
+      ],
+      "matchesPath": "data/2026/404/matches.json",
+      "drawPath": "data/2026/404/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/indian-wells/404/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/indian-wells/404/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "403",
+      "name": "Miami Open presented by Itau",
+      "players": 130,
+      "matches": 131,
+      "drawRounds": 7,
+      "drawMatches": 127,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/2026/403/matches.json",
+      "drawPath": "data/2026/403/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/miami/403/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/miami/403/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "717",
+      "name": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "players": 40,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30"
+      ],
+      "matchesPath": "data/2026/717/matches.json",
+      "drawPath": "data/2026/717/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/houston/717/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/houston/717/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "360",
+      "name": "Grand Prix Hassan II",
+      "players": 40,
+      "matches": 38,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30"
+      ],
+      "matchesPath": "data/2026/360/matches.json",
+      "drawPath": "data/2026/360/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/marrakech/360/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/marrakech/360/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "4462",
+      "name": "Tiriac Open presented by UniCredit Bank",
+      "players": 40,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30"
+      ],
+      "matchesPath": "data/2026/4462/matches.json",
+      "drawPath": "data/2026/4462/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/bucharest/4462/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/bucharest/4462/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "410",
+      "name": "Rolex Monte-Carlo Masters",
+      "players": 73,
+      "matches": 76,
+      "drawRounds": 6,
+      "drawMatches": 63,
+      "rankingDatesUsed": [
+        "2026-03-30",
+        "2026-04-06"
+      ],
+      "matchesPath": "data/2026/410/matches.json",
+      "drawPath": "data/2026/410/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "425",
+      "name": "Barcelona Open Banc Sabadell",
+      "players": 49,
+      "matches": 48,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-06",
+        "2026-04-13"
+      ],
+      "matchesPath": "data/2026/425/matches.json",
+      "drawPath": "data/2026/425/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "308",
+      "name": "BMW Open by Bitpanda",
+      "players": 41,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-06",
+        "2026-04-13"
+      ],
+      "matchesPath": "data/2026/308/matches.json",
+      "drawPath": "data/2026/308/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/munich/308/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/munich/308/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "1536",
+      "name": "Mutua Madrid Open",
+      "players": 129,
+      "matches": 131,
+      "drawRounds": 7,
+      "drawMatches": 127,
+      "rankingDatesUsed": [
+        "2026-04-20"
+      ],
+      "matchesPath": "data/2026/1536/matches.json",
+      "drawPath": "data/2026/1536/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/madrid/1536/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/madrid/1536/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "416",
+      "name": "Internazionali BNL d'Italia",
+      "players": 130,
+      "matches": 131,
+      "drawRounds": 7,
+      "drawMatches": 127,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/2026/416/matches.json",
+      "drawPath": "data/2026/416/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/rome/416/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/rome/416/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "414",
+      "name": "Bitpanda Hamburg Open",
+      "players": 41,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18"
+      ],
+      "matchesPath": "data/2026/414/matches.json",
+      "drawPath": "data/2026/414/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "322",
+      "name": "Gonet Geneva Open",
+      "players": 39,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18"
+      ],
+      "matchesPath": "data/2026/322/matches.json",
+      "drawPath": "data/2026/322/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/geneva/322/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/geneva/322/2026/draws"
+    },
+    {
+      "level": "atp",
+      "levelName": "ATP Tour",
+      "year": "2026",
+      "id": "520",
+      "name": "Roland Garros",
+      "players": 230,
+      "matches": 164,
+      "drawRounds": 7,
+      "drawMatches": 127,
+      "rankingDatesUsed": [
+        "2026-05-18",
+        "2026-05-25"
+      ],
+      "matchesPath": "data/2026/520/matches.json",
+      "drawPath": "data/2026/520/draw.json",
+      "source": "https://www.atptour.com/en/scores/current/roland-garros/520/results",
+      "drawSource": "https://www.atptour.com/en/scores/current/roland-garros/520/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7808",
+      "name": "Bengaluru Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2025-12-29",
+        "2026-01-05"
+      ],
+      "matchesPath": "data/challenger/2026/7808/matches.json",
+      "drawPath": "data/challenger/2026/7808/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/bengaluru/7808/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/bengaluru/7808/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7393",
+      "name": "Workday Canberra International",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2025-12-29",
+        "2026-01-05"
+      ],
+      "matchesPath": "data/challenger/2026/7393/matches.json",
+      "drawPath": "data/challenger/2026/7393/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/canberra/7393/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/canberra/7393/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2205",
+      "name": "BNC TENNIS OPEN",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2025-12-29",
+        "2026-01-05"
+      ],
+      "matchesPath": "data/challenger/2026/2205/matches.json",
+      "drawPath": "data/challenger/2026/2205/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/noumea/2205/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/noumea/2205/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2791",
+      "name": "Bangkok Open 1",
+      "players": 49,
+      "matches": 48,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2025-12-29",
+        "2026-01-05"
+      ],
+      "matchesPath": "data/challenger/2026/2791/matches.json",
+      "drawPath": "data/challenger/2026/2791/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/nonthaburi/2791/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/nonthaburi/2791/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2907",
+      "name": "Lexus Nottingham Challenger",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2025-12-29",
+        "2026-01-05"
+      ],
+      "matchesPath": "data/challenger/2026/2907/matches.json",
+      "drawPath": "data/challenger/2026/2907/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/nottingham/2907/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/nottingham/2907/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2795",
+      "name": "Bangkok Open 2",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-05",
+        "2026-01-12"
+      ],
+      "matchesPath": "data/challenger/2026/2795/matches.json",
+      "drawPath": "data/challenger/2026/2795/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/nonthaburi/2795/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/nonthaburi/2795/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "1210",
+      "name": "AAT Challenger Edicion TCA",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-05",
+        "2026-01-12"
+      ],
+      "matchesPath": "data/challenger/2026/1210/matches.json",
+      "drawPath": "data/challenger/2026/1210/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/buenos-aires/1210/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/buenos-aires/1210/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7916",
+      "name": "Lexus Glasgow Challenger",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-05",
+        "2026-01-12"
+      ],
+      "matchesPath": "data/challenger/2026/7916/matches.json",
+      "drawPath": "data/challenger/2026/7916/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/glasgow/7916/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/glasgow/7916/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2831",
+      "name": "Indoor Oeiras Open 1",
+      "players": 48,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-12",
+        "2026-01-19"
+      ],
+      "matchesPath": "data/challenger/2026/2831/matches.json",
+      "drawPath": "data/challenger/2026/2831/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/oeiras/2831/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/oeiras/2831/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3053",
+      "name": "Itajai Open",
+      "players": 47,
+      "matches": 46,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-12",
+        "2026-01-19"
+      ],
+      "matchesPath": "data/challenger/2026/3053/matches.json",
+      "drawPath": "data/challenger/2026/3053/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/itajai/3053/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/itajai/3053/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3055",
+      "name": "Soma Bay Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-12",
+        "2026-01-19"
+      ],
+      "matchesPath": "data/challenger/2026/3055/matches.json",
+      "drawPath": "data/challenger/2026/3055/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/soma-bay/3055/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/soma-bay/3055/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3057",
+      "name": "NovaWorld Phan Thiet Challenger 1",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-12",
+        "2026-01-19"
+      ],
+      "matchesPath": "data/challenger/2026/3057/matches.json",
+      "drawPath": "data/challenger/2026/3057/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/phan-thiet/3057/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/phan-thiet/3057/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2833",
+      "name": "Oeiras Indoor 2",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-19"
+      ],
+      "matchesPath": "data/challenger/2026/2833/matches.json",
+      "drawPath": "data/challenger/2026/2833/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/oeiras/2833/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/oeiras/2833/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3059",
+      "name": "NovaWorld Phan Thiet Challenger 2",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-01-19"
+      ],
+      "matchesPath": "data/challenger/2026/3059/matches.json",
+      "drawPath": "data/challenger/2026/3059/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/phan-thiet/3059/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/phan-thiet/3059/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9635",
+      "name": "Bahrain Open Tennis Challenger",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/9635/matches.json",
+      "drawPath": "data/challenger/2026/9635/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/manama/9635/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/manama/9635/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "6239",
+      "name": "Open Quimper Bretagne Occidentale",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/6239/matches.json",
+      "drawPath": "data/challenger/2026/6239/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/quimper/6239/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/quimper/6239/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2971",
+      "name": "Better Buzz Coffee San Diego Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/2971/matches.json",
+      "drawPath": "data/challenger/2026/2971/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/san-diego/2971/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/san-diego/2971/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9452",
+      "name": "Dove Men+Care Concepción",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/9452/matches.json",
+      "drawPath": "data/challenger/2026/9452/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/concepcion/9452/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/concepcion/9452/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2965",
+      "name": "Quini 6 Rosario Challenger presentado por el Gobierno de Santa Fe",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02"
+      ],
+      "matchesPath": "data/challenger/2026/2965/matches.json",
+      "drawPath": "data/challenger/2026/2965/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/rosario/2965/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/rosario/2965/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2967",
+      "name": "Brisbane Tennis International #1",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02"
+      ],
+      "matchesPath": "data/challenger/2026/2967/matches.json",
+      "drawPath": "data/challenger/2026/2967/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/brisbane/2967/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/brisbane/2967/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9154",
+      "name": "Cleveland Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02"
+      ],
+      "matchesPath": "data/challenger/2026/9154/matches.json",
+      "drawPath": "data/challenger/2026/9154/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/cleveland/9154/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/cleveland/9154/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9623",
+      "name": "Tenerife Challenger 1",
+      "players": 46,
+      "matches": 45,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02"
+      ],
+      "matchesPath": "data/challenger/2026/9623/matches.json",
+      "drawPath": "data/challenger/2026/9623/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/tenerife/9623/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/tenerife/9623/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3077",
+      "name": "Koblenz Tennis Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02"
+      ],
+      "matchesPath": "data/challenger/2026/3077/matches.json",
+      "drawPath": "data/challenger/2026/3077/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/koblenz/3077/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/koblenz/3077/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3061",
+      "name": "Start Romagna Cup -1° Trofeo Città di Cesenatico",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02"
+      ],
+      "matchesPath": "data/challenger/2026/3061/matches.json",
+      "drawPath": "data/challenger/2026/3061/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/cesenatico/3061/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/cesenatico/3061/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9162",
+      "name": "Terega Open Pau Pyrénées",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02",
+        "2026-02-09"
+      ],
+      "matchesPath": "data/challenger/2026/9162/matches.json",
+      "drawPath": "data/challenger/2026/9162/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/pau/9162/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/pau/9162/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2969",
+      "name": "Brisbane Tennis International #2",
+      "players": 48,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02",
+        "2026-02-09"
+      ],
+      "matchesPath": "data/challenger/2026/2969/matches.json",
+      "drawPath": "data/challenger/2026/2969/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/brisbane/2969/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/brisbane/2969/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2839",
+      "name": "Tenerife Challenger 2",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02",
+        "2026-02-09"
+      ],
+      "matchesPath": "data/challenger/2026/2839/matches.json",
+      "drawPath": "data/challenger/2026/2839/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/tenerife/2839/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/tenerife/2839/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7849",
+      "name": "Coromandel Chennai Open",
+      "players": 48,
+      "matches": 47,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02",
+        "2026-02-09"
+      ],
+      "matchesPath": "data/challenger/2026/7849/matches.json",
+      "drawPath": "data/challenger/2026/7849/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/chennai/7849/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/chennai/7849/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3063",
+      "name": "Steve Carter Baton Rouge Challenger",
+      "players": 48,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-02",
+        "2026-02-09"
+      ],
+      "matchesPath": "data/challenger/2026/3063/matches.json",
+      "drawPath": "data/challenger/2026/3063/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/baton-rouge/3063/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/baton-rouge/3063/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7874",
+      "name": "Play In Challenger",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-09",
+        "2026-02-16"
+      ],
+      "matchesPath": "data/challenger/2026/7874/matches.json",
+      "drawPath": "data/challenger/2026/7874/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/lille/7874/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/lille/7874/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3075",
+      "name": "Chaca Challenger Metepec Open",
+      "players": 52,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-09",
+        "2026-02-16"
+      ],
+      "matchesPath": "data/challenger/2026/3075/matches.json",
+      "drawPath": "data/challenger/2026/3075/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/metepec/3075/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/metepec/3075/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "6961",
+      "name": "Delhi Open 2026",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-09",
+        "2026-02-16"
+      ],
+      "matchesPath": "data/challenger/2026/6961/matches.json",
+      "drawPath": "data/challenger/2026/6961/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/new-delhi/6961/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/new-delhi/6961/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9678",
+      "name": "AAT Challenger IEB+ Edicion Tigre I",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-09",
+        "2026-02-16"
+      ],
+      "matchesPath": "data/challenger/2026/9678/matches.json",
+      "drawPath": "data/challenger/2026/9678/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/tigre/9678/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/tigre/9678/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "1796",
+      "name": "Open Saint-Brieuc Armor Agglomération",
+      "players": 49,
+      "matches": 48,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-16",
+        "2026-02-23"
+      ],
+      "matchesPath": "data/challenger/2026/1796/matches.json",
+      "drawPath": "data/challenger/2026/1796/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/st-brieuc/1796/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/st-brieuc/1796/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7100",
+      "name": "PMR Maha Open",
+      "players": 47,
+      "matches": 47,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-16",
+        "2026-02-23"
+      ],
+      "matchesPath": "data/challenger/2026/7100/matches.json",
+      "drawPath": "data/challenger/2026/7100/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/pune/7100/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/pune/7100/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9516",
+      "name": "Challenger Città di Lugano",
+      "players": 48,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-16",
+        "2026-02-23"
+      ],
+      "matchesPath": "data/challenger/2026/9516/matches.json",
+      "drawPath": "data/challenger/2026/9516/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/lugano/9516/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/lugano/9516/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9695",
+      "name": "AAT Challenger IEB+ Edicion Tigre II",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-16",
+        "2026-02-23"
+      ],
+      "matchesPath": "data/challenger/2026/9695/matches.json",
+      "drawPath": "data/challenger/2026/9695/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/tigre/9695/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/tigre/9695/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2973",
+      "name": "Thionville Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-23",
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/2973/matches.json",
+      "drawPath": "data/challenger/2026/2973/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/thionville/2973/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/thionville/2973/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3065",
+      "name": "Brasilia Tennis Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-23",
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/3065/matches.json",
+      "drawPath": "data/challenger/2026/3065/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/brasilia/3065/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/brasilia/3065/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2913",
+      "name": "Rwanda Challenger",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-23",
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/2913/matches.json",
+      "drawPath": "data/challenger/2026/2913/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/kigali/2913/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/kigali/2913/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3067",
+      "name": "Fujairah Open",
+      "players": 24,
+      "matches": 14,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/3067/matches.json",
+      "drawPath": "data/challenger/2026/3067/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/fujairah/3067/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/fujairah/3067/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2983",
+      "name": "ITC Crete Challenger",
+      "players": 47,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-02-23",
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/2983/matches.json",
+      "drawPath": "data/challenger/2026/2983/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/hersonissos/2983/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/hersonissos/2983/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2915",
+      "name": "Rwanda Challenger 2",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/2915/matches.json",
+      "drawPath": "data/challenger/2026/2915/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/kigali/2915/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/kigali/2915/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3406",
+      "name": "Challenger de Santiago - Dove Men Care",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/3406/matches.json",
+      "drawPath": "data/challenger/2026/3406/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/santiago/3406/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/santiago/3406/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "398",
+      "name": "Challenger Cherbourg La Manche",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/398/matches.json",
+      "drawPath": "data/challenger/2026/398/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/cherbourg/398/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/cherbourg/398/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2985",
+      "name": "ITC Crete Challenger",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-02"
+      ],
+      "matchesPath": "data/challenger/2026/2985/matches.json",
+      "drawPath": "data/challenger/2026/2985/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/hersonissos/2985/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/hersonissos/2985/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9167",
+      "name": "Arizona Tennis Classic",
+      "players": 40,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/9167/matches.json",
+      "drawPath": "data/challenger/2026/9167/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/phoenix/9167/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/phoenix/9167/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2975",
+      "name": "Republica Dominicana Open - Copa Cap Cana",
+      "players": 39,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/2975/matches.json",
+      "drawPath": "data/challenger/2026/2975/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/cap-cana/2975/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/cap-cana/2975/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "6963",
+      "name": "Morelos Open",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/6963/matches.json",
+      "drawPath": "data/challenger/2026/6963/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/morelos/6963/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/morelos/6963/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2909",
+      "name": "Munich Ultra Paraguay Open",
+      "players": 45,
+      "matches": 44,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/2909/matches.json",
+      "drawPath": "data/challenger/2026/2909/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/asuncion/2909/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/asuncion/2909/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9171",
+      "name": "VII CHALLENGER COSTA CALIDA REGION DE MURCIA",
+      "players": 52,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/9171/matches.json",
+      "drawPath": "data/challenger/2026/9171/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/murcia/9171/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/murcia/9171/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9472",
+      "name": "Zadar Open",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/9472/matches.json",
+      "drawPath": "data/challenger/2026/9472/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/zadar/9472/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/zadar/9472/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2991",
+      "name": "Morelia Open",
+      "players": 48,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/2991/matches.json",
+      "drawPath": "data/challenger/2026/2991/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/morelia/2991/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/morelia/2991/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2911",
+      "name": "Guerri Napoli Tennis Cup",
+      "players": 48,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/2911/matches.json",
+      "drawPath": "data/challenger/2026/2911/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/naples/2911/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/naples/2911/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3071",
+      "name": "LA OPEN",
+      "players": 49,
+      "matches": 48,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/3071/matches.json",
+      "drawPath": "data/challenger/2026/3071/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/sao-paulo/3071/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/sao-paulo/3071/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2955",
+      "name": "Montemar ENE Construccion",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/2955/matches.json",
+      "drawPath": "data/challenger/2026/2955/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/alicante/2955/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/alicante/2955/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "5016",
+      "name": "KIA Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/5016/matches.json",
+      "drawPath": "data/challenger/2026/5016/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/bucaramanga/5016/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/bucaramanga/5016/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "8268",
+      "name": "Yokkaichi Challenger",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/8268/matches.json",
+      "drawPath": "data/challenger/2026/8268/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/yokkaichi/8268/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/yokkaichi/8268/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "8388",
+      "name": "Memorijal Mile Moralic - Split Open Jolly Autoline",
+      "players": 49,
+      "matches": 48,
+      "drawRounds": 4,
+      "drawMatches": 30,
+      "rankingDatesUsed": [
+        "2026-03-16"
+      ],
+      "matchesPath": "data/challenger/2026/8388/matches.json",
+      "drawPath": "data/challenger/2026/8388/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/split/8388/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/split/8388/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2987",
+      "name": "Open Menorca",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30"
+      ],
+      "matchesPath": "data/challenger/2026/2987/matches.json",
+      "drawPath": "data/challenger/2026/2987/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/menorca/2987/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/menorca/2987/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "213",
+      "name": "Banorte Tennis Open",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30"
+      ],
+      "matchesPath": "data/challenger/2026/213/matches.json",
+      "drawPath": "data/challenger/2026/213/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/san-luis-potosi/213/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/san-luis-potosi/213/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2821",
+      "name": "São Léo Open de Tênis",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30"
+      ],
+      "matchesPath": "data/challenger/2026/2821/matches.json",
+      "drawPath": "data/challenger/2026/2821/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/sao-leopoldo/2821/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/sao-leopoldo/2821/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7494",
+      "name": "Open Città della Disfida - Trofeo Lapietra",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30"
+      ],
+      "matchesPath": "data/challenger/2026/7494/matches.json",
+      "drawPath": "data/challenger/2026/7494/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/barletta/7494/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/barletta/7494/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3073",
+      "name": "Koyushokucho Miyazaki Challenger",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30"
+      ],
+      "matchesPath": "data/challenger/2026/3073/matches.json",
+      "drawPath": "data/challenger/2026/3073/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/miyazaki/3073/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/miyazaki/3073/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "8375",
+      "name": "Mexico City Open presentado por Banco BX+",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30",
+        "2026-04-06"
+      ],
+      "matchesPath": "data/challenger/2026/8375/matches.json",
+      "drawPath": "data/challenger/2026/8375/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/mexico-city/8375/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/mexico-city/8375/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2989",
+      "name": "Atkinsons Monza Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30",
+        "2026-04-06"
+      ],
+      "matchesPath": "data/challenger/2026/2989/matches.json",
+      "drawPath": "data/challenger/2026/2989/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/monza/2989/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/monza/2989/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "6307",
+      "name": "Copa Internacional de Tenis",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30",
+        "2026-04-06"
+      ],
+      "matchesPath": "data/challenger/2026/6307/matches.json",
+      "drawPath": "data/challenger/2026/6307/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/campinas/6307/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/campinas/6307/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "5069",
+      "name": "Elizabeth Moore Sarasota Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30",
+        "2026-04-06"
+      ],
+      "matchesPath": "data/challenger/2026/5069/matches.json",
+      "drawPath": "data/challenger/2026/5069/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/sarasota/5069/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/sarasota/5069/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9687",
+      "name": "Grand Prix Open Comunidad de Madrid by Silverway",
+      "players": 48,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30",
+        "2026-04-06"
+      ],
+      "matchesPath": "data/challenger/2026/9687/matches.json",
+      "drawPath": "data/challenger/2026/9687/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/madrid/9687/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/madrid/9687/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3079",
+      "name": "WUNING OPEN 1",
+      "players": 47,
+      "matches": 46,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-03-30",
+        "2026-04-06"
+      ],
+      "matchesPath": "data/challenger/2026/3079/matches.json",
+      "drawPath": "data/challenger/2026/3079/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/wuning/3079/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/wuning/3079/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "1741",
+      "name": "Renault Busan Open Tennis Championships",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-06",
+        "2026-04-13"
+      ],
+      "matchesPath": "data/challenger/2026/1741/matches.json",
+      "drawPath": "data/challenger/2026/1741/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/busan/1741/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/busan/1741/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9514",
+      "name": "Oeiras Open 3",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-06",
+        "2026-04-13"
+      ],
+      "matchesPath": "data/challenger/2026/9514/matches.json",
+      "drawPath": "data/challenger/2026/9514/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/oeiras/9514/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/oeiras/9514/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9479",
+      "name": "Bolivia Open",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-06",
+        "2026-04-13"
+      ],
+      "matchesPath": "data/challenger/2026/9479/matches.json",
+      "drawPath": "data/challenger/2026/9479/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/santa-cruz/9479/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/santa-cruz/9479/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "692",
+      "name": "Tallahassee Tennis Challenger",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-06",
+        "2026-04-13"
+      ],
+      "matchesPath": "data/challenger/2026/692/matches.json",
+      "drawPath": "data/challenger/2026/692/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/tallahassee/692/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/tallahassee/692/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3081",
+      "name": "WUNING OPEN 2",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-06",
+        "2026-04-13"
+      ],
+      "matchesPath": "data/challenger/2026/3081/matches.json",
+      "drawPath": "data/challenger/2026/3081/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/wuning/3081/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/wuning/3081/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7490",
+      "name": "Gwangju Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-13",
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/7490/matches.json",
+      "drawPath": "data/challenger/2026/7490/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/gwangju/7490/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/gwangju/7490/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "5067",
+      "name": "Savannah Challenger",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-13",
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/5067/matches.json",
+      "drawPath": "data/challenger/2026/5067/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/savannah/5067/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/savannah/5067/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2151",
+      "name": "Garden Open",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-13",
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/2151/matches.json",
+      "drawPath": "data/challenger/2026/2151/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/rome/2151/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/rome/2151/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2995",
+      "name": "Cote d'Ivoire Open 1",
+      "players": 43,
+      "matches": 41,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-13",
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/2995/matches.json",
+      "drawPath": "data/challenger/2026/2995/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/abidjan/2995/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/abidjan/2995/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7736",
+      "name": "Shymkent Challenger 1",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-13",
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/7736/matches.json",
+      "drawPath": "data/challenger/2026/7736/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/shymkent/7736/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/shymkent/7736/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9697",
+      "name": "Danube Upper Austria Open powered by SKE",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/9697/matches.json",
+      "drawPath": "data/challenger/2026/9697/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/mauthausen/9697/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/mauthausen/9697/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2997",
+      "name": "Cote d'Ivoire Open 2",
+      "players": 48,
+      "matches": 47,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/2997/matches.json",
+      "drawPath": "data/challenger/2026/2997/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/abidjan/2997/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/abidjan/2997/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3083",
+      "name": "Jiangxi Open",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/3083/matches.json",
+      "drawPath": "data/challenger/2026/3083/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/jiujiang/3083/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/jiujiang/3083/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "1797",
+      "name": "Ostra Group Open By Porsche Servisni Centrum Ostrava",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/1797/matches.json",
+      "drawPath": "data/challenger/2026/1797/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/ostrava/1797/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/ostrava/1797/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9192",
+      "name": "Shymkent Challenger 2",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-04-20"
+      ],
+      "matchesPath": "data/challenger/2026/9192/matches.json",
+      "drawPath": "data/challenger/2026/9192/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/shymkent/9192/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/shymkent/9192/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7009",
+      "name": "Open Aix Provence Crédit Agricole",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/7009/matches.json",
+      "drawPath": "data/challenger/2026/7009/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/aix-en-provence/7009/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/aix-en-provence/7009/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2861",
+      "name": "Sardegna Open",
+      "players": 41,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/2861/matches.json",
+      "drawPath": "data/challenger/2026/2861/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/cagliari/2861/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/cagliari/2861/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2921",
+      "name": "Wuxi Open",
+      "players": 50,
+      "matches": 48,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/challenger/2026/2921/matches.json",
+      "drawPath": "data/challenger/2026/2921/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/wuxi/2921/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/wuxi/2921/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7707",
+      "name": "Abruzzo Open Francavilla al Mare",
+      "players": 49,
+      "matches": 47,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/challenger/2026/7707/matches.json",
+      "drawPath": "data/challenger/2026/7707/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/francavilla-al-mare/7707/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/francavilla-al-mare/7707/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2961",
+      "name": "Brazzaville Challenger",
+      "players": 43,
+      "matches": 38,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/challenger/2026/2961/matches.json",
+      "drawPath": "data/challenger/2026/2961/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/brazzaville/2961/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/brazzaville/2961/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2923",
+      "name": "Santos Brasil Tennis Cup",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/challenger/2026/2923/matches.json",
+      "drawPath": "data/challenger/2026/2923/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/santos/2923/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/santos/2923/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9475",
+      "name": "Oeiras Open 4",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/challenger/2026/9475/matches.json",
+      "drawPath": "data/challenger/2026/9475/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/oeiras/9475/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/oeiras/9475/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "1541",
+      "name": "KIA Tunis Open",
+      "players": 49,
+      "matches": 48,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/challenger/2026/1541/matches.json",
+      "drawPath": "data/challenger/2026/1541/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/tunis/1541/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/tunis/1541/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9500",
+      "name": "Zagreb Open",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/challenger/2026/9500/matches.json",
+      "drawPath": "data/challenger/2026/9500/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/zagreb/9500/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/zagreb/9500/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2981",
+      "name": "AAT Challenger IEB+ Edicion Córdoba",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/2981/matches.json",
+      "drawPath": "data/challenger/2026/2981/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/cordoba/2981/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/cordoba/2981/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3107",
+      "name": "KARNATAKA OPEN",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
+      "matchesPath": "data/challenger/2026/3107/matches.json",
+      "drawPath": "data/challenger/2026/3107/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/bengaluru/3107/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/bengaluru/3107/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3824",
+      "name": "BNP Paribas Primrose Bordeaux",
+      "players": 40,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/3824/matches.json",
+      "drawPath": "data/challenger/2026/3824/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/bordeaux/3824/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/bordeaux/3824/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2823",
+      "name": "Copa Faulconbridge",
+      "players": 41,
+      "matches": 39,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [],
+      "matchesPath": "data/challenger/2026/2823/matches.json",
+      "drawPath": "data/challenger/2026/2823/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/valencia/2823/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/valencia/2823/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3105",
+      "name": "Bosphorus Challenger Cup",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18"
+      ],
+      "matchesPath": "data/challenger/2026/3105/matches.json",
+      "drawPath": "data/challenger/2026/3105/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/istanbul/3105/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/istanbul/3105/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3109",
+      "name": "S M KRISHNA MEMORIAL OPEN",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18"
+      ],
+      "matchesPath": "data/challenger/2026/3109/matches.json",
+      "drawPath": "data/challenger/2026/3109/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/bengaluru/3109/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/bengaluru/3109/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3095",
+      "name": "CAME CUP 2026 CITTA' DI CERVIA",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18"
+      ],
+      "matchesPath": "data/challenger/2026/3095/matches.json",
+      "drawPath": "data/challenger/2026/3095/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/cervia/3095/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/cervia/3095/2026/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "2993",
+      "name": "Moldova Open",
+      "players": 49,
+      "matches": 37,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18",
+        "2026-05-25"
+      ],
+      "matchesPath": "data/challenger/2026/2993/matches.json",
+      "drawPath": "data/challenger/2026/2993/draw.json",
+      "source": "https://www.atptour.com/en/scores/current-challenger/chisinau/2993/results",
+      "drawSource": "https://www.atptour.com/en/scores/current-challenger/chisinau/2993/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "9188",
+      "name": "UAMS Health Little Rock Open",
+      "players": 48,
+      "matches": 35,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18",
+        "2026-05-25"
+      ],
+      "matchesPath": "data/challenger/2026/9188/matches.json",
+      "drawPath": "data/challenger/2026/9188/draw.json",
+      "source": "https://www.atptour.com/en/scores/current-challenger/little-rock/9188/results",
+      "drawSource": "https://www.atptour.com/en/scores/current-challenger/little-rock/9188/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "7015",
+      "name": "Internazionali Di Tennis - Citta'Di Vicenza",
+      "players": 50,
+      "matches": 37,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18",
+        "2026-05-25"
+      ],
+      "matchesPath": "data/challenger/2026/7015/matches.json",
+      "drawPath": "data/challenger/2026/7015/draw.json",
+      "source": "https://www.atptour.com/en/scores/current-challenger/vicenza/7015/results",
+      "drawSource": "https://www.atptour.com/en/scores/current-challenger/vicenza/7015/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3087",
+      "name": "RISE IRENE OPEN",
+      "players": 50,
+      "matches": 38,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18",
+        "2026-05-25"
+      ],
+      "matchesPath": "data/challenger/2026/3087/matches.json",
+      "drawPath": "data/challenger/2026/3087/draw.json",
+      "source": "https://www.atptour.com/en/scores/current-challenger/centurion-1/3087/results",
+      "drawSource": "https://www.atptour.com/en/scores/current-challenger/centurion-1/3087/draws"
+    },
+    {
+      "level": "challenger",
+      "levelName": "ATP Challenger",
+      "year": "2026",
+      "id": "3097",
+      "name": "Kosice Open 2026",
+      "players": 51,
+      "matches": 38,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "rankingDatesUsed": [
+        "2026-05-18",
+        "2026-05-25"
+      ],
+      "matchesPath": "data/challenger/2026/3097/matches.json",
+      "drawPath": "data/challenger/2026/3097/draw.json",
+      "source": "https://www.atptour.com/en/scores/current-challenger/kosice/3097/results",
+      "drawSource": "https://www.atptour.com/en/scores/current-challenger/kosice/3097/draws"
+    }
+  ]
+}

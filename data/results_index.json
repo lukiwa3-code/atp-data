@@ -1,8 +1,12 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 30,
   "items": [
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "9900",
       "name": "United Cup",
@@ -19,6 +23,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "339",
       "name": "Brisbane International presented by ANZ",
@@ -36,6 +42,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "336",
       "name": "Bank of China Hong Kong Tennis Open",
@@ -53,6 +61,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "8998",
       "name": "Adelaide International",
@@ -69,6 +79,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/adelaide/8998/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "301",
       "name": "ASB Classic",
@@ -86,6 +98,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/auckland/301/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "580",
       "name": "Australian Open",
@@ -103,6 +117,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "375",
       "name": "Open Occitanie",
@@ -119,6 +135,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "8096",
       "name": "Davis Cup Qualifiers 1st Rd",
@@ -135,6 +153,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "424",
       "name": "Nexo Dallas Open",
@@ -152,6 +172,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/dallas/424/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "407",
       "name": "ABN AMRO Open",
@@ -170,6 +192,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/rotterdam/407/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "506",
       "name": "IEB+ Argentina Open",
@@ -187,6 +211,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/buenos-aires/506/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "451",
       "name": "Qatar ExxonMobil Open",
@@ -204,6 +230,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/doha/451/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "6932",
       "name": "Rio Open presented by Claro",
@@ -221,6 +249,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "499",
       "name": "Delray Beach Open",
@@ -238,6 +268,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "495",
       "name": "Dubai Duty Free Tennis Championships",
@@ -255,6 +287,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/dubai/495/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "807",
       "name": "Abierto Mexicano Telcel presentado por HSBC",
@@ -272,6 +306,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/acapulco/807/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "8996",
       "name": "BCI Seguros Chile Open",
@@ -289,6 +325,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/santiago/8996/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "404",
       "name": "BNP Paribas Open",
@@ -305,6 +343,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/indian-wells/404/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "403",
       "name": "Miami Open presented by Itau",
@@ -321,6 +361,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/miami/403/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "717",
       "name": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
@@ -337,6 +379,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/houston/717/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "360",
       "name": "Grand Prix Hassan II",
@@ -353,6 +397,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/marrakech/360/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "4462",
       "name": "Tiriac Open presented by UniCredit Bank",
@@ -369,6 +415,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/bucharest/4462/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "410",
       "name": "Rolex Monte-Carlo Masters",
@@ -386,6 +434,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "425",
       "name": "Barcelona Open Banc Sabadell",
@@ -403,6 +453,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "308",
       "name": "BMW Open by Bitpanda",
@@ -420,6 +472,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/munich/308/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "1536",
       "name": "Mutua Madrid Open",
@@ -436,6 +490,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/madrid/1536/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "416",
       "name": "Internazionali BNL d'Italia",
@@ -452,6 +508,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/rome/416/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "414",
       "name": "Bitpanda Hamburg Open",
@@ -468,6 +526,8 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "322",
       "name": "Gonet Geneva Open",
@@ -484,11 +544,13 @@
       "drawSource": "https://www.atptour.com/en/scores/archive/geneva/322/2026/draws"
     },
     {
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "id": "520",
       "name": "Roland Garros",
-      "players": 229,
-      "matches": 158,
+      "players": 230,
+      "matches": 164,
       "drawRounds": 7,
       "drawMatches": 127,
       "rankingDatesUsed": [

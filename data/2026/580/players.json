@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/results",
   "tournament": {
     "id": "580",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Australian Open",
     "location": "Melbourne, Australia",
@@ -33,6 +35,8 @@
     "prizeMoney": "A$49,171,000",
     "totalFinancialCommitment": "A$49,171,000"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 235,
   "players": [
     {

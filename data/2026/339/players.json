@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/results",
   "tournament": {
     "id": "339",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Brisbane International presented by ANZ",
     "location": "Brisbane, Australia",
@@ -33,6 +35,8 @@
     "prizeMoney": "$800,045",
     "totalFinancialCommitment": "$888,349"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 49,
   "players": [
     {

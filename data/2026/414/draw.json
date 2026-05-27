@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/draws",
   "tournament": {
     "id": "414",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Bitpanda Hamburg Open",
     "location": "Hamburg, Germany",
@@ -33,6 +35,8 @@
     "prizeMoney": "€2,219,670",
     "totalFinancialCommitment": "€2,247,225"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
   "rankingDatesUsed": [

@@ -1,0 +1,814 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/san-diego/2971/2026/draws",
+  "tournament": {
+    "id": "2971",
+    "level": "challenger",
+    "levelName": "ATP Challenger",
+    "year": "2026",
+    "name": "Better Buzz Coffee San Diego Open",
+    "location": "San Diego, United States",
+    "date": "27 January - 1 February, 2026",
+    "month": "January, 2026",
+    "dateStart": "2026-01-27",
+    "dateEnd": "2026-02-01",
+    "isLive": false,
+    "isPastEvent": true,
+    "isUpcoming": false,
+    "computedIsCurrent": false,
+    "computedIsPastEvent": true,
+    "computedIsUpcoming": false,
+    "atpIsLive": false,
+    "atpIsPastEvent": true,
+    "type": "CH",
+    "eventType": "CH",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/san-diego/2971/2026/results",
+    "drawsUrl": "/en/scores/archive/san-diego/2971/2026/draws",
+    "scheduleUrl": "/en/scores/current-challenger/san-diego/2971/daily-schedule",
+    "overviewUrl": "/en/tournaments/san-diego/2971/overview",
+    "countryFlagUrl": "/-/media/images/flags/usa.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "$177,000",
+    "totalFinancialCommitment": "$177,000"
+  },
+  "level": "challenger",
+  "levelName": "ATP Challenger",
+  "countRounds": 5,
+  "countMatches": 31,
+  "rankingDatesUsed": [],
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Final",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "S. Korda",
+          "player1FullName": "Sebastian Korda",
+          "player1Id": "K0AH",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "6 5"
+          ],
+          "player2": "Z. Svajda",
+          "player2FullName": "Zachary Svajda",
+          "player2Id": "S0K7",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Zachary Svajda",
+          "formattedScore": "6-4 7-6(5)"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semifinals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "S. Korda",
+          "player1FullName": "Sebastian Korda",
+          "player1Id": "K0AH",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "P. Kypson",
+          "player2FullName": "Patrick Kypson",
+          "player2Id": "K0A3",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6 4",
+            "2"
+          ],
+          "winnerName": "Sebastian Korda",
+          "formattedScore": "7-6(4) 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "Z. Svajda",
+          "player1FullName": "Zachary Svajda",
+          "player1Id": "S0K7",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Shimabukuro",
+          "player2FullName": "Sho Shimabukuro",
+          "player2Id": "SY67",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "1"
+          ],
+          "winnerName": "Zachary Svajda",
+          "formattedScore": "6-4 6-1"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarterfinals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "S. Korda",
+          "player1FullName": "Sebastian Korda",
+          "player1Id": "K0AH",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "L. Draxl",
+          "player2FullName": "Liam Draxl",
+          "player2Id": "D0DP",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "6 4",
+            "4"
+          ],
+          "winnerName": "Sebastian Korda",
+          "formattedScore": "7-6(4) 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "P. Kypson",
+          "player1FullName": "Patrick Kypson",
+          "player1Id": "K0A3",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "C. Smith",
+          "player2FullName": "Colton Smith",
+          "player2Id": "S0ZE",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6 5",
+            "0"
+          ],
+          "winnerName": "Patrick Kypson",
+          "formattedScore": "7-6(5) 6-0"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Krueger",
+          "player1FullName": "Mitchell Krueger",
+          "player1Id": "KC12",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "2"
+          ],
+          "player2": "Z. Svajda",
+          "player2FullName": "Zachary Svajda",
+          "player2Id": "S0K7",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "2",
+            "6"
+          ],
+          "winnerName": "Zachary Svajda",
+          "formattedScore": "6-3 2-6 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "S. Shimabukuro",
+          "player1FullName": "Sho Shimabukuro",
+          "player1Id": "SY67",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "R. Hijikata",
+          "player2FullName": "Rinky Hijikata",
+          "player2Id": "H0BH",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Sho Shimabukuro",
+          "formattedScore": "6-4 6-4"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "S. Korda",
+          "player1FullName": "Sebastian Korda",
+          "player1Id": "K0AH",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "player2": "A. Ilagan",
+          "player2FullName": "Andre Ilagan",
+          "player2Id": "I0B0",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "3"
+          ],
+          "winnerName": "Sebastian Korda",
+          "formattedScore": "6-2 4-6 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "T. Svajda",
+          "player1FullName": "Trevor Svajda",
+          "player1Id": "S0VM",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "player2": "L. Draxl",
+          "player2FullName": "Liam Draxl",
+          "player2Id": "D0DP",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Liam Draxl",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "P. Kypson",
+          "player1FullName": "Patrick Kypson",
+          "player1Id": "K0A3",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "G. Johns",
+          "player2FullName": "Garrett Johns",
+          "player2Id": "J0B5",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6 4",
+            "2"
+          ],
+          "winnerName": "Patrick Kypson",
+          "formattedScore": "7-6(4) 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "B. Bicknell",
+          "player1FullName": "Blaise Bicknell",
+          "player1Id": "B0I5",
+          "player1Country": "JAM",
+          "player1ScoreTokens": [
+            "7",
+            "6 3",
+            "1"
+          ],
+          "player2": "C. Smith",
+          "player2FullName": "Colton Smith",
+          "player2Id": "S0ZE",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "5",
+            "7",
+            "6"
+          ],
+          "winnerName": "Colton Smith",
+          "formattedScore": "5-7 7-6(3) 6-1"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "T. Samuel",
+          "player1FullName": "Toby Samuel",
+          "player1Id": "S0TM",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "M. Krueger",
+          "player2FullName": "Mitchell Krueger",
+          "player2Id": "KC12",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Mitchell Krueger",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "K. Smith",
+          "player1FullName": "Keegan Smith",
+          "player1Id": "S0DQ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6 2",
+            "4"
+          ],
+          "player2": "Z. Svajda",
+          "player2FullName": "Zachary Svajda",
+          "player2Id": "S0K7",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Zachary Svajda",
+          "formattedScore": "7-6(2) 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "S. Shimabukuro",
+          "player1FullName": "Sho Shimabukuro",
+          "player1Id": "SY67",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "7"
+          ],
+          "player2": "A. Fenty",
+          "player2FullName": "Andrew Fenty",
+          "player2Id": "F0CK",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6 2"
+          ],
+          "winnerName": "Sho Shimabukuro",
+          "formattedScore": "6-4 1-6 7-6(2)"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "B. Tomic",
+          "player1FullName": "Bernard Tomic",
+          "player1Id": "TA46",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "player2": "R. Hijikata",
+          "player2FullName": "Rinky Hijikata",
+          "player2Id": "H0BH",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "winnerName": "Rinky Hijikata",
+          "formattedScore": "3-6 6-4 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Korda",
+          "player1FullName": "Sebastian Korda",
+          "player1Id": "K0AH",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "D. Milavsky",
+          "player2FullName": "Daniel Milavsky",
+          "player2Id": "M0RG",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "winnerName": "Sebastian Korda",
+          "formattedScore": "6-4 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "F. Lechno-Wasiutynski",
+          "player1FullName": "Fryderyk Lechno Wasiutynski",
+          "player1Id": "L0K7",
+          "player1Country": "POL",
+          "player1ScoreTokens": [
+            "1",
+            "5"
+          ],
+          "player2": "A. Ilagan",
+          "player2FullName": "Andre Ilagan",
+          "player2Id": "I0B0",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Andre Ilagan",
+          "formattedScore": "6-1 7-5"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Braswell",
+          "player1FullName": "Micah Braswell",
+          "player1Id": "B0J8",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "player2": "T. Svajda",
+          "player2FullName": "Trevor Svajda",
+          "player2Id": "S0VM",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Trevor Svajda",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Cassone",
+          "player1FullName": "Murphy Cassone",
+          "player1Id": "C0HT",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "player2": "L. Draxl",
+          "player2FullName": "Liam Draxl",
+          "player2Id": "D0DP",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Liam Draxl",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Kypson",
+          "player1FullName": "Patrick Kypson",
+          "player1Id": "K0A3",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "T. Zink",
+          "player2FullName": "Tyler Zink",
+          "player2Id": "Z0AK",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6 5",
+            "1"
+          ],
+          "winnerName": "Patrick Kypson",
+          "formattedScore": "7-6(5) 6-1"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Poling",
+          "player1FullName": "Karl Poling",
+          "player1Id": "P0C1",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2",
+            "6 5"
+          ],
+          "player2": "G. Johns",
+          "player2FullName": "Garrett Johns",
+          "player2Id": "J0B5",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Garrett Johns",
+          "formattedScore": "6-2 7-6(5)"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Rybakov",
+          "player1FullName": "Alex Rybakov",
+          "player1Id": "RG42",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "player2": "B. Bicknell",
+          "player2FullName": "Blaise Bicknell",
+          "player2Id": "B0I5",
+          "player2Country": "JAM",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Blaise Bicknell",
+          "formattedScore": "6-4 7-5"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Langmo",
+          "player1FullName": "Christian Langmo",
+          "player1Id": "LI10",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "C. Smith",
+          "player2FullName": "Colton Smith",
+          "player2Id": "S0ZE",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Colton Smith",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Boyer",
+          "player1FullName": "Tristan Boyer",
+          "player1Id": "B0EJ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "7",
+            "4"
+          ],
+          "player2": "T. Samuel",
+          "player2FullName": "Toby Samuel",
+          "player2Id": "S0TM",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "5",
+            "6"
+          ],
+          "winnerName": "Toby Samuel",
+          "formattedScore": "6-3 5-7 6-4"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Krueger",
+          "player1FullName": "Mitchell Krueger",
+          "player1Id": "KC12",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "C. Stebe",
+          "player2FullName": "Cedrik Marcel Stebe",
+          "player2Id": "SK94",
+          "player2Country": "GER",
+          "player2ScoreTokens": [
+            "1",
+            "1"
+          ],
+          "winnerName": "Mitchell Krueger",
+          "formattedScore": "6-1 6-1"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Perot",
+          "player1FullName": "Raphael Perot",
+          "player1Id": "P0MG",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "3",
+            "6 6"
+          ],
+          "player2": "K. Smith",
+          "player2FullName": "Keegan Smith",
+          "player2Id": "S0DQ",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Keegan Smith",
+          "formattedScore": "6-3 7-6(6)"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "E. Zhu",
+          "player1FullName": "Evan Zhu",
+          "player1Id": "Z09K",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "player2": "Z. Svajda",
+          "player2FullName": "Zachary Svajda",
+          "player2Id": "S0K7",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Zachary Svajda",
+          "formattedScore": "6-2 6-4"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Shimabukuro",
+          "player1FullName": "Sho Shimabukuro",
+          "player1Id": "SY67",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "7"
+          ],
+          "player2": "S. Kozlov",
+          "player2FullName": "Stefan Kozlov",
+          "player2Id": "KE64",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "6 5"
+          ],
+          "winnerName": "Sho Shimabukuro",
+          "formattedScore": "6-2 4-6 7-6(5)"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Fenty",
+          "player1FullName": "Andrew Fenty",
+          "player1Id": "F0CK",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "B. Artnak",
+          "player2FullName": "Bor Artnak",
+          "player2Id": "A0I1",
+          "player2Country": "SLO",
+          "player2ScoreTokens": [
+            "2",
+            "5"
+          ],
+          "winnerName": "Andrew Fenty",
+          "formattedScore": "6-2 7-5"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Tomic",
+          "player1FullName": "Bernard Tomic",
+          "player1Id": "TA46",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "F. Corwin",
+          "player2FullName": "Felix Corwin",
+          "player2Id": "CN15",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6 6",
+            "3"
+          ],
+          "winnerName": "Bernard Tomic",
+          "formattedScore": "7-6(6) 6-3"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Dostanic",
+          "player1FullName": "Stefan Dostanic",
+          "player1Id": "D0D4",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "2"
+          ],
+          "player2": "R. Hijikata",
+          "player2FullName": "Rinky Hijikata",
+          "player2Id": "H0BH",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "6"
+          ],
+          "winnerName": "Rinky Hijikata",
+          "formattedScore": "2-6 6-3 6-2"
+        }
+      ]
+    }
+  ]
+}

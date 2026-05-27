@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/santiago/8996/2026/draws",
   "tournament": {
     "id": "8996",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "BCI Seguros Chile Open",
     "location": "Santiago, Chile",
@@ -33,6 +35,8 @@
     "prizeMoney": "$700,045",
     "totalFinancialCommitment": "$788,349"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
   "rankingDatesUsed": [

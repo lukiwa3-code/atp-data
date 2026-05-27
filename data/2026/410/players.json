@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2026/results",
   "tournament": {
     "id": "410",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Rolex Monte-Carlo Masters",
     "location": "Monte-Carlo, Monaco",
@@ -33,6 +35,8 @@
     "prizeMoney": "€6,309,095",
     "totalFinancialCommitment": "€6,791,465"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 73,
   "players": [
     {

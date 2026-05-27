@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/dallas/424/2026/results",
   "tournament": {
     "id": "424",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Nexo Dallas Open",
     "location": "Dallas, United States",
@@ -33,6 +35,8 @@
     "prizeMoney": "$2,833,335",
     "totalFinancialCommitment": "$3,116,195"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 43,
   "rankingDatesUsed": [
     "2026-02-02",

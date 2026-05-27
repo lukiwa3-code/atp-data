@@ -1,0 +1,243 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "source": "https://www.atptour.com/en/scores/current-challenger/centurion-1/3087/results",
+  "tournament": {
+    "id": "3087",
+    "level": "challenger",
+    "levelName": "ATP Challenger",
+    "year": "2026",
+    "name": "RISE IRENE OPEN",
+    "location": "Centurion, South Africa",
+    "date": "25 - 31 May, 2026",
+    "month": "May, 2026",
+    "dateStart": "2026-05-25",
+    "dateEnd": "2026-05-31",
+    "isLive": true,
+    "isPastEvent": false,
+    "isUpcoming": false,
+    "computedIsCurrent": true,
+    "computedIsPastEvent": false,
+    "computedIsUpcoming": false,
+    "atpIsLive": true,
+    "atpIsPastEvent": false,
+    "type": "CH",
+    "eventType": "CH",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/current-challenger/centurion-1/3087/results",
+    "drawsUrl": "/en/scores/current-challenger/centurion-1/3087/draws",
+    "scheduleUrl": "/en/scores/current-challenger/centurion-1/3087/daily-schedule",
+    "overviewUrl": "/en/tournaments/centurion/3087/overview",
+    "countryFlagUrl": "/-/media/images/flags/rsa.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "$63,000",
+    "totalFinancialCommitment": "$63,000"
+  },
+  "level": "challenger",
+  "levelName": "ATP Challenger",
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Akira Santillan"
+    },
+    {
+      "id": "",
+      "name": "Alec Beckley"
+    },
+    {
+      "id": "",
+      "name": "Alexander Donski"
+    },
+    {
+      "id": "",
+      "name": "Arda Azkara"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Carl Roothman"
+    },
+    {
+      "id": "",
+      "name": "Connor Henry Van Schalkwyk"
+    },
+    {
+      "id": "",
+      "name": "Constantin Bittoun Kouzmine"
+    },
+    {
+      "id": "",
+      "name": "Devin Badenhorst"
+    },
+    {
+      "id": "",
+      "name": "Dillon Beckles"
+    },
+    {
+      "id": "",
+      "name": "Dominik Palan"
+    },
+    {
+      "id": "",
+      "name": "Edison Ambarzumjan"
+    },
+    {
+      "id": "",
+      "name": "Edward Winter"
+    },
+    {
+      "id": "",
+      "name": "Eliakim Coulibaly"
+    },
+    {
+      "id": "",
+      "name": "Filip Peliwo"
+    },
+    {
+      "id": "",
+      "name": "Giles Hussey"
+    },
+    {
+      "id": "",
+      "name": "Gray Voelzke"
+    },
+    {
+      "id": "",
+      "name": "Guillaume Dalmasso"
+    },
+    {
+      "id": "",
+      "name": "Harold Mayot"
+    },
+    {
+      "id": "",
+      "name": "Jeffrey Strydom"
+    },
+    {
+      "id": "",
+      "name": "Karan Singh"
+    },
+    {
+      "id": "",
+      "name": "Khololwam Montsi"
+    },
+    {
+      "id": "",
+      "name": "Kris Van Wyk"
+    },
+    {
+      "id": "",
+      "name": "Luc Koenig"
+    },
+    {
+      "id": "",
+      "name": "Luca Castelnuovo"
+    },
+    {
+      "id": "",
+      "name": "Marc Van Der Merwe"
+    },
+    {
+      "id": "",
+      "name": "Mario Gonzalez Fernandez"
+    },
+    {
+      "id": "",
+      "name": "Mark Nawa"
+    },
+    {
+      "id": "",
+      "name": "Mert Alkaya"
+    },
+    {
+      "id": "",
+      "name": "Michael Zhu"
+    },
+    {
+      "id": "",
+      "name": "Millen Hurrion"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Naoya Honda"
+    },
+    {
+      "id": "",
+      "name": "Ofek Shimanov"
+    },
+    {
+      "id": "",
+      "name": "Orel Kimhi"
+    },
+    {
+      "id": "",
+      "name": "Oscar Weightman"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Peter Buldorini"
+    },
+    {
+      "id": "",
+      "name": "Philip Henning"
+    },
+    {
+      "id": "",
+      "name": "Preston Brown"
+    },
+    {
+      "id": "",
+      "name": "Robert Strombachs"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Semen Pankin"
+    },
+    {
+      "id": "",
+      "name": "Sidharth Rawat"
+    },
+    {
+      "id": "",
+      "name": "Stefan Vujic"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Thando Longwe-Smit"
+    },
+    {
+      "id": "",
+      "name": "Tuncay Duran"
+    },
+    {
+      "id": "",
+      "name": "Ty Host"
+    },
+    {
+      "id": "",
+      "name": "Yusuke Takahashi"
+    }
+  ]
+}

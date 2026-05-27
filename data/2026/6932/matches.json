@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/results",
   "tournament": {
     "id": "6932",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Rio Open presented by Claro",
     "location": "Rio de Janeiro, Brazil",
@@ -33,6 +35,8 @@
     "prizeMoney": "$2,469,450",
     "totalFinancialCommitment": "$2,486,125"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 43,
   "rankingDatesUsed": [
     "2026-02-09",

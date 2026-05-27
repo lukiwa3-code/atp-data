@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/draws",
   "tournament": {
     "id": "499",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Delray Beach Open",
     "location": "Delray Beach, United States",
@@ -33,6 +35,8 @@
     "prizeMoney": "$700,045",
     "totalFinancialCommitment": "$788,349"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 30,
   "rankingDatesUsed": [

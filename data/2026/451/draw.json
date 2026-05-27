@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/doha/451/2026/draws",
   "tournament": {
     "id": "451",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Qatar ExxonMobil Open",
     "location": "Doha, Qatar",
@@ -33,6 +35,8 @@
     "prizeMoney": "$2,833,335",
     "totalFinancialCommitment": "$3,116,195"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
   "rankingDatesUsed": [

@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rotterdam/407/2026/draws",
   "tournament": {
     "id": "407",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "ABN AMRO Open",
     "location": "Rotterdam, Netherlands",
@@ -33,6 +35,8 @@
     "prizeMoney": "€2,462,660",
     "totalFinancialCommitment": "€2,490,215"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
   "rankingDatesUsed": [

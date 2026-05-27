@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/acapulco/807/2026/results",
   "tournament": {
     "id": "807",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Abierto Mexicano Telcel presentado por HSBC",
     "location": "Acapulco, Mexico",
@@ -33,6 +35,8 @@
     "prizeMoney": "$2,469,450",
     "totalFinancialCommitment": "$2,486,125"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 42,
   "players": [
     {

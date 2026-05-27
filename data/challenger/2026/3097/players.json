@@ -1,0 +1,247 @@
+{
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "source": "https://www.atptour.com/en/scores/current-challenger/kosice/3097/results",
+  "tournament": {
+    "id": "3097",
+    "level": "challenger",
+    "levelName": "ATP Challenger",
+    "year": "2026",
+    "name": "Kosice Open 2026",
+    "location": "Kosice, Slovak Republic",
+    "date": "25 - 31 May, 2026",
+    "month": "May, 2026",
+    "dateStart": "2026-05-25",
+    "dateEnd": "2026-05-31",
+    "isLive": true,
+    "isPastEvent": false,
+    "isUpcoming": false,
+    "computedIsCurrent": true,
+    "computedIsPastEvent": false,
+    "computedIsUpcoming": false,
+    "atpIsLive": true,
+    "atpIsPastEvent": false,
+    "type": "CH",
+    "eventType": "CH",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/current-challenger/kosice/3097/results",
+    "drawsUrl": "/en/scores/current-challenger/kosice/3097/draws",
+    "scheduleUrl": "/en/scores/current-challenger/kosice/3097/daily-schedule",
+    "overviewUrl": "/en/tournaments/kosice/3097/overview",
+    "countryFlagUrl": "/-/media/images/flags/svk.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "56,700",
+    "totalFinancialCommitment": "56,700"
+  },
+  "level": "challenger",
+  "levelName": "ATP Challenger",
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(4/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Alafia Ayeni"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Braynin"
+    },
+    {
+      "id": "",
+      "name": "Andrej Martin"
+    },
+    {
+      "id": "",
+      "name": "Carlo Alberto Caniato"
+    },
+    {
+      "id": "",
+      "name": "Dali Blanch"
+    },
+    {
+      "id": "",
+      "name": "Daniele Rapagnetta"
+    },
+    {
+      "id": "",
+      "name": "David Poljak"
+    },
+    {
+      "id": "",
+      "name": "Dominic Stricker"
+    },
+    {
+      "id": "",
+      "name": "Dominik Macej"
+    },
+    {
+      "id": "",
+      "name": "Ethan Cook"
+    },
+    {
+      "id": "",
+      "name": "Federico Bondioli"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Georgii Kravchenko"
+    },
+    {
+      "id": "",
+      "name": "Gilles Arnaud Bailly"
+    },
+    {
+      "id": "",
+      "name": "Guido Ivan Justo"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Imanol Lopez Morillo"
+    },
+    {
+      "id": "",
+      "name": "Ivan Ivanov"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Jozef Kovalik"
+    },
+    {
+      "id": "",
+      "name": "Karim Bennani"
+    },
+    {
+      "id": "",
+      "name": "Kilian Feldbausch"
+    },
+    {
+      "id": "",
+      "name": "Lilian Marmousez"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Angelini"
+    },
+    {
+      "id": "",
+      "name": "Luca Wiedenmann"
+    },
+    {
+      "id": "",
+      "name": "Lukas Pokorny"
+    },
+    {
+      "id": "",
+      "name": "Maks Kasnikowski"
+    },
+    {
+      "id": "",
+      "name": "Marko Bekeni"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Michal Krajci"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Nathan Andre Halahija"
+    },
+    {
+      "id": "",
+      "name": "Norbert Gombos"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Pawel Juszczak"
+    },
+    {
+      "id": "",
+      "name": "Pedro Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Peter Fajta"
+    },
+    {
+      "id": "",
+      "name": "Peter Makk"
+    },
+    {
+      "id": "",
+      "name": "Radovan Michalik"
+    },
+    {
+      "id": "",
+      "name": "Rafael Izquierdo Luque"
+    },
+    {
+      "id": "",
+      "name": "Sandro Kopp"
+    },
+    {
+      "id": "",
+      "name": "Stefan Dostanic"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Theo Papamalamis"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Tomas Lanik"
+    },
+    {
+      "id": "",
+      "name": "Tomasz Berkieta"
+    }
+  ]
+}

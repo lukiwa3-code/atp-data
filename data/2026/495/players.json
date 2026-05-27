@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/dubai/495/2026/results",
   "tournament": {
     "id": "495",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Dubai Duty Free Tennis Championships",
     "location": "Dubai, United Arab Emirates",
@@ -33,6 +35,8 @@
     "prizeMoney": "$3,311,005",
     "totalFinancialCommitment": "$3,327,680"
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 41,
   "players": [
     {

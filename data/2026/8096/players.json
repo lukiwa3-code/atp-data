@@ -1,8 +1,10 @@
 {
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
   "source": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-results",
   "tournament": {
     "id": "8096",
+    "level": "atp",
+    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Davis Cup Qualifiers 1st Rd",
     "location": "Multiple Locations",
@@ -33,6 +35,8 @@
     "prizeMoney": null,
     "totalFinancialCommitment": null
   },
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 0,
   "players": []
 }

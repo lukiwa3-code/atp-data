@@ -1,10 +1,14 @@
 {
   "source": "https://www.atptour.com/en/-/tournaments/calendar/tour",
-  "generatedAt": "2026-05-27T16:01:34.679943+00:00",
+  "generatedAt": "2026-05-27T19:00:16.377820+00:00",
+  "level": "atp",
+  "levelName": "ATP Tour",
   "count": 64,
   "tournaments": [
     {
       "id": "9900",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "United Cup",
       "location": "Perth-Sydney, Australia",
@@ -37,6 +41,8 @@
     },
     {
       "id": "339",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Brisbane International presented by ANZ",
       "location": "Brisbane, Australia",
@@ -69,6 +75,8 @@
     },
     {
       "id": "336",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Bank of China Hong Kong Tennis Open",
       "location": "Hong Kong, Hong Kong",
@@ -101,6 +109,8 @@
     },
     {
       "id": "8998",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Adelaide International",
       "location": "Adelaide, Australia",
@@ -133,6 +143,8 @@
     },
     {
       "id": "301",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "ASB Classic",
       "location": "Auckland, New Zealand",
@@ -165,6 +177,8 @@
     },
     {
       "id": "580",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Australian Open",
       "location": "Melbourne, Australia",
@@ -197,6 +211,8 @@
     },
     {
       "id": "375",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Open Occitanie",
       "location": "Montpellier, France",
@@ -229,6 +245,8 @@
     },
     {
       "id": "8096",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Davis Cup Qualifiers 1st Rd",
       "location": "Multiple Locations",
@@ -261,6 +279,8 @@
     },
     {
       "id": "424",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Nexo Dallas Open",
       "location": "Dallas, United States",
@@ -293,6 +313,8 @@
     },
     {
       "id": "407",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "ABN AMRO Open",
       "location": "Rotterdam, Netherlands",
@@ -325,6 +347,8 @@
     },
     {
       "id": "506",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "IEB+ Argentina Open",
       "location": "Buenos Aires, Argentina",
@@ -357,6 +381,8 @@
     },
     {
       "id": "451",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Qatar ExxonMobil Open",
       "location": "Doha, Qatar",
@@ -389,6 +415,8 @@
     },
     {
       "id": "6932",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Rio Open presented by Claro",
       "location": "Rio de Janeiro, Brazil",
@@ -421,6 +449,8 @@
     },
     {
       "id": "499",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Delray Beach Open",
       "location": "Delray Beach, United States",
@@ -453,6 +483,8 @@
     },
     {
       "id": "495",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Dubai Duty Free Tennis Championships",
       "location": "Dubai, United Arab Emirates",
@@ -485,6 +517,8 @@
     },
     {
       "id": "807",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Abierto Mexicano Telcel presentado por HSBC",
       "location": "Acapulco, Mexico",
@@ -517,6 +551,8 @@
     },
     {
       "id": "8996",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "BCI Seguros Chile Open",
       "location": "Santiago, Chile",
@@ -549,6 +585,8 @@
     },
     {
       "id": "404",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "BNP Paribas Open",
       "location": "Indian Wells, United States",
@@ -581,6 +619,8 @@
     },
     {
       "id": "403",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Miami Open presented by Itau",
       "location": "Miami, United States",
@@ -613,6 +653,8 @@
     },
     {
       "id": "717",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
       "location": "Houston, United States",
@@ -645,6 +687,8 @@
     },
     {
       "id": "360",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Grand Prix Hassan II",
       "location": "Marrakech, Morocco",
@@ -677,6 +721,8 @@
     },
     {
       "id": "4462",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Tiriac Open presented by UniCredit Bank",
       "location": "Bucharest, Romania",
@@ -709,6 +755,8 @@
     },
     {
       "id": "410",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Rolex Monte-Carlo Masters",
       "location": "Monte-Carlo, Monaco",
@@ -741,6 +789,8 @@
     },
     {
       "id": "425",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Barcelona Open Banc Sabadell",
       "location": "Barcelona, Spain",
@@ -773,6 +823,8 @@
     },
     {
       "id": "308",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "BMW Open by Bitpanda",
       "location": "Munich, Germany",
@@ -805,6 +857,8 @@
     },
     {
       "id": "1536",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Mutua Madrid Open",
       "location": "Madrid, Spain",
@@ -837,6 +891,8 @@
     },
     {
       "id": "416",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Internazionali BNL d'Italia",
       "location": "Rome, Italy",
@@ -869,6 +925,8 @@
     },
     {
       "id": "414",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Bitpanda Hamburg Open",
       "location": "Hamburg, Germany",
@@ -901,6 +959,8 @@
     },
     {
       "id": "322",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Gonet Geneva Open",
       "location": "Geneva, Switzerland",
@@ -933,6 +993,8 @@
     },
     {
       "id": "520",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Roland Garros",
       "location": "Paris, France",
@@ -965,6 +1027,8 @@
     },
     {
       "id": "321",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "BOSS OPEN",
       "location": "Stuttgart, Germany",
@@ -997,6 +1061,8 @@
     },
     {
       "id": "440",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Libema Open",
       "location": "'s-Hertogenbosch, Netherlands",
@@ -1029,6 +1095,8 @@
     },
     {
       "id": "311",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "HSBC Championships",
       "location": "London, Great Britain",
@@ -1061,6 +1129,8 @@
     },
     {
       "id": "500",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Terra Wortmann Open",
       "location": "Halle, Germany",
@@ -1093,6 +1163,8 @@
     },
     {
       "id": "8994",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Vanda Pharmaceuticals Mallorca Championships",
       "location": "Mallorca, Spain",
@@ -1125,6 +1197,8 @@
     },
     {
       "id": "741",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Lexus Eastbourne Open",
       "location": "Eastbourne, Great Britain",
@@ -1157,6 +1231,8 @@
     },
     {
       "id": "540",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Wimbledon",
       "location": "London, Great Britain",
@@ -1189,6 +1265,8 @@
     },
     {
       "id": "316",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Nordea Open",
       "location": "Bastad, Sweden",
@@ -1221,6 +1299,8 @@
     },
     {
       "id": "314",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "EFG Swiss Open Gstaad",
       "location": "Gstaad, Switzerland",
@@ -1253,6 +1333,8 @@
     },
     {
       "id": "439",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Plava Laguna Croatia Open Umag",
       "location": "Umag, Croatia",
@@ -1285,6 +1367,8 @@
     },
     {
       "id": "319",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Generali Open",
       "location": "Kitzbuhel, Austria",
@@ -1317,6 +1401,8 @@
     },
     {
       "id": "7290",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Millennium Estoril Open",
       "location": "Estoril, Portugal",
@@ -1349,6 +1435,8 @@
     },
     {
       "id": "418",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Mubadala Citi DC Open",
       "location": "Washington, United States",
@@ -1381,6 +1469,8 @@
     },
     {
       "id": "7480",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Mifel Tennis Open by Telcel Oppo",
       "location": "Los Cabos, Mexico",
@@ -1413,6 +1503,8 @@
     },
     {
       "id": "421",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "National Bank Open presented by Rogers",
       "location": "Montreal, Canada",
@@ -1445,6 +1537,8 @@
     },
     {
       "id": "422",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Cincinnati Open",
       "location": "Cincinnati, United States",
@@ -1477,6 +1571,8 @@
     },
     {
       "id": "6242",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Winston-Salem Open",
       "location": "Winston-Salem, United States",
@@ -1509,6 +1605,8 @@
     },
     {
       "id": "560",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "US Open",
       "location": "New York, United States",
@@ -1541,6 +1639,8 @@
     },
     {
       "id": "8097",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Davis Cup Qualifiers 2nd Rd",
       "location": "Multiple Locations",
@@ -1573,6 +1673,8 @@
     },
     {
       "id": "7581",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Chengdu Open",
       "location": "Chengdu, China",
@@ -1605,6 +1707,8 @@
     },
     {
       "id": "4713",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Lynk & Co Hangzhou Open",
       "location": "Hangzhou, China",
@@ -1637,6 +1741,8 @@
     },
     {
       "id": "9210",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Laver Cup",
       "location": "London, Great Britain",
@@ -1669,6 +1775,8 @@
     },
     {
       "id": "747",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "China Open",
       "location": "Beijing, China",
@@ -1701,6 +1809,8 @@
     },
     {
       "id": "329",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Kinoshita Group Japan Open Tennis Championships",
       "location": "Tokyo, Japan",
@@ -1733,6 +1843,8 @@
     },
     {
       "id": "5014",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Rolex Shanghai Masters",
       "location": "Shanghai, China",
@@ -1765,6 +1877,8 @@
     },
     {
       "id": "9410",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Almaty Open",
       "location": "Almaty, Kazakhstan",
@@ -1797,6 +1911,8 @@
     },
     {
       "id": "496",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Grand Prix Auvergne-Rhone-Alpes",
       "location": "Lyon, France",
@@ -1829,6 +1945,8 @@
     },
     {
       "id": "7485",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "BNP Paribas Fortis European Open",
       "location": "Brussels, Belgium",
@@ -1861,6 +1979,8 @@
     },
     {
       "id": "337",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Erste Bank Open",
       "location": "Vienna, Austria",
@@ -1893,6 +2013,8 @@
     },
     {
       "id": "328",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Swiss Indoors Basel",
       "location": "Basel, Switzerland",
@@ -1925,6 +2047,8 @@
     },
     {
       "id": "352",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Rolex Paris Masters",
       "location": "Paris, France",
@@ -1957,6 +2081,8 @@
     },
     {
       "id": "429",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Bybit Stockholm Open",
       "location": "Stockholm, Sweden",
@@ -1989,6 +2115,8 @@
     },
     {
       "id": "605",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Nitto ATP Finals",
       "location": "Turin, Italy",
@@ -2021,6 +2149,8 @@
     },
     {
       "id": "8099",
+      "level": "atp",
+      "levelName": "ATP Tour",
       "year": "2026",
       "name": "Davis Cup Finals",
       "location": "Bologna, Italy",
