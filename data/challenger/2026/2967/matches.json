@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T20:26:08.862416+00:00",
+  "generatedAt": "2026-05-28T04:15:26.870628+00:00",
   "source": "https://www.atptour.com/en/scores/archive/brisbane/2967/2026/results",
   "tournament": {
     "id": "2967",
@@ -1063,14 +1063,14 @@
       "opponentCountry": "JPN"
     },
     {
-      "matchId": "RES-D06F3A8A3C",
+      "matchId": "RES-3F3DD4A389",
       "date": "Mon, 02 February, 2026",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
       "playerName": "Pavle Marinkov",
       "opponentId": "",
-      "opponentName": "Nikita Bilozertsev",
+      "opponentName": "Nikita Belozertsev",
       "winnerPlayerId": "",
       "winnerName": "Pavle Marinkov",
       "isPlayerWinner": true,
@@ -1084,7 +1084,13 @@
       "playerRankingDate": "2026-02-02",
       "playerRankingName": "Pavle Marinkov",
       "playerRankingPlayerId": "M0TE",
-      "playerCountry": "AUS"
+      "playerCountry": "AUS",
+      "opponentRank": 805,
+      "opponentRankingPoints": 33,
+      "opponentRankingDate": "2026-02-02",
+      "opponentRankingName": "Nikita Belozertsev",
+      "opponentRankingPlayerId": "B0V0",
+      "opponentCountry": "UZB"
     },
     {
       "matchId": "RES-1DEA145F0A",
@@ -1273,21 +1279,21 @@
       "bracketOrder": 7
     },
     {
-      "matchId": "RES-9608CF8860",
+      "matchId": "RES-77C015E0C0",
       "date": "Sun, 01 February, 2026",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
-      "playerName": "Nikita Bilozertsev",
+      "playerName": "Nikita Belozertsev",
       "opponentId": "",
       "opponentName": "Duje Markovina",
       "winnerPlayerId": "",
-      "winnerName": "Nikita Bilozertsev",
+      "winnerName": "Nikita Belozertsev",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "6-2 6-1",
-      "sourceText": "Game Set and Match Nikita Bilozertsev. Nikita Bilozertsev wins the match 6-2 6-1 .",
+      "sourceText": "Game Set and Match Nikita Belozertsev. Nikita Belozertsev wins the match 6-2 6-1 .",
       "bracketOrder": 8
     },
     {
