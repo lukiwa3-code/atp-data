@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T10:17:11.278765+00:00",
+  "generatedAt": "2026-05-28T16:16:33.783264+00:00",
   "level": "challenger",
   "levelName": "ATP Challenger",
   "count": 106,
@@ -1854,7 +1854,7 @@
       "id": "2993",
       "name": "Moldova Open",
       "players": 49,
-      "matches": 37,
+      "matches": 41,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
@@ -1892,7 +1892,7 @@
       "id": "7015",
       "name": "Internazionali Di Tennis - Citta'Di Vicenza",
       "players": 50,
-      "matches": 37,
+      "matches": 40,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
@@ -1911,7 +1911,7 @@
       "id": "3087",
       "name": "RISE IRENE OPEN",
       "players": 50,
-      "matches": 39,
+      "matches": 42,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
@@ -1930,7 +1930,7 @@
       "id": "3097",
       "name": "Kosice Open 2026",
       "players": 51,
-      "matches": 39,
+      "matches": 42,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T10:17:11.278765+00:00",
+  "generatedAt": "2026-05-28T16:16:33.783264+00:00",
   "count": 136,
   "items": [
     {
@@ -82,12 +82,11 @@
       "year": "2026",
       "id": "301",
       "name": "ASB Classic",
-      "players": 40,
+      "players": 0,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
-        "2026-01-05",
         "2026-01-12"
       ],
       "matchesPath": "data/2026/301/matches.json",
@@ -547,8 +546,8 @@
       "year": "2026",
       "id": "520",
       "name": "Roland Garros",
-      "players": 230,
-      "matches": 168,
+      "players": 231,
+      "matches": 176,
       "drawRounds": 7,
       "drawMatches": 127,
       "rankingDatesUsed": [
@@ -2410,7 +2409,7 @@
       "id": "2993",
       "name": "Moldova Open",
       "players": 49,
-      "matches": 37,
+      "matches": 41,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
@@ -2448,7 +2447,7 @@
       "id": "7015",
       "name": "Internazionali Di Tennis - Citta'Di Vicenza",
       "players": 50,
-      "matches": 37,
+      "matches": 40,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
@@ -2467,7 +2466,7 @@
       "id": "3087",
       "name": "RISE IRENE OPEN",
       "players": 50,
-      "matches": 39,
+      "matches": 42,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
@@ -2486,7 +2485,7 @@
       "id": "3097",
       "name": "Kosice Open 2026",
       "players": 51,
-      "matches": 39,
+      "matches": 42,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
