@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T04:15:26.870628+00:00",
+  "generatedAt": "2026-05-28T10:17:11.278765+00:00",
   "source": "https://www.atptour.com/en/scores/current-challenger/centurion-1/3087/draws",
   "tournament": {
     "id": "3087",
@@ -180,13 +180,18 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "R. Strombachs",
+          "player2FullName": "Robert Strombachs",
+          "player2Id": "S0GV",
+          "player2Country": "LAT",
           "player2ScoreTokens": [],
           "winnerName": "",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player2Rank": 476,
+          "player2RankingPoints": 96,
+          "player2RankingDate": "2026-05-25",
+          "player2RankingName": "Robert Strombachs",
+          "player2RankingPlayerId": "S0GV"
         },
         {
           "bracketOrder": 4,
@@ -382,14 +387,20 @@
           "player1FullName": "Guillaume Dalmasso",
           "player1Id": "D0K3",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "2",
+            "3"
+          ],
           "player2": "R. Strombachs",
           "player2FullName": "Robert Strombachs",
           "player2Id": "S0GV",
           "player2Country": "LAT",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": "",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Robert Strombachs",
+          "formattedScore": "6-2 6-3",
           "player1Rank": 708,
           "player1RankingPoints": 45,
           "player1RankingDate": "2026-05-25",

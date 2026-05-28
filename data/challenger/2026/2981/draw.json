@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T04:15:26.870628+00:00",
+  "generatedAt": "2026-05-28T10:17:11.278765+00:00",
   "source": "https://www.atptour.com/en/scores/archive/cordoba/2981/2026/draws",
   "tournament": {
     "id": "2981",
@@ -39,7 +39,9 @@
   "levelName": "ATP Challenger",
   "countRounds": 5,
   "countMatches": 31,
-  "rankingDatesUsed": [],
+  "rankingDatesUsed": [
+    "2026-05-04"
+  ],
   "rounds": [
     {
       "round": "F",

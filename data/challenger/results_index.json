@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T04:15:26.870628+00:00",
+  "generatedAt": "2026-05-28T10:17:11.278765+00:00",
   "level": "challenger",
   "levelName": "ATP Challenger",
   "count": 106,
@@ -1573,7 +1573,7 @@
       "year": "2026",
       "id": "7009",
       "name": "Open Aix Provence Crédit Agricole",
-      "players": 0,
+      "players": 39,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -1731,11 +1731,13 @@
       "year": "2026",
       "id": "2981",
       "name": "AAT Challenger IEB+ Edicion Córdoba",
-      "players": 0,
+      "players": 48,
       "matches": 47,
       "drawRounds": 5,
       "drawMatches": 31,
-      "rankingDatesUsed": [],
+      "rankingDatesUsed": [
+        "2026-05-04"
+      ],
       "matchesPath": "data/challenger/2026/2981/matches.json",
       "drawPath": "data/challenger/2026/2981/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/cordoba/2981/2026/results",
@@ -1909,7 +1911,7 @@
       "id": "3087",
       "name": "RISE IRENE OPEN",
       "players": 50,
-      "matches": 38,
+      "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
@@ -1928,7 +1930,7 @@
       "id": "3097",
       "name": "Kosice Open 2026",
       "players": 51,
-      "matches": 38,
+      "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T04:15:26.870628+00:00",
+  "generatedAt": "2026-05-28T10:17:11.278765+00:00",
   "source": "https://www.atptour.com/en/scores/current-challenger/kosice/3097/draws",
   "tournament": {
     "id": "3097",
@@ -180,13 +180,18 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "P. Fajta",
+          "player2FullName": "Peter Fajta",
+          "player2Id": "F0DP",
+          "player2Country": "HUN",
           "player2ScoreTokens": [],
           "winnerName": "",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player2Rank": 567,
+          "player2RankingPoints": 69,
+          "player2RankingDate": "2026-05-25",
+          "player2RankingName": "Peter Fajta",
+          "player2RankingPlayerId": "F0DP"
         },
         {
           "bracketOrder": 4,
@@ -384,14 +389,20 @@
           "player1FullName": "Peter Fajta",
           "player1Id": "F0DP",
           "player1Country": "HUN",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
           "player2": "F. Roncadelli",
           "player2FullName": "Franco Roncadelli",
           "player2Id": "R0BT",
           "player2Country": "URU",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": "",
+          "player2ScoreTokens": [
+            "5",
+            "2"
+          ],
+          "winnerName": "Peter Fajta",
+          "formattedScore": "7-5 6-2",
           "player1Rank": 567,
           "player1RankingPoints": 69,
           "player1RankingDate": "2026-05-25",
