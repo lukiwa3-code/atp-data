@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T16:16:33.783264+00:00",
+  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
   "source": "https://www.atptour.com/en/scores/archive/auckland/301/2026/draws",
   "tournament": {
     "id": "301",
@@ -40,6 +40,7 @@
   "countRounds": 5,
   "countMatches": 31,
   "rankingDatesUsed": [
+    "2026-01-05",
     "2026-01-12"
   ],
   "rounds": [

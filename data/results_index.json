@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T16:16:33.783264+00:00",
+  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
   "level": "atp",
   "levelName": "ATP Tour",
   "count": 30,
@@ -84,11 +84,12 @@
       "year": "2026",
       "id": "301",
       "name": "ASB Classic",
-      "players": 0,
+      "players": 40,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
+        "2026-01-05",
         "2026-01-12"
       ],
       "matchesPath": "data/2026/301/matches.json",
@@ -548,8 +549,8 @@
       "year": "2026",
       "id": "520",
       "name": "Roland Garros",
-      "players": 231,
-      "matches": 176,
+      "players": 232,
+      "matches": 180,
       "drawRounds": 7,
       "drawMatches": 127,
       "rankingDatesUsed": [

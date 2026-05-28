@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T16:16:33.783264+00:00",
+  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
   "source": "https://www.atptour.com/en/scores/current-challenger/little-rock/9188/draws",
   "tournament": {
     "id": "9188",
@@ -197,13 +197,18 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "J. Boulais",
+          "player2FullName": "Justin Boulais",
+          "player2Id": "B0F8",
+          "player2Country": "CAN",
           "player2ScoreTokens": [],
           "winnerName": "",
-          "formattedScore": ""
+          "formattedScore": "",
+          "player2Rank": 423,
+          "player2RankingPoints": 111,
+          "player2RankingDate": "2026-05-25",
+          "player2RankingName": "Justin Boulais",
+          "player2RankingPlayerId": "B0F8"
         }
       ]
     },
@@ -436,14 +441,20 @@
           "player1FullName": "Justin Boulais",
           "player1Id": "B0F8",
           "player1Country": "CAN",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
           "player2": "N. Mejia",
           "player2FullName": "Nicolas Mejia",
           "player2Id": "M0AW",
           "player2Country": "COL",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": "",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Justin Boulais",
+          "formattedScore": "6-4 6-4",
           "player1Rank": 423,
           "player1RankingPoints": 111,
           "player1RankingDate": "2026-05-25",

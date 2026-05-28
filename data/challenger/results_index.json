@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T16:16:33.783264+00:00",
+  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
   "level": "challenger",
   "levelName": "ATP Challenger",
   "count": 106,
@@ -1573,7 +1573,7 @@
       "year": "2026",
       "id": "7009",
       "name": "Open Aix Provence Crédit Agricole",
-      "players": 39,
+      "players": 0,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -1731,13 +1731,11 @@
       "year": "2026",
       "id": "2981",
       "name": "AAT Challenger IEB+ Edicion Córdoba",
-      "players": 48,
+      "players": 0,
       "matches": 47,
       "drawRounds": 5,
       "drawMatches": 31,
-      "rankingDatesUsed": [
-        "2026-05-04"
-      ],
+      "rankingDatesUsed": [],
       "matchesPath": "data/challenger/2026/2981/matches.json",
       "drawPath": "data/challenger/2026/2981/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/cordoba/2981/2026/results",
@@ -1855,8 +1853,8 @@
       "name": "Moldova Open",
       "players": 49,
       "matches": 41,
-      "drawRounds": 5,
-      "drawMatches": 31,
+      "drawRounds": 2,
+      "drawMatches": 18,
       "rankingDatesUsed": [
         "2026-05-18",
         "2026-05-25"
@@ -1873,7 +1871,7 @@
       "id": "9188",
       "name": "UAMS Health Little Rock Open",
       "players": 48,
-      "matches": 38,
+      "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
@@ -1892,7 +1890,7 @@
       "id": "7015",
       "name": "Internazionali Di Tennis - Citta'Di Vicenza",
       "players": 50,
-      "matches": 40,
+      "matches": 41,
       "drawRounds": 5,
       "drawMatches": 31,
       "rankingDatesUsed": [
