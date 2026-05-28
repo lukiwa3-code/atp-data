@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/results",
   "tournament": {
     "id": "336",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Bank of China Hong Kong Tennis Open",
     "location": "Hong Kong, Hong Kong",
     "date": "5 - 11 January, 2026",
     "month": "January, 2026",
-    "dateStart": "2026-01-05",
-    "dateEnd": "2026-01-11",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Hard",
@@ -35,8 +25,6 @@
     "prizeMoney": "$700,045",
     "totalFinancialCommitment": "$788,349"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "count": 40,
   "players": [
     {

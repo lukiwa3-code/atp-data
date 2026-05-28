@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "jacopovasami",
+    "name": "Jacopo Vasami",
+    "displayName": "Jacopo Vasami",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 04 May, 2026",
+      "dateIso": "2026-05-04",
+      "tournamentId": "416",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali BNL d'Italia",
+      "tournamentType": "1000",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-4",
+      "matchId": "RES-462177E053",
+      "reason": null,
+      "playerName": "Jacopo Vasami",
+      "opponentName": "Tomas Barrios Vera",
+      "opponentKey": "tomasbarriosvera",
+      "result": "L",
+      "playerRank": 464,
+      "opponentRank": 134,
+      "rankingDate": "2026-05-04",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

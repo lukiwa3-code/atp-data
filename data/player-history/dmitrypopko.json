@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "dmitrypopko",
+    "name": "Dmitry Popko",
+    "displayName": "Dmitry Popko",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Tue, 13 January, 2026",
+      "dateIso": "2026-01-13",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-7(4) 6-4 7-5",
+      "matchId": "RES-5CBA0D4CA9",
+      "reason": null,
+      "playerName": "Dmitry Popko",
+      "opponentName": "Mackenzie McDonald",
+      "opponentKey": "mackenziemcdonald",
+      "result": "L",
+      "playerRank": 222,
+      "opponentRank": 113,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "danielevans",
+    "name": "Daniel Evans",
+    "displayName": "Daniel Evans",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Mon, 18 May, 2026",
+      "dateIso": "2026-05-18",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-C3626895B1",
+      "reason": null,
+      "playerName": "Daniel Evans",
+      "opponentName": "Daniel Jade",
+      "opponentKey": "danieljade",
+      "result": "L",
+      "playerRank": 211,
+      "opponentRank": 1447,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-2",
+      "matchId": "RES-335420DB62",
+      "reason": null,
+      "playerName": "Daniel Evans",
+      "opponentName": "Rei Sakamoto",
+      "opponentKey": "reisakamoto",
+      "result": "L",
+      "playerRank": 187,
+      "opponentRank": 202,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "mikapetkovic",
+    "name": "Mika Petkovic",
+    "displayName": "Mika Petkovic",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 16 May, 2026",
+      "dateIso": "2026-05-16",
+      "tournamentId": "414",
+      "tournamentYear": "2026",
+      "tournamentName": "Bitpanda Hamburg Open",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(5) 6-3",
+      "matchId": "RES-6BA6B17A7C",
+      "reason": null,
+      "playerName": "Mika Petkovic",
+      "opponentName": "Arthur Gea",
+      "opponentKey": "arthurgea",
+      "result": "L",
+      "playerRank": 547,
+      "opponentRank": 135,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

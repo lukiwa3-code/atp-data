@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/draws",
   "tournament": {
     "id": "425",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Barcelona Open Banc Sabadell",
     "location": "Barcelona, Spain",
     "date": "13 - 19 April, 2026",
     "month": "April, 2026",
-    "dateStart": "2026-04-13",
-    "dateEnd": "2026-04-19",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "500",
     "eventType": "Tour",
     "surface": "Clay",
@@ -35,14 +25,8 @@
     "prizeMoney": "€2,950,310",
     "totalFinancialCommitment": "€2,977,865"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
-  "rankingDatesUsed": [
-    "2026-04-06",
-    "2026-04-13"
-  ],
   "rounds": [
     {
       "round": "F",
@@ -71,17 +55,7 @@
             "7"
           ],
           "winnerName": "Arthur Fils",
-          "formattedScore": "6-2 7-6(2)",
-          "player1Rank": 15,
-          "player1RankingPoints": 2350,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Andrey Rublev",
-          "player1RankingPlayerId": "RE44",
-          "player2Rank": 30,
-          "player2RankingPoints": 1440,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Arthur Fils",
-          "player2RankingPlayerId": "F0F1"
+          "formattedScore": "6-2 7-6(2)"
         }
       ]
     },
@@ -114,17 +88,7 @@
             "2"
           ],
           "winnerName": "Andrey Rublev",
-          "formattedScore": "3-6 6-2 6-2",
-          "player1Rank": 15,
-          "player1RankingPoints": 2350,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Andrey Rublev",
-          "player1RankingPlayerId": "RE44",
-          "player2Rank": 88,
-          "player2RankingPoints": 664,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Hamad Medjedovic",
-          "player2RankingPlayerId": "M0JF"
+          "formattedScore": "3-6 6-2 6-2"
         },
         {
           "bracketOrder": 2,
@@ -149,17 +113,7 @@
             "6"
           ],
           "winnerName": "Arthur Fils",
-          "formattedScore": "3-6 6-3 6-2",
-          "player1Rank": 55,
-          "player1RankingPoints": 886,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Rafael Jodar",
-          "player1RankingPlayerId": "J0DZ",
-          "player2Rank": 30,
-          "player2RankingPoints": 1440,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Arthur Fils",
-          "player2RankingPlayerId": "F0F1"
+          "formattedScore": "3-6 6-3 6-2"
         }
       ]
     },
@@ -190,17 +144,7 @@
             "6"
           ],
           "winnerName": "Andrey Rublev",
-          "formattedScore": "6-4 6-3",
-          "player1Rank": 47,
-          "player1RankingPoints": 980,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Tomas Machac",
-          "player1RankingPlayerId": "M0FH",
-          "player2Rank": 15,
-          "player2RankingPoints": 2350,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Andrey Rublev",
-          "player2RankingPlayerId": "RE44"
+          "formattedScore": "6-4 6-3"
         },
         {
           "bracketOrder": 2,
@@ -223,17 +167,7 @@
             "2"
           ],
           "winnerName": "Hamad Medjedovic",
-          "formattedScore": "7-6(6) 6-2",
-          "player1Rank": 88,
-          "player1RankingPoints": 664,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Hamad Medjedovic",
-          "player1RankingPlayerId": "M0JF",
-          "player2Rank": 52,
-          "player2RankingPoints": 895,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Nuno Borges",
-          "player2RankingPlayerId": "BT72"
+          "formattedScore": "7-6(6) 6-2"
         },
         {
           "bracketOrder": 3,
@@ -256,17 +190,7 @@
             "6"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6-3 6-2",
-          "player1Rank": 24,
-          "player1RankingPoints": 1778,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Cameron Norrie",
-          "player1RankingPlayerId": "N771",
-          "player2Rank": 55,
-          "player2RankingPoints": 886,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Rafael Jodar",
-          "player2RankingPlayerId": "J0DZ"
+          "formattedScore": "6-3 6-2"
         },
         {
           "bracketOrder": 4,
@@ -289,17 +213,7 @@
             "4"
           ],
           "winnerName": "Arthur Fils",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 30,
-          "player1RankingPoints": 1440,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Arthur Fils",
-          "player1RankingPlayerId": "F0F1",
-          "player2Rank": 9,
-          "player2RankingPoints": 3625,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Lorenzo Musetti",
-          "player2RankingPlayerId": "M0EJ"
+          "formattedScore": "6-3 6-4"
         }
       ]
     },
@@ -324,17 +238,7 @@
           "player2Country": "CZE",
           "player2ScoreTokens": [],
           "winnerName": "Tomas Machac",
-          "formattedScore": "",
-          "player1Rank": 2,
-          "player1RankingPoints": 13240,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Carlos Alcaraz",
-          "player1RankingPlayerId": "A0E2",
-          "player2Rank": 47,
-          "player2RankingPoints": 980,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Tomas Machac",
-          "player2RankingPlayerId": "M0FH"
+          "formattedScore": ""
         },
         {
           "bracketOrder": 2,
@@ -357,17 +261,7 @@
             "6"
           ],
           "winnerName": "Andrey Rublev",
-          "formattedScore": "6-2 6-3",
-          "player1Rank": 66,
-          "player1RankingPoints": 810,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Lorenzo Sonego",
-          "player1RankingPlayerId": "SU87",
-          "player2Rank": 15,
-          "player2RankingPoints": 2350,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Andrey Rublev",
-          "player2RankingPlayerId": "RE44"
+          "formattedScore": "6-2 6-3"
         },
         {
           "bracketOrder": 3,
@@ -390,17 +284,7 @@
             "6"
           ],
           "winnerName": "Hamad Medjedovic",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 7,
-          "player1RankingPoints": 3895,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Alex de Minaur",
-          "player1RankingPlayerId": "DH58",
-          "player2Rank": 88,
-          "player2RankingPoints": 664,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Hamad Medjedovic",
-          "player2RankingPlayerId": "M0JF"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 4,
@@ -423,17 +307,7 @@
             "6 4"
           ],
           "winnerName": "Nuno Borges",
-          "formattedScore": "6-3 7-6(4)",
-          "player1Rank": 52,
-          "player1RankingPoints": 895,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Nuno Borges",
-          "player1RankingPlayerId": "BT72",
-          "player2Rank": 29,
-          "player2RankingPoints": 1590,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Tomas Martin Etcheverry",
-          "player2RankingPlayerId": "EA24"
+          "formattedScore": "6-3 7-6(4)"
         },
         {
           "bracketOrder": 5,
@@ -458,17 +332,7 @@
             "4"
           ],
           "winnerName": "Cameron Norrie",
-          "formattedScore": "6-3 4-6 6-4",
-          "player1Rank": 24,
-          "player1RankingPoints": 1778,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Cameron Norrie",
-          "player1RankingPlayerId": "N771",
-          "player2Rank": 50,
-          "player2RankingPoints": 927,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Ethan Quinn",
-          "player2RankingPlayerId": "Q02L"
+          "formattedScore": "6-3 4-6 6-4"
         },
         {
           "bracketOrder": 6,
@@ -491,17 +355,7 @@
             "3"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6-3 6-3",
-          "player1Rank": 55,
-          "player1RankingPoints": 886,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Rafael Jodar",
-          "player1RankingPlayerId": "J0DZ",
-          "player2Rank": 64,
-          "player2RankingPoints": 825,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Camilo Ugo Carabelli",
-          "player2RankingPlayerId": "U182"
+          "formattedScore": "6-3 6-3"
         },
         {
           "bracketOrder": 7,
@@ -524,17 +378,7 @@
             "3"
           ],
           "winnerName": "Arthur Fils",
-          "formattedScore": "6-2 6-3",
-          "player1Rank": 30,
-          "player1RankingPoints": 1440,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Arthur Fils",
-          "player1RankingPlayerId": "F0F1",
-          "player2Rank": 33,
-          "player2RankingPoints": 1385,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Brandon Nakashima",
-          "player2RankingPlayerId": "N0AE"
+          "formattedScore": "6-2 6-3"
         },
         {
           "bracketOrder": 8,
@@ -557,17 +401,7 @@
             "6"
           ],
           "winnerName": "Lorenzo Musetti",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 31,
-          "player1RankingPoints": 1433,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Corentin Moutet",
-          "player1RankingPlayerId": "MW02",
-          "player2Rank": 9,
-          "player2RankingPoints": 3625,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Lorenzo Musetti",
-          "player2RankingPlayerId": "M0EJ"
+          "formattedScore": "6-3 6-4"
         }
       ]
     },
@@ -598,17 +432,7 @@
             "2"
           ],
           "winnerName": "Carlos Alcaraz",
-          "formattedScore": "6-4 6-2",
-          "player1Rank": 2,
-          "player1RankingPoints": 13240,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Carlos Alcaraz",
-          "player1RankingPlayerId": "A0E2",
-          "player2Rank": 130,
-          "player2RankingPoints": 487,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Otto Virtanen",
-          "player2RankingPlayerId": "V0AM"
+          "formattedScore": "6-4 6-2"
         },
         {
           "bracketOrder": 2,
@@ -633,17 +457,7 @@
             "1"
           ],
           "winnerName": "Tomas Machac",
-          "formattedScore": "2-6 6-4 6-1",
-          "player1Rank": 47,
-          "player1RankingPoints": 980,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Tomas Machac",
-          "player1RankingPlayerId": "M0FH",
-          "player2Rank": 57,
-          "player2RankingPoints": 880,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Sebastian Baez",
-          "player2RankingPlayerId": "B0BI"
+          "formattedScore": "2-6 6-4 6-1"
         },
         {
           "bracketOrder": 3,
@@ -668,17 +482,7 @@
             "6"
           ],
           "winnerName": "Lorenzo Sonego",
-          "formattedScore": "6-2 2-6 6-4",
-          "player1Rank": 125,
-          "player1RankingPoints": 496,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Pedro Martinez",
-          "player1RankingPlayerId": "MO44",
-          "player2Rank": 66,
-          "player2RankingPoints": 810,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Lorenzo Sonego",
-          "player2RankingPlayerId": "SU87"
+          "formattedScore": "6-2 2-6 6-4"
         },
         {
           "bracketOrder": 4,
@@ -701,17 +505,7 @@
             "7"
           ],
           "winnerName": "Andrey Rublev",
-          "formattedScore": "6-4 7-5",
-          "player1Rank": 44,
-          "player1RankingPoints": 1085,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Mariano Navone",
-          "player1RankingPlayerId": "N0BS",
-          "player2Rank": 15,
-          "player2RankingPoints": 2350,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Andrey Rublev",
-          "player2RankingPlayerId": "RE44"
+          "formattedScore": "6-4 7-5"
         },
         {
           "bracketOrder": 5,
@@ -734,17 +528,7 @@
             "4"
           ],
           "winnerName": "Alex De Minaur",
-          "formattedScore": "7-6(7) 6-4",
-          "player1Rank": 7,
-          "player1RankingPoints": 3895,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Alex de Minaur",
-          "player1RankingPlayerId": "DH58",
-          "player2Rank": 86,
-          "player2RankingPoints": 673,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Sebastian Ofner",
-          "player2RankingPlayerId": "O513"
+          "formattedScore": "7-6(7) 6-4"
         },
         {
           "bracketOrder": 6,
@@ -767,17 +551,7 @@
             "6"
           ],
           "winnerName": "Hamad Medjedovic",
-          "formattedScore": "7-5 6-4",
-          "player1Rank": 80,
-          "player1RankingPoints": 732,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Marco Trungelliti",
-          "player1RankingPlayerId": "TA29",
-          "player2Rank": 88,
-          "player2RankingPoints": 664,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Hamad Medjedovic",
-          "player2RankingPlayerId": "M0JF"
+          "formattedScore": "7-5 6-4"
         },
         {
           "bracketOrder": 7,
@@ -800,17 +574,7 @@
             "4"
           ],
           "winnerName": "Nuno Borges",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 52,
-          "player1RankingPoints": 895,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Nuno Borges",
-          "player1RankingPlayerId": "BT72",
-          "player2Rank": 46,
-          "player2RankingPoints": 1025,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Adrian Mannarino",
-          "player2RankingPlayerId": "ME82"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 8,
@@ -835,17 +599,7 @@
             "1"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "3 6 4",
-          "player1Rank": 29,
-          "player1RankingPoints": 1590,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Tomas Martin Etcheverry",
-          "player1RankingPlayerId": "EA24",
-          "player2Rank": 28,
-          "player2RankingPoints": 1610,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Jack Draper",
-          "player2RankingPlayerId": "D0CO"
+          "formattedScore": "3 6 4"
         },
         {
           "bracketOrder": 9,
@@ -870,17 +624,7 @@
             "4"
           ],
           "winnerName": "Cameron Norrie",
-          "formattedScore": "6-4 6-7(5) 6-4",
-          "player1Rank": 24,
-          "player1RankingPoints": 1778,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Cameron Norrie",
-          "player1RankingPlayerId": "N771",
-          "player2Rank": 107,
-          "player2RankingPoints": 608,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Stan Wawrinka",
-          "player2RankingPlayerId": "W367"
+          "formattedScore": "6-4 6-7(5) 6-4"
         },
         {
           "bracketOrder": 10,
@@ -903,17 +647,7 @@
             "7"
           ],
           "winnerName": "Ethan Quinn",
-          "formattedScore": "7-5 7-6(7)",
-          "player1Rank": 68,
-          "player1RankingPoints": 803,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Reilly Opelka",
-          "player1RankingPlayerId": "O522",
-          "player2Rank": 50,
-          "player2RankingPoints": 927,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Ethan Quinn",
-          "player2RankingPlayerId": "Q02L"
+          "formattedScore": "7-5 7-6(7)"
         },
         {
           "bracketOrder": 11,
@@ -936,17 +670,7 @@
             "6"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6-1 6-2",
-          "player1Rank": 38,
-          "player1RankingPoints": 1175,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Jaume Munar",
-          "player1RankingPlayerId": "MU94",
-          "player2Rank": 55,
-          "player2RankingPoints": 886,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Rafael Jodar",
-          "player2RankingPlayerId": "J0DZ"
+          "formattedScore": "6-1 6-2"
         },
         {
           "bracketOrder": 12,
@@ -969,17 +693,7 @@
             "4"
           ],
           "winnerName": "Camilo Ugo Carabelli",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 64,
-          "player1RankingPoints": 825,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Camilo Ugo Carabelli",
-          "player1RankingPlayerId": "U182",
-          "player2Rank": 14,
-          "player2RankingPoints": 2410,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Karen Khachanov",
-          "player2RankingPlayerId": "KE29"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 13,
@@ -1004,17 +718,7 @@
             "6 7"
           ],
           "winnerName": "Arthur Fils",
-          "formattedScore": "4-6 6-4 7-6(7)",
-          "player1Rank": 30,
-          "player1RankingPoints": 1440,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Arthur Fils",
-          "player1RankingPlayerId": "F0F1",
-          "player2Rank": 41,
-          "player2RankingPoints": 1108,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Terence Atmane",
-          "player2RankingPlayerId": "A0GC"
+          "formattedScore": "4-6 6-4 7-6(7)"
         },
         {
           "bracketOrder": 14,
@@ -1037,17 +741,7 @@
             "5"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "6-3 7-5",
-          "player1Rank": 33,
-          "player1RankingPoints": 1385,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Brandon Nakashima",
-          "player1RankingPlayerId": "N0AE",
-          "player2Rank": 69,
-          "player2RankingPoints": 803,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Juan Manuel Cerundolo",
-          "player2RankingPlayerId": "C0C8"
+          "formattedScore": "6-3 7-5"
         },
         {
           "bracketOrder": 15,
@@ -1070,17 +764,7 @@
             "6"
           ],
           "winnerName": "Corentin Moutet",
-          "formattedScore": "6-4 6-4",
-          "player1Rank": 60,
-          "player1RankingPoints": 864,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Ignacio Buse",
-          "player1RankingPlayerId": "B0ID",
-          "player2Rank": 31,
-          "player2RankingPoints": 1433,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Corentin Moutet",
-          "player2RankingPlayerId": "MW02"
+          "formattedScore": "6-4 6-4"
         },
         {
           "bracketOrder": 16,
@@ -1103,17 +787,7 @@
             "6"
           ],
           "winnerName": "Lorenzo Musetti",
-          "formattedScore": "7-5 6-2",
-          "player1Rank": 101,
-          "player1RankingPoints": 634,
-          "player1RankingDate": "2026-04-13",
-          "player1RankingName": "Martin Landaluce",
-          "player1RankingPlayerId": "L0IL",
-          "player2Rank": 9,
-          "player2RankingPoints": 3625,
-          "player2RankingDate": "2026-04-13",
-          "player2RankingName": "Lorenzo Musetti",
-          "player2RankingPlayerId": "M0EJ"
+          "formattedScore": "7-5 6-2"
         }
       ]
     }

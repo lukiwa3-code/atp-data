@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "isaacbecroft",
+    "name": "Isaac Becroft",
+    "displayName": "Isaac Becroft",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 10 January, 2026",
+      "dateIso": "2026-01-10",
+      "tournamentId": "301",
+      "tournamentYear": "2026",
+      "tournamentName": "ASB Classic",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-2",
+      "matchId": "RES-1524731F28",
+      "reason": null,
+      "playerName": "Isaac Becroft",
+      "opponentName": "Hugo Gaston",
+      "opponentKey": "hugogaston",
+      "result": "L",
+      "playerRank": 1019,
+      "opponentRank": 94,
+      "rankingDate": "2026-01-05",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

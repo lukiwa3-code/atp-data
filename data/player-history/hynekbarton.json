@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "hynekbarton",
+    "name": "Hynek Barton",
+    "displayName": "Hynek Barton",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 29 March, 2026",
+      "dateIso": "2026-03-29",
+      "tournamentId": "360",
+      "tournamentYear": "2026",
+      "tournamentName": "Grand Prix Hassan II",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 7-5",
+      "matchId": "RES-8087223EA6",
+      "reason": null,
+      "playerName": "Hynek Barton",
+      "opponentName": "Marco Trungelliti",
+      "opponentKey": "marcotrungelliti",
+      "result": "L",
+      "playerRank": 275,
+      "opponentRank": 81,
+      "rankingDate": "2026-03-23",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

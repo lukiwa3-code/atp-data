@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "tahabaadi",
+    "name": "Taha Baadi",
+    "displayName": "T. Baadi",
+    "playerId": "B0D6"
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Wed, 01 April, 2026",
+      "dateIso": "2026-04-01",
+      "tournamentId": "360",
+      "tournamentYear": "2026",
+      "tournamentName": "Grand Prix Hassan II",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "score": "6-0 6-2",
+      "matchId": "RES-0DBC7F297D",
+      "reason": null,
+      "playerName": "Taha Baadi",
+      "opponentName": "Corentin Moutet",
+      "opponentKey": "corentinmoutet",
+      "result": "L",
+      "playerRank": 587,
+      "opponentRank": 32,
+      "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 30 March, 2026",
+      "dateIso": "2026-03-30",
+      "tournamentId": "360",
+      "tournamentYear": "2026",
+      "tournamentName": "Grand Prix Hassan II",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-2 3-6 6-1",
+      "matchId": "RES-196CCF0ABF",
+      "reason": null,
+      "playerName": "Taha Baadi",
+      "opponentName": "Aleksandar Vukic",
+      "opponentKey": "aleksandarvukic",
+      "result": "W",
+      "playerRank": 587,
+      "opponentRank": 84,
+      "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

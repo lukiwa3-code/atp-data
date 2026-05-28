@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "geoffreyblancaneaux",
+    "name": "Geoffrey Blancaneaux",
+    "displayName": "Geoffrey Blancaneaux",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Sun, 01 February, 2026",
+      "dateIso": "2026-02-01",
+      "tournamentId": "375",
+      "tournamentYear": "2026",
+      "tournamentName": "Open Occitanie",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "3-6 6-3 7-6(4)",
+      "matchId": "RES-ED95E7C533",
+      "reason": null,
+      "playerName": "Geoffrey Blancaneaux",
+      "opponentName": "Hugo Grenier",
+      "opponentKey": "hugogrenier",
+      "result": "L",
+      "playerRank": 355,
+      "opponentRank": 221,
+      "rankingDate": "2026-01-26",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sat, 10 January, 2026",
+      "dateIso": "2026-01-10",
+      "tournamentId": "301",
+      "tournamentYear": "2026",
+      "tournamentName": "ASB Classic",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-4",
+      "matchId": "RES-BF2391CE30",
+      "reason": null,
+      "playerName": "Geoffrey Blancaneaux",
+      "opponentName": "Mattia Bellucci",
+      "opponentKey": "mattiabellucci",
+      "result": "L",
+      "playerRank": 256,
+      "opponentRank": 73,
+      "rankingDate": "2026-01-05",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

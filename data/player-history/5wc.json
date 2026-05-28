@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "5wc",
+    "name": "(5/WC)",
+    "displayName": "(5/WC)",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 16 March, 2026",
+      "dateIso": "2026-03-16",
+      "tournamentId": "403",
+      "tournamentYear": "2026",
+      "tournamentName": "Miami Open presented by Itau",
+      "tournamentType": "1000",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "4-6 6-4 6-2",
+      "matchId": "RES-F7327D835B",
+      "reason": null,
+      "playerName": "(5/WC)",
+      "opponentName": "Liam Draxl",
+      "opponentKey": "liamdraxl",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 147,
+      "rankingDate": "2026-03-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

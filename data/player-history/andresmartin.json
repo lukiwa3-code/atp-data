@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "andresmartin",
+    "name": "Andres Martin",
+    "displayName": "Andres Martin",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Sat, 28 March, 2026",
+      "dateIso": "2026-03-28",
+      "tournamentId": "717",
+      "tournamentYear": "2026",
+      "tournamentName": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-CDD0372D83",
+      "reason": null,
+      "playerName": "Andres Martin",
+      "opponentName": "Federico Agustin Gomez",
+      "opponentKey": "federicoagustingomez",
+      "result": "L",
+      "playerRank": 284,
+      "opponentRank": 179,
+      "rankingDate": "2026-03-23",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sat, 21 February, 2026",
+      "dateIso": "2026-02-21",
+      "tournamentId": "807",
+      "tournamentYear": "2026",
+      "tournamentName": "Abierto Mexicano Telcel presentado por HSBC",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-0 6-0",
+      "matchId": "RES-6E2E58E471",
+      "reason": null,
+      "playerName": "Andres Martin",
+      "opponentName": "Zachary Svajda",
+      "opponentKey": "zacharysvajda",
+      "result": "L",
+      "playerRank": 270,
+      "opponentRank": 106,
+      "rankingDate": "2026-02-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

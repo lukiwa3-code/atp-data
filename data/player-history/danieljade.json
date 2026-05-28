@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "danieljade",
+    "name": "Daniel Jade",
+    "displayName": "Daniel Jade",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Wed, 20 May, 2026",
+      "dateIso": "2026-05-20",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-3 6-3",
+      "matchId": "RES-A0EC27A948",
+      "reason": null,
+      "playerName": "Daniel Jade",
+      "opponentName": "August Holmgren",
+      "opponentKey": "augustholmgren",
+      "result": "L",
+      "playerRank": 1447,
+      "opponentRank": 155,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 18 May, 2026",
+      "dateIso": "2026-05-18",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-C3626895B1",
+      "reason": null,
+      "playerName": "Daniel Jade",
+      "opponentName": "Daniel Evans",
+      "opponentKey": "danielevans",
+      "result": "W",
+      "playerRank": 1447,
+      "opponentRank": 211,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

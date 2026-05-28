@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "juanmanuellaserna",
+    "name": "Juan Manuel La Serna",
+    "displayName": "Juan Manuel La Serna",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 07 February, 2026",
+      "dateIso": "2026-02-07",
+      "tournamentId": "506",
+      "tournamentYear": "2026",
+      "tournamentName": "IEB+ Argentina Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-3",
+      "matchId": "RES-124F2A024E",
+      "reason": null,
+      "playerName": "Juan Manuel La Serna",
+      "opponentName": "Andrea Pellegrino",
+      "opponentKey": "andreapellegrino",
+      "result": "L",
+      "playerRank": 386,
+      "opponentRank": 143,
+      "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

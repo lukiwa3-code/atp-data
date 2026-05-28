@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "danielantonionunez",
+    "name": "Daniel Antonio Nunez",
+    "displayName": "Daniel Antonio Nunez",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 21 February, 2026",
+      "dateIso": "2026-02-21",
+      "tournamentId": "8996",
+      "tournamentYear": "2026",
+      "tournamentName": "BCI Seguros Chile Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-0 6-3",
+      "matchId": "RES-FB5278386E",
+      "reason": null,
+      "playerName": "Daniel Antonio Nunez",
+      "opponentName": "Alex Barrena",
+      "opponentKey": "alexbarrena",
+      "result": "L",
+      "playerRank": 702,
+      "opponentRank": 180,
+      "rankingDate": "2026-02-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

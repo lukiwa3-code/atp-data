@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "matteomartineau",
+    "name": "Matteo Martineau",
+    "displayName": "Matteo Martineau",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 01 February, 2026",
+      "dateIso": "2026-02-01",
+      "tournamentId": "375",
+      "tournamentYear": "2026",
+      "tournamentName": "Open Occitanie",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(7) 6-4",
+      "matchId": "RES-B151E4D377",
+      "reason": null,
+      "playerName": "Matteo Martineau",
+      "opponentName": "Martin Damm",
+      "opponentKey": "martindamm",
+      "result": "L",
+      "playerRank": 326,
+      "opponentRank": 116,
+      "rankingDate": "2026-01-26",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "tylerzink",
+    "name": "Tyler Zink",
+    "displayName": "Tyler Zink",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 16 May, 2026",
+      "dateIso": "2026-05-16",
+      "tournamentId": "322",
+      "tournamentYear": "2026",
+      "tournamentName": "Gonet Geneva Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 3-6 6-3",
+      "matchId": "RES-C72C030596",
+      "reason": null,
+      "playerName": "Tyler Zink",
+      "opponentName": "Raul Brancaccio",
+      "opponentKey": "raulbrancaccio",
+      "result": "L",
+      "playerRank": 325,
+      "opponentRank": 239,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

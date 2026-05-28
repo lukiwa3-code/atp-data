@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/results",
   "tournament": {
     "id": "375",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Open Occitanie",
     "location": "Montpellier, France",
     "date": "2 - 8 February, 2026",
     "month": "February, 2026",
-    "dateStart": "2026-02-02",
-    "dateEnd": "2026-02-08",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Hard",
@@ -35,12 +25,7 @@
     "prizeMoney": "€612,620",
     "totalFinancialCommitment": "€691,875"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "count": 39,
-  "rankingDatesUsed": [
-    "2026-02-02"
-  ],
   "matches": [
     {
       "matchId": "RES-2B204F0652",
@@ -58,13 +43,7 @@
       "reason": null,
       "formattedScore": "6-3 7-6(4)",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-3 7-6(4).",
-      "bracketOrder": 1,
-      "opponentRank": 70,
-      "opponentRankingPoints": 810,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Adrian Mannarino",
-      "opponentRankingPlayerId": "ME82",
-      "opponentCountry": "FRA"
+      "bracketOrder": 1
     },
     {
       "matchId": "RES-11277DA059",
@@ -82,13 +61,7 @@
       "reason": null,
       "formattedScore": "6-4 6-7(5) 6-1",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-4 6-7(5) 6-1 .",
-      "bracketOrder": 1,
-      "opponentRank": 150,
-      "opponentRankingPoints": 403,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Titouan Droguet",
-      "opponentRankingPlayerId": "D0DW",
-      "opponentCountry": "FRA"
+      "bracketOrder": 1
     },
     {
       "matchId": "RES-F2FD1358EB",
@@ -106,19 +79,7 @@
       "reason": null,
       "formattedScore": "1-6 6-3 6-4",
       "sourceText": "Game Set and Match Adrian Mannarino. Adrian Mannarino wins the match 1-6 6-3 6-4 .",
-      "bracketOrder": 2,
-      "playerRank": 70,
-      "playerRankingPoints": 810,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Adrian Mannarino",
-      "playerRankingPlayerId": "ME82",
-      "playerCountry": "FRA",
-      "opponentRank": 160,
-      "opponentRankingPoints": 373,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Martin Damm",
-      "opponentRankingPlayerId": "D0DT",
-      "opponentCountry": "USA"
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-15820E9BA2",
@@ -136,13 +97,7 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-4 6-2 .",
-      "bracketOrder": 1,
-      "opponentRank": 42,
-      "opponentRankingPoints": 1110,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Arthur Fils",
-      "opponentRankingPlayerId": "F0F1",
-      "opponentCountry": "FRA"
+      "bracketOrder": 1
     },
     {
       "matchId": "RES-F5ADCBEADA",
@@ -160,19 +115,7 @@
       "reason": null,
       "formattedScore": "7-6(5) 7-6(1)",
       "sourceText": "Game Set and Match Titouan Droguet. Titouan Droguet wins the match 7-6(5) 7-6(1).",
-      "bracketOrder": 2,
-      "playerRank": 150,
-      "playerRankingPoints": 403,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Titouan Droguet",
-      "playerRankingPlayerId": "D0DW",
-      "playerCountry": "FRA",
-      "opponentRank": 29,
-      "opponentRankingPoints": 1565,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Tallon Griekspoor",
-      "opponentRankingPlayerId": "GJ37",
-      "opponentCountry": "NED"
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-B89EDB268A",
@@ -190,19 +133,7 @@
       "reason": null,
       "formattedScore": "5-7 6-4 6-4",
       "sourceText": "Game Set and Match Adrian Mannarino. Adrian Mannarino wins the match 5-7 6-4 6-4 .",
-      "bracketOrder": 3,
-      "playerRank": 70,
-      "playerRankingPoints": 810,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Adrian Mannarino",
-      "playerRankingPlayerId": "ME82",
-      "playerCountry": "FRA",
-      "opponentRank": 168,
-      "opponentRankingPoints": 353,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Arthur Gea",
-      "opponentRankingPlayerId": "G0IX",
-      "opponentCountry": "FRA"
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-E0C4E95E27",
@@ -220,19 +151,7 @@
       "reason": null,
       "formattedScore": "6-3 7-6(8)",
       "sourceText": "Game Set and Match Martin Damm. Martin Damm wins the match 6-3 7-6(8).",
-      "bracketOrder": 4,
-      "playerRank": 160,
-      "playerRankingPoints": 373,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Martin Damm",
-      "playerRankingPlayerId": "D0DT",
-      "playerCountry": "USA",
-      "opponentRank": 106,
-      "opponentRankingPoints": 571,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Luca Nardi",
-      "opponentRankingPlayerId": "N0BG",
-      "opponentCountry": "ITA"
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-98DE165B38",
@@ -250,13 +169,7 @@
       "reason": null,
       "formattedScore": "6-4 7-6(3)",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-4 7-6(3).",
-      "bracketOrder": 1,
-      "opponentRank": 113,
-      "opponentRankingPoints": 537,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Stan Wawrinka",
-      "opponentRankingPlayerId": "W367",
-      "opponentCountry": "SUI"
+      "bracketOrder": 1
     },
     {
       "matchId": "RES-E33A9F84A2",
@@ -274,19 +187,7 @@
       "reason": null,
       "formattedScore": "7-6(4) 7-5",
       "sourceText": "Game Set and Match Arthur Fils. Arthur Fils wins the match 7-6(4) 7-5 .",
-      "bracketOrder": 2,
-      "playerRank": 42,
-      "playerRankingPoints": 1110,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Arthur Fils",
-      "playerRankingPlayerId": "F0F1",
-      "playerCountry": "FRA",
-      "opponentRank": 174,
-      "opponentRankingPoints": 343,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Ugo Blanchet",
-      "opponentRankingPlayerId": "BV16",
-      "opponentCountry": "FRA"
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-30DB9643BD",
@@ -304,19 +205,7 @@
       "reason": null,
       "formattedScore": "4-6 7-6(5) 6-4",
       "sourceText": "Game Set and Match Titouan Droguet. Titouan Droguet wins the match 4-6 7-6(5) 6-4 .",
-      "bracketOrder": 3,
-      "playerRank": 150,
-      "playerRankingPoints": 403,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Titouan Droguet",
-      "playerRankingPlayerId": "D0DW",
-      "playerCountry": "FRA",
-      "opponentRank": 83,
-      "opponentRankingPoints": 709,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Aleksandar Kovacevic",
-      "opponentRankingPlayerId": "K0AZ",
-      "opponentCountry": "USA"
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-97DB6C5C27",
@@ -334,19 +223,7 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Tallon Griekspoor. Tallon Griekspoor wins the match 6-4 6-4 .",
-      "bracketOrder": 4,
-      "playerRank": 29,
-      "playerRankingPoints": 1565,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Tallon Griekspoor",
-      "playerRankingPlayerId": "GJ37",
-      "playerCountry": "NED",
-      "opponentRank": 100,
-      "opponentRankingPoints": 616,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Pablo Carreno Busta",
-      "opponentRankingPlayerId": "CD85",
-      "opponentCountry": "ESP"
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-186CF13DAA",
@@ -364,19 +241,7 @@
       "reason": null,
       "formattedScore": "6-7(4) 6-3 7-6(4)",
       "sourceText": "Game Set and Match Adrian Mannarino. Adrian Mannarino wins the match 6-7(4) 6-3 7-6(4).",
-      "bracketOrder": 5,
-      "playerRank": 70,
-      "playerRankingPoints": 810,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Adrian Mannarino",
-      "playerRankingPlayerId": "ME82",
-      "playerCountry": "FRA",
-      "opponentRank": 38,
-      "opponentRankingPoints": 1320,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Ugo Humbert",
-      "opponentRankingPlayerId": "HH26",
-      "opponentCountry": "FRA"
+      "bracketOrder": 5
     },
     {
       "matchId": "RES-716FB13195",
@@ -394,19 +259,7 @@
       "reason": null,
       "formattedScore": "6-3 4-5 RET",
       "sourceText": "Game Set and Match Arthur Gea. Arthur Gea wins the match 6-3 4-5 RET.",
-      "bracketOrder": 6,
-      "playerRank": 168,
-      "playerRankingPoints": 353,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Arthur Gea",
-      "playerRankingPlayerId": "G0IX",
-      "playerCountry": "FRA",
-      "opponentRank": 28,
-      "opponentRankingPoints": 1610,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Tomas Machac",
-      "opponentRankingPlayerId": "M0FH",
-      "opponentCountry": "CZE"
+      "bracketOrder": 6
     },
     {
       "matchId": "RES-D9442CA732",
@@ -424,19 +277,7 @@
       "reason": null,
       "formattedScore": "6-1 6-3",
       "sourceText": "Game Set and Match Martin Damm. Martin Damm wins the match 6-1 6-3 .",
-      "bracketOrder": 7,
-      "playerRank": 160,
-      "playerRankingPoints": 373,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Martin Damm",
-      "playerRankingPlayerId": "D0DT",
-      "playerCountry": "USA",
-      "opponentRank": 89,
-      "opponentRankingPoints": 670,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Roberto Bautista Agut",
-      "opponentRankingPlayerId": "BD06",
-      "opponentCountry": "ESP"
+      "bracketOrder": 7
     },
     {
       "matchId": "RES-D14A4105ED",
@@ -454,13 +295,7 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Luca Nardi. Luca Nardi wins the match 6-2 6-3 .",
-      "bracketOrder": 8,
-      "playerRank": 106,
-      "playerRankingPoints": 571,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Luca Nardi",
-      "playerRankingPlayerId": "N0BG",
-      "playerCountry": "ITA"
+      "bracketOrder": 8
     },
     {
       "matchId": "RES-2191CDA275",
@@ -478,19 +313,7 @@
       "reason": null,
       "formattedScore": "7-6(3) 6-4",
       "sourceText": "Game Set and Match Stan Wawrinka. Stan Wawrinka wins the match 7-6(3) 6-4 .",
-      "bracketOrder": 1,
-      "playerRank": 113,
-      "playerRankingPoints": 537,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Stan Wawrinka",
-      "playerRankingPlayerId": "W367",
-      "playerCountry": "SUI",
-      "opponentRank": 80,
-      "opponentRankingPoints": 717,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Hamad Medjedovic",
-      "opponentRankingPlayerId": "M0JF",
-      "opponentCountry": "SRB"
+      "bracketOrder": 1
     },
     {
       "matchId": "RES-4B2AC34856",
@@ -508,19 +331,7 @@
       "reason": null,
       "formattedScore": "7-6(7) 6-7(4) 6-2",
       "sourceText": "Game Set and Match Arthur Fils. Arthur Fils wins the match 7-6(7) 6-7(4) 6-2 .",
-      "bracketOrder": 2,
-      "playerRank": 42,
-      "playerRankingPoints": 1110,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Arthur Fils",
-      "playerRankingPlayerId": "F0F1",
-      "playerCountry": "FRA",
-      "opponentRank": 56,
-      "opponentRankingPoints": 920,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Valentin Royer",
-      "opponentRankingPlayerId": "R0EB",
-      "opponentCountry": "FRA"
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-48FF6600A9",
@@ -538,19 +349,7 @@
       "reason": null,
       "formattedScore": "6-4 6-3",
       "sourceText": "Game Set and Match Ugo Blanchet. Ugo Blanchet wins the match 6-4 6-3 .",
-      "bracketOrder": 3,
-      "playerRank": 174,
-      "playerRankingPoints": 343,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Ugo Blanchet",
-      "playerRankingPlayerId": "BV16",
-      "playerCountry": "FRA",
-      "opponentRank": 282,
-      "opponentRankingPoints": 185,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Andrea Vavassori",
-      "opponentRankingPlayerId": "VA08",
-      "opponentCountry": "ITA"
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-2E2DC7AE0D",
@@ -568,19 +367,7 @@
       "reason": null,
       "formattedScore": "6-2 7-6(2)",
       "sourceText": "Game Set and Match Titouan Droguet. Titouan Droguet wins the match 6-2 7-6(2).",
-      "bracketOrder": 4,
-      "playerRank": 150,
-      "playerRankingPoints": 403,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Titouan Droguet",
-      "playerRankingPlayerId": "D0DW",
-      "playerCountry": "FRA",
-      "opponentRank": 125,
-      "opponentRankingPoints": 498,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Jan Choinski",
-      "opponentRankingPlayerId": "CH12",
-      "opponentCountry": "GBR"
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-2CF9444189",
@@ -598,19 +385,7 @@
       "reason": null,
       "formattedScore": "6-7(5) 6-2 6-2",
       "sourceText": "Game Set and Match Aleksandar Kovacevic. Aleksandar Kovacevic wins the match 6-7(5) 6-2 6-2 .",
-      "bracketOrder": 5,
-      "playerRank": 83,
-      "playerRankingPoints": 709,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Aleksandar Kovacevic",
-      "playerRankingPlayerId": "K0AZ",
-      "playerCountry": "USA",
-      "opponentRank": 552,
-      "opponentRankingPoints": 70,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Moise Kouame",
-      "opponentRankingPlayerId": "K0O4",
-      "opponentCountry": "FRA"
+      "bracketOrder": 5
     },
     {
       "matchId": "RES-C0E8C26738",
@@ -628,19 +403,7 @@
       "reason": null,
       "formattedScore": "4-6 6-3 7-6(4)",
       "sourceText": "Game Set and Match Pablo Carreno Busta. Pablo Carreno Busta wins the match 4-6 6-3 7-6(4).",
-      "bracketOrder": 6,
-      "playerRank": 100,
-      "playerRankingPoints": 616,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Pablo Carreno Busta",
-      "playerRankingPlayerId": "CD85",
-      "playerCountry": "ESP",
-      "opponentRank": 69,
-      "opponentRankingPoints": 820,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Miomir Kecmanovic",
-      "opponentRankingPlayerId": "KI95",
-      "opponentCountry": "SRB"
+      "bracketOrder": 6
     },
     {
       "matchId": "RES-8C2EC61675",
@@ -658,19 +421,7 @@
       "reason": null,
       "formattedScore": "7-6(3) 6-1",
       "sourceText": "Game Set and Match Adrian Mannarino. Adrian Mannarino wins the match 7-6(3) 6-1 .",
-      "bracketOrder": 7,
-      "playerRank": 70,
-      "playerRankingPoints": 810,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Adrian Mannarino",
-      "playerRankingPlayerId": "ME82",
-      "playerCountry": "FRA",
-      "opponentRank": 77,
-      "opponentRankingPoints": 728,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Pedro Martinez",
-      "opponentRankingPlayerId": "MO44",
-      "opponentCountry": "ESP"
+      "bracketOrder": 7
     },
     {
       "matchId": "RES-624FEA582A",
@@ -688,19 +439,7 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Ugo Humbert. Ugo Humbert wins the match 6-3 6-4 .",
-      "bracketOrder": 8,
-      "playerRank": 38,
-      "playerRankingPoints": 1320,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Ugo Humbert",
-      "playerRankingPlayerId": "HH26",
-      "playerCountry": "FRA",
-      "opponentRank": 67,
-      "opponentRankingPoints": 849,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Botic van de Zandschulp",
-      "opponentRankingPlayerId": "V812",
-      "opponentCountry": "NED"
+      "bracketOrder": 8
     },
     {
       "matchId": "RES-4C5F4398AE",
@@ -718,19 +457,7 @@
       "reason": null,
       "formattedScore": "6-3 0-0 RET",
       "sourceText": "Game Set and Match Arthur Gea. Arthur Gea wins the match 6-3 0-0 RET.",
-      "bracketOrder": 9,
-      "playerRank": 168,
-      "playerRankingPoints": 353,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Arthur Gea",
-      "playerRankingPlayerId": "G0IX",
-      "playerCountry": "FRA",
-      "opponentRank": 57,
-      "opponentRankingPoints": 905,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Giovanni Mpetshi Perricard",
-      "opponentRankingPlayerId": "M0GZ",
-      "opponentCountry": "FRA"
+      "bracketOrder": 9
     },
     {
       "matchId": "RES-CCB33413B3",
@@ -748,19 +475,7 @@
       "reason": null,
       "formattedScore": "7-6(5) 6-4",
       "sourceText": "Game Set and Match Martin Damm. Martin Damm wins the match 7-6(5) 6-4 .",
-      "bracketOrder": 10,
-      "playerRank": 160,
-      "playerRankingPoints": 373,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Martin Damm",
-      "playerRankingPlayerId": "D0DT",
-      "playerCountry": "USA",
-      "opponentRank": 52,
-      "opponentRankingPoints": 965,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Hubert Hurkacz",
-      "opponentRankingPlayerId": "HB71",
-      "opponentCountry": "POL"
+      "bracketOrder": 10
     },
     {
       "matchId": "RES-A299F44E78",
@@ -778,19 +493,7 @@
       "reason": null,
       "formattedScore": "5-7 6-3 7-5",
       "sourceText": "Game Set and Match Roberto Bautista Agut. Roberto Bautista Agut wins the match 5-7 6-3 7-5 .",
-      "bracketOrder": 11,
-      "playerRank": 89,
-      "playerRankingPoints": 670,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Roberto Bautista Agut",
-      "playerRankingPlayerId": "BD06",
-      "playerCountry": "ESP",
-      "opponentRank": 119,
-      "opponentRankingPoints": 511,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Christopher O'Connell",
-      "opponentRankingPlayerId": "O483",
-      "opponentCountry": "AUS"
+      "bracketOrder": 11
     },
     {
       "matchId": "RES-57A1AE76D4",
@@ -808,19 +511,7 @@
       "reason": null,
       "formattedScore": "6-3 6-3",
       "sourceText": "Game Set and Match Luca Nardi. Luca Nardi wins the match 6-3 6-3 .",
-      "bracketOrder": 12,
-      "playerRank": 106,
-      "playerRankingPoints": 571,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Luca Nardi",
-      "playerRankingPlayerId": "N0BG",
-      "playerCountry": "ITA",
-      "opponentRank": 137,
-      "opponentRankingPoints": 464,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Nikoloz Basilashvili",
-      "opponentRankingPlayerId": "BG23",
-      "opponentCountry": "GEO"
+      "bracketOrder": 12
     },
     {
       "matchId": "RES-BC8122C18F",
@@ -838,19 +529,7 @@
       "reason": null,
       "formattedScore": "4-6 7-6(4) 6-2",
       "sourceText": "Game Set and Match Titouan Droguet. Titouan Droguet wins the match 4-6 7-6(4) 6-2 .",
-      "bracketOrder": 1,
-      "playerRank": 150,
-      "playerRankingPoints": 403,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Titouan Droguet",
-      "playerRankingPlayerId": "D0DW",
-      "playerCountry": "FRA",
-      "opponentRank": 174,
-      "opponentRankingPoints": 343,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Ugo Blanchet",
-      "opponentRankingPlayerId": "BV16",
-      "opponentCountry": "FRA"
+      "bracketOrder": 1
     },
     {
       "matchId": "RES-79F28AF4C3",
@@ -868,19 +547,7 @@
       "reason": null,
       "formattedScore": "7-6(5) 6-7(3) 7-6(8)",
       "sourceText": "Game Set and Match Martin Damm. Martin Damm wins the match 7-6(5) 6-7(3) 7-6(8).",
-      "bracketOrder": 2,
-      "playerRank": 160,
-      "playerRankingPoints": 373,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Martin Damm",
-      "playerRankingPlayerId": "D0DT",
-      "playerCountry": "USA",
-      "opponentRank": 215,
-      "opponentRankingPoints": 266,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Clement Tabur",
-      "opponentRankingPlayerId": "T09X",
-      "opponentCountry": "FRA"
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-0095690856",
@@ -898,19 +565,7 @@
       "reason": null,
       "formattedScore": "6-3 7-6(1)",
       "sourceText": "Game Set and Match Andrea Vavassori. Andrea Vavassori wins the match 6-3 7-6(1).",
-      "bracketOrder": 3,
-      "playerRank": 282,
-      "playerRankingPoints": 185,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Andrea Vavassori",
-      "playerRankingPlayerId": "VA08",
-      "playerCountry": "ITA",
-      "opponentRank": 189,
-      "opponentRankingPoints": 324,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Hugo Grenier",
-      "opponentRankingPlayerId": "GF95",
-      "opponentCountry": "FRA"
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-84B8D050DB",
@@ -928,19 +583,7 @@
       "reason": null,
       "formattedScore": "7-5 6-7(6) 6-3",
       "sourceText": "Game Set and Match Moise Kouame. Moise Kouame wins the match 7-5 6-7(6) 6-3 .",
-      "bracketOrder": 4,
-      "playerRank": 552,
-      "playerRankingPoints": 70,
-      "playerRankingDate": "2026-02-02",
-      "playerRankingName": "Moise Kouame",
-      "playerRankingPlayerId": "K0O4",
-      "playerCountry": "FRA",
-      "opponentRank": 202,
-      "opponentRankingPoints": 298,
-      "opponentRankingDate": "2026-02-02",
-      "opponentRankingName": "Clement Chidekh",
-      "opponentRankingPlayerId": "C0BH",
-      "opponentCountry": "FRA"
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-CADE0CA4D7",

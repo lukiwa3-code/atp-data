@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/draws",
   "tournament": {
     "id": "336",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Bank of China Hong Kong Tennis Open",
     "location": "Hong Kong, Hong Kong",
     "date": "5 - 11 January, 2026",
     "month": "January, 2026",
-    "dateStart": "2026-01-05",
-    "dateEnd": "2026-01-11",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Hard",
@@ -35,14 +25,8 @@
     "prizeMoney": "$700,045",
     "totalFinancialCommitment": "$788,349"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
-  "rankingDatesUsed": [
-    "2025-12-29",
-    "2026-01-05"
-  ],
   "rounds": [
     {
       "round": "F",
@@ -71,17 +55,7 @@
             "6"
           ],
           "winnerName": "Alexander Bublik",
-          "formattedScore": "7-6(2) 6-3",
-          "player1Rank": 7,
-          "player1RankingPoints": 3990,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Lorenzo Musetti",
-          "player1RankingPlayerId": "M0EJ",
-          "player2Rank": 11,
-          "player2RankingPoints": 2845,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Alexander Bublik",
-          "player2RankingPlayerId": "BK92"
+          "formattedScore": "7-6(2) 6-3"
         }
       ]
     },
@@ -114,17 +88,7 @@
             "4"
           ],
           "winnerName": "Lorenzo Musetti",
-          "formattedScore": "6-7(3) 7-5 6-4",
-          "player1Rank": 7,
-          "player1RankingPoints": 3990,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Lorenzo Musetti",
-          "player1RankingPlayerId": "M0EJ",
-          "player2Rank": 16,
-          "player2RankingPoints": 2510,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Andrey Rublev",
-          "player2RankingPlayerId": "RE44"
+          "formattedScore": "6-7(3) 7-5 6-4"
         },
         {
           "bracketOrder": 2,
@@ -149,17 +113,7 @@
             "6"
           ],
           "winnerName": "Alexander Bublik",
-          "formattedScore": "3-6 6-4 6-2",
-          "player1Rank": 64,
-          "player1RankingPoints": 845,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Marcos Giron",
-          "player1RankingPlayerId": "GC88",
-          "player2Rank": 11,
-          "player2RankingPoints": 2845,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Alexander Bublik",
-          "player2RankingPlayerId": "BK92"
+          "formattedScore": "3-6 6-4 6-2"
         }
       ]
     },
@@ -190,17 +144,7 @@
             "4"
           ],
           "winnerName": "Lorenzo Musetti",
-          "formattedScore": "6-4 6-4",
-          "player1Rank": 7,
-          "player1RankingPoints": 3990,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Lorenzo Musetti",
-          "player1RankingPlayerId": "M0EJ",
-          "player2Rank": 150,
-          "player2RankingPoints": 406,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Coleman Wong",
-          "player2RankingPlayerId": "W0BH"
+          "formattedScore": "6-4 6-4"
         },
         {
           "bracketOrder": 2,
@@ -223,17 +167,7 @@
             "4"
           ],
           "winnerName": "Andrey Rublev",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 16,
-          "player1RankingPoints": 2510,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Andrey Rublev",
-          "player1RankingPlayerId": "RE44",
-          "player2Rank": 45,
-          "player2RankingPoints": 1120,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Nuno Borges",
-          "player2RankingPlayerId": "BT72"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 3,
@@ -256,17 +190,7 @@
             "0"
           ],
           "winnerName": "Marcos Giron",
-          "formattedScore": "6 1",
-          "player1Rank": 64,
-          "player1RankingPoints": 845,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Marcos Giron",
-          "player1RankingPlayerId": "GC88",
-          "player2Rank": 285,
-          "player2RankingPoints": 184,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Michael Mmoh",
-          "player2RankingPlayerId": "MP01"
+          "formattedScore": "6 1"
         },
         {
           "bracketOrder": 4,
@@ -289,17 +213,7 @@
             "7"
           ],
           "winnerName": "Alexander Bublik",
-          "formattedScore": "6-1 7-6(2)",
-          "player1Rank": 406,
-          "player1RankingPoints": 115,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Juncheng Shang",
-          "player1RankingPlayerId": "S0RE",
-          "player2Rank": 11,
-          "player2RankingPoints": 2845,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Alexander Bublik",
-          "player2RankingPlayerId": "BK92"
+          "formattedScore": "6-1 7-6(2)"
         }
       ]
     },
@@ -332,17 +246,7 @@
             "4"
           ],
           "winnerName": "Lorenzo Musetti",
-          "formattedScore": "6-7(3) 6-2 6-4",
-          "player1Rank": 7,
-          "player1RankingPoints": 3990,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Lorenzo Musetti",
-          "player1RankingPlayerId": "M0EJ",
-          "player2Rank": 57,
-          "player2RankingPoints": 895,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Tomas Martin Etcheverry",
-          "player2RankingPlayerId": "EA24"
+          "formattedScore": "6-7(3) 6-2 6-4"
         },
         {
           "bracketOrder": 2,
@@ -367,17 +271,7 @@
             "5"
           ],
           "winnerName": "Coleman Wong",
-          "formattedScore": "1-6 7-5 7-5",
-          "player1Rank": 150,
-          "player1RankingPoints": 406,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Coleman Wong",
-          "player1RankingPlayerId": "W0BH",
-          "player2Rank": 40,
-          "player2RankingPoints": 1215,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Gabriel Diallo",
-          "player2RankingPlayerId": "D0F6"
+          "formattedScore": "1-6 7-5 7-5"
         },
         {
           "bracketOrder": 3,
@@ -402,17 +296,7 @@
             "1"
           ],
           "winnerName": "Andrey Rublev",
-          "formattedScore": "3-6 6-2 6-1",
-          "player1Rank": 16,
-          "player1RankingPoints": 2510,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Andrey Rublev",
-          "player1RankingPlayerId": "RE44",
-          "player2Rank": 179,
-          "player2RankingPoints": 322,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Yibing Wu",
-          "player2RankingPlayerId": "WB32"
+          "formattedScore": "3-6 6-2 6-1"
         },
         {
           "bracketOrder": 4,
@@ -435,17 +319,7 @@
             "6"
           ],
           "winnerName": "Nuno Borges",
-          "formattedScore": "7-5 6-3",
-          "player1Rank": 70,
-          "player1RankingPoints": 765,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Marin Cilic",
-          "player1RankingPlayerId": "C977",
-          "player2Rank": 45,
-          "player2RankingPoints": 1120,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Nuno Borges",
-          "player2RankingPlayerId": "BT72"
+          "formattedScore": "7-5 6-3"
         },
         {
           "bracketOrder": 5,
@@ -468,17 +342,7 @@
             "7"
           ],
           "winnerName": "Marcos Giron",
-          "formattedScore": "6-4 7-6(4)",
-          "player1Rank": 52,
-          "player1RankingPoints": 980,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Alexandre Muller",
-          "player1RankingPlayerId": "MP20",
-          "player2Rank": 64,
-          "player2RankingPoints": 845,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Marcos Giron",
-          "player2RankingPlayerId": "GC88"
+          "formattedScore": "6-4 7-6(4)"
         },
         {
           "bracketOrder": 6,
@@ -501,17 +365,7 @@
             "6 4"
           ],
           "winnerName": "Michael Mmoh",
-          "formattedScore": "7-6(2) 7-6(4)",
-          "player1Rank": 285,
-          "player1RankingPoints": 184,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Michael Mmoh",
-          "player1RankingPlayerId": "MP01",
-          "player2Rank": 17,
-          "player2RankingPoints": 2320,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Karen Khachanov",
-          "player2RankingPlayerId": "KE29"
+          "formattedScore": "7-6(2) 7-6(4)"
         },
         {
           "bracketOrder": 7,
@@ -534,17 +388,7 @@
             "6"
           ],
           "winnerName": "Juncheng Shang",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 39,
-          "player1RankingPoints": 1240,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Lorenzo Sonego",
-          "player1RankingPlayerId": "SU87",
-          "player2Rank": 406,
-          "player2RankingPoints": 115,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Juncheng Shang",
-          "player2RankingPlayerId": "S0RE"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 8,
@@ -567,17 +411,7 @@
             "6"
           ],
           "winnerName": "Alexander Bublik",
-          "formattedScore": "6-3 6-3",
-          "player1Rank": 75,
-          "player1RankingPoints": 746,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Botic van de Zandschulp",
-          "player1RankingPlayerId": "V812",
-          "player2Rank": 11,
-          "player2RankingPoints": 2845,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Alexander Bublik",
-          "player2RankingPlayerId": "BK92"
+          "formattedScore": "6-3 6-3"
         }
       ]
     },
@@ -602,12 +436,7 @@
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "Lorenzo Musetti",
-          "formattedScore": "",
-          "player1Rank": 7,
-          "player1RankingPoints": 3990,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Lorenzo Musetti",
-          "player1RankingPlayerId": "M0EJ"
+          "formattedScore": ""
         },
         {
           "bracketOrder": 2,
@@ -630,17 +459,7 @@
             "5"
           ],
           "winnerName": "Tomas Martin Etcheverry",
-          "formattedScore": "6-4 7-5",
-          "player1Rank": 57,
-          "player1RankingPoints": 895,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Tomas Martin Etcheverry",
-          "player1RankingPlayerId": "EA24",
-          "player2Rank": 56,
-          "player2RankingPoints": 924,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Valentin Royer",
-          "player2RankingPlayerId": "R0EB"
+          "formattedScore": "6-4 7-5"
         },
         {
           "bracketOrder": 3,
@@ -663,17 +482,7 @@
             "5"
           ],
           "winnerName": "Coleman Wong",
-          "formattedScore": "6-3 7-5",
-          "player1Rank": 150,
-          "player1RankingPoints": 406,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Coleman Wong",
-          "player1RankingPlayerId": "W0BH",
-          "player2Rank": 72,
-          "player2RankingPoints": 760,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Mariano Navone",
-          "player2RankingPlayerId": "N0BS"
+          "formattedScore": "6-3 7-5"
         },
         {
           "bracketOrder": 4,
@@ -696,17 +505,7 @@
             "7"
           ],
           "winnerName": "Gabriel Diallo",
-          "formattedScore": "6-4 7-6(7)",
-          "player1Rank": 71,
-          "player1RankingPoints": 763,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Jesper de Jong",
-          "player1RankingPlayerId": "D0C1",
-          "player2Rank": 40,
-          "player2RankingPoints": 1215,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Gabriel Diallo",
-          "player2RankingPlayerId": "D0F6"
+          "formattedScore": "6-4 7-6(7)"
         },
         {
           "bracketOrder": 5,
@@ -723,12 +522,7 @@
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "Andrey Rublev",
-          "formattedScore": "",
-          "player1Rank": 16,
-          "player1RankingPoints": 2510,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Andrey Rublev",
-          "player1RankingPlayerId": "RE44"
+          "formattedScore": ""
         },
         {
           "bracketOrder": 6,
@@ -751,17 +545,7 @@
             "2"
           ],
           "winnerName": "Yibing Wu",
-          "formattedScore": "6-4 6-2",
-          "player1Rank": 179,
-          "player1RankingPoints": 322,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Yibing Wu",
-          "player1RankingPlayerId": "WB32",
-          "player2Rank": 53,
-          "player2RankingPoints": 975,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Fabian Marozsan",
-          "player2RankingPlayerId": "M0CI"
+          "formattedScore": "6-4 6-2"
         },
         {
           "bracketOrder": 7,
@@ -784,17 +568,7 @@
             "2"
           ],
           "winnerName": "Marin Cilic",
-          "formattedScore": "6-3 6-2",
-          "player1Rank": 70,
-          "player1RankingPoints": 765,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Marin Cilic",
-          "player1RankingPlayerId": "C977",
-          "player2Rank": 68,
-          "player2RankingPoints": 817,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Adrian Mannarino",
-          "player2RankingPlayerId": "ME82"
+          "formattedScore": "6-3 6-2"
         },
         {
           "bracketOrder": 8,
@@ -817,17 +591,7 @@
             "6"
           ],
           "winnerName": "Nuno Borges",
-          "formattedScore": "6-4 6-3",
-          "player1Rank": 65,
-          "player1RankingPoints": 837,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Damir Dzumhur",
-          "player1RankingPlayerId": "D923",
-          "player2Rank": 45,
-          "player2RankingPoints": 1120,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Nuno Borges",
-          "player2RankingPlayerId": "BT72"
+          "formattedScore": "6-4 6-3"
         },
         {
           "bracketOrder": 9,
@@ -850,17 +614,7 @@
             "4"
           ],
           "winnerName": "Alexandre Muller",
-          "formattedScore": "7-5 6-4",
-          "player1Rank": 52,
-          "player1RankingPoints": 980,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Alexandre Muller",
-          "player1RankingPlayerId": "MP20",
-          "player2Rank": 51,
-          "player2RankingPoints": 1000,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Miomir Kecmanovic",
-          "player2RankingPlayerId": "KI95"
+          "formattedScore": "7-5 6-4"
         },
         {
           "bracketOrder": 10,
@@ -883,17 +637,7 @@
             "6"
           ],
           "winnerName": "Marcos Giron",
-          "formattedScore": "6-2 6-0",
-          "player1Rank": 95,
-          "player1RankingPoints": 652,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Laslo Djere",
-          "player1RankingPlayerId": "DB63",
-          "player2Rank": 64,
-          "player2RankingPoints": 845,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Marcos Giron",
-          "player2RankingPlayerId": "GC88"
+          "formattedScore": "6-2 6-0"
         },
         {
           "bracketOrder": 11,
@@ -916,17 +660,7 @@
             "6"
           ],
           "winnerName": "Michael Mmoh",
-          "formattedScore": "7-5 6-4",
-          "player1Rank": 81,
-          "player1RankingPoints": 717,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Alejandro Tabilo",
-          "player1RankingPlayerId": "TE30",
-          "player2Rank": 285,
-          "player2RankingPoints": 184,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Michael Mmoh",
-          "player2RankingPlayerId": "MP01"
+          "formattedScore": "7-5 6-4"
         },
         {
           "bracketOrder": 12,
@@ -943,12 +677,7 @@
           "player2Country": "RUS",
           "player2ScoreTokens": [],
           "winnerName": "Karen Khachanov",
-          "formattedScore": "",
-          "player2Rank": 17,
-          "player2RankingPoints": 2320,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Karen Khachanov",
-          "player2RankingPlayerId": "KE29"
+          "formattedScore": ""
         },
         {
           "bracketOrder": 13,
@@ -971,17 +700,7 @@
             "6 4"
           ],
           "winnerName": "Lorenzo Sonego",
-          "formattedScore": "6-2 7-6(4)",
-          "player1Rank": 39,
-          "player1RankingPoints": 1240,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Lorenzo Sonego",
-          "player1RankingPlayerId": "SU87",
-          "player2Rank": 200,
-          "player2RankingPoints": 292,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Rei Sakamoto",
-          "player2RankingPlayerId": "S0UV"
+          "formattedScore": "6-2 7-6(4)"
         },
         {
           "bracketOrder": 14,
@@ -1004,17 +723,7 @@
             "4"
           ],
           "winnerName": "Juncheng Shang",
-          "formattedScore": "6-4 6-4",
-          "player1Rank": 406,
-          "player1RankingPoints": 115,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Juncheng Shang",
-          "player1RankingPlayerId": "S0RE",
-          "player2Rank": 66,
-          "player2RankingPoints": 829,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Francisco Comesana",
-          "player2RankingPlayerId": "C0DF"
+          "formattedScore": "6-4 6-4"
         },
         {
           "bracketOrder": 15,
@@ -1039,17 +748,7 @@
             "6"
           ],
           "winnerName": "Botic Van De Zandschulp",
-          "formattedScore": "6-3 1-6 6-1",
-          "player1Rank": 82,
-          "player1RankingPoints": 711,
-          "player1RankingDate": "2026-01-05",
-          "player1RankingName": "Jan-Lennard Struff",
-          "player1RankingPlayerId": "SL28",
-          "player2Rank": 75,
-          "player2RankingPoints": 746,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Botic van de Zandschulp",
-          "player2RankingPlayerId": "V812"
+          "formattedScore": "6-3 1-6 6-1"
         },
         {
           "bracketOrder": 16,
@@ -1066,12 +765,7 @@
           "player2Country": "KAZ",
           "player2ScoreTokens": [],
           "winnerName": "Alexander Bublik",
-          "formattedScore": "",
-          "player2Rank": 11,
-          "player2RankingPoints": 2845,
-          "player2RankingDate": "2026-01-05",
-          "player2RankingName": "Alexander Bublik",
-          "player2RankingPlayerId": "BK92"
+          "formattedScore": ""
         }
       ]
     }

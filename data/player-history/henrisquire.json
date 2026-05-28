@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "henrisquire",
+    "name": "Henri Squire",
+    "displayName": "Henri Squire",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Sun, 17 May, 2026",
+      "dateIso": "2026-05-17",
+      "tournamentId": "414",
+      "tournamentYear": "2026",
+      "tournamentName": "Bitpanda Hamburg Open",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-7(4) 7-5 7-6(5)",
+      "matchId": "RES-89ED845A99",
+      "reason": null,
+      "playerName": "Henri Squire",
+      "opponentName": "Rinky Hijikata",
+      "opponentKey": "rinkyhijikata",
+      "result": "L",
+      "playerRank": 249,
+      "opponentRank": 98,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sat, 16 May, 2026",
+      "dateIso": "2026-05-16",
+      "tournamentId": "414",
+      "tournamentYear": "2026",
+      "tournamentName": "Bitpanda Hamburg Open",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "1-6 6-4 6-3",
+      "matchId": "RES-7FABC78A18",
+      "reason": null,
+      "playerName": "Henri Squire",
+      "opponentName": "Cristian Garin",
+      "opponentKey": "cristiangarin",
+      "result": "W",
+      "playerRank": 249,
+      "opponentRank": 114,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

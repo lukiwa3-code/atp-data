@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/madrid/1536/2026/results",
   "tournament": {
     "id": "1536",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Mutua Madrid Open",
     "location": "Madrid, Spain",
     "date": "22 April - 3 May, 2026",
     "month": "April, 2026",
-    "dateStart": "2026-04-22",
-    "dateEnd": "2026-05-03",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "1000",
     "eventType": "Tour",
     "surface": "Clay",
@@ -35,8 +25,6 @@
     "prizeMoney": "€8,235,540",
     "totalFinancialCommitment": "€9,796,140"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "count": 129,
   "players": [
     {

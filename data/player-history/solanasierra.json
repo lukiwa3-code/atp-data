@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "solanasierra",
+    "name": "Solana Sierra",
+    "displayName": "Solana Sierra",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9900",
+      "tournamentYear": "2026",
+      "tournamentName": "United Cup",
+      "tournamentType": "UC",
+      "surface": "Hard",
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "score": "6-2 6-2",
+      "matchId": "RES-7C1D667CD7",
+      "reason": null,
+      "playerName": "Solana Sierra",
+      "opponentName": "Belinda Bencic",
+      "opponentKey": "belindabencic",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

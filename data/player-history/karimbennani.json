@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "karimbennani",
+    "name": "Karim Bennani",
+    "displayName": "K. Bennani",
+    "playerId": "B0QQ"
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Wed, 01 April, 2026",
+      "dateIso": "2026-04-01",
+      "tournamentId": "360",
+      "tournamentYear": "2026",
+      "tournamentName": "Grand Prix Hassan II",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "score": "6-4 6-7(3) 6-2",
+      "matchId": "RES-82FC70D42A",
+      "reason": null,
+      "playerName": "Karim Bennani",
+      "opponentName": "Yannick Hanfmann",
+      "opponentKey": "yannickhanfmann",
+      "result": "L",
+      "playerRank": 731,
+      "opponentRank": 61,
+      "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 30 March, 2026",
+      "dateIso": "2026-03-30",
+      "tournamentId": "360",
+      "tournamentYear": "2026",
+      "tournamentName": "Grand Prix Hassan II",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-7(5) 6-2",
+      "matchId": "RES-5D7FF1DEEC",
+      "reason": null,
+      "playerName": "Karim Bennani",
+      "opponentName": "Quentin Halys",
+      "opponentKey": "quentinhalys",
+      "result": "W",
+      "playerRank": 731,
+      "opponentRank": 90,
+      "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

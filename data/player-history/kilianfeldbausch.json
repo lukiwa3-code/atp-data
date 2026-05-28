@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "kilianfeldbausch",
+    "name": "Kilian Feldbausch",
+    "displayName": "Kilian Feldbausch",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Sun, 17 May, 2026",
+      "dateIso": "2026-05-17",
+      "tournamentId": "322",
+      "tournamentYear": "2026",
+      "tournamentName": "Gonet Geneva Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-3 6-2",
+      "matchId": "RES-E528FA3238",
+      "reason": null,
+      "playerName": "Kilian Feldbausch",
+      "opponentName": "Nishesh Basavareddy",
+      "opponentKey": "nisheshbasavareddy",
+      "result": "L",
+      "playerRank": 366,
+      "opponentRank": 148,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sat, 16 May, 2026",
+      "dateIso": "2026-05-16",
+      "tournamentId": "322",
+      "tournamentYear": "2026",
+      "tournamentName": "Gonet Geneva Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-0",
+      "matchId": "RES-0B71CD5F65",
+      "reason": null,
+      "playerName": "Kilian Feldbausch",
+      "opponentName": "Sebastian Ofner",
+      "opponentKey": "sebastianofner",
+      "result": "W",
+      "playerRank": 366,
+      "opponentRank": 112,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "nielsmcdonald",
+    "name": "Niels McDonald",
+    "displayName": "Niels McDonald",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 16 May, 2026",
+      "dateIso": "2026-05-16",
+      "tournamentId": "414",
+      "tournamentYear": "2026",
+      "tournamentName": "Bitpanda Hamburg Open",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 6-0",
+      "matchId": "RES-408A2D7A8B",
+      "reason": null,
+      "playerName": "Niels McDonald",
+      "opponentName": "Ignacio Buse",
+      "opponentKey": "ignaciobuse",
+      "result": "L",
+      "playerRank": 1014,
+      "opponentRank": 31,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

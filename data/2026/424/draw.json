@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/dallas/424/2026/draws",
   "tournament": {
     "id": "424",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Nexo Dallas Open",
     "location": "Dallas, United States",
     "date": "9 - 15 February, 2026",
     "month": "February, 2026",
-    "dateStart": "2026-02-09",
-    "dateEnd": "2026-02-15",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "500",
     "eventType": "Tour",
     "surface": "Hard",
@@ -35,14 +25,8 @@
     "prizeMoney": "$2,833,335",
     "totalFinancialCommitment": "$3,116,195"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
-  "rankingDatesUsed": [
-    "2026-02-02",
-    "2026-02-09"
-  ],
   "rounds": [
     {
       "round": "F",
@@ -73,17 +57,7 @@
             "7"
           ],
           "winnerName": "Ben Shelton",
-          "formattedScore": "3-6 6-3 7-5",
-          "player1Rank": 7,
-          "player1RankingPoints": 3940,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Taylor Fritz",
-          "player1RankingPlayerId": "FB98",
-          "player2Rank": 9,
-          "player2RankingPoints": 3560,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Ben Shelton",
-          "player2RankingPlayerId": "S0S1"
+          "formattedScore": "3-6 6-3 7-5"
         }
       ]
     },
@@ -114,17 +88,7 @@
             "6 3"
           ],
           "winnerName": "Taylor Fritz",
-          "formattedScore": "7-6(5) 7-6(3)",
-          "player1Rank": 7,
-          "player1RankingPoints": 3940,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Taylor Fritz",
-          "player1RankingPlayerId": "FB98",
-          "player2Rank": 61,
-          "player2RankingPoints": 890,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Marin Cilic",
-          "player2RankingPlayerId": "C977"
+          "formattedScore": "7-6(5) 7-6(3)"
         },
         {
           "bracketOrder": 2,
@@ -149,17 +113,7 @@
             "7"
           ],
           "winnerName": "Ben Shelton",
-          "formattedScore": "4-6 6-4 7-6(4)",
-          "player1Rank": 40,
-          "player1RankingPoints": 1160,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Denis Shapovalov",
-          "player1RankingPlayerId": "SU55",
-          "player2Rank": 9,
-          "player2RankingPoints": 3560,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Ben Shelton",
-          "player2RankingPlayerId": "S0S1"
+          "formattedScore": "4-6 6-4 7-6(4)"
         }
       ]
     },
@@ -192,17 +146,7 @@
             "6 5"
           ],
           "winnerName": "Taylor Fritz",
-          "formattedScore": "6-7(2) 6-4 7-6(5)",
-          "player1Rank": 7,
-          "player1RankingPoints": 3940,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Taylor Fritz",
-          "player1RankingPlayerId": "FB98",
-          "player2Rank": 53,
-          "player2RankingPoints": 960,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Sebastian Korda",
-          "player2RankingPlayerId": "K0AH"
+          "formattedScore": "6-7(2) 6-4 7-6(5)"
         },
         {
           "bracketOrder": 2,
@@ -225,17 +169,7 @@
             "6"
           ],
           "winnerName": "Marin Cilic",
-          "formattedScore": "6-1 6-4",
-          "player1Rank": 181,
-          "player1RankingPoints": 331,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Jack Pinnington Jones",
-          "player1RankingPlayerId": "P0HT",
-          "player2Rank": 61,
-          "player2RankingPoints": 890,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Marin Cilic",
-          "player2RankingPlayerId": "C977"
+          "formattedScore": "6-1 6-4"
         },
         {
           "bracketOrder": 3,
@@ -260,17 +194,7 @@
             "3"
           ],
           "winnerName": "Denis Shapovalov",
-          "formattedScore": "5-7 6-4 6-3",
-          "player1Rank": 40,
-          "player1RankingPoints": 1160,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Denis Shapovalov",
-          "player1RankingPlayerId": "SU55",
-          "player2Rank": 14,
-          "player2RankingPoints": 2535,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Alejandro Davidovich Fokina",
-          "player2RankingPlayerId": "DH50"
+          "formattedScore": "5-7 6-4 6-3"
         },
         {
           "bracketOrder": 4,
@@ -295,17 +219,7 @@
             "6"
           ],
           "winnerName": "Ben Shelton",
-          "formattedScore": "5-7 6-3 6-4",
-          "player1Rank": 66,
-          "player1RankingPoints": 820,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Miomir Kecmanovic",
-          "player1RankingPlayerId": "KI95",
-          "player2Rank": 9,
-          "player2RankingPoints": 3560,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Ben Shelton",
-          "player2RankingPlayerId": "S0S1"
+          "formattedScore": "5-7 6-3 6-4"
         }
       ]
     },
@@ -336,17 +250,7 @@
             "4"
           ],
           "winnerName": "Taylor Fritz",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 7,
-          "player1RankingPoints": 3940,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Taylor Fritz",
-          "player1RankingPlayerId": "FB98",
-          "player2Rank": 29,
-          "player2RankingPoints": 1535,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Brandon Nakashima",
-          "player2RankingPlayerId": "N0AE"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 2,
@@ -369,17 +273,7 @@
             "1"
           ],
           "winnerName": "Sebastian Korda",
-          "formattedScore": "7-5 6-1",
-          "player1Rank": 53,
-          "player1RankingPoints": 960,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Sebastian Korda",
-          "player1RankingPlayerId": "K0AH",
-          "player2Rank": 30,
-          "player2RankingPoints": 1510,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Frances Tiafoe",
-          "player2RankingPlayerId": "TD51"
+          "formattedScore": "7-5 6-1"
         },
         {
           "bracketOrder": 3,
@@ -404,17 +298,7 @@
             "6 4"
           ],
           "winnerName": "Jack Pinnington Jones",
-          "formattedScore": "7-6(5) 4-6 7-6(4)",
-          "player1Rank": 181,
-          "player1RankingPoints": 331,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Jack Pinnington Jones",
-          "player1RankingPlayerId": "P0HT",
-          "player2Rank": 68,
-          "player2RankingPoints": 781,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Eliot Spizzirri",
-          "player2RankingPlayerId": "S0JA"
+          "formattedScore": "7-6(5) 4-6 7-6(4)"
         },
         {
           "bracketOrder": 4,
@@ -437,17 +321,7 @@
             "6"
           ],
           "winnerName": "Marin Cilic",
-          "formattedScore": "7-6(4) 6-3",
-          "player1Rank": 74,
-          "player1RankingPoints": 758,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Ethan Quinn",
-          "player1RankingPlayerId": "Q02L",
-          "player2Rank": 61,
-          "player2RankingPoints": 890,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Marin Cilic",
-          "player2RankingPlayerId": "C977"
+          "formattedScore": "7-6(4) 6-3"
         },
         {
           "bracketOrder": 5,
@@ -470,17 +344,7 @@
             "4"
           ],
           "winnerName": "Denis Shapovalov",
-          "formattedScore": "6-4 6-4",
-          "player1Rank": 40,
-          "player1RankingPoints": 1160,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Denis Shapovalov",
-          "player1RankingPlayerId": "SU55",
-          "player2Rank": 78,
-          "player2RankingPoints": 721,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Aleksandar Kovacevic",
-          "player2RankingPlayerId": "K0AZ"
+          "formattedScore": "6-4 6-4"
         },
         {
           "bracketOrder": 6,
@@ -503,17 +367,7 @@
             "6"
           ],
           "winnerName": "Alejandro Davidovich Fokina",
-          "formattedScore": "6-4 6-4",
-          "player1Rank": 41,
-          "player1RankingPoints": 1160,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Alex Michelsen",
-          "player1RankingPlayerId": "M0QI",
-          "player2Rank": 14,
-          "player2RankingPoints": 2535,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Alejandro Davidovich Fokina",
-          "player2RankingPlayerId": "DH50"
+          "formattedScore": "6-4 6-4"
         },
         {
           "bracketOrder": 7,
@@ -538,17 +392,7 @@
             "6"
           ],
           "winnerName": "Miomir Kecmanovic",
-          "formattedScore": "5-7 6-4 6-4",
-          "player1Rank": 24,
-          "player1RankingPoints": 1700,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Tommy Paul",
-          "player1RankingPlayerId": "PL56",
-          "player2Rank": 66,
-          "player2RankingPoints": 820,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Miomir Kecmanovic",
-          "player2RankingPlayerId": "KI95"
+          "formattedScore": "5-7 6-4 6-4"
         },
         {
           "bracketOrder": 8,
@@ -573,17 +417,7 @@
             "6"
           ],
           "winnerName": "Ben Shelton",
-          "formattedScore": "7-6(2) 6-7(4) 6-3",
-          "player1Rank": 52,
-          "player1RankingPoints": 975,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Adrian Mannarino",
-          "player1RankingPlayerId": "ME82",
-          "player2Rank": 9,
-          "player2RankingPoints": 3560,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Ben Shelton",
-          "player2RankingPlayerId": "S0S1"
+          "formattedScore": "7-6(2) 6-7(4) 6-3"
         }
       ]
     },
@@ -616,17 +450,7 @@
             "6 1"
           ],
           "winnerName": "Taylor Fritz",
-          "formattedScore": "6-4 5-7 7-6(1)",
-          "player1Rank": 7,
-          "player1RankingPoints": 3940,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Taylor Fritz",
-          "player1RankingPlayerId": "FB98",
-          "player2Rank": 59,
-          "player2RankingPoints": 895,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Marcos Giron",
-          "player2RankingPlayerId": "GC88"
+          "formattedScore": "6-4 5-7 7-6(1)"
         },
         {
           "bracketOrder": 2,
@@ -649,17 +473,7 @@
             "4"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 29,
-          "player1RankingPoints": 1535,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Brandon Nakashima",
-          "player1RankingPlayerId": "N0AE",
-          "player2Rank": 107,
-          "player2RankingPoints": 553,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Mattia Bellucci",
-          "player2RankingPlayerId": "B0GG"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 3,
@@ -682,17 +496,7 @@
             "6"
           ],
           "winnerName": "Sebastian Korda",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 151,
-          "player1RankingPoints": 414,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Michael Zheng",
-          "player1RankingPlayerId": "Z0BZ",
-          "player2Rank": 53,
-          "player2RankingPoints": 960,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Sebastian Korda",
-          "player2RankingPlayerId": "K0AH"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 4,
@@ -717,17 +521,7 @@
             "6"
           ],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": "4-6 6-2 6-2",
-          "player1Rank": 64,
-          "player1RankingPoints": 849,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Terence Atmane",
-          "player1RankingPlayerId": "A0GC",
-          "player2Rank": 30,
-          "player2RankingPoints": 1510,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Frances Tiafoe",
-          "player2RankingPlayerId": "TD51"
+          "formattedScore": "4-6 6-2 6-2"
         },
         {
           "bracketOrder": 5,
@@ -750,17 +544,7 @@
             "6"
           ],
           "winnerName": "Jack Pinnington Jones",
-          "formattedScore": "6-2 6-2",
-          "player1Rank": 20,
-          "player1RankingPoints": 1955,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Flavio Cobolli",
-          "player1RankingPlayerId": "C0E9",
-          "player2Rank": 181,
-          "player2RankingPoints": 331,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Jack Pinnington Jones",
-          "player2RankingPlayerId": "P0HT"
+          "formattedScore": "6-2 6-2"
         },
         {
           "bracketOrder": 6,
@@ -783,17 +567,7 @@
             "6"
           ],
           "winnerName": "Eliot Spizzirri",
-          "formattedScore": "6-2 6-4",
-          "player1Rank": 83,
-          "player1RankingPoints": 691,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "James Duckworth",
-          "player1RankingPlayerId": "D994",
-          "player2Rank": 68,
-          "player2RankingPoints": 781,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Eliot Spizzirri",
-          "player2RankingPlayerId": "S0JA"
+          "formattedScore": "6-2 6-4"
         },
         {
           "bracketOrder": 7,
@@ -816,17 +590,7 @@
             "7"
           ],
           "winnerName": "Ethan Quinn",
-          "formattedScore": "7-6(3) 7-5",
-          "player1Rank": 363,
-          "player1RankingPoints": 131,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Trevor Svajda",
-          "player1RankingPlayerId": "S0VM",
-          "player2Rank": 74,
-          "player2RankingPoints": 758,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Ethan Quinn",
-          "player2RankingPlayerId": "Q02L"
+          "formattedScore": "7-6(3) 7-5"
         },
         {
           "bracketOrder": 8,
@@ -849,17 +613,7 @@
             "6 4"
           ],
           "winnerName": "Marin Cilic",
-          "formattedScore": "7-5 7-6(4)",
-          "player1Rank": 61,
-          "player1RankingPoints": 890,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Marin Cilic",
-          "player1RankingPlayerId": "C977",
-          "player2Rank": 23,
-          "player2RankingPoints": 1710,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Learner Tien",
-          "player2RankingPlayerId": "T0HA"
+          "formattedScore": "7-5 7-6(4)"
         },
         {
           "bracketOrder": 9,
@@ -882,17 +636,7 @@
             "2"
           ],
           "winnerName": "Denis Shapovalov",
-          "formattedScore": "6-1 6-2",
-          "player1Rank": 40,
-          "player1RankingPoints": 1160,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Denis Shapovalov",
-          "player1RankingPlayerId": "SU55",
-          "player2Rank": 124,
-          "player2RankingPoints": 498,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Rafael Jodar",
-          "player2RankingPlayerId": "J0DZ"
+          "formattedScore": "6-1 6-2"
         },
         {
           "bracketOrder": 10,
@@ -915,17 +659,7 @@
             "6 1"
           ],
           "winnerName": "Aleksandar Kovacevic",
-          "formattedScore": "6-4 7-6(1)",
-          "player1Rank": 78,
-          "player1RankingPoints": 721,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Aleksandar Kovacevic",
-          "player1RankingPlayerId": "K0AZ",
-          "player2Rank": 109,
-          "player2RankingPoints": 552,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Patrick Kypson",
-          "player2RankingPlayerId": "K0A3"
+          "formattedScore": "6-4 7-6(1)"
         },
         {
           "bracketOrder": 11,
@@ -950,17 +684,7 @@
             "6"
           ],
           "winnerName": "Alex Michelsen",
-          "formattedScore": "5-7 6-4 6-4",
-          "player1Rank": 43,
-          "player1RankingPoints": 1105,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Grigor Dimitrov",
-          "player1RankingPlayerId": "D875",
-          "player2Rank": 41,
-          "player2RankingPoints": 1160,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Alex Michelsen",
-          "player2RankingPlayerId": "M0QI"
+          "formattedScore": "5-7 6-4 6-4"
         },
         {
           "bracketOrder": 12,
@@ -983,17 +707,7 @@
             "7"
           ],
           "winnerName": "Alejandro Davidovich Fokina",
-          "formattedScore": "6-4 7-6(1)",
-          "player1Rank": 110,
-          "player1RankingPoints": 551,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Zachary Svajda",
-          "player1RankingPlayerId": "S0K7",
-          "player2Rank": 14,
-          "player2RankingPoints": 2535,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Alejandro Davidovich Fokina",
-          "player2RankingPlayerId": "DH50"
+          "formattedScore": "6-4 7-6(1)"
         },
         {
           "bracketOrder": 13,
@@ -1018,17 +732,7 @@
             "6 4"
           ],
           "winnerName": "Tommy Paul",
-          "formattedScore": "4-6 6-4 7-6(4)",
-          "player1Rank": 24,
-          "player1RankingPoints": 1700,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Tommy Paul",
-          "player1RankingPlayerId": "PL56",
-          "player2Rank": 45,
-          "player2RankingPoints": 1042,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Jenson Brooksby",
-          "player2RankingPlayerId": "B0CD"
+          "formattedScore": "4-6 6-4 7-6(4)"
         },
         {
           "bracketOrder": 14,
@@ -1053,17 +757,7 @@
             "7"
           ],
           "winnerName": "Miomir Kecmanovic",
-          "formattedScore": "6-7(3) 6-3 7-6(3)",
-          "player1Rank": 144,
-          "player1RankingPoints": 441,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Sho Shimabukuro",
-          "player1RankingPlayerId": "SY67",
-          "player2Rank": 66,
-          "player2RankingPoints": 820,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Miomir Kecmanovic",
-          "player2RankingPlayerId": "KI95"
+          "formattedScore": "6-7(3) 6-3 7-6(3)"
         },
         {
           "bracketOrder": 15,
@@ -1086,17 +780,7 @@
             "6"
           ],
           "winnerName": "Adrian Mannarino",
-          "formattedScore": "6-4 6-2",
-          "player1Rank": 93,
-          "player1RankingPoints": 643,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Adam Walton",
-          "player1RankingPlayerId": "W09E",
-          "player2Rank": 52,
-          "player2RankingPoints": 975,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Adrian Mannarino",
-          "player2RankingPlayerId": "ME82"
+          "formattedScore": "6-4 6-2"
         },
         {
           "bracketOrder": 16,
@@ -1119,17 +803,7 @@
             "6"
           ],
           "winnerName": "Ben Shelton",
-          "formattedScore": "6-4 6-4",
-          "player1Rank": 38,
-          "player1RankingPoints": 1175,
-          "player1RankingDate": "2026-02-09",
-          "player1RankingName": "Gabriel Diallo",
-          "player1RankingPlayerId": "D0F6",
-          "player2Rank": 9,
-          "player2RankingPoints": 3560,
-          "player2RankingDate": "2026-02-09",
-          "player2RankingName": "Ben Shelton",
-          "player2RankingPlayerId": "S0S1"
+          "formattedScore": "6-4 6-4"
         }
       ]
     }

@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rome/416/2026/results",
   "tournament": {
     "id": "416",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Internazionali BNL d'Italia",
     "location": "Rome, Italy",
     "date": "6 - 17 May, 2026",
     "month": "May, 2026",
-    "dateStart": "2026-05-06",
-    "dateEnd": "2026-05-17",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "1000",
     "eventType": "Tour",
     "surface": "Clay",
@@ -35,8 +25,6 @@
     "prizeMoney": "€8,235,540",
     "totalFinancialCommitment": "€9,647,275"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "count": 130,
   "players": [
     {

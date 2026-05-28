@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "danadded",
+    "name": "Dan Added",
+    "displayName": "Dan Added",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Tue, 19 May, 2026",
+      "dateIso": "2026-05-19",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-0",
+      "matchId": "RES-138A4034C7",
+      "reason": null,
+      "playerName": "Dan Added",
+      "opponentName": "Gustavo Heide",
+      "opponentKey": "gustavoheide",
+      "result": "L",
+      "playerRank": 230,
+      "opponentRank": 187,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-3",
+      "matchId": "RES-F6805056FA",
+      "reason": null,
+      "playerName": "Dan Added",
+      "opponentName": "Giulio Zeppieri",
+      "opponentKey": "giuliozeppieri",
+      "result": "L",
+      "playerRank": 200,
+      "opponentRank": 156,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

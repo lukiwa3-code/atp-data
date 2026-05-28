@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "alexfinkelstein",
+    "name": "Alex Finkelstein",
+    "displayName": "Alex Finkelstein",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 07 February, 2026",
+      "dateIso": "2026-02-07",
+      "tournamentId": "424",
+      "tournamentYear": "2026",
+      "tournamentName": "Nexo Dallas Open",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-2",
+      "matchId": "RES-00A6BEC80B",
+      "reason": null,
+      "playerName": "Alex Finkelstein",
+      "opponentName": "Tristan Boyer",
+      "opponentKey": "tristanboyer",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 218,
+      "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

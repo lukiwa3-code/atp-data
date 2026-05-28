@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "marklajal",
+    "name": "Mark Lajal",
+    "displayName": "Mark Lajal",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Tue, 19 May, 2026",
+      "dateIso": "2026-05-19",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-0B0605C35D",
+      "reason": null,
+      "playerName": "Mark Lajal",
+      "opponentName": "Roman Safiullin",
+      "opponentKey": "romansafiullin",
+      "result": "L",
+      "playerRank": 157,
+      "opponentRank": 142,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(4) 6-4",
+      "matchId": "RES-5846467C9B",
+      "reason": null,
+      "playerName": "Mark Lajal",
+      "opponentName": "Francesco Passaro",
+      "opponentKey": "francescopassaro",
+      "result": "L",
+      "playerRank": 153,
+      "opponentRank": 140,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

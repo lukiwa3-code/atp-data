@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "alecdeckers",
+    "name": "Alec Deckers",
+    "displayName": "Alec Deckers",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 08 February, 2026",
+      "dateIso": "2026-02-08",
+      "tournamentId": "407",
+      "tournamentYear": "2026",
+      "tournamentName": "ABN AMRO Open",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-7(2) 7-6(2)",
+      "matchId": "RES-0F2170D44F",
+      "reason": null,
+      "playerName": "Alec Deckers",
+      "opponentName": "Hugo Gaston",
+      "opponentKey": "hugogaston",
+      "result": "L",
+      "playerRank": 623,
+      "opponentRank": 99,
+      "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

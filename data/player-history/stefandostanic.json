@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "stefandostanic",
+    "name": "Stefan Dostanic",
+    "displayName": "Stefan Dostanic",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 28 March, 2026",
+      "dateIso": "2026-03-28",
+      "tournamentId": "717",
+      "tournamentYear": "2026",
+      "tournamentName": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-3",
+      "matchId": "RES-CCC2484AB0",
+      "reason": null,
+      "playerName": "Stefan Dostanic",
+      "opponentName": "Andy Andrade",
+      "opponentKey": "andyandrade",
+      "result": "L",
+      "playerRank": 261,
+      "opponentRank": 223,
+      "rankingDate": "2026-03-23",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

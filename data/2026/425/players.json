@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/barcelona/425/2026/results",
   "tournament": {
     "id": "425",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Barcelona Open Banc Sabadell",
     "location": "Barcelona, Spain",
     "date": "13 - 19 April, 2026",
     "month": "April, 2026",
-    "dateStart": "2026-04-13",
-    "dateEnd": "2026-04-19",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "500",
     "eventType": "Tour",
     "surface": "Clay",
@@ -35,8 +25,6 @@
     "prizeMoney": "€2,950,310",
     "totalFinancialCommitment": "€2,977,865"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "count": 49,
   "players": [
     {

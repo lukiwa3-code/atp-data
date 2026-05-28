@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "ryanpeniston",
+    "name": "Ryan Peniston",
+    "displayName": "Ryan Peniston",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Tue, 13 January, 2026",
+      "dateIso": "2026-01-13",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-1",
+      "matchId": "RES-380376B725",
+      "reason": null,
+      "playerName": "Ryan Peniston",
+      "opponentName": "Roman Andres Burruchaga",
+      "opponentKey": "romanandresburruchaga",
+      "result": "L",
+      "playerRank": 219,
+      "opponentRank": 103,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

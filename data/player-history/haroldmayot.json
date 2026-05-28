@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "haroldmayot",
+    "name": "Harold Mayot",
+    "displayName": "Harold Mayot",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Tue, 19 May, 2026",
+      "dateIso": "2026-05-19",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 1-6 6-3",
+      "matchId": "RES-FAE811B4CC",
+      "reason": null,
+      "playerName": "Harold Mayot",
+      "opponentName": "Tomas Barrios Vera",
+      "opponentKey": "tomasbarriosvera",
+      "result": "L",
+      "playerRank": 217,
+      "opponentRank": 135,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 13 January, 2026",
+      "dateIso": "2026-01-13",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-4",
+      "matchId": "RES-89DE863AB4",
+      "reason": null,
+      "playerName": "Harold Mayot",
+      "opponentName": "Jason Kubler",
+      "opponentKey": "jasonkubler",
+      "result": "L",
+      "playerRank": 159,
+      "opponentRank": 192,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

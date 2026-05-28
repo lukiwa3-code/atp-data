@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "saschagueymardwayenburg",
+    "name": "Sascha Gueymard Wayenburg",
+    "displayName": "Sascha Gueymard Wayenburg",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Tue, 19 May, 2026",
+      "dateIso": "2026-05-19",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-4",
+      "matchId": "RES-F8D56A19DB",
+      "reason": null,
+      "playerName": "Sascha Gueymard Wayenburg",
+      "opponentName": "Borna Gojo",
+      "opponentKey": "bornagojo",
+      "result": "L",
+      "playerRank": 265,
+      "opponentRank": 172,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 13 January, 2026",
+      "dateIso": "2026-01-13",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 7-6(6)",
+      "matchId": "RES-F169597153",
+      "reason": null,
+      "playerName": "Sascha Gueymard Wayenburg",
+      "opponentName": "Tomas Barrios Vera",
+      "opponentKey": "tomasbarriosvera",
+      "result": "L",
+      "playerRank": 198,
+      "opponentRank": 107,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

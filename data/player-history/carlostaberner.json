@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "carlostaberner",
+    "name": "Carlos Taberner",
+    "displayName": "C. Taberner",
+    "playerId": "TE16"
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Tue, 20 January, 2026",
+      "dateIso": "2026-01-20",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "R128",
+      "roundLong": "Round of 128",
+      "score": "6-4 6-0 6-3",
+      "matchId": "RES-DC997EB6A7",
+      "reason": null,
+      "playerName": "Carlos Taberner",
+      "opponentName": "Lorenzo Sonego",
+      "opponentKey": "lorenzosonego",
+      "result": "L",
+      "playerRank": 99,
+      "opponentRank": 40,
+      "rankingDate": "2026-01-19",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "8998",
+      "tournamentYear": "2026",
+      "tournamentName": "Adelaide International",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-2",
+      "matchId": "RES-25A8875C81",
+      "reason": null,
+      "playerName": "Carlos Taberner",
+      "opponentName": "Aleksandr Shevchenko",
+      "opponentKey": "aleksandrshevchenko",
+      "result": "L",
+      "playerRank": 98,
+      "opponentRank": 104,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

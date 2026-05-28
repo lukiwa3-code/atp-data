@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "rodrigopachecomendez",
+    "name": "Rodrigo Pacheco Mendez",
+    "displayName": "R. Pacheco Mendez",
+    "playerId": "P0J1"
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Tue, 24 February, 2026",
+      "dateIso": "2026-02-24",
+      "tournamentId": "807",
+      "tournamentYear": "2026",
+      "tournamentName": "Abierto Mexicano Telcel presentado por HSBC",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(3) 7-6(3)",
+      "matchId": "RES-9AC730A677",
+      "reason": null,
+      "playerName": "Rodrigo Pacheco Mendez",
+      "opponentName": "Flavio Cobolli",
+      "opponentKey": "flaviocobolli",
+      "result": "L",
+      "playerRank": 218,
+      "opponentRank": 20,
+      "rankingDate": "2026-02-23",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 13 January, 2026",
+      "dateIso": "2026-01-13",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-2",
+      "matchId": "RES-427C6D9815",
+      "reason": null,
+      "playerName": "Rodrigo Pacheco Mendez",
+      "opponentName": "Adolfo Daniel Vallejo",
+      "opponentKey": "adolfodanielvallejo",
+      "result": "L",
+      "playerRank": 232,
+      "opponentRank": 146,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

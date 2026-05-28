@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "manasdhamne",
+    "name": "Manas Dhamne",
+    "displayName": "Manas Dhamne",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Mon, 20 April, 2026",
+      "dateIso": "2026-04-20",
+      "tournamentId": "1536",
+      "tournamentYear": "2026",
+      "tournamentName": "Mutua Madrid Open",
+      "tournamentType": "1000",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 7-5",
+      "matchId": "RES-7D493B0FBA",
+      "reason": null,
+      "playerName": "Manas Dhamne",
+      "opponentName": "Yibing Wu",
+      "opponentKey": "yibingwu",
+      "result": "L",
+      "playerRank": 444,
+      "opponentRank": 100,
+      "rankingDate": "2026-04-20",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 16 March, 2026",
+      "dateIso": "2026-03-16",
+      "tournamentId": "403",
+      "tournamentYear": "2026",
+      "tournamentName": "Miami Open presented by Itau",
+      "tournamentType": "1000",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 7-6(4)",
+      "matchId": "RES-28862CC231",
+      "reason": null,
+      "playerName": "Manas Dhamne",
+      "opponentName": "Rafael Jodar",
+      "opponentKey": "rafaeljodar",
+      "result": "L",
+      "playerRank": 460,
+      "opponentRank": 109,
+      "rankingDate": "2026-03-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

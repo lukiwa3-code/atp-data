@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "moeranibouzige",
+    "name": "Moerani Bouzige",
+    "displayName": "Moerani Bouzige",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Tue, 13 January, 2026",
+      "dateIso": "2026-01-13",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(3) 6-3",
+      "matchId": "RES-FB45C4E9CE",
+      "reason": null,
+      "playerName": "Moerani Bouzige",
+      "opponentName": "Liam Draxl",
+      "opponentKey": "liamdraxl",
+      "result": "L",
+      "playerRank": 467,
+      "opponentRank": 145,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

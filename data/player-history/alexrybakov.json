@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "alexrybakov",
+    "name": "Alex Rybakov",
+    "displayName": "Alex Rybakov",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Sat, 28 March, 2026",
+      "dateIso": "2026-03-28",
+      "tournamentId": "717",
+      "tournamentYear": "2026",
+      "tournamentName": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "5-7 6-2 6-4",
+      "matchId": "RES-58FFA128B7",
+      "reason": null,
+      "playerName": "Alex Rybakov",
+      "opponentName": "Alex Bolt",
+      "opponentKey": "alexbolt",
+      "result": "L",
+      "playerRank": 357,
+      "opponentRank": 152,
+      "rankingDate": "2026-03-23",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sat, 07 February, 2026",
+      "dateIso": "2026-02-07",
+      "tournamentId": "424",
+      "tournamentYear": "2026",
+      "tournamentName": "Nexo Dallas Open",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 6-3",
+      "matchId": "RES-C68A8BDF03",
+      "reason": null,
+      "playerName": "Alex Rybakov",
+      "opponentName": "Murphy Cassone",
+      "opponentKey": "murphycassone",
+      "result": "L",
+      "playerRank": 297,
+      "opponentRank": 244,
+      "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/results",
   "tournament": {
     "id": "580",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Australian Open",
     "location": "Melbourne, Australia",
     "date": "18 January - 1 February, 2026",
     "month": "January, 2026",
-    "dateStart": "2026-01-18",
-    "dateEnd": "2026-02-01",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "GS",
     "eventType": "GS",
     "surface": "Hard",
@@ -35,8 +25,6 @@
     "prizeMoney": "A$49,171,000",
     "totalFinancialCommitment": "A$49,171,000"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "count": 235,
   "players": [
     {

@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/draws",
   "tournament": {
     "id": "339",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Brisbane International presented by ANZ",
     "location": "Brisbane, Australia",
     "date": "4 - 11 January, 2026",
     "month": "January, 2026",
-    "dateStart": "2026-01-04",
-    "dateEnd": "2026-01-11",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Hard",
@@ -35,14 +25,8 @@
     "prizeMoney": "$800,045",
     "totalFinancialCommitment": "$888,349"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
-  "rankingDatesUsed": [
-    "2025-12-29",
-    "2026-01-05"
-  ],
   "rounds": [
     {
       "round": "F",
@@ -71,17 +55,7 @@
             "6 1"
           ],
           "winnerName": "Daniil Medvedev",
-          "formattedScore": "6-2 7-6(1)",
-          "player1Rank": 13,
-          "player1RankingPoints": 2710,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Daniil Medvedev",
-          "player1RankingPlayerId": "MM58",
-          "player2Rank": 35,
-          "player2RankingPoints": 1380,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Brandon Nakashima",
-          "player2RankingPlayerId": "N0AE"
+          "formattedScore": "6-2 7-6(1)"
         }
       ]
     },
@@ -112,17 +86,7 @@
             "2"
           ],
           "winnerName": "Daniil Medvedev",
-          "formattedScore": "6-4 6-2",
-          "player1Rank": 13,
-          "player1RankingPoints": 2710,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Daniil Medvedev",
-          "player1RankingPlayerId": "MM58",
-          "player2Rank": 38,
-          "player2RankingPoints": 1300,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Alex Michelsen",
-          "player2RankingPlayerId": "M0QI"
+          "formattedScore": "6-4 6-2"
         },
         {
           "bracketOrder": 2,
@@ -145,17 +109,7 @@
             "6"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "7-6(4) 6-4",
-          "player1Rank": 60,
-          "player1RankingPoints": 877,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Aleksandar Kovacevic",
-          "player1RankingPlayerId": "K0AZ",
-          "player2Rank": 35,
-          "player2RankingPoints": 1380,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Brandon Nakashima",
-          "player2RankingPlayerId": "N0AE"
+          "formattedScore": "7-6(4) 6-4"
         }
       ]
     },
@@ -188,17 +142,7 @@
             "2"
           ],
           "winnerName": "Daniil Medvedev",
-          "formattedScore": "6-7(4) 6-3 6-2",
-          "player1Rank": 13,
-          "player1RankingPoints": 2710,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Daniil Medvedev",
-          "player1RankingPlayerId": "MM58",
-          "player2Rank": 62,
-          "player2RankingPoints": 861,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Kamil Majchrzak",
-          "player2RankingPlayerId": "MQ75"
+          "formattedScore": "6-7(4) 6-3 6-2"
         },
         {
           "bracketOrder": 2,
@@ -221,17 +165,7 @@
             "7"
           ],
           "winnerName": "Alex Michelsen",
-          "formattedScore": "6-3 7-6(7)",
-          "player1Rank": 48,
-          "player1RankingPoints": 1090,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Sebastian Korda",
-          "player1RankingPlayerId": "K0AH",
-          "player2Rank": 38,
-          "player2RankingPoints": 1300,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Alex Michelsen",
-          "player2RankingPlayerId": "M0QI"
+          "formattedScore": "6-3 7-6(7)"
         },
         {
           "bracketOrder": 3,
@@ -256,17 +190,7 @@
             "3"
           ],
           "winnerName": "Aleksandar Kovacevic",
-          "formattedScore": "7-6(3) 4-6 6-3",
-          "player1Rank": 60,
-          "player1RankingPoints": 877,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Aleksandar Kovacevic",
-          "player1RankingPlayerId": "K0AZ",
-          "player2Rank": 58,
-          "player2RankingPoints": 915,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Giovanni Mpetshi Perricard",
-          "player2RankingPlayerId": "M0GZ"
+          "formattedScore": "7-6(3) 4-6 6-3"
         },
         {
           "bracketOrder": 4,
@@ -289,17 +213,7 @@
             "6"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "6-3 6-3",
-          "player1Rank": 85,
-          "player1RankingPoints": 704,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Raphael Collignon",
-          "player1RankingPlayerId": "C0JP",
-          "player2Rank": 35,
-          "player2RankingPoints": 1380,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Brandon Nakashima",
-          "player2RankingPlayerId": "N0AE"
+          "formattedScore": "6-3 6-3"
         }
       ]
     },
@@ -330,17 +244,7 @@
             "2"
           ],
           "winnerName": "Daniil Medvedev",
-          "formattedScore": "6-3 6-2",
-          "player1Rank": 13,
-          "player1RankingPoints": 2710,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Daniil Medvedev",
-          "player1RankingPlayerId": "MM58",
-          "player2Rank": 30,
-          "player2RankingPoints": 1500,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Frances Tiafoe",
-          "player2RankingPlayerId": "TD51"
+          "formattedScore": "6-3 6-2"
         },
         {
           "bracketOrder": 2,
@@ -365,17 +269,7 @@
             "6 8"
           ],
           "winnerName": "Kamil Majchrzak",
-          "formattedScore": "6-7(2) 7-6(7) 7-6(8)",
-          "player1Rank": 62,
-          "player1RankingPoints": 861,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Kamil Majchrzak",
-          "player1RankingPlayerId": "MQ75",
-          "player2Rank": 52,
-          "player2RankingPoints": 1013,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Reilly Opelka",
-          "player2RankingPlayerId": "O522"
+          "formattedScore": "6-7(2) 7-6(7) 7-6(8)"
         },
         {
           "bracketOrder": 3,
@@ -398,17 +292,7 @@
             "1"
           ],
           "winnerName": "Sebastian Korda",
-          "formattedScore": "6 1",
-          "player1Rank": 18,
-          "player1RankingPoints": 2315,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Jiri Lehecka",
-          "player1RankingPlayerId": "L0BV",
-          "player2Rank": 48,
-          "player2RankingPoints": 1090,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Sebastian Korda",
-          "player2RankingPlayerId": "K0AH"
+          "formattedScore": "6 1"
         },
         {
           "bracketOrder": 4,
@@ -431,17 +315,7 @@
             "2"
           ],
           "winnerName": "Alex Michelsen",
-          "formattedScore": "6-4 6-2",
-          "player1Rank": 38,
-          "player1RankingPoints": 1300,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Alex Michelsen",
-          "player1RankingPlayerId": "M0QI",
-          "player2Rank": 28,
-          "player2RankingPoints": 1540,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Learner Tien",
-          "player2RankingPlayerId": "T0HA"
+          "formattedScore": "6-4 6-2"
         },
         {
           "bracketOrder": 5,
@@ -466,17 +340,7 @@
             "6"
           ],
           "winnerName": "Aleksandar Kovacevic",
-          "formattedScore": "7-6(4) 4-6 6-4",
-          "player1Rank": 27,
-          "player1RankingPoints": 1563,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Cameron Norrie",
-          "player1RankingPlayerId": "N771",
-          "player2Rank": 60,
-          "player2RankingPoints": 877,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Aleksandar Kovacevic",
-          "player2RankingPlayerId": "K0AZ"
+          "formattedScore": "7-6(4) 4-6 6-4"
         },
         {
           "bracketOrder": 6,
@@ -501,17 +365,7 @@
             "7"
           ],
           "winnerName": "Giovanni Mpetshi Perricard",
-          "formattedScore": "4-6 7-6(5) 7-6(4)",
-          "player1Rank": 113,
-          "player1RankingPoints": 546,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Rinky Hijikata",
-          "player1RankingPlayerId": "H0BH",
-          "player2Rank": 58,
-          "player2RankingPoints": 915,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Giovanni Mpetshi Perricard",
-          "player2RankingPlayerId": "M0GZ"
+          "formattedScore": "4-6 7-6(5) 7-6(4)"
         },
         {
           "bracketOrder": 7,
@@ -534,17 +388,7 @@
             "3"
           ],
           "winnerName": "Raphael Collignon",
-          "formattedScore": "7-6(1) 6-3",
-          "player1Rank": 85,
-          "player1RankingPoints": 704,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Raphael Collignon",
-          "player1RankingPlayerId": "C0JP",
-          "player2Rank": 44,
-          "player2RankingPoints": 1180,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Grigor Dimitrov",
-          "player2RankingPlayerId": "D875"
+          "formattedScore": "7-6(1) 6-3"
         },
         {
           "bracketOrder": 8,
@@ -567,17 +411,7 @@
             "6"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "6-2 6-4",
-          "player1Rank": 91,
-          "player1RankingPoints": 669,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Quentin Halys",
-          "player1RankingPlayerId": "HB64",
-          "player2Rank": 35,
-          "player2RankingPoints": 1380,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Brandon Nakashima",
-          "player2RankingPlayerId": "N0AE"
+          "formattedScore": "6-2 6-4"
         }
       ]
     },
@@ -608,17 +442,7 @@
             "3"
           ],
           "winnerName": "Daniil Medvedev",
-          "formattedScore": "6-2 6-3",
-          "player1Rank": 13,
-          "player1RankingPoints": 2710,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Daniil Medvedev",
-          "player1RankingPlayerId": "MM58",
-          "player2Rank": 55,
-          "player2RankingPoints": 956,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Marton Fucsovics",
-          "player2RankingPlayerId": "F724"
+          "formattedScore": "6-2 6-3"
         },
         {
           "bracketOrder": 2,
@@ -641,17 +465,7 @@
             "6"
           ],
           "winnerName": "Frances Tiafoe",
-          "formattedScore": "6-2 6-2",
-          "player1Rank": 84,
-          "player1RankingPoints": 708,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Aleksandar Vukic",
-          "player1RankingPlayerId": "V832",
-          "player2Rank": 30,
-          "player2RankingPoints": 1500,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Frances Tiafoe",
-          "player2RankingPlayerId": "TD51"
+          "formattedScore": "6-2 6-2"
         },
         {
           "bracketOrder": 3,
@@ -674,17 +488,7 @@
             "0"
           ],
           "winnerName": "Kamil Majchrzak",
-          "formattedScore": "7-6(4) 6-0",
-          "player1Rank": 62,
-          "player1RankingPoints": 861,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Kamil Majchrzak",
-          "player1RankingPlayerId": "MQ75",
-          "player2Rank": 46,
-          "player2RankingPoints": 1123,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Daniel Altmaier",
-          "player2RankingPlayerId": "AE14"
+          "formattedScore": "7-6(4) 6-0"
         },
         {
           "bracketOrder": 4,
@@ -707,17 +511,7 @@
             "5"
           ],
           "winnerName": "Reilly Opelka",
-          "formattedScore": "6-3 7-5",
-          "player1Rank": 52,
-          "player1RankingPoints": 1013,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Reilly Opelka",
-          "player1RankingPlayerId": "O522",
-          "player2Rank": 182,
-          "player2RankingPoints": 320,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Dane Sweeny",
-          "player2RankingPlayerId": "S0IA"
+          "formattedScore": "6-3 7-5"
         },
         {
           "bracketOrder": 5,
@@ -742,17 +536,7 @@
             "2"
           ],
           "winnerName": "Jiri Lehecka",
-          "formattedScore": "6-4 6-7(5) 6-2",
-          "player1Rank": 18,
-          "player1RankingPoints": 2315,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Jiri Lehecka",
-          "player1RankingPlayerId": "L0BV",
-          "player2Rank": 32,
-          "player2RankingPoints": 1445,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Tomas Machac",
-          "player2RankingPlayerId": "M0FH"
+          "formattedScore": "6-4 6-7(5) 6-2"
         },
         {
           "bracketOrder": 6,
@@ -775,17 +559,7 @@
             "6"
           ],
           "winnerName": "Sebastian Korda",
-          "formattedScore": "7-6(1) 6-3",
-          "player1Rank": 31,
-          "player1RankingPoints": 1483,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Valentin Vacherot",
-          "player1RankingPlayerId": "VA25",
-          "player2Rank": 48,
-          "player2RankingPoints": 1090,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Sebastian Korda",
-          "player2RankingPlayerId": "K0AH"
+          "formattedScore": "7-6(1) 6-3"
         },
         {
           "bracketOrder": 7,
@@ -810,17 +584,7 @@
             "6"
           ],
           "winnerName": "Alex Michelsen",
-          "formattedScore": "6-7(4) 7-6(2) 6-3",
-          "player1Rank": 87,
-          "player1RankingPoints": 694,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "James Duckworth",
-          "player1RankingPlayerId": "D994",
-          "player2Rank": 38,
-          "player2RankingPoints": 1300,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Alex Michelsen",
-          "player2RankingPlayerId": "M0QI"
+          "formattedScore": "6-7(4) 7-6(2) 6-3"
         },
         {
           "bracketOrder": 8,
@@ -843,17 +607,7 @@
             "6"
           ],
           "winnerName": "Learner Tien",
-          "formattedScore": "7-6(4) 6-3",
-          "player1Rank": 49,
-          "player1RankingPoints": 1028,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Camilo Ugo Carabelli",
-          "player1RankingPlayerId": "U182",
-          "player2Rank": 28,
-          "player2RankingPoints": 1540,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Learner Tien",
-          "player2RankingPlayerId": "T0HA"
+          "formattedScore": "7-6(4) 6-3"
         },
         {
           "bracketOrder": 9,
@@ -878,17 +632,7 @@
             "5"
           ],
           "winnerName": "Cameron Norrie",
-          "formattedScore": "1-6 7-6(6) 7-5",
-          "player1Rank": 27,
-          "player1RankingPoints": 1563,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Cameron Norrie",
-          "player1RankingPlayerId": "N771",
-          "player2Rank": 37,
-          "player2RankingPoints": 1370,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Ugo Humbert",
-          "player2RankingPlayerId": "HH26"
+          "formattedScore": "1-6 7-6(6) 7-5"
         },
         {
           "bracketOrder": 10,
@@ -911,17 +655,7 @@
             "6"
           ],
           "winnerName": "Aleksandar Kovacevic",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 671,
-          "player1RankingPoints": 50,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Nick Kyrgios",
-          "player1RankingPlayerId": "KE17",
-          "player2Rank": 60,
-          "player2RankingPoints": 877,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Aleksandar Kovacevic",
-          "player2RankingPlayerId": "K0AZ"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 11,
@@ -944,17 +678,7 @@
             "2"
           ],
           "winnerName": "Rinky Hijikata",
-          "formattedScore": "6-3 6-2",
-          "player1Rank": 113,
-          "player1RankingPoints": 546,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Rinky Hijikata",
-          "player1RankingPlayerId": "H0BH",
-          "player2Rank": 78,
-          "player2RankingPoints": 732,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Adam Walton",
-          "player2RankingPlayerId": "W09E"
+          "formattedScore": "6-3 6-2"
         },
         {
           "bracketOrder": 12,
@@ -979,17 +703,7 @@
             "6 6"
           ],
           "winnerName": "Giovanni Mpetshi Perricard",
-          "formattedScore": "7-6(2) 3-6 7-6(6)",
-          "player1Rank": 58,
-          "player1RankingPoints": 915,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Giovanni Mpetshi Perricard",
-          "player1RankingPlayerId": "M0GZ",
-          "player2Rank": 20,
-          "player2RankingPoints": 2050,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Tommy Paul",
-          "player2RankingPlayerId": "PL56"
+          "formattedScore": "7-6(2) 3-6 7-6(6)"
         },
         {
           "bracketOrder": 13,
@@ -1012,17 +726,7 @@
             "6"
           ],
           "winnerName": "Raphael Collignon",
-          "formattedScore": "6-4 6-2",
-          "player1Rank": 23,
-          "player1RankingPoints": 1665,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Denis Shapovalov",
-          "player1RankingPlayerId": "SU55",
-          "player2Rank": 85,
-          "player2RankingPoints": 704,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Raphael Collignon",
-          "player2RankingPlayerId": "C0JP"
+          "formattedScore": "6-4 6-2"
         },
         {
           "bracketOrder": 14,
@@ -1045,17 +749,7 @@
             "2"
           ],
           "winnerName": "Grigor Dimitrov",
-          "formattedScore": "6-3 6-2",
-          "player1Rank": 44,
-          "player1RankingPoints": 1180,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Grigor Dimitrov",
-          "player1RankingPlayerId": "D875",
-          "player2Rank": 93,
-          "player2RankingPoints": 668,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Pablo Carreno Busta",
-          "player2RankingPlayerId": "CD85"
+          "formattedScore": "6-3 6-2"
         },
         {
           "bracketOrder": 15,
@@ -1080,17 +774,7 @@
             "6"
           ],
           "winnerName": "Quentin Halys",
-          "formattedScore": "5-7 6-3 6-4",
-          "player1Rank": 53,
-          "player1RankingPoints": 1000,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Alexei Popyrin",
-          "player1RankingPlayerId": "P09Z",
-          "player2Rank": 91,
-          "player2RankingPoints": 669,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Quentin Halys",
-          "player2RankingPlayerId": "HB64"
+          "formattedScore": "5-7 6-3 6-4"
         },
         {
           "bracketOrder": 16,
@@ -1113,17 +797,7 @@
             "4"
           ],
           "winnerName": "Brandon Nakashima",
-          "formattedScore": "7-6(4) 6-4",
-          "player1Rank": 35,
-          "player1RankingPoints": 1380,
-          "player1RankingDate": "2025-12-29",
-          "player1RankingName": "Brandon Nakashima",
-          "player1RankingPlayerId": "N0AE",
-          "player2Rank": 14,
-          "player2RankingPoints": 2585,
-          "player2RankingDate": "2025-12-29",
-          "player2RankingName": "Alejandro Davidovich Fokina",
-          "player2RankingPlayerId": "DH50"
+          "formattedScore": "7-6(4) 6-4"
         }
       ]
     }

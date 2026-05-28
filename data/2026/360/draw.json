@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/marrakech/360/2026/draws",
   "tournament": {
     "id": "360",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Grand Prix Hassan II",
     "location": "Marrakech, Morocco",
     "date": "30 March - 5 April, 2026",
     "month": "March, 2026",
-    "dateStart": "2026-03-30",
-    "dateEnd": "2026-04-05",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Clay",
@@ -35,13 +25,8 @@
     "prizeMoney": "€612,620",
     "totalFinancialCommitment": "€691,875"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
-  "rankingDatesUsed": [
-    "2026-03-30"
-  ],
   "rounds": [
     {
       "round": "F",
@@ -70,17 +55,7 @@
             "6"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6-3 6-2",
-          "player1Rank": 117,
-          "player1RankingPoints": 561,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Marco Trungelliti",
-          "player1RankingPlayerId": "TA29",
-          "player2Rank": 89,
-          "player2RankingPoints": 652,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Rafael Jodar",
-          "player2RankingPlayerId": "J0DZ"
+          "formattedScore": "6-3 6-2"
         }
       ]
     },
@@ -111,17 +86,7 @@
             "7"
           ],
           "winnerName": "Marco Trungelliti",
-          "formattedScore": "6-4 7-6(2)",
-          "player1Rank": 19,
-          "player1RankingPoints": 2050,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Luciano Darderi",
-          "player1RankingPlayerId": "D0FJ",
-          "player2Rank": 117,
-          "player2RankingPoints": 561,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Marco Trungelliti",
-          "player2RankingPlayerId": "TA29"
+          "formattedScore": "6-4 7-6(2)"
         },
         {
           "bracketOrder": 2,
@@ -144,17 +109,7 @@
             "1"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6-2 6-1",
-          "player1Rank": 89,
-          "player1RankingPoints": 652,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Rafael Jodar",
-          "player1RankingPlayerId": "J0DZ",
-          "player2Rank": 67,
-          "player2RankingPoints": 780,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Camilo Ugo Carabelli",
-          "player2RankingPlayerId": "U182"
+          "formattedScore": "6-2 6-1"
         }
       ]
     },
@@ -179,17 +134,7 @@
           "player2Country": "GER",
           "player2ScoreTokens": [],
           "winnerName": "Luciano Darderi",
-          "formattedScore": "",
-          "player1Rank": 19,
-          "player1RankingPoints": 2050,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Luciano Darderi",
-          "player1RankingPlayerId": "D0FJ",
-          "player2Rank": 61,
-          "player2RankingPoints": 857,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Yannick Hanfmann",
-          "player2RankingPlayerId": "H997"
+          "formattedScore": ""
         },
         {
           "bracketOrder": 2,
@@ -214,17 +159,7 @@
             "6"
           ],
           "winnerName": "Marco Trungelliti",
-          "formattedScore": "4-6 6-3 6-4",
-          "player1Rank": 32,
-          "player1RankingPoints": 1403,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Corentin Moutet",
-          "player1RankingPlayerId": "MW02",
-          "player2Rank": 117,
-          "player2RankingPoints": 561,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Marco Trungelliti",
-          "player2RankingPlayerId": "TA29"
+          "formattedScore": "4-6 6-3 6-4"
         },
         {
           "bracketOrder": 3,
@@ -247,17 +182,7 @@
             "2"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6 2",
-          "player1Rank": 94,
-          "player1RankingPoints": 645,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Alexandre Muller",
-          "player1RankingPlayerId": "MP20",
-          "player2Rank": 89,
-          "player2RankingPoints": 652,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Rafael Jodar",
-          "player2RankingPlayerId": "J0DZ"
+          "formattedScore": "6 2"
         },
         {
           "bracketOrder": 4,
@@ -282,17 +207,7 @@
             "2"
           ],
           "winnerName": "Camilo Ugo Carabelli",
-          "formattedScore": "0-6 6-3 6-2",
-          "player1Rank": 67,
-          "player1RankingPoints": 780,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Camilo Ugo Carabelli",
-          "player1RankingPlayerId": "U182",
-          "player2Rank": 109,
-          "player2RankingPoints": 601,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Luca Van Assche",
-          "player2RankingPlayerId": "V0DZ"
+          "formattedScore": "0-6 6-3 6-2"
         }
       ]
     },
@@ -323,17 +238,7 @@
             "2"
           ],
           "winnerName": "Luciano Darderi",
-          "formattedScore": "6-4 6-2",
-          "player1Rank": 19,
-          "player1RankingPoints": 2050,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Luciano Darderi",
-          "player1RankingPlayerId": "D0FJ",
-          "player2Rank": 73,
-          "player2RankingPoints": 740,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Mattia Bellucci",
-          "player2RankingPlayerId": "B0GG"
+          "formattedScore": "6-4 6-2"
         },
         {
           "bracketOrder": 2,
@@ -358,17 +263,7 @@
             "6"
           ],
           "winnerName": "Yannick Hanfmann",
-          "formattedScore": "6-4 6-7(3) 6-2",
-          "player1Rank": 731,
-          "player1RankingPoints": 41,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Karim Bennani",
-          "player1RankingPlayerId": "B0QQ",
-          "player2Rank": 61,
-          "player2RankingPoints": 857,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Yannick Hanfmann",
-          "player2RankingPlayerId": "H997"
+          "formattedScore": "6-4 6-7(3) 6-2"
         },
         {
           "bracketOrder": 3,
@@ -391,17 +286,7 @@
             "2"
           ],
           "winnerName": "Corentin Moutet",
-          "formattedScore": "6-0 6-2",
-          "player1Rank": 32,
-          "player1RankingPoints": 1403,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Corentin Moutet",
-          "player1RankingPlayerId": "MW02",
-          "player2Rank": 587,
-          "player2RankingPoints": 64,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Taha Baadi",
-          "player2RankingPlayerId": "B0D6"
+          "formattedScore": "6-0 6-2"
         },
         {
           "bracketOrder": 4,
@@ -424,17 +309,7 @@
             "3"
           ],
           "winnerName": "Marco Trungelliti",
-          "formattedScore": "7-6(4) 6-3",
-          "player1Rank": 117,
-          "player1RankingPoints": 561,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Marco Trungelliti",
-          "player1RankingPlayerId": "TA29",
-          "player2Rank": 53,
-          "player2RankingPoints": 955,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Kamil Majchrzak",
-          "player2RankingPlayerId": "MQ75"
+          "formattedScore": "7-6(4) 6-3"
         },
         {
           "bracketOrder": 5,
@@ -457,17 +332,7 @@
             "7"
           ],
           "winnerName": "Alexandre Muller",
-          "formattedScore": "6-3 7-6(3)",
-          "player1Rank": 70,
-          "player1RankingPoints": 763,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Vit Kopriva",
-          "player1RankingPlayerId": "KI82",
-          "player2Rank": 94,
-          "player2RankingPoints": 645,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Alexandre Muller",
-          "player2RankingPlayerId": "MP20"
+          "formattedScore": "6-3 7-6(3)"
         },
         {
           "bracketOrder": 6,
@@ -492,17 +357,7 @@
             "3"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6-4 4-6 6-3",
-          "player1Rank": 89,
-          "player1RankingPoints": 652,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Rafael Jodar",
-          "player1RankingPlayerId": "J0DZ",
-          "player2Rank": 55,
-          "player2RankingPoints": 930,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Tomas Machac",
-          "player2RankingPlayerId": "M0FH"
+          "formattedScore": "6-4 4-6 6-3"
         },
         {
           "bracketOrder": 7,
@@ -527,17 +382,7 @@
             "7"
           ],
           "winnerName": "Camilo Ugo Carabelli",
-          "formattedScore": "6-3 3-6 7-5",
-          "player1Rank": 59,
-          "player1RankingPoints": 864,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Ignacio Buse",
-          "player1RankingPlayerId": "B0ID",
-          "player2Rank": 67,
-          "player2RankingPoints": 780,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Camilo Ugo Carabelli",
-          "player2RankingPlayerId": "U182"
+          "formattedScore": "6-3 3-6 7-5"
         },
         {
           "bracketOrder": 8,
@@ -562,17 +407,7 @@
             "3"
           ],
           "winnerName": "Luca Van Assche",
-          "formattedScore": "6-4 1-6 6-3",
-          "player1Rank": 109,
-          "player1RankingPoints": 601,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Luca Van Assche",
-          "player1RankingPlayerId": "V0DZ",
-          "player2Rank": 30,
-          "player2RankingPoints": 1585,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Tallon Griekspoor",
-          "player2RankingPlayerId": "GJ37"
+          "formattedScore": "6-4 1-6 6-3"
         }
       ]
     },
@@ -597,12 +432,7 @@
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "Luciano Darderi",
-          "formattedScore": "",
-          "player1Rank": 19,
-          "player1RankingPoints": 2050,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Luciano Darderi",
-          "player1RankingPlayerId": "D0FJ"
+          "formattedScore": ""
         },
         {
           "bracketOrder": 2,
@@ -627,17 +457,7 @@
             "4"
           ],
           "winnerName": "Mattia Bellucci",
-          "formattedScore": "6-3 3-6 6-4",
-          "player1Rank": 73,
-          "player1RankingPoints": 740,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Mattia Bellucci",
-          "player1RankingPlayerId": "B0GG",
-          "player2Rank": 555,
-          "player2RankingPoints": 70,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Reda Bennani",
-          "player2RankingPlayerId": "B0PU"
+          "formattedScore": "6-3 3-6 6-4"
         },
         {
           "bracketOrder": 3,
@@ -662,17 +482,7 @@
             "2"
           ],
           "winnerName": "Karim Bennani",
-          "formattedScore": "6-4 6-7(5) 6-2",
-          "player1Rank": 731,
-          "player1RankingPoints": 41,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Karim Bennani",
-          "player1RankingPlayerId": "B0QQ",
-          "player2Rank": 90,
-          "player2RankingPoints": 650,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Quentin Halys",
-          "player2RankingPlayerId": "HB64"
+          "formattedScore": "6-4 6-7(5) 6-2"
         },
         {
           "bracketOrder": 4,
@@ -695,17 +505,7 @@
             "6"
           ],
           "winnerName": "Yannick Hanfmann",
-          "formattedScore": "7-6(6) 6-4",
-          "player1Rank": 99,
-          "player1RankingPoints": 625,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Jesper de Jong",
-          "player1RankingPlayerId": "D0C1",
-          "player2Rank": 61,
-          "player2RankingPoints": 857,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Yannick Hanfmann",
-          "player2RankingPlayerId": "H997"
+          "formattedScore": "7-6(6) 6-4"
         },
         {
           "bracketOrder": 5,
@@ -722,12 +522,7 @@
           "player2Country": "",
           "player2ScoreTokens": [],
           "winnerName": "Corentin Moutet",
-          "formattedScore": "",
-          "player1Rank": 32,
-          "player1RankingPoints": 1403,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Corentin Moutet",
-          "player1RankingPlayerId": "MW02"
+          "formattedScore": ""
         },
         {
           "bracketOrder": 6,
@@ -752,17 +547,7 @@
             "6"
           ],
           "winnerName": "Taha Baadi",
-          "formattedScore": "6-2 3-6 6-1",
-          "player1Rank": 84,
-          "player1RankingPoints": 663,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Aleksandar Vukic",
-          "player1RankingPlayerId": "V832",
-          "player2Rank": 587,
-          "player2RankingPoints": 64,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Taha Baadi",
-          "player2RankingPlayerId": "B0D6"
+          "formattedScore": "6-2 3-6 6-1"
         },
         {
           "bracketOrder": 7,
@@ -785,17 +570,7 @@
             "6"
           ],
           "winnerName": "Marco Trungelliti",
-          "formattedScore": "7-6(5) 6-2",
-          "player1Rank": 133,
-          "player1RankingPoints": 483,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Henrique Rocha",
-          "player1RankingPlayerId": "R0GO",
-          "player2Rank": 117,
-          "player2RankingPoints": 561,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Marco Trungelliti",
-          "player2RankingPlayerId": "TA29"
+          "formattedScore": "7-6(5) 6-2"
         },
         {
           "bracketOrder": 8,
@@ -820,17 +595,7 @@
             "6"
           ],
           "winnerName": "Kamil Majchrzak",
-          "formattedScore": "7-6(3) 3-6 6-3",
-          "player1Rank": 69,
-          "player1RankingPoints": 776,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Juan Manuel Cerundolo",
-          "player1RankingPlayerId": "C0C8",
-          "player2Rank": 53,
-          "player2RankingPoints": 955,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Kamil Majchrzak",
-          "player2RankingPlayerId": "MQ75"
+          "formattedScore": "7-6(3) 3-6 6-3"
         },
         {
           "bracketOrder": 9,
@@ -855,17 +620,7 @@
             "2"
           ],
           "winnerName": "Vit Kopriva",
-          "formattedScore": "6-7(4) 7-5 6-2",
-          "player1Rank": 70,
-          "player1RankingPoints": 763,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Vit Kopriva",
-          "player1RankingPlayerId": "KI82",
-          "player2Rank": 81,
-          "player2RankingPoints": 680,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Hamad Medjedovic",
-          "player2RankingPlayerId": "M0JF"
+          "formattedScore": "6-7(4) 7-5 6-2"
         },
         {
           "bracketOrder": 10,
@@ -888,17 +643,7 @@
             "6"
           ],
           "winnerName": "Alexandre Muller",
-          "formattedScore": "6-2 6-3",
-          "player1Rank": 208,
-          "player1RankingPoints": 285,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Federico Cina",
-          "player1RankingPlayerId": "C0NB",
-          "player2Rank": 94,
-          "player2RankingPoints": 645,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Alexandre Muller",
-          "player2RankingPlayerId": "MP20"
+          "formattedScore": "6-2 6-3"
         },
         {
           "bracketOrder": 11,
@@ -921,17 +666,7 @@
             "4"
           ],
           "winnerName": "Rafael Jodar",
-          "formattedScore": "6-3 6-4",
-          "player1Rank": 89,
-          "player1RankingPoints": 652,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Rafael Jodar",
-          "player1RankingPlayerId": "J0DZ",
-          "player2Rank": 132,
-          "player2RankingPoints": 486,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Dusan Lajovic",
-          "player2RankingPlayerId": "L987"
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 12,
@@ -948,12 +683,7 @@
           "player2Country": "CZE",
           "player2ScoreTokens": [],
           "winnerName": "Tomas Machac",
-          "formattedScore": "",
-          "player2Rank": 55,
-          "player2RankingPoints": 930,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Tomas Machac",
-          "player2RankingPlayerId": "M0FH"
+          "formattedScore": ""
         },
         {
           "bracketOrder": 13,
@@ -978,17 +708,7 @@
             "4"
           ],
           "winnerName": "Ignacio Buse",
-          "formattedScore": "7-6(5) 6-7(2) 6-4",
-          "player1Rank": 59,
-          "player1RankingPoints": 864,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Ignacio Buse",
-          "player1RankingPlayerId": "B0ID",
-          "player2Rank": 91,
-          "player2RankingPoints": 650,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Matteo Berrettini",
-          "player2RankingPlayerId": "BK40"
+          "formattedScore": "7-6(5) 6-7(2) 6-4"
         },
         {
           "bracketOrder": 14,
@@ -1013,17 +733,7 @@
             "6"
           ],
           "winnerName": "Camilo Ugo Carabelli",
-          "formattedScore": "6-7(2) 6-3 6-4",
-          "player1Rank": 202,
-          "player1RankingPoints": 292,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Timofey Skatov",
-          "player1RankingPlayerId": "S0GR",
-          "player2Rank": 67,
-          "player2RankingPoints": 780,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Camilo Ugo Carabelli",
-          "player2RankingPlayerId": "U182"
+          "formattedScore": "6-7(2) 6-3 6-4"
         },
         {
           "bracketOrder": 15,
@@ -1046,17 +756,7 @@
             "6 5"
           ],
           "winnerName": "Luca Van Assche",
-          "formattedScore": "6-4 7-6(5)",
-          "player1Rank": 109,
-          "player1RankingPoints": 601,
-          "player1RankingDate": "2026-03-30",
-          "player1RankingName": "Luca Van Assche",
-          "player1RankingPlayerId": "V0DZ",
-          "player2Rank": 116,
-          "player2RankingPoints": 564,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Hugo Gaston",
-          "player2RankingPlayerId": "G09O"
+          "formattedScore": "6-4 7-6(5)"
         },
         {
           "bracketOrder": 16,
@@ -1073,12 +773,7 @@
           "player2Country": "NED",
           "player2ScoreTokens": [],
           "winnerName": "Tallon Griekspoor",
-          "formattedScore": "",
-          "player2Rank": 30,
-          "player2RankingPoints": 1585,
-          "player2RankingDate": "2026-03-30",
-          "player2RankingName": "Tallon Griekspoor",
-          "player2RankingPlayerId": "GJ37"
+          "formattedScore": ""
         }
       ]
     }

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "alejosanchezquilez",
+    "name": "Alejo Sanchez Quilez",
+    "displayName": "Alejo Sanchez Quilez",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 11 April, 2026",
+      "dateIso": "2026-04-11",
+      "tournamentId": "425",
+      "tournamentYear": "2026",
+      "tournamentName": "Barcelona Open Banc Sabadell",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-0F093CF342",
+      "reason": null,
+      "playerName": "Alejo Sanchez Quilez",
+      "opponentName": "Sebastian Ofner",
+      "opponentKey": "sebastianofner",
+      "result": "L",
+      "playerRank": 476,
+      "opponentRank": 82,
+      "rankingDate": "2026-04-06",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

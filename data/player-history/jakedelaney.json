@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "jakedelaney",
+    "name": "Jake Delaney",
+    "displayName": "Jake Delaney",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "8998",
+      "tournamentYear": "2026",
+      "tournamentName": "Adelaide International",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 3-6 7-6(2)",
+      "matchId": "RES-9DD83F39A7",
+      "reason": null,
+      "playerName": "Jake Delaney",
+      "opponentName": "Adam Walton",
+      "opponentKey": "adamwalton",
+      "result": "L",
+      "playerRank": 475,
+      "opponentRank": 79,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

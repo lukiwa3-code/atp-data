@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "juancruzmartinmanzano",
+    "name": "Juan Cruz Martin Manzano",
+    "displayName": "Juan Cruz Martin Manzano",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 04 May, 2026",
+      "dateIso": "2026-05-04",
+      "tournamentId": "416",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali BNL d'Italia",
+      "tournamentType": "1000",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "5-7 6-1 7-5",
+      "matchId": "RES-41C64DD2AF",
+      "reason": null,
+      "playerName": "Juan Cruz Martin Manzano",
+      "opponentName": "Titouan Droguet",
+      "opponentKey": "titouandroguet",
+      "result": "L",
+      "playerRank": 514,
+      "opponentRank": 109,
+      "rankingDate": "2026-05-04",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

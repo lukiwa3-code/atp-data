@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "1alt",
+    "name": "(1/Alt)",
+    "displayName": "(1/Alt)",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 04 January, 2026",
+      "dateIso": "2026-01-04",
+      "tournamentId": "336",
+      "tournamentYear": "2026",
+      "tournamentName": "Bank of China Hong Kong Tennis Open",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "3-6 6-3 7-5",
+      "matchId": "RES-6616CCC161",
+      "reason": null,
+      "playerName": "(1/Alt)",
+      "opponentName": "Michael Mmoh",
+      "opponentKey": "michaelmmoh",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 287,
+      "rankingDate": "2025-12-29",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

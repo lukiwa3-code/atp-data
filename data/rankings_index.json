@@ -1,0 +1,116 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "count": 22,
+  "items": [
+    {
+      "rankingDate": "2025-12-29",
+      "count": 1339,
+      "path": "data/rankings/2025-12-29.json"
+    },
+    {
+      "rankingDate": "2026-01-05",
+      "count": 1338,
+      "path": "data/rankings/2026-01-05.json"
+    },
+    {
+      "rankingDate": "2026-01-12",
+      "count": 1342,
+      "path": "data/rankings/2026-01-12.json"
+    },
+    {
+      "rankingDate": "2026-01-19",
+      "count": 1347,
+      "path": "data/rankings/2026-01-19.json"
+    },
+    {
+      "rankingDate": "2026-01-26",
+      "count": 1346,
+      "path": "data/rankings/2026-01-26.json"
+    },
+    {
+      "rankingDate": "2026-02-02",
+      "count": 1329,
+      "path": "data/rankings/2026-02-02.json"
+    },
+    {
+      "rankingDate": "2026-02-09",
+      "count": 1323,
+      "path": "data/rankings/2026-02-09.json"
+    },
+    {
+      "rankingDate": "2026-02-16",
+      "count": 1324,
+      "path": "data/rankings/2026-02-16.json"
+    },
+    {
+      "rankingDate": "2026-02-23",
+      "count": 1333,
+      "path": "data/rankings/2026-02-23.json"
+    },
+    {
+      "rankingDate": "2026-03-02",
+      "count": 1328,
+      "path": "data/rankings/2026-03-02.json"
+    },
+    {
+      "rankingDate": "2026-03-09",
+      "count": 1346,
+      "path": "data/rankings/2026-03-09.json"
+    },
+    {
+      "rankingDate": "2026-03-16",
+      "count": 1310,
+      "path": "data/rankings/2026-03-16.json"
+    },
+    {
+      "rankingDate": "2026-03-23",
+      "count": 1346,
+      "path": "data/rankings/2026-03-23.json"
+    },
+    {
+      "rankingDate": "2026-03-30",
+      "count": 1323,
+      "path": "data/rankings/2026-03-30.json"
+    },
+    {
+      "rankingDate": "2026-04-06",
+      "count": 1330,
+      "path": "data/rankings/2026-04-06.json"
+    },
+    {
+      "rankingDate": "2026-04-13",
+      "count": 1327,
+      "path": "data/rankings/2026-04-13.json"
+    },
+    {
+      "rankingDate": "2026-04-20",
+      "count": 1337,
+      "path": "data/rankings/2026-04-20.json"
+    },
+    {
+      "rankingDate": "2026-04-27",
+      "count": 1346,
+      "path": "data/rankings/2026-04-27.json"
+    },
+    {
+      "rankingDate": "2026-05-04",
+      "count": 1330,
+      "path": "data/rankings/2026-05-04.json"
+    },
+    {
+      "rankingDate": "2026-05-11",
+      "count": 1346,
+      "path": "data/rankings/2026-05-11.json"
+    },
+    {
+      "rankingDate": "2026-05-18",
+      "count": 1340,
+      "path": "data/rankings/2026-05-18.json"
+    },
+    {
+      "rankingDate": "2026-05-25",
+      "count": 1346,
+      "path": "data/rankings/2026-05-25.json"
+    }
+  ]
+}

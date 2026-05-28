@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "andreacollarini",
+    "name": "Andrea Collarini",
+    "displayName": "Andrea Collarini",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 07 February, 2026",
+      "dateIso": "2026-02-07",
+      "tournamentId": "506",
+      "tournamentYear": "2026",
+      "tournamentName": "IEB+ Argentina Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(8) 6-7(4) 6-4",
+      "matchId": "RES-6D6D9CEAEE",
+      "reason": null,
+      "playerName": "Andrea Collarini",
+      "opponentName": "Thiago Seyboth Wild",
+      "opponentKey": "thiagoseybothwild",
+      "result": "L",
+      "playerRank": 229,
+      "opponentRank": 198,
+      "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

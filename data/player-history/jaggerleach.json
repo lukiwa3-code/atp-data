@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "jaggerleach",
+    "name": "Jagger Leach",
+    "displayName": "Jagger Leach",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 02 March, 2026",
+      "dateIso": "2026-03-02",
+      "tournamentId": "404",
+      "tournamentYear": "2026",
+      "tournamentName": "BNP Paribas Open",
+      "tournamentType": "1000",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-3",
+      "matchId": "RES-5EA7702F03",
+      "reason": null,
+      "playerName": "Jagger Leach",
+      "opponentName": "Tomas Barrios Vera",
+      "opponentKey": "tomasbarriosvera",
+      "result": "L",
+      "playerRank": 1360,
+      "opponentRank": 115,
+      "rankingDate": "2026-03-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

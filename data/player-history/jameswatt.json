@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "jameswatt",
+    "name": "James Watt",
+    "displayName": "J. Watt",
+    "playerId": "W0ED"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "301",
+      "tournamentYear": "2026",
+      "tournamentName": "ASB Classic",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-3",
+      "matchId": "RES-9512E06E79",
+      "reason": null,
+      "playerName": "James Watt",
+      "opponentName": "Jenson Brooksby",
+      "opponentKey": "jensonbrooksby",
+      "result": "L",
+      "playerRank": 643,
+      "opponentRank": 48,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

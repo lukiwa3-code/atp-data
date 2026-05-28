@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "alejandromorocanas",
+    "name": "Alejandro Moro Canas",
+    "displayName": "Alejandro Moro Canas",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Wed, 20 May, 2026",
+      "dateIso": "2026-05-20",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-1 6-3",
+      "matchId": "RES-0D5ED9FA2D",
+      "reason": null,
+      "playerName": "Alejandro Moro Canas",
+      "opponentName": "Lukas Neumayer",
+      "opponentKey": "lukasneumayer",
+      "result": "L",
+      "playerRank": 242,
+      "opponentRank": 188,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 18 May, 2026",
+      "dateIso": "2026-05-18",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "4-6 7-6 6-0",
+      "matchId": "RES-F522E50648",
+      "reason": null,
+      "playerName": "Alejandro Moro Canas",
+      "opponentName": "Stefano Napolitano",
+      "opponentKey": "stefanonapolitano",
+      "result": "W",
+      "playerRank": 242,
+      "opponentRank": 246,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "alexhernandez",
+    "name": "Alex Hernandez",
+    "displayName": "Alex Hernandez",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 21 February, 2026",
+      "dateIso": "2026-02-21",
+      "tournamentId": "807",
+      "tournamentYear": "2026",
+      "tournamentName": "Abierto Mexicano Telcel presentado por HSBC",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-2",
+      "matchId": "RES-B1FB6F39CC",
+      "reason": null,
+      "playerName": "Alex Hernandez",
+      "opponentName": "Coleman Wong",
+      "opponentKey": "colemanwong",
+      "result": "L",
+      "playerRank": 416,
+      "opponentRank": 137,
+      "rankingDate": "2026-02-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

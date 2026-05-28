@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/geneva/322/2026/draws",
   "tournament": {
     "id": "322",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Gonet Geneva Open",
     "location": "Geneva, Switzerland",
     "date": "17 - 23 May, 2026",
     "month": "May, 2026",
-    "dateStart": "2026-05-17",
-    "dateEnd": "2026-05-23",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "250",
     "eventType": "Tour",
     "surface": "Clay",
@@ -35,13 +25,8 @@
     "prizeMoney": "€612,620",
     "totalFinancialCommitment": "€691,875"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "countRounds": 5,
   "countMatches": 31,
-  "rankingDatesUsed": [
-    "2026-05-18"
-  ],
   "rounds": [
     {
       "round": "F",

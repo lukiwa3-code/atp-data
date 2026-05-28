@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "christianharrison",
+    "name": "Christian Harrison",
+    "displayName": "Christian Harrison",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9900",
+      "tournamentYear": "2026",
+      "tournamentName": "United Cup",
+      "tournamentType": "UC",
+      "surface": "Hard",
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "score": "7-6(5) 7-6(3)",
+      "matchId": "RES-279315E59B",
+      "reason": null,
+      "playerName": "Christian Harrison",
+      "opponentName": "Jan Zielinski",
+      "opponentKey": "janzielinski",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9900",
+      "tournamentYear": "2026",
+      "tournamentName": "United Cup",
+      "tournamentType": "UC",
+      "surface": "Hard",
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "score": "4-6 6-4 10-8",
+      "matchId": "RES-372BE9C069",
+      "reason": null,
+      "playerName": "Christian Harrison",
+      "opponentName": "Stefanos Tsitsipas",
+      "opponentKey": "stefanostsitsipas",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "mubarakalharrasi",
+    "name": "Mubarak Alharrasi",
+    "displayName": "Mubarak Alharrasi",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 16 February, 2026",
+      "dateIso": "2026-02-16",
+      "tournamentId": "451",
+      "tournamentYear": "2026",
+      "tournamentName": "Qatar ExxonMobil Open",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-0 6-2",
+      "matchId": "RES-A2EE7D4EFA",
+      "reason": null,
+      "playerName": "Mubarak Alharrasi",
+      "opponentName": "Alexei Popyrin",
+      "opponentKey": "alexeipopyrin",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 53,
+      "rankingDate": "2026-02-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

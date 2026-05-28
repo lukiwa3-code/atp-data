@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "radudavidturcanu",
+    "name": "Radu David Turcanu",
+    "displayName": "R. Turcanu",
+    "playerId": "T0JZ"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Tue, 31 March, 2026",
+      "dateIso": "2026-03-31",
+      "tournamentId": "4462",
+      "tournamentYear": "2026",
+      "tournamentName": "Tiriac Open presented by UniCredit Bank",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-2 6-4",
+      "matchId": "RES-9278E4F205",
+      "reason": null,
+      "playerName": "Radu David Turcanu",
+      "opponentName": "Aleksandr Shevchenko",
+      "opponentKey": "aleksandrshevchenko",
+      "result": "L",
+      "playerRank": 659,
+      "opponentRank": 76,
+      "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

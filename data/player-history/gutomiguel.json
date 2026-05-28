@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "gutomiguel",
+    "name": "Guto Miguel",
+    "displayName": "Guto Miguel",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Mon, 16 March, 2026",
+      "dateIso": "2026-03-16",
+      "tournamentId": "403",
+      "tournamentYear": "2026",
+      "tournamentName": "Miami Open presented by Itau",
+      "tournamentType": "1000",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 7-6(6)",
+      "matchId": "RES-991B2292BA",
+      "reason": null,
+      "playerName": "Guto Miguel",
+      "opponentName": "Benjamin Bonzi",
+      "opponentKey": "benjaminbonzi",
+      "result": "L",
+      "playerRank": 1188,
+      "opponentRank": 103,
+      "rankingDate": "2026-03-16",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 17 February, 2026",
+      "dateIso": "2026-02-17",
+      "tournamentId": "6932",
+      "tournamentYear": "2026",
+      "tournamentName": "Rio Open presented by Claro",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 2-6 6-2",
+      "matchId": "RES-76E557B446",
+      "reason": null,
+      "playerName": "Guto Miguel",
+      "opponentName": "Vilius Gaubas",
+      "opponentKey": "viliusgaubas",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 126,
+      "rankingDate": "2026-02-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

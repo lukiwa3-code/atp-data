@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/results",
   "tournament": {
     "id": "520",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "Roland Garros",
     "location": "Paris, France",
     "date": "24 May - 7 June, 2026",
     "month": "May, 2026",
-    "dateStart": "2026-05-24",
-    "dateEnd": "2026-06-07",
     "isLive": true,
     "isPastEvent": false,
-    "isUpcoming": false,
-    "computedIsCurrent": true,
-    "computedIsPastEvent": false,
-    "computedIsUpcoming": false,
-    "atpIsLive": true,
-    "atpIsPastEvent": false,
     "type": "GS",
     "eventType": "GS",
     "surface": "Clay",
@@ -35,8 +25,6 @@
     "prizeMoney": "€28,900,000",
     "totalFinancialCommitment": "€28,900,000"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "count": 232,
   "players": [
     {

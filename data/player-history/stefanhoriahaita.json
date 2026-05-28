@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "stefanhoriahaita",
+    "name": "Stefan Horia Haita",
+    "displayName": "Stefan Horia Haita",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 30 March, 2026",
+      "dateIso": "2026-03-30",
+      "tournamentId": "4462",
+      "tournamentYear": "2026",
+      "tournamentName": "Tiriac Open presented by UniCredit Bank",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 3-6 7-6(0)",
+      "matchId": "RES-C98A44DDBD",
+      "reason": null,
+      "playerName": "Stefan Horia Haita",
+      "opponentName": "Joel Schwaerzler",
+      "opponentKey": "joelschwaerzler",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 177,
+      "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

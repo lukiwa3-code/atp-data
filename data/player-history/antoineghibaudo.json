@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "antoineghibaudo",
+    "name": "Antoine Ghibaudo",
+    "displayName": "Antoine Ghibaudo",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 18 May, 2026",
+      "dateIso": "2026-05-18",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-2",
+      "matchId": "RES-772A9A7BE9",
+      "reason": null,
+      "playerName": "Antoine Ghibaudo",
+      "opponentName": "Michael Zheng",
+      "opponentKey": "michaelzheng",
+      "result": "L",
+      "playerRank": 289,
+      "opponentRank": 146,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

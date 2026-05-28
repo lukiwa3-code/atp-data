@@ -1,0 +1,57 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "andyandrade",
+    "name": "Andy Andrade",
+    "displayName": "Andy Andrade",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "Sun, 29 March, 2026",
+      "dateIso": "2026-03-29",
+      "tournamentId": "717",
+      "tournamentYear": "2026",
+      "tournamentName": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-2 4-6 6-2",
+      "matchId": "RES-D42C4FCA16",
+      "reason": null,
+      "playerName": "Andy Andrade",
+      "opponentName": "Alex Bolt",
+      "opponentKey": "alexbolt",
+      "result": "L",
+      "playerRank": 223,
+      "opponentRank": 152,
+      "rankingDate": "2026-03-23",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sat, 28 March, 2026",
+      "dateIso": "2026-03-28",
+      "tournamentId": "717",
+      "tournamentYear": "2026",
+      "tournamentName": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-3",
+      "matchId": "RES-CCC2484AB0",
+      "reason": null,
+      "playerName": "Andy Andrade",
+      "opponentName": "Stefan Dostanic",
+      "opponentKey": "stefandostanic",
+      "result": "W",
+      "playerRank": 223,
+      "opponentRank": 261,
+      "rankingDate": "2026-03-23",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

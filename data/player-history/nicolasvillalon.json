@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "nicolasvillalon",
+    "name": "Nicolas Villalon",
+    "displayName": "Nicolas Villalon",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 21 February, 2026",
+      "dateIso": "2026-02-21",
+      "tournamentId": "8996",
+      "tournamentYear": "2026",
+      "tournamentName": "BCI Seguros Chile Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-4",
+      "matchId": "RES-9CEF18BA56",
+      "reason": null,
+      "playerName": "Nicolas Villalon",
+      "opponentName": "Andrea Pellegrino",
+      "opponentKey": "andreapellegrino",
+      "result": "L",
+      "playerRank": 985,
+      "opponentRank": 140,
+      "rankingDate": "2026-02-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

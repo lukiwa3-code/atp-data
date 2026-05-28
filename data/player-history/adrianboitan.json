@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "player": {
+    "key": "adrianboitan",
+    "name": "Adrian Boitan",
+    "displayName": "A. Boitan",
+    "playerId": "B0C0"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Tue, 31 March, 2026",
+      "dateIso": "2026-03-31",
+      "tournamentId": "4462",
+      "tournamentYear": "2026",
+      "tournamentName": "Tiriac Open presented by UniCredit Bank",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 7-5",
+      "matchId": "RES-FB1B3C51E9",
+      "reason": null,
+      "playerName": "Adrian Boitan",
+      "opponentName": "Elmer Moller",
+      "opponentKey": "elmermoller",
+      "result": "L",
+      "playerRank": 306,
+      "opponentRank": 134,
+      "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

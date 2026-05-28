@@ -1,25 +1,15 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
+  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
   "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results",
   "tournament": {
     "id": "9900",
-    "level": "atp",
-    "levelName": "ATP Tour",
     "year": "2026",
     "name": "United Cup",
     "location": "Perth-Sydney, Australia",
     "date": "2 - 11 January, 2026",
     "month": "January, 2026",
-    "dateStart": "2026-01-02",
-    "dateEnd": "2026-01-11",
     "isLive": false,
     "isPastEvent": true,
-    "isUpcoming": false,
-    "computedIsCurrent": false,
-    "computedIsPastEvent": true,
-    "computedIsUpcoming": false,
-    "atpIsLive": false,
-    "atpIsPastEvent": true,
     "type": "UC",
     "eventType": "Tour",
     "surface": "Hard",
@@ -35,12 +25,7 @@
     "prizeMoney": "$5,903,345",
     "totalFinancialCommitment": "$5,903,345"
   },
-  "level": "atp",
-  "levelName": "ATP Tour",
   "count": 21,
-  "rankingDatesUsed": [
-    "2025-12-29"
-  ],
   "matches": [
     {
       "matchId": "RES-33A84CE7C8",
@@ -76,19 +61,7 @@
       "reason": null,
       "formattedScore": "6-3 3-6 6-3",
       "sourceText": "Game Set and Match Hubert Hurkacz. Hubert Hurkacz wins the match 6-3 3-6 6-3 .",
-      "bracketOrder": 2,
-      "playerRank": 72,
-      "playerRankingPoints": 765,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Hubert Hurkacz",
-      "playerRankingPlayerId": "HB71",
-      "playerCountry": "POL",
-      "opponentRank": 157,
-      "opponentRankingPoints": 397,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Stan Wawrinka",
-      "opponentRankingPlayerId": "W367",
-      "opponentCountry": "SUI"
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-2FC40D759E",
@@ -106,13 +79,7 @@
       "reason": null,
       "formattedScore": "6-4 6-3",
       "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 3,
-      "opponentRank": 342,
-      "opponentRankingPoints": 144,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Jakub Paul",
-      "opponentRankingPlayerId": "P0D0",
-      "opponentCountry": "SUI"
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-E70D036F1C",
@@ -148,19 +115,7 @@
       "reason": null,
       "formattedScore": "7-6(1) 7-6(2)",
       "sourceText": "Game Set and Match Hubert Hurkacz. Hubert Hurkacz wins the match 7-6(1) 7-6(2).",
-      "bracketOrder": 2,
-      "playerRank": 72,
-      "playerRankingPoints": 765,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Hubert Hurkacz",
-      "playerRankingPlayerId": "HB71",
-      "playerCountry": "POL",
-      "opponentRank": 6,
-      "opponentRankingPoints": 4085,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Taylor Fritz",
-      "opponentRankingPlayerId": "FB98",
-      "opponentCountry": "USA"
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-279315E59B",
@@ -196,19 +151,7 @@
       "reason": null,
       "formattedScore": "6-3 0-6 10-5",
       "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 4,
-      "playerRank": 342,
-      "playerRankingPoints": 144,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Jakub Paul",
-      "playerRankingPlayerId": "P0D0",
-      "playerCountry": "SUI",
-      "opponentRank": 42,
-      "opponentRankingPoints": 1208,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Zizou Bergs",
-      "opponentRankingPlayerId": "BU13",
-      "opponentCountry": "BEL"
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-5A731CF529",
@@ -244,19 +187,7 @@
       "reason": null,
       "formattedScore": "6-3 6-7(4) 6-3",
       "sourceText": "Game Set and Match Zizou Bergs. Zizou Bergs wins the match 6-3 6-7(4) 6-3 .",
-      "bracketOrder": 6,
-      "playerRank": 42,
-      "playerRankingPoints": 1208,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Zizou Bergs",
-      "playerRankingPlayerId": "BU13",
-      "playerCountry": "BEL",
-      "opponentRank": 157,
-      "opponentRankingPoints": 397,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Stan Wawrinka",
-      "opponentRankingPlayerId": "W367",
-      "opponentCountry": "SUI"
+      "bracketOrder": 6
     },
     {
       "matchId": "RES-7C1D667CD7",
@@ -328,13 +259,7 @@
       "reason": null,
       "formattedScore": "4-6 6-4 10-8",
       "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 4,
-      "opponentRank": 36,
-      "opponentRankingPoints": 1380,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Stefanos Tsitsipas",
-      "opponentRankingPlayerId": "TE51",
-      "opponentCountry": "GRE"
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-049BEC3B70",
@@ -352,19 +277,7 @@
       "reason": null,
       "formattedScore": "6-3 6-4",
       "sourceText": "Game Set and Match Stefanos Tsitsipas. Stefanos Tsitsipas wins the match 6-3 6-4 .",
-      "bracketOrder": 5,
-      "playerRank": 342,
-      "playerRankingPoints": 144,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Jakub Paul",
-      "playerRankingPlayerId": "P0D0",
-      "playerCountry": "SUI",
-      "opponentRank": 1517,
-      "opponentRankingPoints": 3,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Guido Andreozzi",
-      "opponentRankingPlayerId": "A887",
-      "opponentCountry": "ARG"
+      "bracketOrder": 5
     },
     {
       "matchId": "RES-21A3194E86",
@@ -382,19 +295,7 @@
       "reason": null,
       "formattedScore": "6-2 7-6(4)",
       "sourceText": "Game Set and Match Zizou Bergs. Zizou Bergs wins the match 6-2 7-6(4).",
-      "bracketOrder": 6,
-      "playerRank": 42,
-      "playerRankingPoints": 1208,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Zizou Bergs",
-      "playerRankingPlayerId": "BU13",
-      "playerCountry": "BEL",
-      "opponentRank": 19,
-      "opponentRankingPoints": 2150,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Jakub Mensik",
-      "opponentRankingPlayerId": "M0NI",
-      "opponentCountry": "CZE"
+      "bracketOrder": 6
     },
     {
       "matchId": "RES-B30FEDFEB8",
@@ -448,19 +349,7 @@
       "reason": null,
       "formattedScore": "6-4 4-6 6-4",
       "sourceText": "Game Set and Match Alex de Minaur. Alex de Minaur wins the match 6-4 4-6 6-4 .",
-      "bracketOrder": 9,
-      "playerRank": 7,
-      "playerRankingPoints": 4080,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Alex de Minaur",
-      "playerRankingPlayerId": "DH58",
-      "playerCountry": "AUS",
-      "opponentRank": 72,
-      "opponentRankingPoints": 765,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Hubert Hurkacz",
-      "opponentRankingPlayerId": "HB71",
-      "opponentCountry": "POL"
+      "bracketOrder": 9
     },
     {
       "matchId": "RES-8BE2787ECC",
@@ -478,13 +367,7 @@
       "reason": null,
       "formattedScore": "6-7(13) 6-3 10-3",
       "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 10,
-      "playerRank": 95,
-      "playerRankingPoints": 655,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Dalibor Svrcina",
-      "playerRankingPlayerId": "S0GD",
-      "playerCountry": "CZE"
+      "bracketOrder": 10
     },
     {
       "matchId": "RES-426174E794",
@@ -502,19 +385,7 @@
       "reason": null,
       "formattedScore": "6-4 7-5",
       "sourceText": "Game Set and Match Stefanos Tsitsipas. Stefanos Tsitsipas wins the match 6-4 7-5 .",
-      "bracketOrder": 11,
-      "playerRank": 36,
-      "playerRankingPoints": 1380,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Stefanos Tsitsipas",
-      "playerRankingPlayerId": "TE51",
-      "playerCountry": "GRE",
-      "opponentRank": 6,
-      "opponentRankingPoints": 4085,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Taylor Fritz",
-      "opponentRankingPlayerId": "FB98",
-      "opponentCountry": "USA"
+      "bracketOrder": 11
     },
     {
       "matchId": "RES-0FD073191C",
@@ -532,19 +403,7 @@
       "reason": null,
       "formattedScore": "7-5 6-4",
       "sourceText": "Game Set and Match Sebastian Baez. Sebastian Baez wins the match 7-5 6-4 .",
-      "bracketOrder": 12,
-      "playerRank": 45,
-      "playerRankingPoints": 1145,
-      "playerRankingDate": "2025-12-29",
-      "playerRankingName": "Sebastian Baez",
-      "playerRankingPlayerId": "B0BI",
-      "playerCountry": "ARG",
-      "opponentRank": 157,
-      "opponentRankingPoints": 397,
-      "opponentRankingDate": "2025-12-29",
-      "opponentRankingName": "Stan Wawrinka",
-      "opponentRankingPlayerId": "W367",
-      "opponentCountry": "SUI"
+      "bracketOrder": 12
     }
   ]
 }
