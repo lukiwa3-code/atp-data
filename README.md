@@ -1,19 +1,18 @@
-# ATP data updater v16 - ATP + Challenger
+# ATP data updater v15 - historical rankings
 
-Nowość:
-- pobiera ATP Tour jak wcześniej,
-- dodatkowo pobiera ATP Challenger z endpointu:
-  `https://www.atptour.com/en/-/tournaments/calendar/challenger`,
-- zapis ATP zostaje bez zmian:
-  `data/tournaments_flat.json`, `data/{year}/{id}/matches.json`,
-- Challenger zapisuje się osobno:
-  `data/challenger/tournaments_flat.json`,
-  `data/challenger/{year}/{id}/matches.json`,
-  `data/challenger/{year}/{id}/draw.json`,
-- dane rankingowe z v15 nadal są dopisywane do `draw.json` i `matches.json`,
-- powstaje wspólny indeks:
-  `data/results_index_all.json`.
+Zmiana względem v14:
+- historia zawodnika używa rankingu z tygodnia meczu, a nie bieżącego rankingu z profilu ATP,
+- dla daty meczu skrypt wyznacza poniedziałek ATP rankingu obowiązujący w tym dniu,
+- zapisuje pliki:
+  - `data/rankings/YYYY-MM-DD.json`
+  - `data/rankings_index.json`
+  - `data/player-history/{playerKey}.json`
+- w historii meczu pojawiają się:
+  - `playerRank`
+  - `opponentRank`
+  - `rankingDate`
+  - `rankingNote: historical_week`
 
-Po podmianie uruchom:
-1. `Actions -> Update ATP Rankings`
-2. `Actions -> Update ATP Data`
+Uwaga:
+- jeśli ATP nie zwróci rankingu dla danego tygodnia albo zawodnika nie da się dopasować, ranking będzie pusty.
+- aplikacja v9 może zostać bez zmian, bo już czyta pola `playerRank` i `opponentRank`.
