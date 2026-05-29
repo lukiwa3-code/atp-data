@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T15:58:54.489138+00:00",
+  "generatedAt": "2026-05-29T20:34:25.852447+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -249,10 +249,10 @@
           "bracketOrder": 5,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "J. Mensik",
+          "player1FullName": "Jakub Mensik",
+          "player1Id": "M0NI",
+          "player1Country": "CZE",
           "player1ScoreTokens": [],
           "player2": "A. Rublev",
           "player2FullName": "Andrey Rublev",
@@ -271,10 +271,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "J. Fonseca",
+          "player2FullName": "Joao Fonseca",
+          "player2Id": "F0FV",
+          "player2Country": "BRA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -300,10 +300,10 @@
           "bracketOrder": 8,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "J. De Jong",
+          "player1FullName": "Jesper De Jong",
+          "player1Id": "D0C1",
+          "player1Country": "NED",
           "player1ScoreTokens": [],
           "player2": "TBA",
           "player2FullName": "TBA",
@@ -465,14 +465,24 @@
           "player1FullName": "Alex De Minaur",
           "player1Id": "DH58",
           "player1Country": "AUS",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "2",
+            "2",
+            "3"
+          ],
           "player2": "J. Mensik",
           "player2FullName": "Jakub Mensik",
           "player2Id": "M0NI",
           "player2Country": "CZE",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "0",
+            "6",
+            "6",
+            "6"
+          ],
+          "winnerName": "Jakub Mensik",
+          "formattedScore": "0-6 6-2 6-2 6-3"
         },
         {
           "bracketOrder": 10,
@@ -524,14 +534,26 @@
           "player1FullName": "Joao Fonseca",
           "player1Id": "F0FV",
           "player1Country": "BRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "4",
+            "6",
+            "7",
+            "7"
+          ],
           "player2": "N. Djokovic",
           "player2FullName": "Novak Djokovic",
           "player2Id": "D643",
           "player2Country": "SRB",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6",
+            "3",
+            "5",
+            "5"
+          ],
+          "winnerName": "Joao Fonseca",
+          "formattedScore": "4-6 4-6 6-3 7-5 7-5"
         },
         {
           "bracketOrder": 13,
@@ -597,14 +619,26 @@
           "player1FullName": "Karen Khachanov",
           "player1Id": "KE29",
           "player1Country": "RUS",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "5",
+            "7",
+            "2",
+            "7",
+            "2"
+          ],
           "player2": "J. De Jong",
           "player2FullName": "Jesper De Jong",
           "player2Id": "D0C1",
           "player2Country": "NED",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "5",
+            "6",
+            "6 2",
+            "6"
+          ],
+          "winnerName": "Jesper De Jong",
+          "formattedScore": "7-5 5-7 6-2 6-7(2) 6-2"
         },
         {
           "bracketOrder": 16,

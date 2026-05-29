@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T15:58:54.489138+00:00",
+  "generatedAt": "2026-05-29T20:34:25.852447+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "novakdjokovic",
@@ -7,8 +7,30 @@
     "displayName": "N. Djokovic",
     "playerId": "D643"
   },
-  "count": 11,
+  "count": 12,
   "matches": [
+    {
+      "date": "Fri, 29 May, 2026",
+      "dateIso": "2026-05-29",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "4-6 4-6 6-3 7-5 7-5",
+      "matchId": "RES-0122A6A896",
+      "reason": null,
+      "playerName": "Novak Djokovic",
+      "opponentName": "Joao Fonseca",
+      "opponentKey": "joaofonseca",
+      "result": "L",
+      "playerRank": 4,
+      "opponentRank": 30,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",

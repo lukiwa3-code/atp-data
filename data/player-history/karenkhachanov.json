@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T15:58:54.489138+00:00",
+  "generatedAt": "2026-05-29T20:34:25.852447+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "karenkhachanov",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Fri, 29 May, 2026",
+      "dateIso": "2026-05-29",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-5 5-7 6-2 6-7(2) 6-2",
+      "matchId": "RES-DFAE0D9682",
+      "reason": null,
+      "playerName": "Karen Khachanov",
+      "opponentName": "Jesper de Jong",
+      "opponentKey": "jesperdejong",
+      "result": "L",
+      "playerRank": 15,
+      "opponentRank": 106,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",
@@ -424,28 +446,6 @@
       "result": "W",
       "playerRank": 17,
       "opponentRank": 61,
-      "rankingDate": "2026-02-16",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Tue, 17 February, 2026",
-      "dateIso": "2026-02-17",
-      "tournamentId": "451",
-      "tournamentYear": "2026",
-      "tournamentName": "Qatar ExxonMobil Open",
-      "tournamentType": "500",
-      "surface": "Hard",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-1 3-6 6-4",
-      "matchId": "RES-F869DD869C",
-      "reason": null,
-      "playerName": "Karen Khachanov",
-      "opponentName": "Shintaro Mochizuki",
-      "opponentKey": "shintaromochizuki",
-      "result": "W",
-      "playerRank": 17,
-      "opponentRank": 117,
       "rankingDate": "2026-02-16",
       "rankingNote": "historical_week"
     }
