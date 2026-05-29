@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "generatedAt": "2026-05-29T04:17:48.827097+00:00",
   "count": 401,
   "items": [
     {
@@ -476,7 +476,7 @@
       "displayName": "A. Rinderknech",
       "playerId": "RC91",
       "rank": 28,
-      "count": 19,
+      "count": 20,
       "path": "data/player-history/arthurrinderknech.json"
     },
     {
@@ -628,7 +628,7 @@
       "name": "Brandon Nakashima",
       "displayName": "B. Nakashima",
       "playerId": "N0AE",
-      "rank": 30,
+      "rank": 29,
       "count": 20,
       "path": "data/player-history/brandonnakashima.json"
     },
@@ -2195,7 +2195,7 @@
       "displayName": "L. Van Assche",
       "playerId": "V0DZ",
       "rank": 166,
-      "count": 13,
+      "count": 14,
       "path": "data/player-history/lucavanassche.json"
     },
     {
@@ -2411,7 +2411,7 @@
       "displayName": "M. Arnaldi",
       "playerId": "A0FC",
       "rank": 61,
-      "count": 15,
+      "count": 16,
       "path": "data/player-history/matteoarnaldi.json"
     },
     {
@@ -2420,7 +2420,7 @@
       "displayName": "M. Berrettini",
       "playerId": "BK40",
       "rank": 58,
-      "count": 18,
+      "count": 19,
       "path": "data/player-history/matteoberrettini.json"
     },
     {
@@ -3193,7 +3193,7 @@
       "name": "Stefanos Tsitsipas",
       "displayName": "S. Tsitsipas",
       "playerId": "TE51",
-      "rank": 35,
+      "rank": 32,
       "count": 20,
       "path": "data/player-history/stefanostsitsipas.json"
     },

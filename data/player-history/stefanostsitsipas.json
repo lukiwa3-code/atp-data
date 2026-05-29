@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "generatedAt": "2026-05-29T04:17:48.827097+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "stefanostsitsipas",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Thu, 28 May, 2026",
+      "dateIso": "2026-05-28",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R64",
+      "roundLong": "Round of 64",
+      "score": "7-6(2) 5-7 6-3 6-2",
+      "matchId": "RES-042F7F7EA5",
+      "reason": null,
+      "playerName": "Stefanos Tsitsipas",
+      "opponentName": "Matteo Arnaldi",
+      "opponentKey": "matteoarnaldi",
+      "result": "L",
+      "playerRank": 79,
+      "opponentRank": 104,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 20 May, 2026",
       "dateIso": "2026-05-20",
@@ -425,28 +447,6 @@
       "playerRank": 32,
       "opponentRank": 28,
       "rankingDate": "2026-02-09",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Thu, 22 January, 2026",
-      "dateIso": "2026-01-22",
-      "tournamentId": "580",
-      "tournamentYear": "2026",
-      "tournamentName": "Australian Open",
-      "tournamentType": "GS",
-      "surface": "Hard",
-      "round": "R64",
-      "roundLong": "Round of 64",
-      "score": "6-4 3-6 7-6(5) 7-6(5)",
-      "matchId": "RES-D454AE5B48",
-      "reason": null,
-      "playerName": "Stefanos Tsitsipas",
-      "opponentName": "Tomas Machac",
-      "opponentKey": "tomasmachac",
-      "result": "L",
-      "playerRank": 35,
-      "opponentRank": 24,
-      "rankingDate": "2026-01-19",
       "rankingNote": "historical_week"
     }
   ]

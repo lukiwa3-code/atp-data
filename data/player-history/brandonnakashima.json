@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "generatedAt": "2026-05-29T04:17:48.827097+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "brandonnakashima",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Thu, 28 May, 2026",
+      "dateIso": "2026-05-28",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R64",
+      "roundLong": "Round of 64",
+      "score": "6-7(5) 6-4 5-7 6-1 6-3",
+      "matchId": "RES-E7E35B3FA9",
+      "reason": null,
+      "playerName": "Brandon Nakashima",
+      "opponentName": "Luca Van Assche",
+      "opponentKey": "lucavanassche",
+      "result": "W",
+      "playerRank": 35,
+      "opponentRank": 100,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 25 May, 2026",
       "dateIso": "2026-05-25",
@@ -425,28 +447,6 @@
       "playerRank": 29,
       "opponentRank": 107,
       "rankingDate": "2026-02-09",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Mon, 19 January, 2026",
-      "dateIso": "2026-01-19",
-      "tournamentId": "580",
-      "tournamentYear": "2026",
-      "tournamentName": "Australian Open",
-      "tournamentType": "GS",
-      "surface": "Hard",
-      "round": "R128",
-      "roundLong": "Round of 128",
-      "score": "6-3 4-6 7-6(1) 7-6(3)",
-      "matchId": "RES-A8D6B430F0",
-      "reason": null,
-      "playerName": "Brandon Nakashima",
-      "opponentName": "Botic van de Zandschulp",
-      "opponentKey": "boticvandezandschulp",
-      "result": "L",
-      "playerRank": 30,
-      "opponentRank": 75,
-      "rankingDate": "2026-01-19",
       "rankingNote": "historical_week"
     }
   ]

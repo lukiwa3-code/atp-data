@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-28T20:44:04.299467+00:00",
+  "generatedAt": "2026-05-29T04:17:48.827097+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/results",
   "tournament": {
     "id": "520",
@@ -25,7 +25,7 @@
     "prizeMoney": "€28,900,000",
     "totalFinancialCommitment": "€28,900,000"
   },
-  "count": 232,
+  "count": 233,
   "players": [
     {
       "id": "",
@@ -818,6 +818,10 @@
     {
       "id": "",
       "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Tsitsipas"
     },
     {
       "id": "",
