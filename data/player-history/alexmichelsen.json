@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T10:06:45.077247+00:00",
+  "generatedAt": "2026-05-29T15:58:54.489138+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "alexmichelsen",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Fri, 29 May, 2026",
+      "dateIso": "2026-05-29",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(2) 6-7(5) 4-6 6-3 6-3",
+      "matchId": "RES-3EFB17A415",
+      "reason": null,
+      "playerName": "Alex Michelsen",
+      "opponentName": "Rafael Jodar",
+      "opponentKey": "rafaeljodar",
+      "result": "L",
+      "playerRank": 42,
+      "opponentRank": 29,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",
@@ -425,28 +447,6 @@
       "playerRank": 44,
       "opponentRank": 139,
       "rankingDate": "2026-03-02",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Wed, 18 February, 2026",
-      "dateIso": "2026-02-18",
-      "tournamentId": "499",
-      "tournamentYear": "2026",
-      "tournamentName": "Delray Beach Open",
-      "tournamentType": "250",
-      "surface": "Hard",
-      "round": "R16",
-      "roundLong": "Round of 16",
-      "score": "6-3 7-6(6)",
-      "matchId": "RES-12B4F9756E",
-      "reason": null,
-      "playerName": "Alex Michelsen",
-      "opponentName": "Sebastian Korda",
-      "opponentKey": "sebastiankorda",
-      "result": "L",
-      "playerRank": 41,
-      "opponentRank": 50,
-      "rankingDate": "2026-02-16",
       "rankingNote": "historical_week"
     }
   ]

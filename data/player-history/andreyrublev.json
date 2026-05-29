@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T10:06:45.077247+00:00",
+  "generatedAt": "2026-05-29T15:58:54.489138+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "andreyrublev",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Fri, 29 May, 2026",
+      "dateIso": "2026-05-29",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-5 7-6(2) 7-6(2)",
+      "matchId": "RES-2F86586CFF",
+      "reason": null,
+      "playerName": "Andrey Rublev",
+      "opponentName": "Nuno Borges",
+      "opponentKey": "nunoborges",
+      "result": "W",
+      "playerRank": 13,
+      "opponentRank": 51,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",
@@ -424,28 +446,6 @@
       "result": "W",
       "playerRank": 18,
       "opponentRank": 37,
-      "rankingDate": "2026-02-23",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Tue, 24 February, 2026",
-      "dateIso": "2026-02-24",
-      "tournamentId": "495",
-      "tournamentYear": "2026",
-      "tournamentName": "Dubai Duty Free Tennis Championships",
-      "tournamentType": "500",
-      "surface": "Hard",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-3 6-4",
-      "matchId": "RES-A656009F6D",
-      "reason": null,
-      "playerName": "Andrey Rublev",
-      "opponentName": "Valentin Royer",
-      "opponentKey": "valentinroyer",
-      "result": "W",
-      "playerRank": 18,
-      "opponentRank": 54,
       "rankingDate": "2026-02-23",
       "rankingNote": "historical_week"
     }

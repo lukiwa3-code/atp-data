@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T10:06:45.077247+00:00",
+  "generatedAt": "2026-05-29T15:58:54.489138+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "thiagoagustintirante",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Fri, 29 May, 2026",
+      "dateIso": "2026-05-29",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(0) 7-5 3-6 6-4",
+      "matchId": "RES-CCFCB94C1A",
+      "reason": null,
+      "playerName": "Thiago Agustin Tirante",
+      "opponentName": "Pablo Carreno Busta",
+      "opponentKey": "pablocarrenobusta",
+      "result": "L",
+      "playerRank": 60,
+      "opponentRank": 89,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",
@@ -424,28 +446,6 @@
       "result": "L",
       "playerRank": 74,
       "opponentRank": 114,
-      "rankingDate": "2026-03-02",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Mon, 02 March, 2026",
-      "dateIso": "2026-03-02",
-      "tournamentId": "404",
-      "tournamentYear": "2026",
-      "tournamentName": "BNP Paribas Open",
-      "tournamentType": "1000",
-      "surface": "Hard",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-1 6-2",
-      "matchId": "RES-472EE1D4BC",
-      "reason": null,
-      "playerName": "Thiago Agustin Tirante",
-      "opponentName": "Izyan Ahmad",
-      "opponentKey": "izyanahmad",
-      "result": "W",
-      "playerRank": 74,
-      "opponentRank": null,
       "rankingDate": "2026-03-02",
       "rankingNote": "historical_week"
     }

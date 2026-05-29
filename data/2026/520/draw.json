@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T10:06:45.077247+00:00",
+  "generatedAt": "2026-05-29T15:58:54.489138+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -254,10 +254,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "A. Rublev",
+          "player2FullName": "Andrey Rublev",
+          "player2Id": "RE44",
+          "player2Country": "RUS",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -283,15 +283,15 @@
           "bracketOrder": 7,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "R. Jodar",
+          "player1FullName": "Rafael Jodar",
+          "player1Id": "J0DZ",
+          "player1Country": "ESP",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "P. Carreno Busta",
+          "player2FullName": "Pablo Carreno Busta",
+          "player2Id": "CD85",
+          "player2Country": "ESP",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -482,14 +482,22 @@
           "player1FullName": "Nuno Borges",
           "player1Id": "BT72",
           "player1Country": "POR",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "5",
+            "6 2",
+            "6 2"
+          ],
           "player2": "A. Rublev",
           "player2FullName": "Andrey Rublev",
           "player2Id": "RE44",
           "player2Country": "RUS",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "7",
+            "7"
+          ],
+          "winnerName": "Andrey Rublev",
+          "formattedScore": "7-5 7-6(2) 7-6(2)"
         },
         {
           "bracketOrder": 11,
@@ -533,14 +541,26 @@
           "player1FullName": "Alex Michelsen",
           "player1Id": "M0QI",
           "player1Country": "USA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6 2",
+            "7",
+            "6",
+            "3",
+            "3"
+          ],
           "player2": "R. Jodar",
           "player2FullName": "Rafael Jodar",
           "player2Id": "J0DZ",
           "player2Country": "ESP",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "6 5",
+            "4",
+            "6",
+            "6"
+          ],
+          "winnerName": "Rafael Jodar",
+          "formattedScore": "7-6(2) 6-7(5) 4-6 6-3 6-3"
         },
         {
           "bracketOrder": 14,
@@ -550,14 +570,24 @@
           "player1FullName": "Thiago Agustin Tirante",
           "player1Id": "T0A1",
           "player1Country": "ARG",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6 0",
+            "5",
+            "6",
+            "4"
+          ],
           "player2": "P. Carreno Busta",
           "player2FullName": "Pablo Carreno Busta",
           "player2Id": "CD85",
           "player2Country": "ESP",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "7",
+            "3",
+            "6"
+          ],
+          "winnerName": "Pablo Carreno Busta",
+          "formattedScore": "7-6(0) 7-5 3-6 6-4"
         },
         {
           "bracketOrder": 15,
