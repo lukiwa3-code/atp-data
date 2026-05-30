@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T08:35:56.625609+00:00",
+  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "zacharysvajda",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Sat, 30 May, 2026",
+      "dateIso": "2026-05-30",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-4 3-6 4-6 6-3",
+      "matchId": "RES-EC6DB90507",
+      "reason": null,
+      "playerName": "Zachary Svajda",
+      "opponentName": "Francisco Cerundolo",
+      "opponentKey": "franciscocerundolo",
+      "result": "W",
+      "playerRank": 85,
+      "opponentRank": 26,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Thu, 28 May, 2026",
       "dateIso": "2026-05-28",
@@ -425,28 +447,6 @@
       "playerRank": 110,
       "opponentRank": 14,
       "rankingDate": "2026-02-09",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Sun, 08 February, 2026",
-      "dateIso": "2026-02-08",
-      "tournamentId": "424",
-      "tournamentYear": "2026",
-      "tournamentName": "Nexo Dallas Open",
-      "tournamentType": "500",
-      "surface": "Hard",
-      "round": "Q2",
-      "roundLong": "2nd Round Qualifying",
-      "score": "6-3 5-7 6-4",
-      "matchId": "RES-3B7DF49A52",
-      "reason": null,
-      "playerName": "Zachary Svajda",
-      "opponentName": "Tristan Boyer",
-      "opponentKey": "tristanboyer",
-      "result": "W",
-      "playerRank": 109,
-      "opponentRank": 218,
-      "rankingDate": "2026-02-02",
       "rankingNote": "historical_week"
     }
   ]

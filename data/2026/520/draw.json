@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T08:35:56.625609+00:00",
+  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -232,15 +232,15 @@
           "bracketOrder": 4,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "F. Cobolli",
+          "player1FullName": "Flavio Cobolli",
+          "player1Id": "C0E9",
+          "player1Country": "ITA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "Z. Svajda",
+          "player2FullName": "Zachary Svajda",
+          "player2Id": "S0K7",
+          "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -431,14 +431,22 @@
           "player1FullName": "Flavio Cobolli",
           "player1Id": "C0E9",
           "player1Country": "ITA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6",
+            "6"
+          ],
           "player2": "L. Tien",
           "player2FullName": "Learner Tien",
           "player2Id": "T0HA",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "2",
+            "2",
+            "3"
+          ],
+          "winnerName": "Flavio Cobolli",
+          "formattedScore": "6-2 6-2 6-3"
         },
         {
           "bracketOrder": 8,
@@ -448,14 +456,26 @@
           "player1FullName": "Francisco Cerundolo",
           "player1Id": "C0AU",
           "player1Country": "ARG",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "3",
+            "4",
+            "6",
+            "6",
+            "3"
+          ],
           "player2": "Z. Svajda",
           "player2FullName": "Zachary Svajda",
           "player2Id": "S0K7",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6",
+            "3",
+            "4",
+            "6"
+          ],
+          "winnerName": "Zachary Svajda",
+          "formattedScore": "6-3 6-4 3-6 4-6 6-3"
         },
         {
           "bracketOrder": 9,

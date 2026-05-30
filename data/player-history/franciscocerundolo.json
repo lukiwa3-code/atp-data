@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T08:35:56.625609+00:00",
+  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "franciscocerundolo",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Sat, 30 May, 2026",
+      "dateIso": "2026-05-30",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-4 3-6 4-6 6-3",
+      "matchId": "RES-EC6DB90507",
+      "reason": null,
+      "playerName": "Francisco Cerundolo",
+      "opponentName": "Zachary Svajda",
+      "opponentKey": "zacharysvajda",
+      "result": "L",
+      "playerRank": 26,
+      "opponentRank": 85,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Thu, 28 May, 2026",
       "dateIso": "2026-05-28",
@@ -425,28 +447,6 @@
       "playerRank": 20,
       "opponentRank": 111,
       "rankingDate": "2026-03-02",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Sat, 28 February, 2026",
-      "dateIso": "2026-02-28",
-      "tournamentId": "8996",
-      "tournamentYear": "2026",
-      "tournamentName": "BCI Seguros Chile Open",
-      "tournamentType": "250",
-      "surface": "Clay",
-      "round": "SF",
-      "roundLong": "Semifinals",
-      "score": "6-3 6-4",
-      "matchId": "RES-EB4AB29BC2",
-      "reason": null,
-      "playerName": "Francisco Cerundolo",
-      "opponentName": "Yannick Hanfmann",
-      "opponentKey": "yannickhanfmann",
-      "result": "L",
-      "playerRank": 19,
-      "opponentRank": 81,
-      "rankingDate": "2026-02-23",
       "rankingNote": "historical_week"
     }
   ]
