@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "generatedAt": "2026-05-30T19:27:19.331159+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,30 @@
     "displayName": "M. Kouame",
     "playerId": "K0O4"
   },
-  "count": 11,
+  "count": 12,
   "matches": [
+    {
+      "date": "Sat, 30 May, 2026",
+      "dateIso": "2026-05-30",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "4-6 6-3 6-4 7-6(9)",
+      "matchId": "RES-AC781DDE27",
+      "reason": null,
+      "playerName": "Moise Kouame",
+      "opponentName": "Alejandro Tabilo",
+      "opponentKey": "alejandrotabilo",
+      "result": "L",
+      "playerRank": 318,
+      "opponentRank": 36,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Thu, 28 May, 2026",
       "dateIso": "2026-05-28",

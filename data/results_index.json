@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "generatedAt": "2026-05-30T19:27:19.331159+00:00",
   "count": 94,
   "items": [
     {
@@ -346,12 +346,12 @@
       "name": "EFG Swiss Open Gstaad",
       "players": 39,
       "matches": 33,
-      "drawRounds": 5,
-      "drawMatches": 31,
+      "drawRounds": 0,
+      "drawMatches": 0,
       "matchesPath": "data/2025/314/matches.json",
       "drawPath": "data/2025/314/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/gstaad/314/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/gstaad/314/2025/draws"
+      "drawSource": null
     },
     {
       "year": "2025",
@@ -721,7 +721,7 @@
       "year": "2025",
       "id": "328",
       "name": "Swiss Indoors Basel",
-      "players": 40,
+      "players": 0,
       "matches": 36,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -1203,7 +1203,7 @@
       "id": "520",
       "name": "Roland Garros",
       "players": 233,
-      "matches": 194,
+      "matches": 196,
       "drawRounds": 7,
       "drawMatches": 127,
       "matchesPath": "data/2026/520/matches.json",

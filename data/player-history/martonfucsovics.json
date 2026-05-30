@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "generatedAt": "2026-05-30T19:27:19.331159+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -329,14 +329,14 @@
       "round": "R16",
       "roundLong": "Round of 16",
       "score": "6-3 7-6(6)",
-      "matchId": "RES-B0F438181A",
+      "matchId": "RES-1AF9E03BDA",
       "reason": null,
       "playerName": "Marton Fucsovics",
-      "opponentName": "Alexander Shevchenko",
-      "opponentKey": "alexandershevchenko",
+      "opponentName": "Aleksandr Shevchenko",
+      "opponentKey": "aleksandrshevchenko",
       "result": "L",
       "playerRank": 55,
-      "opponentRank": null,
+      "opponentRank": 104,
       "rankingDate": "2026-01-12",
       "rankingNote": "historical_week"
     },

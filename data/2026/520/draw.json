@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "generatedAt": "2026-05-30T19:27:19.331159+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -181,10 +181,10 @@
           "bracketOrder": 1,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "J. Cerundolo",
+          "player1FullName": "Juan Manuel Cerundolo",
+          "player1Id": "C0C8",
+          "player1Country": "ARG",
           "player1ScoreTokens": [],
           "player2": "M. Berrettini",
           "player2FullName": "Matteo Berrettini",
@@ -220,10 +220,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "A. Tabilo",
+          "player2FullName": "Alejandro Tabilo",
+          "player2Id": "TE30",
+          "player2Country": "CHI",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -329,14 +329,26 @@
           "player1FullName": "Juan Manuel Cerundolo",
           "player1Id": "C0C8",
           "player1Country": "ARG",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6 7",
+            "7",
+            "6 4",
+            "7"
+          ],
           "player2": "M. Landaluce",
           "player2FullName": "Martin Landaluce",
           "player2Id": "L0IL",
           "player2Country": "ESP",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "6 4",
+            "7",
+            "6 8"
+          ],
+          "winnerName": "Juan Manuel Cerundolo",
+          "formattedScore": "6-4 6-7(7) 7-6(4) 6-7(4) 7-6(8)"
         },
         {
           "bracketOrder": 2,
@@ -426,14 +438,24 @@
           "player1FullName": "Moise Kouame",
           "player1Id": "K0O4",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "4",
+            "6 9"
+          ],
           "player2": "A. Tabilo",
           "player2FullName": "Alejandro Tabilo",
           "player2Id": "TE30",
           "player2Country": "CHI",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6",
+            "7"
+          ],
+          "winnerName": "Alejandro Tabilo",
+          "formattedScore": "4-6 6-3 6-4 7-6(9)"
         },
         {
           "bracketOrder": 7,
