@@ -1,0 +1,193 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/umag/439/2025/results",
+  "tournament": {
+    "id": "439",
+    "year": "2025",
+    "name": "Plava Laguna Croatia Open Umag",
+    "location": "Umag, Croatia",
+    "date": "13 - 18 July, 2026",
+    "month": "July, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/umag/439/2025/results",
+    "drawsUrl": "/en/scores/archive/umag/439/2025/draws",
+    "scheduleUrl": "/en/scores/archive/umag/439/2025/schedule",
+    "overviewUrl": "/en/tournaments/umag/439/overview",
+    "countryFlagUrl": "/-/media/images/flags/cro.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "€612,620",
+    "totalFinancialCommitment": "€691,875",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 40,
+  "players": [
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrea Pellegrino"
+    },
+    {
+      "id": "",
+      "name": "Camilo Ugo Carabelli"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Cristian Garin"
+    },
+    {
+      "id": "",
+      "name": "Damir Dzumhur"
+    },
+    {
+      "id": "",
+      "name": "Dino Prizmic"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Elmer Moller"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Federico Coria"
+    },
+    {
+      "id": "",
+      "name": "Francesco Passaro"
+    },
+    {
+      "id": "",
+      "name": "Francisco Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Jesper de Jong"
+    },
+    {
+      "id": "",
+      "name": "Kamil Majchrzak"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Luca Van Assche"
+    },
+    {
+      "id": "",
+      "name": "Luciano Darderi"
+    },
+    {
+      "id": "",
+      "name": "Luka Mikrut"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Niels McDonald"
+    },
+    {
+      "id": "",
+      "name": "Nikoloz Basilashvili"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Tomas Barrios Vera"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    }
+  ]
+}

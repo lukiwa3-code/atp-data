@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "andrewfenty",
+    "name": "Andrew Fenty",
+    "displayName": "Andrew Fenty",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "418",
+      "tournamentYear": "2025",
+      "tournamentName": "Mubadala Citi DC Open",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 3-6 6-4",
+      "matchId": "RES-C1E785458B",
+      "reason": null,
+      "playerName": "Andrew Fenty",
+      "opponentName": "Colton Smith",
+      "opponentKey": "coltonsmith",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

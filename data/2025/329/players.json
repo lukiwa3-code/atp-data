@@ -1,0 +1,209 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/tokyo/329/2025/results",
+  "tournament": {
+    "id": "329",
+    "year": "2025",
+    "name": "Kinoshita Group Japan Open Tennis Championships",
+    "location": "Tokyo, Japan",
+    "date": "30 September - 6 October, 2026",
+    "month": "September, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/tokyo/329/2025/results",
+    "drawsUrl": "/en/scores/archive/tokyo/329/2025/draws",
+    "scheduleUrl": "/en/scores/archive/tokyo/329/2025/schedule",
+    "overviewUrl": "/en/tournaments/tokyo/329/overview",
+    "countryFlagUrl": "/-/media/images/flags/jpn.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "$2,342,275",
+    "totalFinancialCommitment": "$2,358,950",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 44,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Tabilo"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Alex Michelsen"
+    },
+    {
+      "id": "",
+      "name": "Brandon Nakashima"
+    },
+    {
+      "id": "",
+      "name": "Carlos Alcaraz"
+    },
+    {
+      "id": "",
+      "name": "Casper Ruud"
+    },
+    {
+      "id": "",
+      "name": "Damir Dzumhur"
+    },
+    {
+      "id": "",
+      "name": "Daniel Altmaier"
+    },
+    {
+      "id": "",
+      "name": "Denis Shapovalov"
+    },
+    {
+      "id": "",
+      "name": "Ethan Quinn"
+    },
+    {
+      "id": "",
+      "name": "Filip Misolic"
+    },
+    {
+      "id": "",
+      "name": "Frances Tiafoe"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Diallo"
+    },
+    {
+      "id": "",
+      "name": "Hamad Medjedovic"
+    },
+    {
+      "id": "",
+      "name": "Holger Rune"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Jordan Thompson"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Luca Nardi"
+    },
+    {
+      "id": "",
+      "name": "Luciano Darderi"
+    },
+    {
+      "id": "",
+      "name": "Marcos Giron"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Matteo Arnaldi"
+    },
+    {
+      "id": "",
+      "name": "Matteo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Nuno Borges"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Korda"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Tomas Machac"
+    },
+    {
+      "id": "",
+      "name": "Ugo Humbert"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yoshihito Nishioka"
+    },
+    {
+      "id": "",
+      "name": "Yosuke Watanuki"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
+}

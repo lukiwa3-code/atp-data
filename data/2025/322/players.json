@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/geneva/322/2025/results",
+  "tournament": {
+    "id": "322",
+    "year": "2025",
+    "name": "Gonet Geneva Open",
+    "location": "Geneva, Switzerland",
+    "date": "17 - 23 May, 2026",
+    "month": "May, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/geneva/322/2025/results",
+    "drawsUrl": "/en/scores/archive/geneva/322/2025/draws",
+    "scheduleUrl": "/en/scores/archive/geneva/322/2025/schedule",
+    "overviewUrl": "/en/tournaments/geneva/322/overview",
+    "countryFlagUrl": "/-/media/images/flags/sui.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "€612,620",
+    "totalFinancialCommitment": "€691,875",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 38,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex Michelsen"
+    },
+    {
+      "id": "",
+      "name": "Alexei Popyrin"
+    },
+    {
+      "id": "",
+      "name": "Arthur Cazaux"
+    },
+    {
+      "id": "",
+      "name": "Arthur Rinderknech"
+    },
+    {
+      "id": "",
+      "name": "Cameron Norrie"
+    },
+    {
+      "id": "",
+      "name": "Dominic Stricker"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Fabian Marozsan"
+    },
+    {
+      "id": "",
+      "name": "Hubert Hurkacz"
+    },
+    {
+      "id": "",
+      "name": "Hugo Gaston"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jacob Fearnley"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Karue Sell"
+    },
+    {
+      "id": "",
+      "name": "Kei Nishikori"
+    },
+    {
+      "id": "",
+      "name": "Kilian Feldbausch"
+    },
+    {
+      "id": "",
+      "name": "Learner Tien"
+    },
+    {
+      "id": "",
+      "name": "Leo Borg"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Matteo Arnaldi"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Jarry"
+    },
+    {
+      "id": "",
+      "name": "Novak Djokovic"
+    },
+    {
+      "id": "",
+      "name": "Nuno Borges"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Quentin Halys"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Reilly Opelka"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Ofner"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Thiago Monteiro"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/adelaide/8998/2025/results",
+  "tournament": {
+    "id": "8998",
+    "year": "2025",
+    "name": "Adelaide International",
+    "location": "Adelaide, Australia",
+    "date": "12 - 17 January, 2026",
+    "month": "January, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 24,
+    "scoresUrl": "/en/scores/archive/adelaide/8998/2025/results",
+    "drawsUrl": "/en/scores/archive/adelaide/8998/2025/draws",
+    "scheduleUrl": "/en/scores/archive/adelaide/8998/2025/schedule",
+    "overviewUrl": "/en/tournaments/adelaide/8998/overview",
+    "countryFlagUrl": "/-/media/images/flags/aus.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "$700,045",
+    "totalFinancialCommitment": "$788,349",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 35,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Davidovich Fokina"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Alexander Bublik"
+    },
+    {
+      "id": "",
+      "name": "Arthur Cazaux"
+    },
+    {
+      "id": "",
+      "name": "Arthur Rinderknech"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Bonzi"
+    },
+    {
+      "id": "",
+      "name": "Brandon Nakashima"
+    },
+    {
+      "id": "",
+      "name": "Christopher O'Connell"
+    },
+    {
+      "id": "",
+      "name": "Damir Dzumhur"
+    },
+    {
+      "id": "",
+      "name": "David Goffin"
+    },
+    {
+      "id": "",
+      "name": "Denis Shapovalov"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Felix Auger-Aliassime"
+    },
+    {
+      "id": "",
+      "name": "Hugo Gaston"
+    },
+    {
+      "id": "",
+      "name": "Jacob Bradshaw"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "Li Tu"
+    },
+    {
+      "id": "",
+      "name": "Manuel Guinard"
+    },
+    {
+      "id": "",
+      "name": "Marcos Giron"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Roman Safiullin"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Korda"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Thanasi Kokkinakis"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martin Etcheverry"
+    },
+    {
+      "id": "",
+      "name": "Tommy Paul"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Yannick Hanfmann"
+    },
+    {
+      "id": "",
+      "name": "Yoshihito Nishioka"
+    },
+    {
+      "id": "",
+      "name": "Zhizhen Zhang"
+    }
+  ]
+}

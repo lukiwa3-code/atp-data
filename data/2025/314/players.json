@@ -1,0 +1,189 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/gstaad/314/2025/results",
+  "tournament": {
+    "id": "314",
+    "year": "2025",
+    "name": "EFG Swiss Open Gstaad",
+    "location": "Gstaad, Switzerland",
+    "date": "13 - 19 July, 2026",
+    "month": "July, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/gstaad/314/2025/results",
+    "drawsUrl": "/en/scores/archive/gstaad/314/2025/draws",
+    "scheduleUrl": "/en/scores/archive/gstaad/314/2025/schedule",
+    "overviewUrl": "/en/tournaments/gstaad/314/overview",
+    "countryFlagUrl": "/-/media/images/flags/sui.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "€612,620",
+    "totalFinancialCommitment": "€691,875",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 39,
+  "players": [
+    {
+      "id": "",
+      "name": "(6/WC)"
+    },
+    {
+      "id": "",
+      "name": "Albert Ramos-Vinolas"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Shevchenko"
+    },
+    {
+      "id": "",
+      "name": "Alexander Bublik"
+    },
+    {
+      "id": "",
+      "name": "Alexander Ritschard"
+    },
+    {
+      "id": "",
+      "name": "Arthur Cazaux"
+    },
+    {
+      "id": "",
+      "name": "Arthur Rinderknech"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Casper Ruud"
+    },
+    {
+      "id": "",
+      "name": "Coleman Wong"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Dmitry Popko"
+    },
+    {
+      "id": "",
+      "name": "Dominic Stricker"
+    },
+    {
+      "id": "",
+      "name": "Facundo Bagnis"
+    },
+    {
+      "id": "",
+      "name": "Francesco Passaro"
+    },
+    {
+      "id": "",
+      "name": "Francisco Comesana"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Henrique Rocha"
+    },
+    {
+      "id": "",
+      "name": "Henry Bernet"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Jan-Lennard Struff"
+    },
+    {
+      "id": "",
+      "name": "Jerome Kym"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Kamil Majchrzak"
+    },
+    {
+      "id": "",
+      "name": "Laslo Djere"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Nikoloz Basilashvili"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Roman Andres Burruchaga"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martin Etcheverry"
+    },
+    {
+      "id": "",
+      "name": "Yannick Hanfmann"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2025/results",
+  "tournament": {
+    "id": "6932",
+    "year": "2025",
+    "name": "Rio Open presented by Claro",
+    "location": "Rio de Janeiro, Brazil",
+    "date": "16 - 22 February, 2026",
+    "month": "February, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/rio-de-janeiro/6932/2025/results",
+    "drawsUrl": "/en/scores/archive/rio-de-janeiro/6932/2025/draws",
+    "scheduleUrl": "/en/scores/archive/rio-de-janeiro/6932/2025/schedule",
+    "overviewUrl": "/en/tournaments/rio-de-janeiro/6932/overview",
+    "countryFlagUrl": "/-/media/images/flags/bra.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "$2,469,450",
+    "totalFinancialCommitment": "$2,486,125",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 41,
+  "players": [
+    {
+      "id": "",
+      "name": "Alejandro Tabilo"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Shevchenko"
+    },
+    {
+      "id": "",
+      "name": "Alexander Zverev"
+    },
+    {
+      "id": "",
+      "name": "Alexandre Muller"
+    },
+    {
+      "id": "",
+      "name": "Camilo Ugo Carabelli"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Corentin Moutet"
+    },
+    {
+      "id": "",
+      "name": "Cristian Garin"
+    },
+    {
+      "id": "",
+      "name": "Damir Dzumhur"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Facundo Diaz Acosta"
+    },
+    {
+      "id": "",
+      "name": "Federico Coria"
+    },
+    {
+      "id": "",
+      "name": "Felipe Meligeni Alves"
+    },
+    {
+      "id": "",
+      "name": "Francisco Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Francisco Comesana"
+    },
+    {
+      "id": "",
+      "name": "Gustavo Heide"
+    },
+    {
+      "id": "",
+      "name": "Hugo Dellien"
+    },
+    {
+      "id": "",
+      "name": "Hugo Gaston"
+    },
+    {
+      "id": "",
+      "name": "Jaime Faria"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Joao Fonseca"
+    },
+    {
+      "id": "",
+      "name": "Joao Lucas Reis Da Silva"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Karue Sell"
+    },
+    {
+      "id": "",
+      "name": "Luciano Darderi"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Mateus Alves"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Jarry"
+    },
+    {
+      "id": "",
+      "name": "Pedro Martinez"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Roman Andres Burruchaga"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Thiago Agustin Tirante"
+    },
+    {
+      "id": "",
+      "name": "Thiago Monteiro"
+    },
+    {
+      "id": "",
+      "name": "Thiago Seyboth Wild"
+    },
+    {
+      "id": "",
+      "name": "Tomas Barrios Vera"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martin Etcheverry"
+    },
+    {
+      "id": "",
+      "name": "Yannick Hanfmann"
+    },
+    {
+      "id": "",
+      "name": "Yunchaokete Bu"
+    }
+  ]
+}

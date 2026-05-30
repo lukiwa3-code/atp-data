@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/london---queen's-club/311/2025/results",
+  "tournament": {
+    "id": "311",
+    "year": "2025",
+    "name": "HSBC Championships",
+    "location": "London, Great Britain",
+    "date": "15 - 21 June, 2026",
+    "month": "June, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Grass",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/london---queen's-club/311/2025/results",
+    "drawsUrl": "/en/scores/archive/london---queen's-club/311/2025/draws",
+    "scheduleUrl": "/en/scores/archive/london---queen's-club/311/2025/schedule",
+    "overviewUrl": "/en/tournaments/london/311/overview",
+    "countryFlagUrl": "/-/media/images/flags/gbr.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "€2,583,330",
+    "totalFinancialCommitment": "€2,610,885",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 41,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Alex de Minaur"
+    },
+    {
+      "id": "",
+      "name": "Alexei Popyrin"
+    },
+    {
+      "id": "",
+      "name": "Arthur Rinderknech"
+    },
+    {
+      "id": "",
+      "name": "Ben Shelton"
+    },
+    {
+      "id": "",
+      "name": "Billy Harris"
+    },
+    {
+      "id": "",
+      "name": "Brandon Nakashima"
+    },
+    {
+      "id": "",
+      "name": "Cameron Norrie"
+    },
+    {
+      "id": "",
+      "name": "Camilo Ugo Carabelli"
+    },
+    {
+      "id": "",
+      "name": "Carlos Alcaraz"
+    },
+    {
+      "id": "",
+      "name": "Christopher O'Connell"
+    },
+    {
+      "id": "",
+      "name": "Corentin Moutet"
+    },
+    {
+      "id": "",
+      "name": "Daniel Evans"
+    },
+    {
+      "id": "",
+      "name": "Frances Tiafoe"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Diallo"
+    },
+    {
+      "id": "",
+      "name": "Gael Monfils"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Mpetshi Perricard"
+    },
+    {
+      "id": "",
+      "name": "Hamad Medjedovic"
+    },
+    {
+      "id": "",
+      "name": "Henry Searle"
+    },
+    {
+      "id": "",
+      "name": "Holger Rune"
+    },
+    {
+      "id": "",
+      "name": "Jack Draper"
+    },
+    {
+      "id": "",
+      "name": "Jacob Fearnley"
+    },
+    {
+      "id": "",
+      "name": "Jakub Mensik"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Jiri Lehecka"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Jordan Thompson"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Mackenzie McDonald"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Nuno Borges"
+    },
+    {
+      "id": "",
+      "name": "Reilly Opelka"
+    },
+    {
+      "id": "",
+      "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Yunchaokete Bu"
+    }
+  ]
+}

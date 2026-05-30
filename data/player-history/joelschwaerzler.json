@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "joelschwaerzler",
     "name": "Joel Schwaerzler",
-    "displayName": "Joel Schwaerzler",
-    "playerId": ""
+    "displayName": "J. Schwaerzler",
+    "playerId": "S0WT"
   },
-  "count": 4,
+  "count": 6,
   "matches": [
     {
       "date": "Wed, 20 May, 2026",
@@ -96,6 +96,50 @@
       "playerRank": 177,
       "opponentRank": null,
       "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "319",
+      "tournamentYear": "2025",
+      "tournamentName": "Generali Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-2 2-6 6-3",
+      "matchId": "RES-4DE9F92756",
+      "reason": null,
+      "playerName": "Joel Schwaerzler",
+      "opponentName": "Marton Fucsovics",
+      "opponentKey": "martonfucsovics",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "337",
+      "tournamentYear": "2025",
+      "tournamentName": "Erste Bank Open",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 6-4",
+      "matchId": "RES-84E4F398F0",
+      "reason": null,
+      "playerName": "Joel Schwaerzler",
+      "opponentName": "Hamad Medjedovic",
+      "opponentKey": "hamadmedjedovic",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

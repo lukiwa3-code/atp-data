@@ -1,0 +1,205 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/dallas/424/2025/results",
+  "tournament": {
+    "id": "424",
+    "year": "2025",
+    "name": "Nexo Dallas Open",
+    "location": "Dallas, United States",
+    "date": "9 - 15 February, 2026",
+    "month": "February, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Indoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/dallas/424/2025/results",
+    "drawsUrl": "/en/scores/archive/dallas/424/2025/draws",
+    "scheduleUrl": "/en/scores/archive/dallas/424/2025/schedule",
+    "overviewUrl": "/en/tournaments/dallas/424/overview",
+    "countryFlagUrl": "/-/media/images/flags/usa.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "$2,833,335",
+    "totalFinancialCommitment": "$3,116,195",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 43,
+  "players": [
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Aidan Mayo"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Davidovich Fokina"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Shevchenko"
+    },
+    {
+      "id": "",
+      "name": "Alex Michelsen"
+    },
+    {
+      "id": "",
+      "name": "Arthur Rinderknech"
+    },
+    {
+      "id": "",
+      "name": "Ben Shelton"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Brandon Nakashima"
+    },
+    {
+      "id": "",
+      "name": "Cameron Norrie"
+    },
+    {
+      "id": "",
+      "name": "Casper Ruud"
+    },
+    {
+      "id": "",
+      "name": "Christopher Eubanks"
+    },
+    {
+      "id": "",
+      "name": "Denis Shapovalov"
+    },
+    {
+      "id": "",
+      "name": "Eric Hadigian"
+    },
+    {
+      "id": "",
+      "name": "Ethan Quinn"
+    },
+    {
+      "id": "",
+      "name": "Federico Agustin Gomez"
+    },
+    {
+      "id": "",
+      "name": "Frances Tiafoe"
+    },
+    {
+      "id": "",
+      "name": "Georgi Georgiev"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "James Trotter"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Kei Nishikori"
+    },
+    {
+      "id": "",
+      "name": "Matteo Arnaldi"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Reilly Opelka"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Ryan Seggerman"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Tomas Machac"
+    },
+    {
+      "id": "",
+      "name": "Tommy Paul"
+    },
+    {
+      "id": "",
+      "name": "Trevor Svajda"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Yoshihito Nishioka"
+    },
+    {
+      "id": "",
+      "name": "Yunchaokete Bu"
+    },
+    {
+      "id": "",
+      "name": "Zachary Svajda"
+    }
+  ]
+}

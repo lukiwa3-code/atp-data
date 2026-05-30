@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "rigelete",
+    "name": "Rigele Te",
+    "displayName": "Rigele Te",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "5014",
+      "tournamentYear": "2025",
+      "tournamentName": "Rolex Shanghai Masters",
+      "tournamentType": "1000",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-3",
+      "matchId": "RES-A9D1FF5600",
+      "reason": null,
+      "playerName": "Rigele Te",
+      "opponentName": "Ugo Blanchet",
+      "opponentKey": "ugoblanchet",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "7581",
+      "tournamentYear": "2025",
+      "tournamentName": "Chengdu Open",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-5ABA45CC0B",
+      "reason": null,
+      "playerName": "Rigele Te",
+      "opponentName": "Alejandro Tabilo",
+      "opponentKey": "alejandrotabilo",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

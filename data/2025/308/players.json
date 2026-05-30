@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/munich/308/2025/results",
+  "tournament": {
+    "id": "308",
+    "year": "2025",
+    "name": "BMW Open by Bitpanda",
+    "location": "Munich, Germany",
+    "date": "13 - 19 April, 2026",
+    "month": "April, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Clay",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/munich/308/2025/results",
+    "drawsUrl": "/en/scores/archive/munich/308/2025/draws",
+    "scheduleUrl": "/en/scores/archive/munich/308/2025/schedule",
+    "overviewUrl": "/en/tournaments/munich/308/overview",
+    "countryFlagUrl": "/-/media/images/flags/ger.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "€2,561,110",
+    "totalFinancialCommitment": "€2,814,655",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 38,
+  "players": [
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Shevchenko"
+    },
+    {
+      "id": "",
+      "name": "Alexander Bublik"
+    },
+    {
+      "id": "",
+      "name": "Alexander Ritschard"
+    },
+    {
+      "id": "",
+      "name": "Alexander Zverev"
+    },
+    {
+      "id": "",
+      "name": "Alexandre Muller"
+    },
+    {
+      "id": "",
+      "name": "Ben Shelton"
+    },
+    {
+      "id": "",
+      "name": "Billy Harris"
+    },
+    {
+      "id": "",
+      "name": "Borna Gojo"
+    },
+    {
+      "id": "",
+      "name": "Botic van de Zandschulp"
+    },
+    {
+      "id": "",
+      "name": "Christopher O'Connell"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Daniel Altmaier"
+    },
+    {
+      "id": "",
+      "name": "Daniel Masur"
+    },
+    {
+      "id": "",
+      "name": "David Goffin"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Fabian Marozsan"
+    },
+    {
+      "id": "",
+      "name": "Felix Auger-Aliassime"
+    },
+    {
+      "id": "",
+      "name": "Flavio Cobolli"
+    },
+    {
+      "id": "",
+      "name": "Francisco Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Jakub Mensik"
+    },
+    {
+      "id": "",
+      "name": "Jan-Lennard Struff"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Learner Tien"
+    },
+    {
+      "id": "",
+      "name": "Luciano Darderi"
+    },
+    {
+      "id": "",
+      "name": "Mackenzie McDonald"
+    },
+    {
+      "id": "",
+      "name": "Marcos Giron"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Max Hans Rehberg"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Jarry"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Tallon Griekspoor"
+    },
+    {
+      "id": "",
+      "name": "Ugo Humbert"
+    },
+    {
+      "id": "",
+      "name": "Yannick Hanfmann"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
+}

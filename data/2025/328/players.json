@@ -1,0 +1,193 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/basel/328/2025/results",
+  "tournament": {
+    "id": "328",
+    "year": "2025",
+    "name": "Swiss Indoors Basel",
+    "location": "Basel, Switzerland",
+    "date": "26 October - 1 November, 2026",
+    "month": "October, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Indoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/basel/328/2025/results",
+    "drawsUrl": "/en/scores/archive/basel/328/2025/draws",
+    "scheduleUrl": "/en/scores/archive/basel/328/2025/schedule",
+    "overviewUrl": "/en/tournaments/basel/328/overview",
+    "countryFlagUrl": "/-/media/images/flags/sui.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "€2,584,155",
+    "totalFinancialCommitment": "€2,611,710",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 40,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Davidovich Fokina"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Shevchenko"
+    },
+    {
+      "id": "",
+      "name": "Alexandre Muller"
+    },
+    {
+      "id": "",
+      "name": "Ben Shelton"
+    },
+    {
+      "id": "",
+      "name": "Botic van de Zandschulp"
+    },
+    {
+      "id": "",
+      "name": "Casper Ruud"
+    },
+    {
+      "id": "",
+      "name": "David Goffin"
+    },
+    {
+      "id": "",
+      "name": "Denis Shapovalov"
+    },
+    {
+      "id": "",
+      "name": "Felix Auger-Aliassime"
+    },
+    {
+      "id": "",
+      "name": "Francisco Comesana"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Diallo"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Mpetshi Perricard"
+    },
+    {
+      "id": "",
+      "name": "Henry Bernet"
+    },
+    {
+      "id": "",
+      "name": "Jakub Mensik"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Jiri Lehecka"
+    },
+    {
+      "id": "",
+      "name": "Joao Fonseca"
+    },
+    {
+      "id": "",
+      "name": "Kamil Majchrzak"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Sonego"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Marcos Giron"
+    },
+    {
+      "id": "",
+      "name": "Marin Cilic"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Pedro Martinez"
+    },
+    {
+      "id": "",
+      "name": "Quentin Halys"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Reilly Opelka"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Korda"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Ugo Humbert"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Valentin Vacherot"
+    }
+  ]
+}

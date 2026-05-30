@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "amiromarkhanov",
+    "name": "Amir Omarkhanov",
+    "displayName": "A. Omarkhanov",
+    "playerId": "O0E7"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9410",
+      "tournamentYear": "2025",
+      "tournamentName": "Almaty Open",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-1",
+      "matchId": "RES-66AB04F631",
+      "reason": null,
+      "playerName": "Amir Omarkhanov",
+      "opponentName": "Gabriel Diallo",
+      "opponentKey": "gabrieldiallo",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

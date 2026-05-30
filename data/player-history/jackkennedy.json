@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "jackkennedy",
+    "name": "Jack Kennedy",
+    "displayName": "Jack Kennedy",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "560",
+      "tournamentYear": "2025",
+      "tournamentName": "US Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-393B40524B",
+      "reason": null,
+      "playerName": "Jack Kennedy",
+      "opponentName": "Thiago Agustin Tirante",
+      "opponentKey": "thiagoagustintirante",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/winston-salem/6242/2025/results",
+  "tournament": {
+    "id": "6242",
+    "year": "2025",
+    "name": "Winston-Salem Open",
+    "location": "Winston-Salem, United States",
+    "date": "23 - 29 August, 2026",
+    "month": "August, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 48,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/winston-salem/6242/2025/results",
+    "drawsUrl": "/en/scores/archive/winston-salem/6242/2025/draws",
+    "scheduleUrl": "/en/scores/archive/winston-salem/6242/2025/schedule",
+    "overviewUrl": "/en/tournaments/winston-salem/6242/overview",
+    "countryFlagUrl": "/-/media/images/flags/usa.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "$818,240",
+    "totalFinancialCommitment": "$906,544",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 60,
+  "players": [
+    {
+      "id": "",
+      "name": "(16/WC)"
+    },
+    {
+      "id": "",
+      "name": "(2/WC)"
+    },
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Aidan Mayo"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Tabilo"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Alex Rybakov"
+    },
+    {
+      "id": "",
+      "name": "Alexandre Muller"
+    },
+    {
+      "id": "",
+      "name": "Arthur Rinderknech"
+    },
+    {
+      "id": "",
+      "name": "Borna Coric"
+    },
+    {
+      "id": "",
+      "name": "Botic van de Zandschulp"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Christopher O'Connell"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Darwin Blanch"
+    },
+    {
+      "id": "",
+      "name": "David Goffin"
+    },
+    {
+      "id": "",
+      "name": "Dhakshineswar Suresh"
+    },
+    {
+      "id": "",
+      "name": "Filip Misolic"
+    },
+    {
+      "id": "",
+      "name": "Francisco Comesana"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Diallo"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Mpetshi Perricard"
+    },
+    {
+      "id": "",
+      "name": "Hamad Medjedovic"
+    },
+    {
+      "id": "",
+      "name": "Hugo Gaston"
+    },
+    {
+      "id": "",
+      "name": "Jacob Fearnley"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Kamil Majchrzak"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Kenta Miyoshi"
+    },
+    {
+      "id": "",
+      "name": "Kyle Seelig"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Sonego"
+    },
+    {
+      "id": "",
+      "name": "Luca Pow"
+    },
+    {
+      "id": "",
+      "name": "Luciano Darderi"
+    },
+    {
+      "id": "",
+      "name": "Mackenzie McDonald"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Matteo Arnaldi"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Jarry"
+    },
+    {
+      "id": "",
+      "name": "Nishesh Basavareddy"
+    },
+    {
+      "id": "",
+      "name": "Nuno Borges"
+    },
+    {
+      "id": "",
+      "name": "Pablo Carreno Busta"
+    },
+    {
+      "id": "",
+      "name": "Pedro Martinez"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Roman Safiullin"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Korda"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Ofner"
+    },
+    {
+      "id": "",
+      "name": "Stefan Dostanic"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Thai-Son Kwiatkowski"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    },
+    {
+      "id": "",
+      "name": "Yoshihito Nishioka"
+    },
+    {
+      "id": "",
+      "name": "Yunchaokete Bu"
+    }
+  ]
+}

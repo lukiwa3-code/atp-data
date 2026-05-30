@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "3al",
+    "name": "(3/AL)",
+    "displayName": "(3/AL)",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "717",
+      "tournamentYear": "2025",
+      "tournamentName": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-4 5-7 7-6(5)",
+      "matchId": "RES-CFE3B47A2D",
+      "reason": null,
+      "playerName": "(3/AL)",
+      "opponentName": "Corentin Denolly",
+      "opponentKey": "corentindenolly",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "717",
+      "tournamentYear": "2025",
+      "tournamentName": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "3-6 6-3 6-2",
+      "matchId": "RES-896C7AF106",
+      "reason": null,
+      "playerName": "(3/AL)",
+      "opponentName": "Naoki Nakagawa",
+      "opponentKey": "naokinakagawa",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

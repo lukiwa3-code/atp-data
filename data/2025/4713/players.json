@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/hangzhou/4713/2025/results",
+  "tournament": {
+    "id": "4713",
+    "year": "2025",
+    "name": "Lynk & Co Hangzhou Open",
+    "location": "Hangzhou, China",
+    "date": "23 - 29 September, 2026",
+    "month": "September, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/archive/hangzhou/4713/2025/results",
+    "drawsUrl": "/en/scores/archive/hangzhou/4713/2025/draws",
+    "scheduleUrl": "/en/scores/archive/hangzhou/4713/2025/schedule",
+    "overviewUrl": "/en/tournaments/hangzhou/4713/overview",
+    "countryFlagUrl": "/-/media/images/flags/chn.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "$1,039,090",
+    "totalFinancialCommitment": "$1,127,395",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 38,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Alexander Bublik"
+    },
+    {
+      "id": "",
+      "name": "Andrey Rublev"
+    },
+    {
+      "id": "",
+      "name": "Arthur Cazaux"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Camilo Ugo Carabelli"
+    },
+    {
+      "id": "",
+      "name": "Charles Chen"
+    },
+    {
+      "id": "",
+      "name": "Christopher Eubanks"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Corentin Moutet"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Damir Dzumhur"
+    },
+    {
+      "id": "",
+      "name": "Daniil Medvedev"
+    },
+    {
+      "id": "",
+      "name": "David Goffin"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Fajing Sun"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Learner Tien"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Marin Cilic"
+    },
+    {
+      "id": "",
+      "name": "Matteo Arnaldi"
+    },
+    {
+      "id": "",
+      "name": "Matteo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Nishesh Basavareddy"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Korda"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martin Etcheverry"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Ye Chen"
+    },
+    {
+      "id": "",
+      "name": "Yibing Wu"
+    },
+    {
+      "id": "",
+      "name": "Yunchaokete Bu"
+    },
+    {
+      "id": "",
+      "name": "Zhizhen Zhang"
+    }
+  ]
+}

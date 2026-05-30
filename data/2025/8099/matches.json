@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/davis-cup-finals/8099/2025/results",
+  "tournament": {
+    "id": "8099",
+    "year": "2025",
+    "name": "Davis Cup Finals",
+    "location": "Bologna, Italy",
+    "date": "23 - 29 November, 2026",
+    "month": "November, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "DCR",
+    "eventType": "Other",
+    "surface": "Hard",
+    "indoorOutdoor": "Indoor",
+    "singlesDrawSize": 2,
+    "doublesDrawSize": 1,
+    "scoresUrl": "/en/scores/archive/davis-cup-finals/8099/2025/results",
+    "drawsUrl": "/en/scores/archive/davis-cup-finals/8099/2025/draws",
+    "scheduleUrl": "/en/scores/archive/davis-cup-finals/8099/2025/schedule",
+    "overviewUrl": "/en/tournaments/davis-cup-finals/8099/overview",
+    "countryFlagUrl": "/-/media/images/flags/ita.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_itf.png",
+    "prizeMoney": null,
+    "totalFinancialCommitment": null,
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 0,
+  "matches": []
+}

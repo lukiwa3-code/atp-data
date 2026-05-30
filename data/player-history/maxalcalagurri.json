@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Max Alcala Gurri",
     "playerId": ""
   },
-  "count": 1,
+  "count": 2,
   "matches": [
     {
       "date": "Sat, 11 April, 2026",
@@ -30,6 +30,28 @@
       "playerRank": 380,
       "opponentRank": 88,
       "rankingDate": "2026-04-06",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "425",
+      "tournamentYear": "2025",
+      "tournamentName": "Barcelona Open Banc Sabadell",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(4) 6-0",
+      "matchId": "RES-0FED6DE87D",
+      "reason": null,
+      "playerName": "Max Alcala Gurri",
+      "opponentName": "Damir Dzumhur",
+      "opponentKey": "damirdzumhur",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

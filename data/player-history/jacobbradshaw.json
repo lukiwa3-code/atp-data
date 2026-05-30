@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "jacobbradshaw",
+    "name": "Jacob Bradshaw",
+    "displayName": "Jacob Bradshaw",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "339",
+      "tournamentYear": "2025",
+      "tournamentName": "Brisbane International presented by ANZ",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-2",
+      "matchId": "RES-67183D2757",
+      "reason": null,
+      "playerName": "Jacob Bradshaw",
+      "opponentName": "Yannick Hanfmann",
+      "opponentKey": "yannickhanfmann",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "8998",
+      "tournamentYear": "2025",
+      "tournamentName": "Adelaide International",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-2 6-2",
+      "matchId": "RES-B57503AAB0",
+      "reason": null,
+      "playerName": "Jacob Bradshaw",
+      "opponentName": "James Duckworth",
+      "opponentKey": "jamesduckworth",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

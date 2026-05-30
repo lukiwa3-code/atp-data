@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "hamishstewart",
+    "name": "Hamish Stewart",
+    "displayName": "Hamish Stewart",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "540",
+      "tournamentYear": "2025",
+      "tournamentName": "Wimbledon",
+      "tournamentType": "GS",
+      "surface": "Grass",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "7-6(3) 4-6 7-6(9)",
+      "matchId": "RES-8D429B9C91",
+      "reason": null,
+      "playerName": "Hamish Stewart",
+      "opponentName": "Luca Van Assche",
+      "opponentKey": "lucavanassche",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

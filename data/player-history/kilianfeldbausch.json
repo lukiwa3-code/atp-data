@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Kilian Feldbausch",
     "playerId": ""
   },
-  "count": 2,
+  "count": 5,
   "matches": [
     {
       "date": "Sun, 17 May, 2026",
@@ -52,6 +52,72 @@
       "playerRank": 366,
       "opponentRank": 112,
       "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "322",
+      "tournamentYear": "2025",
+      "tournamentName": "Gonet Geneva Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-3 4-6 7-5",
+      "matchId": "RES-593489FA37",
+      "reason": null,
+      "playerName": "Kilian Feldbausch",
+      "opponentName": "Ivan Gakhov",
+      "opponentKey": "ivangakhov",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "322",
+      "tournamentYear": "2025",
+      "tournamentName": "Gonet Geneva Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 2-6 6-4",
+      "matchId": "RES-42AE76B550",
+      "reason": null,
+      "playerName": "Kilian Feldbausch",
+      "opponentName": "Tristan Schoolkate",
+      "opponentKey": "tristanschoolkate",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "8996",
+      "tournamentYear": "2025",
+      "tournamentName": "BCI Seguros Chile Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 5-7 6-4",
+      "matchId": "RES-BEFD72D17E",
+      "reason": null,
+      "playerName": "Kilian Feldbausch",
+      "opponentName": "Roman Andres Burruchaga",
+      "opponentKey": "romanandresburruchaga",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

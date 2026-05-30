@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "duartevale",
+    "name": "Duarte Vale",
+    "displayName": "Duarte Vale",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "807",
+      "tournamentYear": "2025",
+      "tournamentName": "Abierto Mexicano Telcel presentado por HSBC",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-4",
+      "matchId": "RES-ED2913F1E0",
+      "reason": null,
+      "playerName": "Duarte Vale",
+      "opponentName": "Stefan Kozlov",
+      "opponentKey": "stefankozlov",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

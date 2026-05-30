@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "M. Kouame",
     "playerId": "K0O4"
   },
-  "count": 9,
+  "count": 11,
   "matches": [
     {
       "date": "Thu, 28 May, 2026",
@@ -206,6 +206,50 @@
       "playerRank": 318,
       "opponentRank": 191,
       "rankingDate": "2026-01-26",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "520",
+      "tournamentYear": "2025",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "2-6 6-4 6-3",
+      "matchId": "RES-B6A09D55F4",
+      "reason": null,
+      "playerName": "Moise Kouame",
+      "opponentName": "Pol Martin Tiffon",
+      "opponentKey": "polmartintiffon",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "1536",
+      "tournamentYear": "2025",
+      "tournamentName": "Mutua Madrid Open",
+      "tournamentType": "1000",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-2",
+      "matchId": "RES-17D45691B9",
+      "reason": null,
+      "playerName": "Moise Kouame",
+      "opponentName": "Botic van de Zandschulp",
+      "opponentKey": "boticvandezandschulp",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

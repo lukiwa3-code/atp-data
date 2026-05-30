@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Georgi Georgiev",
     "playerId": ""
   },
-  "count": 1,
+  "count": 3,
   "matches": [
     {
       "date": "Sat, 07 February, 2026",
@@ -30,6 +30,50 @@
       "playerRank": 952,
       "opponentRank": 109,
       "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "424",
+      "tournamentYear": "2025",
+      "tournamentName": "Nexo Dallas Open",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "7-6(3) 6-3",
+      "matchId": "RES-125DBC8DAD",
+      "reason": null,
+      "playerName": "Georgi Georgiev",
+      "opponentName": "Michael Mmoh",
+      "opponentKey": "michaelmmoh",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "424",
+      "tournamentYear": "2025",
+      "tournamentName": "Nexo Dallas Open",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 3-6 6-3",
+      "matchId": "RES-38CF095972",
+      "reason": null,
+      "playerName": "Georgi Georgiev",
+      "opponentName": "Radu Albot",
+      "opponentKey": "radualbot",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

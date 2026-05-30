@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Daniel Dutra da Silva",
     "playerId": ""
   },
-  "count": 1,
+  "count": 4,
   "matches": [
     {
       "date": "Sat, 07 February, 2026",
@@ -30,6 +30,72 @@
       "playerRank": 325,
       "opponentRank": 173,
       "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "440",
+      "tournamentYear": "2025",
+      "tournamentName": "Libema Open",
+      "tournamentType": "250",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-1",
+      "matchId": "RES-4229F3E3D6",
+      "reason": null,
+      "playerName": "Daniel Dutra da Silva",
+      "opponentName": "Adrian Mannarino",
+      "opponentKey": "adrianmannarino",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "414",
+      "tournamentYear": "2025",
+      "tournamentName": "Bitpanda Hamburg Open",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-2 6-3",
+      "matchId": "RES-97C8FADD6B",
+      "reason": null,
+      "playerName": "Daniel Dutra da Silva",
+      "opponentName": "Raphael Collignon",
+      "opponentKey": "raphaelcollignon",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "414",
+      "tournamentYear": "2025",
+      "tournamentName": "Bitpanda Hamburg Open",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-4D8F90F5F4",
+      "reason": null,
+      "playerName": "Daniel Dutra da Silva",
+      "opponentName": "Max Hans Rehberg",
+      "opponentKey": "maxhansrehberg",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

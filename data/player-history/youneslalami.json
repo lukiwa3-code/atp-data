@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "youneslalami",
     "name": "Younes Lalami",
-    "displayName": "Younes Lalami",
-    "playerId": ""
+    "displayName": "Y. Lalami",
+    "playerId": "L0CK"
   },
-  "count": 1,
+  "count": 2,
   "matches": [
     {
       "date": "Sun, 29 March, 2026",
@@ -30,6 +30,28 @@
       "playerRank": 838,
       "opponentRank": 139,
       "rankingDate": "2026-03-23",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "360",
+      "tournamentYear": "2025",
+      "tournamentName": "Grand Prix Hassan II",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-1 6-3",
+      "matchId": "RES-752C660A15",
+      "reason": null,
+      "playerName": "Younes Lalami",
+      "opponentName": "Pablo Carreno Busta",
+      "opponentKey": "pablocarrenobusta",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

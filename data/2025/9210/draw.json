@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/laver-cup/9210/2025/draws",
+  "tournament": {
+    "id": "9210",
+    "year": "2025",
+    "name": "Laver Cup",
+    "location": "London, Great Britain",
+    "date": "25 - 27 September, 2026",
+    "month": "September, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "LVR",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Indoor",
+    "singlesDrawSize": 12,
+    "doublesDrawSize": 12,
+    "scoresUrl": "/en/scores/archive/laver-cup/9210/2025/results",
+    "drawsUrl": "/en/scores/archive/laver-cup/9210/2025/draws",
+    "scheduleUrl": "/en/scores/archive/laver-cup/9210/2025/schedule",
+    "overviewUrl": "/en/tournaments/laver-cup/9210/overview",
+    "countryFlagUrl": "/-/media/images/flags/gbr.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_lvr.png",
+    "prizeMoney": null,
+    "totalFinancialCommitment": null,
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "countRounds": 1,
+  "countMatches": 3,
+  "rounds": [
+    {
+      "round": "Round Robin",
+      "roundLong": "Round Robin",
+      "sourceHeader": "Round Robin",
+      "count": 3,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "C. Ruud",
+          "player1FullName": "Casper Ruud",
+          "player1Id": "RH16",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "R. Opelka",
+          "player2FullName": "Reilly Opelka",
+          "player2Id": "O522",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "6 4"
+          ],
+          "winnerName": "Casper Ruud",
+          "formattedScore": "6-4 7-6(4)"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "J. Mensik",
+          "player1FullName": "Jakub Mensik",
+          "player1Id": "M0NI",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6",
+            "6 3",
+            "1"
+          ],
+          "player2": "A. Michelsen",
+          "player2FullName": "Alex Michelsen",
+          "player2Id": "M0QI",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "1",
+            "7",
+            "0"
+          ],
+          "winnerName": "Jakub Mensik",
+          "formattedScore": "6 6 3 1"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "F. Cobolli",
+          "player1FullName": "Flavio Cobolli",
+          "player1Id": "C0E9",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "player2": "J. Fonseca",
+          "player2FullName": "Joao Fonseca",
+          "player2Id": "F0FV",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Joao Fonseca",
+          "formattedScore": "6-4 6-3"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "maxwiskandt",
+    "name": "Max Wiskandt",
+    "displayName": "Max Wiskandt",
+    "playerId": ""
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "414",
+      "tournamentYear": "2025",
+      "tournamentName": "Bitpanda Hamburg Open",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(4) 6-4",
+      "matchId": "RES-DFA3C7DD82",
+      "reason": null,
+      "playerName": "Max Wiskandt",
+      "opponentName": "Aleksandar Kovacevic",
+      "opponentKey": "aleksandarkovacevic",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "321",
+      "tournamentYear": "2025",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-2",
+      "matchId": "RES-D9F8BBA548",
+      "reason": null,
+      "playerName": "Max Wiskandt",
+      "opponentName": "Yannick Hanfmann",
+      "opponentKey": "yannickhanfmann",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

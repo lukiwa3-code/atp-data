@@ -1,0 +1,51 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2025/results",
+  "tournament": {
+    "id": "9900",
+    "year": "2025",
+    "name": "United Cup",
+    "location": "Perth-Sydney, Australia",
+    "date": "2 - 11 January, 2026",
+    "month": "January, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "UC",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 18,
+    "doublesDrawSize": 18,
+    "scoresUrl": "/en/scores/archive/perth-sydney/9900/2025/results",
+    "drawsUrl": "/en/scores/archive/perth-sydney/9900/2025/draws",
+    "scheduleUrl": "/en/scores/archive/perth-sydney/9900/2025/schedule",
+    "overviewUrl": "/en/tournaments/perth-sydney/9900/overview",
+    "countryFlagUrl": "/-/media/images/flags/aus.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_unitedcup.png",
+    "prizeMoney": "$5,903,345",
+    "totalFinancialCommitment": "$5,903,345",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "matchId": "RES-F7D9796DAD",
+      "date": "",
+      "round": "F",
+      "roundLong": "Final",
+      "playerId": "",
+      "playerName": "Taylor Fritz",
+      "opponentId": "",
+      "opponentName": "Hubert Hurkacz",
+      "winnerPlayerId": "",
+      "winnerName": "Taylor Fritz",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-4 5-7 7-6(4)",
+      "sourceText": "Parsed from displayed score numbers",
+      "bracketOrder": 1
+    }
+  ]
+}

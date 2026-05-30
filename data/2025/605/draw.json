@@ -1,0 +1,263 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/nitto-atp-finals/605/2025/draws",
+  "tournament": {
+    "id": "605",
+    "year": "2025",
+    "name": "Nitto ATP Finals",
+    "location": "Turin, Italy",
+    "date": "15 - 22 November, 2026",
+    "month": "November, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "WC",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Indoor",
+    "singlesDrawSize": 8,
+    "doublesDrawSize": 0,
+    "scoresUrl": "/en/scores/archive/nitto-atp-finals/605/2025/results",
+    "drawsUrl": "/en/scores/archive/nitto-atp-finals/605/2025/draws",
+    "scheduleUrl": "/en/scores/archive/nitto-atp-finals/605/2025/schedule",
+    "overviewUrl": "/en/tournaments/nitto-atp-finals/605/overview",
+    "countryFlagUrl": "/-/media/images/flags/ita.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_finals.svg",
+    "prizeMoney": null,
+    "totalFinancialCommitment": null,
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "countRounds": 4,
+  "countMatches": 9,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "C. Alcaraz",
+          "player1FullName": "Carlos Alcaraz",
+          "player1Id": "A0E2",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "A. de Minaur",
+          "player2FullName": "Alex De Minaur",
+          "player2Id": "DH58",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6 4",
+            "5"
+          ],
+          "winnerName": "Alex De Minaur",
+          "formattedScore": "6-7(4) 5-7"
+        }
+      ]
+    },
+    {
+      "round": "Round Robin",
+      "roundLong": "Round Robin",
+      "sourceHeader": "Round Robin",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "C. Alcaraz",
+          "player1FullName": "Carlos Alcaraz",
+          "player1Id": "A0E2",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "A. de Minaur",
+          "player2FullName": "Alex De Minaur",
+          "player2Id": "DH58",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6 5",
+            "2"
+          ],
+          "winnerName": "Carlos Alcaraz",
+          "formattedScore": "7-6(5) 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "A. Zverev",
+          "player1FullName": "Alexander Zverev",
+          "player1Id": "Z355",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "B. Shelton",
+          "player2FullName": "Ben Shelton",
+          "player2Id": "S0S1",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "3",
+            "6 6"
+          ],
+          "winnerName": "Alexander Zverev",
+          "formattedScore": "6-3 7-6(6)"
+        }
+      ]
+    },
+    {
+      "round": "Round Robin",
+      "roundLong": "Round Robin",
+      "sourceHeader": "Round Robin",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "C. Alcaraz",
+          "player1FullName": "Carlos Alcaraz",
+          "player1Id": "A0E2",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [],
+          "player2": "A. de Minaur",
+          "player2FullName": "Alex De Minaur",
+          "player2Id": "DH58",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 2,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "A. Zverev",
+          "player1FullName": "Alexander Zverev",
+          "player1Id": "Z355",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "B. Shelton",
+          "player2FullName": "Ben Shelton",
+          "player2Id": "S0S1",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "winnerName": "Ben Shelton",
+          "formattedScore": "4-6 3-6"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "L. Musetti",
+          "player1FullName": "Lorenzo Musetti",
+          "player1Id": "M0EJ",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [],
+          "player2": "T. Fritz",
+          "player2FullName": "Taylor Fritz",
+          "player2Id": "FB98",
+          "player2Country": "USA",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 4,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "J. Sinner",
+          "player1FullName": "Jannik Sinner",
+          "player1Id": "S0AG",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "6 7",
+            "5"
+          ],
+          "player2": "F. Auger-Aliassime",
+          "player2FullName": "Felix Auger Aliassime",
+          "player2Id": "AG37",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "7"
+          ],
+          "winnerName": "Felix Auger Aliassime",
+          "formattedScore": "4-6 7-6(7) 7-5"
+        }
+      ]
+    },
+    {
+      "round": "Round Robin",
+      "roundLong": "Round Robin",
+      "sourceHeader": "Round Robin",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "C. Alcaraz",
+          "player1FullName": "Carlos Alcaraz",
+          "player1Id": "A0E2",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "B. Shelton",
+          "player2FullName": "Ben Shelton",
+          "player2Id": "S0S1",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "1"
+          ],
+          "winnerName": "Ben Shelton",
+          "formattedScore": "4-6 1-6"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "A. de Minaur",
+          "player1FullName": "Alex De Minaur",
+          "player1Id": "DH58",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "F. Auger-Aliassime",
+          "player2FullName": "Felix Auger Aliassime",
+          "player2Id": "AG37",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "6 3",
+            "3"
+          ],
+          "winnerName": "Felix Auger Aliassime",
+          "formattedScore": "6-7(3) 3-6"
+        }
+      ]
+    }
+  ]
+}

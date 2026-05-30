@@ -1,0 +1,36 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "mateusalves",
+    "name": "Mateus Alves",
+    "displayName": "Mateus Alves",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "6932",
+      "tournamentYear": "2025",
+      "tournamentName": "Rio Open presented by Claro",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 7-6(4)",
+      "matchId": "RES-A6546D143B",
+      "reason": null,
+      "playerName": "Mateus Alves",
+      "opponentName": "Jaime Faria",
+      "opponentKey": "jaimefaria",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

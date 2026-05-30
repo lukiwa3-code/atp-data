@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-2nd-rd/8097/2025/results",
+  "tournament": {
+    "id": "8097",
+    "year": "2025",
+    "name": "Davis Cup Qualifiers 2nd Rd",
+    "location": "Multiple Locations",
+    "date": "17 - 20 September, 2026",
+    "month": "September, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "DCR",
+    "eventType": "Other",
+    "surface": "Hard",
+    "indoorOutdoor": "Indoor",
+    "singlesDrawSize": 2,
+    "doublesDrawSize": 1,
+    "scoresUrl": "/en/scores/archive/davis-cup-qualifiers-2nd-rd/8097/2025/results",
+    "drawsUrl": "/en/scores/archive/davis-cup-qualifiers-2nd-rd/8097/2025/draws",
+    "scheduleUrl": "/en/scores/archive/davis-cup-qualifiers-2nd-rd/8097/2025/schedule",
+    "overviewUrl": "/en/tournaments/davis-cup-qualifiers-2nd-rd/8097/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_itf.png",
+    "prizeMoney": null,
+    "totalFinancialCommitment": null,
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "count": 0,
+  "players": []
+}

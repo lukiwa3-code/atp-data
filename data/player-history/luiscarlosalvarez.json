@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "luiscarlosalvarez",
+    "name": "Luis Carlos Alvarez",
+    "displayName": "L. Alvarez",
+    "playerId": "A0IY"
+  },
+  "count": 2,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "7480",
+      "tournamentYear": "2025",
+      "tournamentName": "Mifel Tennis Open by Telcel Oppo",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "score": "7-5 6-4",
+      "matchId": "RES-8677D351C9",
+      "reason": null,
+      "playerName": "Luis Carlos Alvarez",
+      "opponentName": "Aleksandar Kovacevic",
+      "opponentKey": "aleksandarkovacevic",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "7480",
+      "tournamentYear": "2025",
+      "tournamentName": "Mifel Tennis Open by Telcel Oppo",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-1 6-2",
+      "matchId": "RES-8638143D04",
+      "reason": null,
+      "playerName": "Luis Carlos Alvarez",
+      "opponentName": "James McCabe",
+      "opponentKey": "jamesmccabe",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

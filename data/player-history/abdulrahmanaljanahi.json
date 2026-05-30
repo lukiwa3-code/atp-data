@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Abdulrahman Al Janahi",
     "playerId": ""
   },
-  "count": 1,
+  "count": 2,
   "matches": [
     {
       "date": "Sat, 21 February, 2026",
@@ -30,6 +30,28 @@
       "playerRank": null,
       "opponentRank": 77,
       "rankingDate": "2026-02-16",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "495",
+      "tournamentYear": "2025",
+      "tournamentName": "Dubai Duty Free Tennis Championships",
+      "tournamentType": "500",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 6-0",
+      "matchId": "RES-1FD701CEC5",
+      "reason": null,
+      "playerName": "Abdulrahman Al Janahi",
+      "opponentName": "Christopher O'Connell",
+      "opponentKey": "christopheroconnell",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

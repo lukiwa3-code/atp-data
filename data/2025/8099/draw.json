@@ -1,0 +1,113 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/current/davis-cup-finals/8099/draws",
+  "tournament": {
+    "id": "8099",
+    "year": "2025",
+    "name": "Davis Cup Finals",
+    "location": "Bologna, Italy",
+    "date": "23 - 29 November, 2026",
+    "month": "November, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "DCR",
+    "eventType": "Other",
+    "surface": "Hard",
+    "indoorOutdoor": "Indoor",
+    "singlesDrawSize": 2,
+    "doublesDrawSize": 1,
+    "scoresUrl": "/en/scores/archive/davis-cup-finals/8099/2025/results",
+    "drawsUrl": "/en/scores/archive/davis-cup-finals/8099/2025/draws",
+    "scheduleUrl": "/en/scores/archive/davis-cup-finals/8099/2025/schedule",
+    "overviewUrl": "/en/tournaments/davis-cup-finals/8099/overview",
+    "countryFlagUrl": "/-/media/images/flags/ita.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_itf.png",
+    "prizeMoney": null,
+    "totalFinancialCommitment": null,
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "countRounds": 2,
+  "countMatches": 3,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "TBD",
+          "player1FullName": "TBD",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [
+            "0"
+          ],
+          "player2": "TBD",
+          "player2FullName": "TBD",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [
+            "0"
+          ],
+          "winnerName": "",
+          "formattedScore": "0"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "TBD",
+          "player1FullName": "TBD",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [
+            "0"
+          ],
+          "player2": "TBD",
+          "player2FullName": "TBD",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [
+            "0"
+          ],
+          "winnerName": "",
+          "formattedScore": "0"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "TBD",
+          "player1FullName": "TBD",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [
+            "0"
+          ],
+          "player2": "TBD",
+          "player2FullName": "TBD",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [
+            "0"
+          ],
+          "winnerName": "",
+          "formattedScore": "0"
+        }
+      ]
+    }
+  ]
+}

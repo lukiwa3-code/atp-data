@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "matejdodig",
     "name": "Matej Dodig",
-    "displayName": "Matej Dodig",
-    "playerId": ""
+    "displayName": "M. Dodig",
+    "playerId": "D0L3"
   },
-  "count": 3,
+  "count": 4,
   "matches": [
     {
       "date": "Wed, 20 May, 2026",
@@ -74,6 +74,28 @@
       "playerRank": 233,
       "opponentRank": 258,
       "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "439",
+      "tournamentYear": "2025",
+      "tournamentName": "Plava Laguna Croatia Open Umag",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "4-6 6-1 6-2",
+      "matchId": "RES-D2409AC992",
+      "reason": null,
+      "playerName": "Matej Dodig",
+      "opponentName": "Francesco Passaro",
+      "opponentKey": "francescopassaro",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

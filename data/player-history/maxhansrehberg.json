@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Max Hans Rehberg",
     "playerId": ""
   },
-  "count": 4,
+  "count": 6,
   "matches": [
     {
       "date": "Sun, 17 May, 2026",
@@ -96,6 +96,50 @@
       "playerRank": 729,
       "opponentRank": 166,
       "rankingDate": "2026-04-06",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "414",
+      "tournamentYear": "2025",
+      "tournamentName": "Bitpanda Hamburg Open",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-4D8F90F5F4",
+      "reason": null,
+      "playerName": "Max Hans Rehberg",
+      "opponentName": "Daniel Dutra da Silva",
+      "opponentKey": "danieldutradasilva",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "308",
+      "tournamentYear": "2025",
+      "tournamentName": "BMW Open by Bitpanda",
+      "tournamentType": "500",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-1",
+      "matchId": "RES-B2AD48A5D4",
+      "reason": null,
+      "playerName": "Max Hans Rehberg",
+      "opponentName": "Botic van de Zandschulp",
+      "opponentKey": "boticvandezandschulp",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

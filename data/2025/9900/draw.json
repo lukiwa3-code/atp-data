@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-05-30T17:34:38.601616+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2025/draws",
+  "tournament": {
+    "id": "9900",
+    "year": "2025",
+    "name": "United Cup",
+    "location": "Perth-Sydney, Australia",
+    "date": "2 - 11 January, 2026",
+    "month": "January, 2026",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "UC",
+    "eventType": "Tour",
+    "surface": "Hard",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 18,
+    "doublesDrawSize": 18,
+    "scoresUrl": "/en/scores/archive/perth-sydney/9900/2025/results",
+    "drawsUrl": "/en/scores/archive/perth-sydney/9900/2025/draws",
+    "scheduleUrl": "/en/scores/archive/perth-sydney/9900/2025/schedule",
+    "overviewUrl": "/en/tournaments/perth-sydney/9900/overview",
+    "countryFlagUrl": "/-/media/images/flags/aus.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_unitedcup.png",
+    "prizeMoney": "$5,903,345",
+    "totalFinancialCommitment": "$5,903,345",
+    "syntheticHistoricalFallback": true,
+    "syntheticSourceYear": "2026"
+  },
+  "countRounds": 4,
+  "countMatches": 16,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "T. Fritz",
+          "player1FullName": "Taylor Fritz",
+          "player1Id": "FB98",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "5",
+            "7"
+          ],
+          "player2": "H. Hurkacz",
+          "player2FullName": "Hubert Hurkacz",
+          "player2Id": "HB71",
+          "player2Country": "POL",
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "6 4"
+          ],
+          "winnerName": "",
+          "formattedScore": "6-4 5-7 7-6(4)"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 9,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "A. Shevchenko",
+          "player1FullName": "Aleksandr Shevchenko",
+          "player1Id": "S0H2",
+          "player1Country": "KAZ",
+          "player1ScoreTokens": [],
+          "player2": "P. Carreno Busta",
+          "player2FullName": "Pablo Carreno Busta",
+          "player2Id": "CD85",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "Z. Zhang",
+          "player1FullName": "Zhizhen Zhang",
+          "player1Id": "Z371",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [],
+          "player2": "T. Monteiro",
+          "player2FullName": "Thiago Monteiro",
+          "player2Id": "MJ08",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 3,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "F. Auger-Aliassime",
+          "player1FullName": "Felix Auger Aliassime",
+          "player1Id": "AG37",
+          "player1Country": "CAN",
+          "player1ScoreTokens": [],
+          "player2": "B. Coric",
+          "player2FullName": "Borna Coric",
+          "player2Id": "CG80",
+          "player2Country": "CRO",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 4,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "U. Humbert",
+          "player1FullName": "Ugo Humbert",
+          "player1Id": "HH26",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [],
+          "player2": "D. Stricker",
+          "player2FullName": "Dominic Stricker",
+          "player2Id": "S0LA",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 5,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "A. de Minaur",
+          "player1FullName": "Alex De Minaur",
+          "player1Id": "DH58",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [],
+          "player2": "T. Etcheverry",
+          "player2FullName": "Tomas Martin Etcheverry",
+          "player2Id": "EA24",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 6,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "S. Tsitsipas",
+          "player1FullName": "Stefanos Tsitsipas",
+          "player1Id": "TE51",
+          "player1Country": "GRE",
+          "player1ScoreTokens": [],
+          "player2": "A. Zverev",
+          "player2FullName": "Alexander Zverev",
+          "player2Id": "Z355",
+          "player2Country": "GER",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 7,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "T. Machac",
+          "player1FullName": "Tomas Machac",
+          "player1Id": "M0FH",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6 4",
+            "6"
+          ],
+          "player2": "C. Ruud",
+          "player2FullName": "Casper Ruud",
+          "player2Id": "RH16",
+          "player2Country": "NOR",
+          "player2ScoreTokens": [
+            "7",
+            "5"
+          ],
+          "winnerName": "Casper Ruud",
+          "formattedScore": "7 5"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "F. Cobolli",
+          "player1FullName": "Flavio Cobolli",
+          "player1Id": "C0E9",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [],
+          "player2": "T. Fritz",
+          "player2FullName": "Taylor Fritz",
+          "player2Id": "FB98",
+          "player2Country": "USA",
+          "player2ScoreTokens": [],
+          "winnerName": "",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 9,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "B. Harris",
+          "player1FullName": "Billy Harris",
+          "player1Id": "HD68",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "player2": "H. Hurkacz",
+          "player2FullName": "Hubert Hurkacz",
+          "player2Id": "HB71",
+          "player2Country": "POL",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Hubert Hurkacz",
+          "formattedScore": "6-3 6-2"
+        }
+      ]
+    },
+    {
+      "round": "Round Robin",
+      "roundLong": "Round Robin",
+      "sourceHeader": "Round Robin",
+      "count": 5,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "T. Fritz",
+          "player1FullName": "Taylor Fritz",
+          "player1Id": "FB98",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "B. Coric",
+          "player2FullName": "Borna Coric",
+          "player2Id": "CG80",
+          "player2Country": "CRO",
+          "player2ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "winnerName": "",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "F. Auger-Aliassime",
+          "player1FullName": "Felix Auger Aliassime",
+          "player1Id": "AG37",
+          "player1Country": "CAN",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "6"
+          ],
+          "player2": "H. Hurkacz",
+          "player2FullName": "Hubert Hurkacz",
+          "player2Id": "HB71",
+          "player2Country": "POL",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "4"
+          ],
+          "winnerName": "",
+          "formattedScore": "7-5 3-6 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "C. Ruud",
+          "player1FullName": "Casper Ruud",
+          "player1Id": "RH16",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "H. Hurkacz",
+          "player2FullName": "Hubert Hurkacz",
+          "player2Id": "HB71",
+          "player2Country": "POL",
+          "player2ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "winnerName": "",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "C. Ruud",
+          "player1FullName": "Casper Ruud",
+          "player1Id": "RH16",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "3",
+            "7",
+            "6"
+          ],
+          "player2": "U. Humbert",
+          "player2FullName": "Ugo Humbert",
+          "player2Id": "HH26",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "6 8",
+            "2"
+          ],
+          "winnerName": "",
+          "formattedScore": "3-6 7-6(8) 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "A. Zverev",
+          "player1FullName": "Alexander Zverev",
+          "player1Id": "Z355",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "2",
+            "6",
+            "6"
+          ],
+          "player2": "Z. Zhang",
+          "player2FullName": "Zhizhen Zhang",
+          "player2Id": "Z371",
+          "player2Country": "CHN",
+          "player2ScoreTokens": [
+            "6",
+            "0",
+            "2"
+          ],
+          "winnerName": "",
+          "formattedScore": "2-6 6-0 6-2"
+        }
+      ]
+    },
+    {
+      "round": "Round Robin",
+      "roundLong": "Round Robin",
+      "sourceHeader": "Round Robin",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "Round Robin",
+          "roundLong": "Round Robin",
+          "player1": "A. de Minaur",
+          "player1FullName": "Alex De Minaur",
+          "player1Id": "DH58",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "B. Harris",
+          "player2FullName": "Billy Harris",
+          "player2Id": "HD68",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "2",
+            "1"
+          ],
+          "winnerName": "",
+          "formattedScore": "6-2 6-1"
+        }
+      ]
+    }
+  ]
+}
