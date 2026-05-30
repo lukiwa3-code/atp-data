@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:34:25.852447+00:00",
+  "generatedAt": "2026-05-30T04:02:44.135245+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "alexanderzverev",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Fri, 29 May, 2026",
+      "dateIso": "2026-05-29",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-3 5-7 6-2",
+      "matchId": "RES-981B5E1FB5",
+      "reason": null,
+      "playerName": "Alexander Zverev",
+      "opponentName": "Quentin Halys",
+      "opponentKey": "quentinhalys",
+      "result": "W",
+      "playerRank": 3,
+      "opponentRank": 90,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",
@@ -425,28 +447,6 @@
       "playerRank": 3,
       "opponentRank": 109,
       "rankingDate": "2026-04-06",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Fri, 27 March, 2026",
-      "dateIso": "2026-03-27",
-      "tournamentId": "403",
-      "tournamentYear": "2026",
-      "tournamentName": "Miami Open presented by Itau",
-      "tournamentType": "1000",
-      "surface": "Hard",
-      "round": "SF",
-      "roundLong": "Semifinals",
-      "score": "6-3 7-6(4)",
-      "matchId": "RES-7DB6B88B52",
-      "reason": null,
-      "playerName": "Alexander Zverev",
-      "opponentName": "Jannik Sinner",
-      "opponentKey": "janniksinner",
-      "result": "L",
-      "playerRank": 3,
-      "opponentRank": 1,
-      "rankingDate": "2026-03-23",
       "rankingNote": "historical_week"
     }
   ]

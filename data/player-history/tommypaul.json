@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:34:25.852447+00:00",
+  "generatedAt": "2026-05-30T04:02:44.135245+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "tommypaul",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Fri, 29 May, 2026",
+      "dateIso": "2026-05-29",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "4-6 6-7(4) 6-4 7-6(4) 7-5",
+      "matchId": "RES-BBA0AA0DB2",
+      "reason": null,
+      "playerName": "Tommy Paul",
+      "opponentName": "Casper Ruud",
+      "opponentKey": "casperruud",
+      "result": "L",
+      "playerRank": 21,
+      "opponentRank": 16,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",
@@ -424,28 +446,6 @@
       "result": "L",
       "playerRank": 24,
       "opponentRank": 35,
-      "rankingDate": "2026-03-02",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Fri, 06 March, 2026",
-      "dateIso": "2026-03-06",
-      "tournamentId": "404",
-      "tournamentYear": "2026",
-      "tournamentName": "BNP Paribas Open",
-      "tournamentType": "1000",
-      "surface": "Hard",
-      "round": "R64",
-      "roundLong": "Round of 64",
-      "score": "6-1 6-2",
-      "matchId": "RES-992F5931A2",
-      "reason": null,
-      "playerName": "Tommy Paul",
-      "opponentName": "Zizou Bergs",
-      "opponentKey": "zizoubergs",
-      "result": "W",
-      "playerRank": 24,
-      "opponentRank": 47,
       "rankingDate": "2026-03-02",
       "rankingNote": "historical_week"
     }

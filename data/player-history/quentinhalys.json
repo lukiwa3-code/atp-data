@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:34:25.852447+00:00",
+  "generatedAt": "2026-05-30T04:02:44.135245+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
   "player": {
     "key": "quentinhalys",
@@ -9,6 +9,28 @@
   },
   "count": 20,
   "matches": [
+    {
+      "date": "Fri, 29 May, 2026",
+      "dateIso": "2026-05-29",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-3 5-7 6-2",
+      "matchId": "RES-981B5E1FB5",
+      "reason": null,
+      "playerName": "Quentin Halys",
+      "opponentName": "Alexander Zverev",
+      "opponentKey": "alexanderzverev",
+      "result": "L",
+      "playerRank": 90,
+      "opponentRank": 3,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",
@@ -424,28 +446,6 @@
       "result": "W",
       "playerRank": 77,
       "opponentRank": 375,
-      "rankingDate": "2026-02-09",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Thu, 12 February, 2026",
-      "dateIso": "2026-02-12",
-      "tournamentId": "407",
-      "tournamentYear": "2026",
-      "tournamentName": "ABN AMRO Open",
-      "tournamentType": "500",
-      "surface": "Hard",
-      "round": "R16",
-      "roundLong": "Round of 16",
-      "score": "7-5 7-6(11)",
-      "matchId": "RES-37FA19D785",
-      "reason": null,
-      "playerName": "Quentin Halys",
-      "opponentName": "Tallon Griekspoor",
-      "opponentKey": "tallongriekspoor",
-      "result": "L",
-      "playerRank": 77,
-      "opponentRank": 27,
       "rankingDate": "2026-02-09",
       "rankingNote": "historical_week"
     }

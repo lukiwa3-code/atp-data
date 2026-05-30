@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-29T20:34:25.852447+00:00",
+  "generatedAt": "2026-05-30T04:02:44.135245+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -266,10 +266,10 @@
           "bracketOrder": 6,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "C. Ruud",
+          "player1FullName": "Casper Ruud",
+          "player1Id": "RH16",
+          "player1Country": "NOR",
           "player1ScoreTokens": [],
           "player2": "J. Fonseca",
           "player2FullName": "Joao Fonseca",
@@ -305,10 +305,10 @@
           "player1Id": "D0C1",
           "player1Country": "NED",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "A. Zverev",
+          "player2FullName": "Alexander Zverev",
+          "player2Id": "Z355",
+          "player2Country": "GER",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -517,14 +517,26 @@
           "player1FullName": "Casper Ruud",
           "player1Id": "RH16",
           "player1Country": "NOR",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "6 4",
+            "6",
+            "7",
+            "7"
+          ],
           "player2": "T. Paul",
           "player2FullName": "Tommy Paul",
           "player2Id": "PL56",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "7",
+            "4",
+            "6 4",
+            "5"
+          ],
+          "winnerName": "Casper Ruud",
+          "formattedScore": "4-6 6-7(4) 6-4 7-6(4) 7-5"
         },
         {
           "bracketOrder": 12,
@@ -648,14 +660,24 @@
           "player1FullName": "Quentin Halys",
           "player1Id": "HB64",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "3",
+            "7",
+            "2"
+          ],
           "player2": "A. Zverev",
           "player2FullName": "Alexander Zverev",
           "player2Id": "Z355",
           "player2Country": "GER",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6",
+            "5",
+            "6"
+          ],
+          "winnerName": "Alexander Zverev",
+          "formattedScore": "6-4 6-3 5-7 6-2"
         }
       ]
     },
