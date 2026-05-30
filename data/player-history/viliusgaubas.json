@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyRangeDays": 365,
   "player": {
     "key": "viliusgaubas",
     "name": "Vilius Gaubas",
     "displayName": "V. Gaubas",
     "playerId": "G0FW"
   },
-  "count": 20,
+  "count": 21,
   "matches": [
     {
       "date": "Mon, 25 May, 2026",
@@ -446,6 +447,28 @@
       "result": "L",
       "playerRank": 129,
       "opponentRank": 192,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 13 January, 2026",
+      "dateIso": "2026-01-13",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 6-3",
+      "matchId": "RES-FC783B7281",
+      "reason": null,
+      "playerName": "Vilius Gaubas",
+      "opponentName": "Nicolas Moreno De Alboran",
+      "opponentKey": "nicolasmorenodealboran",
+      "result": "W",
+      "playerRank": 129,
+      "opponentRank": 633,
       "rankingDate": "2026-01-12",
       "rankingNote": "historical_week"
     }

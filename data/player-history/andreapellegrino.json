@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyRangeDays": 365,
   "player": {
     "key": "andreapellegrino",
     "name": "Andrea Pellegrino",
     "displayName": "A. Pellegrino",
     "playerId": "PH64"
   },
-  "count": 20,
+  "count": 22,
   "matches": [
     {
       "date": "Mon, 25 May, 2026",
@@ -447,6 +448,50 @@
       "playerRank": 143,
       "opponentRank": 198,
       "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sat, 07 February, 2026",
+      "dateIso": "2026-02-07",
+      "tournamentId": "506",
+      "tournamentYear": "2026",
+      "tournamentName": "IEB+ Argentina Open",
+      "tournamentType": "250",
+      "surface": "Clay",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-3",
+      "matchId": "RES-124F2A024E",
+      "reason": null,
+      "playerName": "Andrea Pellegrino",
+      "opponentName": "Juan Manuel La Serna",
+      "opponentKey": "juanmanuellaserna",
+      "result": "W",
+      "playerRank": 143,
+      "opponentRank": 386,
+      "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 4-6 6-3",
+      "matchId": "RES-BE787AA9C7",
+      "reason": null,
+      "playerName": "Andrea Pellegrino",
+      "opponentName": "Dane Sweeny",
+      "opponentKey": "danesweeny",
+      "result": "L",
+      "playerRank": 138,
+      "opponentRank": 182,
+      "rankingDate": "2026-01-12",
       "rankingNote": "historical_week"
     }
   ]

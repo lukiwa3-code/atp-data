@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyRangeDays": 365,
   "player": {
     "key": "marcotrungelliti",
     "name": "Marco Trungelliti",
     "displayName": "M. Trungelliti",
     "playerId": "TA29"
   },
-  "count": 20,
+  "count": 21,
   "matches": [
     {
       "date": "Wed, 27 May, 2026",
@@ -446,6 +447,28 @@
       "result": "W",
       "playerRank": 130,
       "opponentRank": 158,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 1-6 6-1",
+      "matchId": "RES-F62C637B7E",
+      "reason": null,
+      "playerName": "Marco Trungelliti",
+      "opponentName": "Philip Sekulic",
+      "opponentKey": "philipsekulic",
+      "result": "W",
+      "playerRank": 130,
+      "opponentRank": 519,
       "rankingDate": "2026-01-12",
       "rankingNote": "historical_week"
     }

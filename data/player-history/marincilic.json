@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyRangeDays": 365,
   "player": {
     "key": "marincilic",
     "name": "Marin Cilic",
     "displayName": "M. Cilic",
     "playerId": "C977"
   },
-  "count": 20,
+  "count": 22,
   "matches": [
     {
       "date": "Tue, 26 May, 2026",
@@ -447,6 +448,50 @@
       "playerRank": 70,
       "opponentRank": 44,
       "rankingDate": "2026-01-19",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Wed, 07 January, 2026",
+      "dateIso": "2026-01-07",
+      "tournamentId": "336",
+      "tournamentYear": "2026",
+      "tournamentName": "Bank of China Hong Kong Tennis Open",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "score": "7-5 6-3",
+      "matchId": "RES-A3324286C4",
+      "reason": null,
+      "playerName": "Marin Cilic",
+      "opponentName": "Nuno Borges",
+      "opponentKey": "nunoborges",
+      "result": "L",
+      "playerRank": 70,
+      "opponentRank": 45,
+      "rankingDate": "2026-01-05",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 05 January, 2026",
+      "dateIso": "2026-01-05",
+      "tournamentId": "336",
+      "tournamentYear": "2026",
+      "tournamentName": "Bank of China Hong Kong Tennis Open",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-2",
+      "matchId": "RES-DCCD1B7A5D",
+      "reason": null,
+      "playerName": "Marin Cilic",
+      "opponentName": "Adrian Mannarino",
+      "opponentKey": "adrianmannarino",
+      "result": "W",
+      "playerRank": 70,
+      "opponentRank": 68,
+      "rankingDate": "2026-01-05",
       "rankingNote": "historical_week"
     }
   ]

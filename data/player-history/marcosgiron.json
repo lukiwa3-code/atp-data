@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyRangeDays": 365,
   "player": {
     "key": "marcosgiron",
     "name": "Marcos Giron",
     "displayName": "M. Giron",
     "playerId": "GC88"
   },
-  "count": 20,
+  "count": 21,
   "matches": [
     {
       "date": "Mon, 25 May, 2026",
@@ -446,6 +447,28 @@
       "result": "W",
       "playerRank": 64,
       "opponentRank": 52,
+      "rankingDate": "2026-01-05",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 06 January, 2026",
+      "dateIso": "2026-01-06",
+      "tournamentId": "336",
+      "tournamentYear": "2026",
+      "tournamentName": "Bank of China Hong Kong Tennis Open",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-2 6-0",
+      "matchId": "RES-00D457A13F",
+      "reason": null,
+      "playerName": "Marcos Giron",
+      "opponentName": "Laslo Djere",
+      "opponentKey": "laslodjere",
+      "result": "W",
+      "playerRank": 64,
+      "opponentRank": 95,
       "rankingDate": "2026-01-05",
       "rankingNote": "historical_week"
     }

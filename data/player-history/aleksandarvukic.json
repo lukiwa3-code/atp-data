@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyRangeDays": 365,
   "player": {
     "key": "aleksandarvukic",
     "name": "Aleksandar Vukic",
     "displayName": "A. Vukic",
     "playerId": "V832"
   },
-  "count": 20,
+  "count": 21,
   "matches": [
     {
       "date": "Mon, 25 May, 2026",
@@ -447,6 +448,28 @@
       "playerRank": 87,
       "opponentRank": 108,
       "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sun, 04 January, 2026",
+      "dateIso": "2026-01-04",
+      "tournamentId": "339",
+      "tournamentYear": "2026",
+      "tournamentName": "Brisbane International presented by ANZ",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-2 6-2",
+      "matchId": "RES-2CA628BFC6",
+      "reason": null,
+      "playerName": "Aleksandar Vukic",
+      "opponentName": "Frances Tiafoe",
+      "opponentKey": "francestiafoe",
+      "result": "L",
+      "playerRank": 84,
+      "opponentRank": 30,
+      "rankingDate": "2025-12-29",
       "rankingNote": "historical_week"
     }
   ]

@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyRangeDays": 365,
   "player": {
     "key": "janlennardstruff",
     "name": "Jan Lennard Struff",
     "displayName": "J. Struff",
     "playerId": "SL28"
   },
-  "count": 20,
+  "count": 21,
   "matches": [
     {
       "date": "Thu, 28 May, 2026",
@@ -447,6 +448,28 @@
       "playerRank": 82,
       "opponentRank": 172,
       "rankingDate": "2026-01-05",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sun, 04 January, 2026",
+      "dateIso": "2026-01-04",
+      "tournamentId": "336",
+      "tournamentYear": "2026",
+      "tournamentName": "Bank of China Hong Kong Tennis Open",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 7-6(3)",
+      "matchId": "RES-9029B71ED3",
+      "reason": null,
+      "playerName": "Jan-Lennard Struff",
+      "opponentName": "Zsombor Piros",
+      "opponentKey": "zsomborpiros",
+      "result": "W",
+      "playerRank": 83,
+      "opponentRank": 164,
+      "rankingDate": "2025-12-29",
       "rankingNote": "historical_week"
     }
   ]

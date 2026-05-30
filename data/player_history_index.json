@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
   "count": 401,
   "items": [
     {
@@ -70,8 +70,8 @@
       "name": "Adam Walton",
       "displayName": "A. Walton",
       "playerId": "W09E",
-      "rank": 79,
-      "count": 20,
+      "rank": 77,
+      "count": 21,
       "path": "data/player-history/adamwalton.json"
     },
     {
@@ -97,8 +97,8 @@
       "name": "Adrian Mannarino",
       "displayName": "A. Mannarino",
       "playerId": "ME82",
-      "rank": 69,
-      "count": 20,
+      "rank": 68,
+      "count": 21,
       "path": "data/player-history/adrianmannarino.json"
     },
     {
@@ -125,7 +125,7 @@
       "displayName": "A. Davidovich Fokina",
       "playerId": "DH50",
       "rank": 14,
-      "count": 20,
+      "count": 24,
       "path": "data/player-history/alejandrodavidovichfokina.json"
     },
     {
@@ -142,8 +142,8 @@
       "name": "Alejandro Tabilo",
       "displayName": "A. Tabilo",
       "playerId": "TE30",
-      "rank": 68,
-      "count": 20,
+      "rank": 82,
+      "count": 30,
       "path": "data/player-history/alejandrotabilo.json"
     },
     {
@@ -160,8 +160,8 @@
       "name": "Aleksandar Kovacevic",
       "displayName": "A. Kovacevic",
       "playerId": "K0AZ",
-      "rank": 78,
-      "count": 20,
+      "rank": 58,
+      "count": 29,
       "path": "data/player-history/aleksandarkovacevic.json"
     },
     {
@@ -169,8 +169,8 @@
       "name": "Aleksandar Vukic",
       "displayName": "A. Vukic",
       "playerId": "V832",
-      "rank": 87,
-      "count": 20,
+      "rank": 84,
+      "count": 21,
       "path": "data/player-history/aleksandarvukic.json"
     },
     {
@@ -178,8 +178,8 @@
       "name": "Aleksandr Shevchenko",
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
-      "rank": 104,
-      "count": 20,
+      "rank": 97,
+      "count": 22,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -205,8 +205,8 @@
       "name": "Alex De Minaur",
       "displayName": "A. de Minaur",
       "playerId": "DH58",
-      "rank": 8,
-      "count": 20,
+      "rank": null,
+      "count": 28,
       "path": "data/player-history/alexdeminaur.json"
     },
     {
@@ -232,8 +232,8 @@
       "name": "Alex Michelsen",
       "displayName": "A. Michelsen",
       "playerId": "M0QI",
-      "rank": 44,
-      "count": 20,
+      "rank": 37,
+      "count": 31,
       "path": "data/player-history/alexmichelsen.json"
     },
     {
@@ -259,8 +259,8 @@
       "name": "Alexander Blockx",
       "displayName": "A. Blockx",
       "playerId": "B0PG",
-      "rank": 97,
-      "count": 20,
+      "rank": 95,
+      "count": 23,
       "path": "data/player-history/alexanderblockx.json"
     },
     {
@@ -268,8 +268,8 @@
       "name": "Alexander Bublik",
       "displayName": "A. Bublik",
       "playerId": "BK92",
-      "rank": 10,
-      "count": 20,
+      "rank": 11,
+      "count": 28,
       "path": "data/player-history/alexanderbublik.json"
     },
     {
@@ -287,7 +287,7 @@
       "displayName": "A. Zverev",
       "playerId": "Z355",
       "rank": 3,
-      "count": 20,
+      "count": 38,
       "path": "data/player-history/alexanderzverev.json"
     },
     {
@@ -305,7 +305,7 @@
       "displayName": "A. Popyrin",
       "playerId": "P09Z",
       "rank": 50,
-      "count": 20,
+      "count": 22,
       "path": "data/player-history/alexeipopyrin.json"
     },
     {
@@ -349,8 +349,8 @@
       "name": "Andrea Pellegrino",
       "displayName": "A. Pellegrino",
       "playerId": "PH64",
-      "rank": 143,
-      "count": 20,
+      "rank": 138,
+      "count": 22,
       "path": "data/player-history/andreapellegrino.json"
     },
     {
@@ -394,8 +394,8 @@
       "name": "Andrey Rublev",
       "displayName": "A. Rublev",
       "playerId": "RE44",
-      "rank": 18,
-      "count": 20,
+      "rank": 16,
+      "count": 31,
       "path": "data/player-history/andreyrublev.json"
     },
     {
@@ -457,8 +457,8 @@
       "name": "Arthur Fils",
       "displayName": "A. Fils",
       "playerId": "F0F1",
-      "rank": 32,
-      "count": 20,
+      "rank": 42,
+      "count": 29,
       "path": "data/player-history/arthurfils.json"
     },
     {
@@ -520,8 +520,8 @@
       "name": "Ben Shelton",
       "displayName": "B. Shelton",
       "playerId": "S0S1",
-      "rank": 9,
-      "count": 20,
+      "rank": 8,
+      "count": 28,
       "path": "data/player-history/benshelton.json"
     },
     {
@@ -611,7 +611,7 @@
       "displayName": "B. Van de Zandschulp",
       "playerId": "V812",
       "rank": 75,
-      "count": 20,
+      "count": 23,
       "path": "data/player-history/boticvandezandschulp.json"
     },
     {
@@ -628,8 +628,8 @@
       "name": "Brandon Nakashima",
       "displayName": "B. Nakashima",
       "playerId": "N0AE",
-      "rank": 29,
-      "count": 20,
+      "rank": 33,
+      "count": 26,
       "path": "data/player-history/brandonnakashima.json"
     },
     {
@@ -646,8 +646,8 @@
       "name": "Cameron Norrie",
       "displayName": "C. Norrie",
       "playerId": "N771",
-      "rank": 27,
-      "count": 20,
+      "rank": 28,
+      "count": 25,
       "path": "data/player-history/cameronnorrie.json"
     },
     {
@@ -655,8 +655,8 @@
       "name": "Camilo Ugo Carabelli",
       "displayName": "C. Ugo Carabelli",
       "playerId": "U182",
-      "rank": 46,
-      "count": 20,
+      "rank": 49,
+      "count": 26,
       "path": "data/player-history/camilougocarabelli.json"
     },
     {
@@ -664,8 +664,8 @@
       "name": "Carlos Alcaraz",
       "displayName": "C. Alcaraz",
       "playerId": "A0E2",
-      "rank": 2,
-      "count": 20,
+      "rank": 1,
+      "count": 25,
       "path": "data/player-history/carlosalcaraz.json"
     },
     {
@@ -682,8 +682,8 @@
       "name": "Casper Ruud",
       "displayName": "C. Ruud",
       "playerId": "RH16",
-      "rank": 12,
-      "count": 20,
+      "rank": 13,
+      "count": 32,
       "path": "data/player-history/casperruud.json"
     },
     {
@@ -719,7 +719,7 @@
       "displayName": "C. O'Connell",
       "playerId": "O483",
       "rank": 116,
-      "count": 20,
+      "count": 21,
       "path": "data/player-history/christopheroconnell.json"
     },
     {
@@ -817,8 +817,8 @@
       "name": "Damir Dzumhur",
       "displayName": "D. Dzumhur",
       "playerId": "D923",
-      "rank": 66,
-      "count": 20,
+      "rank": 65,
+      "count": 23,
       "path": "data/player-history/damirdzumhur.json"
     },
     {
@@ -845,7 +845,7 @@
       "displayName": "D. Altmaier",
       "playerId": "AE14",
       "rank": 44,
-      "count": 20,
+      "count": 21,
       "path": "data/player-history/danielaltmaier.json"
     },
     {
@@ -907,8 +907,8 @@
       "name": "Daniel Merida",
       "displayName": "D. Merida",
       "playerId": "M0N7",
-      "rank": 139,
-      "count": 20,
+      "rank": 164,
+      "count": 23,
       "path": "data/player-history/danielmerida.json"
     },
     {
@@ -934,8 +934,8 @@
       "name": "Daniil Medvedev",
       "displayName": "D. Medvedev",
       "playerId": "MM58",
-      "rank": 11,
-      "count": 20,
+      "rank": 13,
+      "count": 35,
       "path": "data/player-history/daniilmedvedev.json"
     },
     {
@@ -997,8 +997,8 @@
       "name": "Dino Prizmic",
       "displayName": "D. Prizmic",
       "playerId": "P0HW",
-      "rank": 120,
-      "count": 20,
+      "rank": 127,
+      "count": 29,
       "path": "data/player-history/dinoprizmic.json"
     },
     {
@@ -1078,8 +1078,8 @@
       "name": "Emilio Nava",
       "displayName": "E. Nava",
       "playerId": "N0AM",
-      "rank": 81,
-      "count": 20,
+      "rank": 88,
+      "count": 27,
       "path": "data/player-history/emilionava.json"
     },
     {
@@ -1087,8 +1087,8 @@
       "name": "Ethan Quinn",
       "displayName": "E. Quinn",
       "playerId": "Q02L",
-      "rank": 80,
-      "count": 20,
+      "rank": 70,
+      "count": 24,
       "path": "data/player-history/ethanquinn.json"
     },
     {
@@ -1096,8 +1096,8 @@
       "name": "Fabian Marozsan",
       "displayName": "F. Marozsan",
       "playerId": "M0CI",
-      "rank": 52,
-      "count": 20,
+      "rank": 53,
+      "count": 24,
       "path": "data/player-history/fabianmarozsan.json"
     },
     {
@@ -1177,8 +1177,8 @@
       "name": "Felix Auger Aliassime",
       "displayName": "F. Auger-Aliassime",
       "playerId": "AG37",
-      "rank": 7,
-      "count": 20,
+      "rank": 8,
+      "count": 25,
       "path": "data/player-history/felixaugeraliassime.json"
     },
     {
@@ -1213,8 +1213,8 @@
       "name": "Flavio Cobolli",
       "displayName": "F. Cobolli",
       "playerId": "C0E9",
-      "rank": 15,
-      "count": 20,
+      "rank": 22,
+      "count": 30,
       "path": "data/player-history/flaviocobolli.json"
     },
     {
@@ -1231,8 +1231,8 @@
       "name": "Frances Tiafoe",
       "displayName": "F. Tiafoe",
       "playerId": "TD51",
-      "rank": 28,
-      "count": 20,
+      "rank": 30,
+      "count": 31,
       "path": "data/player-history/francestiafoe.json"
     },
     {
@@ -1259,7 +1259,7 @@
       "displayName": "F. Cerundolo",
       "playerId": "C0AU",
       "rank": 20,
-      "count": 20,
+      "count": 34,
       "path": "data/player-history/franciscocerundolo.json"
     },
     {
@@ -1267,8 +1267,8 @@
       "name": "Francisco Comesana",
       "displayName": "F. Comesana",
       "playerId": "C0DF",
-      "rank": 68,
-      "count": 20,
+      "rank": 66,
+      "count": 24,
       "path": "data/player-history/franciscocomesana.json"
     },
     {
@@ -1483,8 +1483,8 @@
       "name": "Hamad Medjedovic",
       "displayName": "H. Medjedovic",
       "playerId": "M0JF",
-      "rank": 90,
-      "count": 20,
+      "rank": 80,
+      "count": 24,
       "path": "data/player-history/hamadmedjedovic.json"
     },
     {
@@ -1600,8 +1600,8 @@
       "name": "Ignacio Buse",
       "displayName": "I. Buse",
       "playerId": "B0ID",
-      "rank": 63,
-      "count": 20,
+      "rank": 96,
+      "count": 28,
       "path": "data/player-history/ignaciobuse.json"
     },
     {
@@ -1726,8 +1726,8 @@
       "name": "Jakub Mensik",
       "displayName": "J. Mensik",
       "playerId": "M0NI",
-      "rank": 16,
-      "count": 20,
+      "rank": null,
+      "count": 28,
       "path": "data/player-history/jakubmensik.json"
     },
     {
@@ -1780,8 +1780,8 @@
       "name": "Jan Lennard Struff",
       "displayName": "J. Struff",
       "playerId": "SL28",
-      "rank": 82,
-      "count": 20,
+      "rank": 83,
+      "count": 21,
       "path": "data/player-history/janlennardstruff.json"
     },
     {
@@ -1798,8 +1798,8 @@
       "name": "Jannik Sinner",
       "displayName": "J. Sinner",
       "playerId": "S0AG",
-      "rank": 1,
-      "count": 20,
+      "rank": 2,
+      "count": 40,
       "path": "data/player-history/janniksinner.json"
     },
     {
@@ -1861,8 +1861,8 @@
       "name": "Jiri Lehecka",
       "displayName": "J. Lehecka",
       "playerId": "L0BV",
-      "rank": 24,
-      "count": 20,
+      "rank": 19,
+      "count": 26,
       "path": "data/player-history/jirilehecka.json"
     },
     {
@@ -1870,8 +1870,8 @@
       "name": "Joao Fonseca",
       "displayName": "J. Fonseca",
       "playerId": "F0FV",
-      "rank": 38,
-      "count": 20,
+      "rank": 32,
+      "count": 23,
       "path": "data/player-history/joaofonseca.json"
     },
     {
@@ -1942,8 +1942,8 @@
       "name": "Juan Manuel Cerundolo",
       "displayName": "J. Cerundolo",
       "playerId": "C0C8",
-      "rank": 80,
-      "count": 20,
+      "rank": 85,
+      "count": 23,
       "path": "data/player-history/juanmanuelcerundolo.json"
     },
     {
@@ -2024,7 +2024,7 @@
       "displayName": "K. Khachanov",
       "playerId": "KE29",
       "rank": 17,
-      "count": 20,
+      "count": 27,
       "path": "data/player-history/karenkhachanov.json"
     },
     {
@@ -2104,8 +2104,8 @@
       "name": "Learner Tien",
       "displayName": "L. Tien",
       "playerId": "T0HA",
-      "rank": 23,
-      "count": 20,
+      "rank": 28,
+      "count": 28,
       "path": "data/player-history/learnertien.json"
     },
     {
@@ -2212,8 +2212,8 @@
       "name": "Luciano Darderi",
       "displayName": "L. Darderi",
       "playerId": "D0FJ",
-      "rank": 21,
-      "count": 20,
+      "rank": 24,
+      "count": 34,
       "path": "data/player-history/lucianodarderi.json"
     },
     {
@@ -2303,7 +2303,7 @@
       "displayName": "M. Trungelliti",
       "playerId": "TA29",
       "rank": 130,
-      "count": 20,
+      "count": 21,
       "path": "data/player-history/marcotrungelliti.json"
     },
     {
@@ -2312,7 +2312,7 @@
       "displayName": "M. Giron",
       "playerId": "GC88",
       "rank": 64,
-      "count": 20,
+      "count": 21,
       "path": "data/player-history/marcosgiron.json"
     },
     {
@@ -2329,8 +2329,8 @@
       "name": "Mariano Navone",
       "displayName": "M. Navone",
       "playerId": "N0BS",
-      "rank": 61,
-      "count": 20,
+      "rank": 72,
+      "count": 29,
       "path": "data/player-history/marianonavone.json"
     },
     {
@@ -2339,7 +2339,7 @@
       "displayName": "M. Cilic",
       "playerId": "C977",
       "rank": 70,
-      "count": 20,
+      "count": 22,
       "path": "data/player-history/marincilic.json"
     },
     {
@@ -2374,8 +2374,8 @@
       "name": "Martin Landaluce",
       "displayName": "M. Landaluce",
       "playerId": "L0IL",
-      "rank": 69,
-      "count": 20,
+      "rank": 135,
+      "count": 23,
       "path": "data/player-history/martinlandaluce.json"
     },
     {
@@ -2545,8 +2545,8 @@
       "name": "Miomir Kecmanovic",
       "displayName": "M. Kecmanovic",
       "playerId": "KI95",
-      "rank": 59,
-      "count": 20,
+      "rank": 51,
+      "count": 22,
       "path": "data/player-history/miomirkecmanovic.json"
     },
     {
@@ -2689,8 +2689,8 @@
       "name": "Nikoloz Basilashvili",
       "displayName": "N. Basilashvili",
       "playerId": "BG23",
-      "rank": 133,
-      "count": 20,
+      "rank": 109,
+      "count": 27,
       "path": "data/player-history/nikolozbasilashvili.json"
     },
     {
@@ -2716,8 +2716,8 @@
       "name": "Nuno Borges",
       "displayName": "N. Borges",
       "playerId": "BT72",
-      "rank": 46,
-      "count": 20,
+      "rank": 45,
+      "count": 24,
       "path": "data/player-history/nunoborges.json"
     },
     {
@@ -2761,8 +2761,8 @@
       "name": "Pablo Carreno Busta",
       "displayName": "P. Carreno Busta",
       "playerId": "CD85",
-      "rank": 92,
-      "count": 20,
+      "rank": 93,
+      "count": 23,
       "path": "data/player-history/pablocarrenobusta.json"
     },
     {
@@ -2779,8 +2779,8 @@
       "name": "Patrick Kypson",
       "displayName": "P. Kypson",
       "playerId": "K0A3",
-      "rank": 116,
-      "count": 20,
+      "rank": 118,
+      "count": 23,
       "path": "data/player-history/patrickkypson.json"
     },
     {
@@ -2851,8 +2851,8 @@
       "name": "Quentin Halys",
       "displayName": "Q. Halys",
       "playerId": "HB64",
-      "rank": 77,
-      "count": 20,
+      "rank": 91,
+      "count": 32,
       "path": "data/player-history/quentinhalys.json"
     },
     {
@@ -2878,8 +2878,8 @@
       "name": "Rafael Jodar",
       "displayName": "R. Jodar",
       "playerId": "J0DZ",
-      "rank": 89,
-      "count": 20,
+      "rank": 150,
+      "count": 38,
       "path": "data/player-history/rafaeljodar.json"
     },
     {
@@ -2942,7 +2942,7 @@
       "displayName": "R. Hijikata",
       "playerId": "H0BH",
       "rank": 113,
-      "count": 20,
+      "count": 31,
       "path": "data/player-history/rinkyhijikata.json"
     },
     {
@@ -3076,8 +3076,8 @@
       "name": "Sebastian Baez",
       "displayName": "S. Baez",
       "playerId": "B0BI",
-      "rank": 34,
-      "count": 20,
+      "rank": null,
+      "count": 28,
       "path": "data/player-history/sebastianbaez.json"
     },
     {
@@ -3193,8 +3193,8 @@
       "name": "Stefanos Tsitsipas",
       "displayName": "S. Tsitsipas",
       "playerId": "TE51",
-      "rank": 32,
-      "count": 20,
+      "rank": null,
+      "count": 25,
       "path": "data/player-history/stefanostsitsipas.json"
     },
     {
@@ -3247,8 +3247,8 @@
       "name": "Terence Atmane",
       "displayName": "T. Atmane",
       "playerId": "A0GC",
-      "rank": 66,
-      "count": 20,
+      "rank": 63,
+      "count": 25,
       "path": "data/player-history/terenceatmane.json"
     },
     {
@@ -3274,8 +3274,8 @@
       "name": "Thiago Agustin Tirante",
       "displayName": "T. Tirante",
       "playerId": "T0A1",
-      "rank": 74,
-      "count": 20,
+      "rank": 102,
+      "count": 30,
       "path": "data/player-history/thiagoagustintirante.json"
     },
     {
@@ -3365,7 +3365,7 @@
       "displayName": "T. Machac",
       "playerId": "M0FH",
       "rank": 35,
-      "count": 20,
+      "count": 25,
       "path": "data/player-history/tomasmachac.json"
     },
     {
@@ -3373,8 +3373,8 @@
       "name": "Tomas Martin Etcheverry",
       "displayName": "T. Etcheverry",
       "playerId": "EA24",
-      "rank": 51,
-      "count": 20,
+      "rank": 57,
+      "count": 34,
       "path": "data/player-history/tomasmartinetcheverry.json"
     },
     {
@@ -3382,8 +3382,8 @@
       "name": "Tommy Paul",
       "displayName": "T. Paul",
       "playerId": "PL56",
-      "rank": 24,
-      "count": 20,
+      "rank": 20,
+      "count": 36,
       "path": "data/player-history/tommypaul.json"
     },
     {
@@ -3437,7 +3437,7 @@
       "displayName": "U. Humbert",
       "playerId": "HH26",
       "rank": 36,
-      "count": 20,
+      "count": 30,
       "path": "data/player-history/ugohumbert.json"
     },
     {
@@ -3454,8 +3454,8 @@
       "name": "Valentin Vacherot",
       "displayName": "V. Vacherot",
       "playerId": "VA25",
-      "rank": 32,
-      "count": 20,
+      "rank": 31,
+      "count": 23,
       "path": "data/player-history/valentinvacherot.json"
     },
     {
@@ -3473,7 +3473,7 @@
       "displayName": "V. Gaubas",
       "playerId": "G0FW",
       "rank": 129,
-      "count": 20,
+      "count": 21,
       "path": "data/player-history/viliusgaubas.json"
     },
     {
@@ -3481,8 +3481,8 @@
       "name": "Vit Kopriva",
       "displayName": "V. Kopriva",
       "playerId": "KI82",
-      "rank": 65,
-      "count": 20,
+      "rank": 101,
+      "count": 31,
       "path": "data/player-history/vitkopriva.json"
     },
     {
@@ -3499,8 +3499,8 @@
       "name": "Yannick Hanfmann",
       "displayName": "Y. Hanfmann",
       "playerId": "H997",
-      "rank": 90,
-      "count": 20,
+      "rank": 104,
+      "count": 23,
       "path": "data/player-history/yannickhanfmann.json"
     },
     {
@@ -3571,8 +3571,8 @@
       "name": "Zachary Svajda",
       "displayName": "Z. Svajda",
       "playerId": "S0K7",
-      "rank": 110,
-      "count": 20,
+      "rank": 143,
+      "count": 25,
       "path": "data/player-history/zacharysvajda.json"
     },
     {

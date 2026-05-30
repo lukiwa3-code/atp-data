@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-30T13:55:09.002845+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyRangeDays": 365,
   "player": {
     "key": "aleksandrshevchenko",
     "name": "Aleksandr Shevchenko",
     "displayName": "A. Shevchenko",
     "playerId": "S0H2"
   },
-  "count": 20,
+  "count": 22,
   "matches": [
     {
       "date": "Mon, 25 May, 2026",
@@ -447,6 +448,50 @@
       "playerRank": 104,
       "opponentRank": 82,
       "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 12 January, 2026",
+      "dateIso": "2026-01-12",
+      "tournamentId": "8998",
+      "tournamentYear": "2026",
+      "tournamentName": "Adelaide International",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-2",
+      "matchId": "RES-25A8875C81",
+      "reason": null,
+      "playerName": "Aleksandr Shevchenko",
+      "opponentName": "Carlos Taberner",
+      "opponentKey": "carlostaberner",
+      "result": "W",
+      "playerRank": 104,
+      "opponentRank": 98,
+      "rankingDate": "2026-01-12",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sat, 03 January, 2026",
+      "dateIso": "2026-01-03",
+      "tournamentId": "339",
+      "tournamentYear": "2026",
+      "tournamentName": "Brisbane International presented by ANZ",
+      "tournamentType": "250",
+      "surface": "Hard",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 6-4",
+      "matchId": "RES-1E54BF1E9A",
+      "reason": null,
+      "playerName": "Aleksandr Shevchenko",
+      "opponentName": "Raphael Collignon",
+      "opponentKey": "raphaelcollignon",
+      "result": "L",
+      "playerRank": 97,
+      "opponentRank": 85,
+      "rankingDate": "2025-12-29",
       "rankingNote": "historical_week"
     }
   ]
