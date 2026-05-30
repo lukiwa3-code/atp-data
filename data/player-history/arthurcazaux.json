@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
-  "historyRangeDays": 365,
+  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
   "player": {
     "key": "arthurcazaux",
     "name": "Arthur Cazaux",

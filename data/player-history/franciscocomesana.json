@@ -1,15 +1,37 @@
 {
-  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
-  "historyRangeDays": 365,
+  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
   "player": {
     "key": "franciscocomesana",
     "name": "Francisco Comesana",
     "displayName": "F. Comesana",
     "playerId": "C0DF"
   },
-  "count": 24,
+  "count": 25,
   "matches": [
+    {
+      "date": "Sat, 30 May, 2026",
+      "dateIso": "2026-05-30",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "surface": "Clay",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(3) 5-7 6-7(4) 6-4 7-6(13)",
+      "matchId": "RES-95F13F986D",
+      "reason": null,
+      "playerName": "Francisco Comesana",
+      "opponentName": "Matteo Berrettini",
+      "opponentKey": "matteoberrettini",
+      "result": "L",
+      "playerRank": 102,
+      "opponentRank": 105,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Thu, 28 May, 2026",
       "dateIso": "2026-05-28",

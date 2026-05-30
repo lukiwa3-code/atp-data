@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
+  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -186,10 +186,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "M. Berrettini",
+          "player2FullName": "Matteo Berrettini",
+          "player2Id": "BK40",
+          "player2Country": "ITA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -346,14 +346,26 @@
           "player1FullName": "Matteo Berrettini",
           "player1Id": "BK40",
           "player1Country": "ITA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "5",
+            "6 4",
+            "6",
+            "7"
+          ],
           "player2": "F. Comesana",
           "player2FullName": "Francisco Comesana",
           "player2Id": "C0DF",
           "player2Country": "ARG",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 3",
+            "7",
+            "7",
+            "4",
+            "6 13"
+          ],
+          "winnerName": "Matteo Berrettini",
+          "formattedScore": "7-6(3) 5-7 6-7(4) 6-4 7-6(13)"
         },
         {
           "bracketOrder": 3,

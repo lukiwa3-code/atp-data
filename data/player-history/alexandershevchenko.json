@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-05-30T16:36:05.112518+00:00",
-  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
-  "historyRangeDays": 365,
+  "generatedAt": "2026-05-30T17:07:48.084889+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
   "player": {
     "key": "alexandershevchenko",
     "name": "Alexander Shevchenko",
     "displayName": "A. Shevchenko",
     "playerId": "S0H2"
   },
-  "count": 4,
+  "count": 6,
   "matches": [
     {
       "date": "Sat, 11 April, 2026",
@@ -96,6 +96,50 @@
       "playerRank": null,
       "opponentRank": 130,
       "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Wed, 21 January, 2026",
+      "dateIso": "2026-01-21",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "R64",
+      "roundLong": "Round of 64",
+      "score": "6-2 5-7 6-1 6-0",
+      "matchId": "RES-5E27ED27DC",
+      "reason": null,
+      "playerName": "Alexander Shevchenko",
+      "opponentName": "Learner Tien",
+      "opponentKey": "learnertien",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 29,
+      "rankingDate": "2026-01-19",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 19 January, 2026",
+      "dateIso": "2026-01-19",
+      "tournamentId": "580",
+      "tournamentYear": "2026",
+      "tournamentName": "Australian Open",
+      "tournamentType": "GS",
+      "surface": "Hard",
+      "round": "R128",
+      "roundLong": "Round of 128",
+      "score": "3-6 7-5 6-4 6-1",
+      "matchId": "RES-56795A8EEF",
+      "reason": null,
+      "playerName": "Alexander Shevchenko",
+      "opponentName": "Elias Ymer",
+      "opponentKey": "eliasymer",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": 175,
+      "rankingDate": "2026-01-19",
       "rankingNote": "historical_week"
     }
   ]
