@@ -1775,12 +1775,104 @@ def build_player_histories_from_matches(
         },
     )
 
+
+def extract_score_slug_and_id(tournament: Dict[str, Any]) -> Tuple[str, str]:
+    for key in ("scoresUrl", "drawsUrl", "scheduleUrl"):
+        url = str(tournament.get(key) or "")
+        match = re.search(r"/en/scores/(?:archive|current)/([^/]+)/([^/]+)(?:/20\d{2})?/", url)
+        if match:
+            return match.group(1), match.group(2)
+
+    return "", str(tournament.get("id") or "")
+
+
+def build_archive_url(slug: str, event_id: str, year: int, page: str) -> str:
+    if not slug or not event_id:
+        return ""
+    return f"/en/scores/archive/{slug}/{event_id}/{year}/{page}"
+
+
+def synthesize_year_from_reference(reference_tournaments: List[Dict[str, Any]], target_year: int) -> List[Dict[str, Any]]:
+    """Awaryjnie tworzy listę turniejów dla roku historycznego.
+
+    ATP endpoint kalendarza nie zawsze zwraca stare lata. Wyniki archiwalne ATP
+    mają jednak przewidywalne adresy:
+    /en/scores/archive/{slug}/{id}/{year}/results
+
+    Ta funkcja bierze znane ID/slug turniejów z aktualnego kalendarza i buduje
+    odpowiedniki dla target_year. Nie jest to idealny kalendarz historyczny,
+    ale pozwala pobrać większość wyników 2025 zamiast dostać pustą historię.
+    """
+    synthetic: List[Dict[str, Any]] = []
+
+    for tournament in reference_tournaments:
+        slug, event_id = extract_score_slug_and_id(tournament)
+        if not slug or not event_id:
+            continue
+
+        item = dict(tournament)
+        item["year"] = str(target_year)
+        item["isLive"] = False
+        item["isPastEvent"] = True
+        item["scoresUrl"] = build_archive_url(slug, event_id, target_year, "results")
+        item["drawsUrl"] = build_archive_url(slug, event_id, target_year, "draws")
+        item["scheduleUrl"] = build_archive_url(slug, event_id, target_year, "schedule")
+        item["syntheticHistoricalFallback"] = True
+        item["syntheticSourceYear"] = tournament.get("year")
+        synthetic.append(item)
+
+    return synthetic
+
+
+def ensure_history_years_available(flat_tournaments: List[Dict[str, Any]], years: List[int]) -> List[Dict[str, Any]]:
+    result = list(flat_tournaments)
+
+    years_present = {
+        int(str(item.get("year") or "0"))
+        for item in result
+        if str(item.get("year") or "").isdigit()
+    }
+
+    reference_year = max(years_present) if years_present else None
+    reference_tournaments = [
+        item for item in result
+        if reference_year is not None and str(item.get("year") or "") == str(reference_year)
+    ]
+
+    existing_keys = {
+        (str(item.get("year") or ""), str(item.get("id") or ""))
+        for item in result
+    }
+
+    for year in years:
+        if year in years_present:
+            continue
+
+        print(f"WARN calendar for {year} missing, creating archive fallback from {reference_year}")
+        synthetic = synthesize_year_from_reference(reference_tournaments, year)
+
+        added = 0
+        for item in synthetic:
+            key = (str(item.get("year") or ""), str(item.get("id") or ""))
+            if key in existing_keys:
+                continue
+            result.append(item)
+            existing_keys.add(key)
+            added += 1
+
+        print(f"Fallback {year}: added {added} synthetic archive tournaments")
+
+    result.sort(key=lambda item: (str(item.get("year") or ""), str(item.get("month") or ""), str(item.get("date") or ""), str(item.get("id") or "")))
+    return result
+
+
 def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     generated_at = datetime.now(timezone.utc).isoformat()
 
     print("Fetching ATP calendars...")
     flat_tournaments, calendar_sources = flatten_multi_year_calendars(HISTORY_YEARS)
+    flat_tournaments = ensure_history_years_available(flat_tournaments, HISTORY_YEARS)
 
     save_json(
         DATA_DIR / "tournaments.json",
@@ -1800,6 +1892,7 @@ def main() -> None:
             "years": HISTORY_YEARS,
             "generatedAt": generated_at,
             "count": len(flat_tournaments),
+            "note": "Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów z poprzedniego roku mogła zostać utworzona jako archive fallback po ID/slug z aktualnego kalendarza.",
             "tournaments": flat_tournaments,
         },
     )

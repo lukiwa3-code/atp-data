@@ -1,10 +1,15 @@
-# ATP data updater v17 - historia 2025 + 2026
+# ATP data updater v18 - fallback dla wyników 2025
 
-Zmiany:
-- skrypt próbuje pobrać kalendarze ATP dla lat 2025 i 2026,
-- generuje mecze, drabinki i historie z obu lat,
-- historia zawodnika nie jest ograniczona do 20 meczów,
-- historia obejmuje od 1 stycznia poprzedniego roku, więc w 2026 obejmuje cały 2025 i 2026,
-- rankingi nadal są historyczne: z tygodnia meczu.
+Problem w v17:
+- jeśli endpoint kalendarza ATP nie zwrócił roku 2025, skrypt nie miał listy turniejów 2025,
+- przez to historia zawodnika nie miała meczów z 2025.
+
+Poprawka v18:
+- jeśli brakuje kalendarza 2025, skrypt tworzy archiwalne adresy ATP na podstawie znanych ID/slug turniejów,
+- generuje URL-e typu:
+  `/en/scores/archive/{slug}/{id}/2025/results`
+  `/en/scores/archive/{slug}/{id}/2025/draws`
+- dzięki temu powinny pobrać się wyniki 2025 dla większości turniejów,
+- historia zawodnika nadal obejmuje 2025 + 2026 i rankingi z tygodnia meczu.
 
 Po podmianie uruchom workflow `Update ATP Data` w repo `atp-data`.
