@@ -1623,10 +1623,29 @@ def build_player_histories_from_matches(
             reverse=True,
         )
 
-        latest_20 = items[:20]
+        try:
+            generated_date = datetime.fromisoformat(generated_at.replace("Z", "+00:00")).date()
+        except Exception:
+            generated_date = datetime.now(timezone.utc).date()
+
+        cutoff_date = generated_date - timedelta(days=365)
+
+        last_year_matches: List[Dict[str, Any]] = []
+        for item in items:
+            date_iso = item.get("dateIso") or ""
+            include_item = False
+
+            try:
+                include_item = datetime.fromisoformat(date_iso).date() >= cutoff_date
+            except Exception:
+                include_item = True
+
+            if include_item:
+                last_year_matches.append(item)
+
         player_rank = None
 
-        for item in latest_20:
+        for item in last_year_matches:
             match_date_iso = item.get("dateIso") or ""
 
             player_rank, player_ranking_date = rank_for_player_on_date(rankings_by_date, key, match_date_iso)
@@ -1644,10 +1663,11 @@ def build_player_histories_from_matches(
         meta = player_meta.get(key, {"name": key, "displayName": key, "playerId": ""})
         payload = {
             "generatedAt": generated_at,
-            "note": "Historia jest budowana z meczów zapisanych w tym repo. Rankingi są bieżące z profilu ATP, jeśli udało się je pobrać.",
+            "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+            "historyRangeDays": 365,
             "player": meta,
-            "count": len(latest_20),
-            "matches": latest_20,
+            "count": len(last_year_matches),
+            "matches": last_year_matches,
         }
 
         save_json(history_dir / f"{key}.json", payload)
@@ -1659,7 +1679,7 @@ def build_player_histories_from_matches(
                 "displayName": meta.get("displayName") or meta.get("name") or key,
                 "playerId": meta.get("playerId") or "",
                 "rank": player_rank,
-                "count": len(latest_20),
+                "count": len(last_year_matches),
                 "path": f"data/player-history/{key}.json",
             }
         )
