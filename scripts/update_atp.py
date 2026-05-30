@@ -17,6 +17,7 @@ DATA_DIR = BASE_DIR / "data"
 
 ATP_BASE_URL = "https://www.atptour.com"
 ATP_CALENDAR_URL = "https://www.atptour.com/en/-/tournaments/calendar/tour"
+HISTORY_YEARS = [2025, 2026]
 
 # Wyniki pobieramy teraz z zakładki Results, a nie z Player Draw.
 # To jest znacznie pewniejsze dla zakończonych turniejów, np. Acapulco.
@@ -153,8 +154,87 @@ def extract_year_from_text(text: Optional[str]) -> Optional[str]:
     return match.group(1) if match else None
 
 
+def calendar_urls_for_year(year: int) -> List[str]:
+    return [
+        f"{ATP_CALENDAR_URL}?year={year}",
+        f"{ATP_CALENDAR_URL}?Year={year}",
+        f"{ATP_CALENDAR_URL}?tournamentYear={year}",
+        f"{ATP_CALENDAR_URL}?season={year}",
+    ]
+
+
 def fetch_calendar() -> Dict[str, Any]:
     return fetch_json(ATP_CALENDAR_URL)
+
+
+def fetch_calendar_for_year(year: int) -> Tuple[Optional[Dict[str, Any]], Optional[str]]:
+    candidates = calendar_urls_for_year(year)
+
+    try:
+        current_year = datetime.now(timezone.utc).year
+        if year == current_year:
+            candidates.insert(0, ATP_CALENDAR_URL)
+    except Exception:
+        pass
+
+    last_error = None
+
+    for url in candidates:
+        try:
+            calendar = fetch_json(url)
+            flat = flatten_tournaments(calendar)
+            matching_year = [
+                item for item in flat
+                if str(item.get("year") or "") == str(year)
+            ]
+
+            if matching_year:
+                print(f"Calendar {year}: {len(matching_year)} tournaments from {url}")
+                return calendar, url
+
+        except Exception as exc:
+            last_error = exc
+            print(f"WARN calendar fetch failed for {year} {url}: {exc}")
+            time.sleep(REQUEST_SLEEP_SECONDS)
+
+    print(f"WARN no calendar found for {year}: {last_error}")
+    return None, None
+
+
+def flatten_multi_year_calendars(years: List[int]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+    flat_all: List[Dict[str, Any]] = []
+    sources: List[Dict[str, Any]] = []
+
+    for year in years:
+        calendar, source_url = fetch_calendar_for_year(year)
+        if not calendar:
+            continue
+
+        flat = flatten_tournaments(calendar)
+        flat = [
+            item for item in flat
+            if str(item.get("year") or "") == str(year)
+        ]
+
+        flat_all.extend(flat)
+        sources.append(
+            {
+                "year": year,
+                "source": source_url,
+                "count": len(flat),
+                "data": calendar,
+            }
+        )
+
+    dedup: Dict[Tuple[str, str], Dict[str, Any]] = {}
+    for item in flat_all:
+        key = (str(item.get("year") or ""), str(item.get("id") or ""))
+        dedup[key] = item
+
+    result = list(dedup.values())
+    result.sort(key=lambda item: (str(item.get("year") or ""), str(item.get("month") or ""), str(item.get("date") or "")))
+
+    return result, sources
 
 
 def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -1628,7 +1708,7 @@ def build_player_histories_from_matches(
         except Exception:
             generated_date = datetime.now(timezone.utc).date()
 
-        cutoff_date = generated_date - timedelta(days=365)
+        history_start_date = generated_date.replace(year=generated_date.year - 1, month=1, day=1)
 
         last_year_matches: List[Dict[str, Any]] = []
         for item in items:
@@ -1636,7 +1716,7 @@ def build_player_histories_from_matches(
             include_item = False
 
             try:
-                include_item = datetime.fromisoformat(date_iso).date() >= cutoff_date
+                include_item = datetime.fromisoformat(date_iso).date() >= history_start_date
             except Exception:
                 include_item = True
 
@@ -1663,8 +1743,8 @@ def build_player_histories_from_matches(
         meta = player_meta.get(key, {"name": key, "displayName": key, "playerId": ""})
         payload = {
             "generatedAt": generated_at,
-            "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: ostatnie 365 dni. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
-            "historyRangeDays": 365,
+            "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+            "historyStartDate": history_start_date.isoformat(),
             "player": meta,
             "count": len(last_year_matches),
             "matches": last_year_matches,
@@ -1699,16 +1779,17 @@ def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     generated_at = datetime.now(timezone.utc).isoformat()
 
-    print("Fetching ATP calendar...")
-    calendar = fetch_calendar()
-    flat_tournaments = flatten_tournaments(calendar)
+    print("Fetching ATP calendars...")
+    flat_tournaments, calendar_sources = flatten_multi_year_calendars(HISTORY_YEARS)
 
     save_json(
         DATA_DIR / "tournaments.json",
         {
             "source": ATP_CALENDAR_URL,
+            "years": HISTORY_YEARS,
             "generatedAt": generated_at,
-            "data": calendar,
+            "countSources": len(calendar_sources),
+            "sources": calendar_sources,
         },
     )
 
@@ -1716,6 +1797,7 @@ def main() -> None:
         DATA_DIR / "tournaments_flat.json",
         {
             "source": ATP_CALENDAR_URL,
+            "years": HISTORY_YEARS,
             "generatedAt": generated_at,
             "count": len(flat_tournaments),
             "tournaments": flat_tournaments,
