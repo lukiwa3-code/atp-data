@@ -1,15 +1,15 @@
-# ATP data updater v19 - używa rankingów z data/rankings/singles
+# ATP data updater v21 - tylko oryginalne daty
 
-Problem:
-- rankingi są już w repo w folderze `data/rankings/singles/YYYY-MM-DD.json`,
-- poprzedni updater szukał ich w `data/rankings/YYYY-MM-DD.json`,
-- dlatego historia 2025 pokazywała ranking rywala jako `-`.
+To jest wersja bez wyliczania dat.
 
-Poprawka:
-- updater najpierw czyta `data/rankings/singles/YYYY-MM-DD.json`,
-- obsługuje format `players` jako lista,
-- awaryjnie obsługuje też stary format `players` jako słownik,
-- jeśli rankingu nie ma, pobiera go i zapisuje do `data/rankings/singles/YYYY-MM-DD.json`,
-- `data/player-history/{playerKey}.json` dostaje poprawne `opponentRank`.
+Zasada:
+- data meczu jest zapisywana tylko wtedy, gdy ATP poda ją w wynikach jako oryginalny nagłówek dnia,
+- skrypt nie wylicza daty po rundzie,
+- skrypt nie zgaduje daty po końcu turnieju,
+- jeśli ATP archive nie podaje dat przy meczach 2025, `date` i `dateIso` zostają puste,
+- wtedy ranking z dnia meczu też zostaje pusty, bo bez oryginalnej daty nie da się uczciwie dobrać tygodnia rankingu.
 
-Po podmianie uruchom workflow `Update ATP Data` w repo `atp-data`.
+Nadal działa:
+- historia 2025 + 2026,
+- rankingi z `data/rankings/singles/YYYY-MM-DD.json`,
+- ale tylko dla meczów, które mają prawdziwe `dateIso`.

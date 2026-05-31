@@ -1708,6 +1708,8 @@ def build_player_histories_from_matches(
                 continue
 
             score = match.get("formattedScore") or ""
+            # Ważne: daty mają być tylko oryginalne z ATP.
+            # Nie wyliczamy dat po rundzie ani po dacie końca turnieju.
             date_text = match.get("date") or ""
             date_iso = parse_atp_date_to_iso(date_text)
 
