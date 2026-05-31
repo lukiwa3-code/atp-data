@@ -4,7 +4,7 @@
     2025,
     2026
   ],
-  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
   "count": 438,
   "note": "Turnieje ATP Tour i Challenger są zapisane po wzbogaceniu o oryginalne zakresy dat z ATP, np. tournamentStartDate/tournamentEndDate. Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów mogła zostać utworzona jako archive fallback.",
   "tournaments": [
@@ -108,7 +108,7 @@
       "year": "2026",
       "name": "Cervia, Italy |",
       "location": "",
-      "date": "18 - 23 May, 2026",
+      "date": "18-23 May, 2026",
       "month": "",
       "isLive": false,
       "isPastEvent": true,
@@ -698,7 +698,7 @@
       "year": "2026",
       "name": "Open Aix Provence Crédit Agricole",
       "location": "",
-      "date": "28 Apr - 3 May, 2026",
+      "date": "28 April - 3 May, 2026",
       "month": "",
       "isLive": false,
       "isPastEvent": true,

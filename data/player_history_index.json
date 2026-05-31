@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
-  "count": 1930,
+  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
+  "count": 1928,
   "items": [
     {
       "key": "1al",
@@ -17,7 +17,7 @@
       "displayName": "(1/Alt)",
       "playerId": "",
       "rank": null,
-      "count": 31,
+      "count": 33,
       "path": "data/player-history/1alt.json"
     },
     {
@@ -593,7 +593,7 @@
       "displayName": "A. Boitan",
       "playerId": "B0C0",
       "rank": null,
-      "count": 32,
+      "count": 34,
       "path": "data/player-history/adrianboitan.json"
     },
     {
@@ -1025,7 +1025,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 69,
+      "count": 73,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -1097,7 +1097,7 @@
       "displayName": "Alessio Balestrieri",
       "playerId": "",
       "rank": null,
-      "count": 4,
+      "count": 5,
       "path": "data/player-history/alessiobalestrieri.json"
     },
     {
@@ -1376,7 +1376,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 10,
+      "count": 6,
       "path": "data/player-history/alexandershevchenko.json"
     },
     {
@@ -1772,7 +1772,7 @@
       "displayName": "A. Guerrieri",
       "playerId": "G0A0",
       "rank": null,
-      "count": 45,
+      "count": 49,
       "path": "data/player-history/andreaguerrieri.json"
     },
     {
@@ -2987,7 +2987,7 @@
       "displayName": "B. Gadamauri",
       "playerId": "G0CV",
       "rank": null,
-      "count": 62,
+      "count": 67,
       "path": "data/player-history/buvaysargadamauri.json"
     },
     {
@@ -3086,7 +3086,7 @@
       "displayName": "C. Overbeck",
       "playerId": "O0BI",
       "rank": 1088,
-      "count": 23,
+      "count": 24,
       "path": "data/player-history/carlemiloverbeck.json"
     },
     {
@@ -3113,7 +3113,7 @@
       "displayName": "C. Caniato",
       "playerId": "C0LK",
       "rank": null,
-      "count": 26,
+      "count": 29,
       "path": "data/player-history/carloalbertocaniato.json"
     },
     {
@@ -3257,7 +3257,7 @@
       "displayName": "C. Cretu",
       "playerId": "C0B2",
       "rank": null,
-      "count": 31,
+      "count": 32,
       "path": "data/player-history/cezarcretu.json"
     },
     {
@@ -3905,7 +3905,7 @@
       "displayName": "Daniel Bagnolini",
       "playerId": "",
       "rank": 2037,
-      "count": 3,
+      "count": 5,
       "path": "data/player-history/danielbagnolini.json"
     },
     {
@@ -5075,7 +5075,7 @@
       "displayName": "E. Dalla Valle",
       "playerId": "DG80",
       "rank": null,
-      "count": 60,
+      "count": 65,
       "path": "data/player-history/enricodallavalle.json"
     },
     {
@@ -5516,7 +5516,7 @@
       "displayName": "F. Arnaboldi",
       "playerId": "A0BA",
       "rank": null,
-      "count": 53,
+      "count": 56,
       "path": "data/player-history/federicoarnaboldi.json"
     },
     {
@@ -5525,7 +5525,7 @@
       "displayName": "F. Bondioli",
       "playerId": "B0PE",
       "rank": null,
-      "count": 39,
+      "count": 40,
       "path": "data/player-history/federicobondioli.json"
     },
     {
@@ -5570,7 +5570,7 @@
       "displayName": "F. Iannaccone",
       "playerId": "I09N",
       "rank": null,
-      "count": 25,
+      "count": 28,
       "path": "data/player-history/federicoiannaccone.json"
     },
     {
@@ -5768,7 +5768,7 @@
       "displayName": "F. Romano",
       "playerId": "R0HK",
       "rank": null,
-      "count": 41,
+      "count": 42,
       "path": "data/player-history/filipporomano.json"
     },
     {
@@ -5885,7 +5885,7 @@
       "displayName": "F. Forti",
       "playerId": "F0A4",
       "rank": null,
-      "count": 22,
+      "count": 25,
       "path": "data/player-history/francescoforti.json"
     },
     {
@@ -6146,7 +6146,7 @@
       "displayName": "G. Piraino",
       "playerId": "P0I6",
       "rank": null,
-      "count": 30,
+      "count": 32,
       "path": "data/player-history/gabrielepiraino.json"
     },
     {
@@ -6380,7 +6380,7 @@
       "displayName": "G. Ferrari",
       "playerId": "F0CJ",
       "rank": null,
-      "count": 10,
+      "count": 11,
       "path": "data/player-history/gianmarcoferrari.json"
     },
     {
@@ -6443,7 +6443,7 @@
       "displayName": "Giorgio Tabacco",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 4,
       "path": "data/player-history/giorgiotabacco.json"
     },
     {
@@ -6479,7 +6479,7 @@
       "displayName": "G. Oradini",
       "playerId": "O639",
       "rank": 602,
-      "count": 11,
+      "count": 14,
       "path": "data/player-history/giovannioradini.json"
     },
     {
@@ -6713,7 +6713,7 @@
       "displayName": "G. Justo",
       "playerId": "J0AW",
       "rank": null,
-      "count": 74,
+      "count": 76,
       "path": "data/player-history/guidoivanjusto.json"
     },
     {
@@ -7415,7 +7415,7 @@
       "displayName": "I. Xilas",
       "playerId": "X01C",
       "rank": null,
-      "count": 22,
+      "count": 23,
       "path": "data/player-history/ioannisxilas.json"
     },
     {
@@ -7496,7 +7496,7 @@
       "displayName": "I. Ivanov",
       "playerId": "I0BF",
       "rank": null,
-      "count": 4,
+      "count": 5,
       "path": "data/player-history/ivanivanov.json"
     },
     {
@@ -7712,7 +7712,7 @@
       "displayName": "J. Vasami",
       "playerId": "V0J1",
       "rank": null,
-      "count": 31,
+      "count": 33,
       "path": "data/player-history/jacopovasami.json"
     },
     {
@@ -8135,7 +8135,7 @@
       "displayName": "J. Sels",
       "playerId": "SO20",
       "rank": null,
-      "count": 51,
+      "count": 52,
       "path": "data/player-history/jellesels.json"
     },
     {
@@ -8693,7 +8693,7 @@
       "displayName": "J. Martin Manzano",
       "playerId": "M0R4",
       "rank": 757,
-      "count": 8,
+      "count": 11,
       "path": "data/player-history/juancruzmartinmanzano.json"
     },
     {
@@ -9584,7 +9584,7 @@
       "displayName": "L. Lokoli",
       "playerId": "LC12",
       "rank": null,
-      "count": 36,
+      "count": 37,
       "path": "data/player-history/laurentlokoli.json"
     },
     {
@@ -9764,7 +9764,7 @@
       "displayName": "L. Tu",
       "playerId": "TC01",
       "rank": null,
-      "count": 54,
+      "count": 55,
       "path": "data/player-history/litu.json"
     },
     {
@@ -9917,7 +9917,7 @@
       "displayName": "L. Carboni",
       "playerId": "C0OW",
       "rank": null,
-      "count": 47,
+      "count": 51,
       "path": "data/player-history/lorenzocarboni.json"
     },
     {
@@ -9980,7 +9980,7 @@
       "displayName": "L. Rottoli",
       "playerId": "R0B6",
       "rank": 819,
-      "count": 6,
+      "count": 7,
       "path": "data/player-history/lorenzorottoli.json"
     },
     {
@@ -10097,7 +10097,7 @@
       "displayName": "L. Potenza",
       "playerId": "P0B2",
       "rank": null,
-      "count": 32,
+      "count": 34,
       "path": "data/player-history/lucapotenza.json"
     },
     {
@@ -10484,7 +10484,7 @@
       "displayName": "M. Dhamne",
       "playerId": "D0JI",
       "rank": null,
-      "count": 36,
+      "count": 38,
       "path": "data/player-history/manasdhamne.json"
     },
     {
@@ -10529,7 +10529,7 @@
       "displayName": "Manuel Mazza",
       "playerId": "",
       "rank": null,
-      "count": 4,
+      "count": 6,
       "path": "data/player-history/manuelmazza.json"
     },
     {
@@ -10961,7 +10961,7 @@
       "displayName": "M. Giunta",
       "playerId": "G0I3",
       "rank": null,
-      "count": 15,
+      "count": 16,
       "path": "data/player-history/massimogiunta.json"
     },
     {
@@ -11357,7 +11357,7 @@
       "displayName": "M. Alcala Gurri",
       "playerId": "A0EA",
       "rank": null,
-      "count": 33,
+      "count": 38,
       "path": "data/player-history/maxalcalagurri.json"
     },
     {
@@ -11726,7 +11726,7 @@
       "displayName": "M. Ribecai",
       "playerId": "R0JW",
       "rank": 469,
-      "count": 37,
+      "count": 39,
       "path": "data/player-history/micheleribecai.json"
     },
     {
@@ -11987,7 +11987,7 @@
       "displayName": "M. Krueger",
       "playerId": "KC12",
       "rank": null,
-      "count": 61,
+      "count": 62,
       "path": "data/player-history/mitchellkrueger.json"
     },
     {
@@ -12023,7 +12023,7 @@
       "displayName": "M. Kouame",
       "playerId": "K0O4",
       "rank": null,
-      "count": 24,
+      "count": 25,
       "path": "data/player-history/moisekouame.json"
     },
     {
@@ -12572,17 +12572,8 @@
       "displayName": "N. Belozertsev",
       "playerId": "B0V0",
       "rank": 882,
-      "count": 4,
+      "count": 6,
       "path": "data/player-history/nikitabelozertsev.json"
-    },
-    {
-      "key": "nikitabilozertsev",
-      "name": "Nikita Bilozertsev",
-      "displayName": "Nikita Bilozertsev",
-      "playerId": "",
-      "rank": null,
-      "count": 2,
-      "path": "data/player-history/nikitabilozertsev.json"
     },
     {
       "key": "nikitamashtakov",
@@ -12869,7 +12860,7 @@
       "displayName": "O. Prihodko",
       "playerId": "PL64",
       "rank": null,
-      "count": 56,
+      "count": 57,
       "path": "data/player-history/olegprihodko.json"
     },
     {
@@ -12950,7 +12941,7 @@
       "displayName": "O. Wallin",
       "playerId": "W0BU",
       "rank": null,
-      "count": 25,
+      "count": 26,
       "path": "data/player-history/ollewallin.json"
     },
     {
@@ -13571,7 +13562,7 @@
       "displayName": "P. Nesterov",
       "playerId": "N0CJ",
       "rank": null,
-      "count": 23,
+      "count": 28,
       "path": "data/player-history/petrnesterov.json"
     },
     {
@@ -13616,7 +13607,7 @@
       "displayName": "P. Basile",
       "playerId": "B0VX",
       "rank": null,
-      "count": 11,
+      "count": 12,
       "path": "data/player-history/pierluigibasile.json"
     },
     {
@@ -14660,7 +14651,7 @@
       "displayName": "S. Vincent Ruggeri",
       "playerId": "V0DI",
       "rank": null,
-      "count": 12,
+      "count": 13,
       "path": "data/player-history/samuelvincentruggeri.json"
     },
     {
@@ -14696,7 +14687,7 @@
       "displayName": "S. Kopp",
       "playerId": "K0CJ",
       "rank": null,
-      "count": 36,
+      "count": 37,
       "path": "data/player-history/sandrokopp.json"
     },
     {
@@ -14732,7 +14723,7 @@
       "displayName": "S. Rodriguez Taverna",
       "playerId": "RH59",
       "rank": null,
-      "count": 53,
+      "count": 54,
       "path": "data/player-history/santiagorodrigueztaverna.json"
     },
     {
@@ -14885,7 +14876,7 @@
       "displayName": "S. Sorger",
       "playerId": "S0QZ",
       "rank": null,
-      "count": 13,
+      "count": 14,
       "path": "data/player-history/sebastiansorger.json"
     },
     {
@@ -14966,7 +14957,7 @@
       "displayName": "S. Callejon Hernando",
       "playerId": "C0P0",
       "rank": null,
-      "count": 21,
+      "count": 22,
       "path": "data/player-history/sergiocallejonhernando.json"
     },
     {
@@ -15164,7 +15155,7 @@
       "displayName": "Simone Rossolino",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/simonerossolino.json"
     },
     {
@@ -15245,7 +15236,7 @@
       "displayName": "S. Dostanic",
       "playerId": "D0D4",
       "rank": null,
-      "count": 47,
+      "count": 49,
       "path": "data/player-history/stefandostanic.json"
     },
     {
@@ -16172,7 +16163,7 @@
       "displayName": "T. Compagnucci",
       "playerId": "C0BB",
       "rank": null,
-      "count": 19,
+      "count": 23,
       "path": "data/player-history/tommasocompagnucci.json"
     },
     {
@@ -16613,7 +16604,7 @@
       "displayName": "Vito Antonio Darderi",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/vitoantoniodarderi.json"
     },
     {
@@ -16804,15 +16795,6 @@
       "rank": null,
       "count": 2,
       "path": "data/player-history/xxxxxxxchelia.json"
-    },
-    {
-      "key": "xxxxxxxrossolino",
-      "name": "XXXXXXX Rossolino",
-      "displayName": "XXXXXXX Rossolino",
-      "playerId": "",
-      "rank": null,
-      "count": 1,
-      "path": "data/player-history/xxxxxxxrossolino.json"
     },
     {
       "key": "xxxxxxxtran",

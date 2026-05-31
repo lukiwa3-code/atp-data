@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -274,11 +274,11 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-0",
-      "matchId": "RES-D5FB0452BC",
+      "matchId": "RES-EF31412ACE",
       "reason": null,
       "playerName": "Jonas Forejtek",
-      "opponentName": "XXXXXXX Rossolino",
-      "opponentKey": "xxxxxxxrossolino",
+      "opponentName": "Simone Rossolino",
+      "opponentKey": "simonerossolino",
       "result": "W",
       "playerRank": 307,
       "opponentRank": null,

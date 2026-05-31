@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "Alessio Balestrieri",
     "playerId": ""
   },
-  "count": 4,
+  "count": 5,
   "matches": [
+    {
+      "date": "Sun, 17 May, 2026",
+      "dateIso": "2026-05-17",
+      "tournamentId": "3095",
+      "tournamentYear": "2026",
+      "tournamentName": "Cervia, Italy |",
+      "tournamentType": "CH",
+      "tournamentDate": "18-23 May, 2026",
+      "tournamentStartDate": "2026-05-18",
+      "tournamentEndDate": "2026-05-23",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-0",
+      "matchId": "RES-6BA65939D7",
+      "reason": null,
+      "playerName": "Alessio Balestrieri",
+      "opponentName": "(1/Alt)",
+      "opponentKey": "1alt",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 19 April, 2026",
       "dateIso": "2026-04-19",

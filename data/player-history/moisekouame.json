@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "M. Kouame",
     "playerId": "K0O4"
   },
-  "count": 24,
+  "count": 25,
   "matches": [
     {
       "date": "Sat, 30 May, 2026",
@@ -83,6 +83,31 @@
       "playerRank": 318,
       "opponentRank": 46,
       "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 19 May, 2026",
+      "dateIso": "2026-05-19",
+      "tournamentId": "3095",
+      "tournamentYear": "2026",
+      "tournamentName": "Cervia, Italy |",
+      "tournamentType": "CH",
+      "tournamentDate": "18-23 May, 2026",
+      "tournamentStartDate": "2026-05-18",
+      "tournamentEndDate": "2026-05-23",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 7-6(3)",
+      "matchId": "RES-B8F9EB77A2",
+      "reason": null,
+      "playerName": "Moise Kouame",
+      "opponentName": "Jacopo Vasami",
+      "opponentKey": "jacopovasami",
+      "result": "L",
+      "playerRank": 316,
+      "opponentRank": 472,
+      "rankingDate": "2026-05-18",
       "rankingNote": "historical_week"
     },
     {
