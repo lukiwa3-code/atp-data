@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/basel/328/2025/results",
   "tournament": {
     "id": "328",
     "year": "2025",
     "name": "Swiss Indoors Basel",
     "location": "Basel, Switzerland",
-    "date": "26 October - 1 November, 2026",
+    "date": "20-26 Oct, 2025",
     "month": "October, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€2,584,155",
     "totalFinancialCommitment": "€2,611,710",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-20",
+    "tournamentStartDate": "2025-10-20",
+    "endDate": "2025-10-26",
+    "tournamentEndDate": "2025-10-26"
   },
   "count": 0,
   "players": []

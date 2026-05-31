@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/santiago/8996/2025/results",
   "tournament": {
     "id": "8996",
     "year": "2025",
     "name": "BCI Seguros Chile Open",
     "location": "Santiago, Chile",
-    "date": "23 February - 1 March, 2026",
+    "date": "24 Feb - 2 Mar, 2025",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$700,045",
     "totalFinancialCommitment": "$788,349",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-24",
+    "tournamentStartDate": "2025-02-24",
+    "endDate": "2025-03-02",
+    "tournamentEndDate": "2025-03-02"
   },
   "count": 40,
   "players": [

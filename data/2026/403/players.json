@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/miami/403/2026/results",
   "tournament": {
     "id": "403",
     "year": "2026",
     "name": "Miami Open presented by Itau",
     "location": "Miami, United States",
-    "date": "18 - 29 March, 2026",
+    "date": "18-29 Mar, 2026",
     "month": "March, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/usa.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
     "prizeMoney": "$9,415,725",
-    "totalFinancialCommitment": "$11,278,410"
+    "totalFinancialCommitment": "$11,278,410",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-03-18",
+    "tournamentStartDate": "2026-03-18",
+    "endDate": "2026-03-29",
+    "tournamentEndDate": "2026-03-29"
   },
   "count": 130,
   "players": [

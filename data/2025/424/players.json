@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/dallas/424/2025/results",
   "tournament": {
     "id": "424",
     "year": "2025",
     "name": "Nexo Dallas Open",
     "location": "Dallas, United States",
-    "date": "9 - 15 February, 2026",
+    "date": "3-9 Feb, 2025",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$2,833,335",
     "totalFinancialCommitment": "$3,116,195",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-03",
+    "tournamentStartDate": "2025-02-03",
+    "endDate": "2025-02-09",
+    "tournamentEndDate": "2025-02-09"
   },
   "count": 43,
   "players": [

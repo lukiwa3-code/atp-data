@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/stuttgart/321/2025/results",
   "tournament": {
     "id": "321",
     "year": "2025",
     "name": "BOSS OPEN",
     "location": "Stuttgart, Germany",
-    "date": "8 - 14 June, 2026",
+    "date": "9-15 Jun, 2025",
     "month": "June, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€757,320",
     "totalFinancialCommitment": "€847,475",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-09",
+    "tournamentStartDate": "2025-06-09",
+    "endDate": "2025-06-15",
+    "tournamentEndDate": "2025-06-15"
   },
   "count": 39,
   "players": [

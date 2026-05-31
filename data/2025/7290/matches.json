@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/estoril/7290/2025/results",
   "tournament": {
     "id": "7290",
     "year": "2025",
     "name": "Millennium Estoril Open",
     "location": "Estoril, Portugal",
-    "date": "20 - 26 July, 2026",
+    "date": "27 Apr - 4 May, 2025",
     "month": "July, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€612,620",
     "totalFinancialCommitment": "€691,875",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-27",
+    "tournamentStartDate": "2025-04-27",
+    "endDate": "2025-05-04",
+    "tournamentEndDate": "2025-05-04"
   },
   "count": 33,
   "matches": [

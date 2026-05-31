@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Mutua Madrid Open",
   "location": "Madrid, Spain",
-  "date": "22 April - 3 May, 2026",
+  "date": "23 Apr - 4 May, 2025",
   "month": "April, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "€8,235,540",
   "totalFinancialCommitment": "€9,796,140",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-04-23",
+  "tournamentStartDate": "2025-04-23",
+  "endDate": "2025-05-04",
+  "tournamentEndDate": "2025-05-04"
 }

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/los-cabos/7480/2025/results",
   "tournament": {
     "id": "7480",
     "year": "2025",
     "name": "Mifel Tennis Open by Telcel Oppo",
     "location": "Los Cabos, Mexico",
-    "date": "27 July - 1 August, 2026",
+    "date": "14-19 Jul, 2025",
     "month": "July, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$909,790",
     "totalFinancialCommitment": "$998,084",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-14",
+    "tournamentStartDate": "2025-07-14",
+    "endDate": "2025-07-19",
+    "tournamentEndDate": "2025-07-19"
   },
   "count": 40,
   "players": [

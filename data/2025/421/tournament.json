@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "National Bank Open presented by Rogers",
   "location": "Montreal, Canada",
-  "date": "2 - 13 August, 2026",
+  "date": "27 Jul - 7 Aug, 2025",
   "month": "August, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "$9,415,724",
   "totalFinancialCommitment": "$10,931,070",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-07-27",
+  "tournamentStartDate": "2025-07-27",
+  "endDate": "2025-08-07",
+  "tournamentEndDate": "2025-08-07"
 }

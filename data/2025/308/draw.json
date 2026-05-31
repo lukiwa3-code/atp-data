@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/munich/308/2025/draws",
   "tournament": {
     "id": "308",
     "year": "2025",
     "name": "BMW Open by Bitpanda",
     "location": "Munich, Germany",
-    "date": "13 - 19 April, 2026",
+    "date": "14-20 Apr, 2025",
     "month": "April, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€2,561,110",
     "totalFinancialCommitment": "€2,814,655",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-14",
+    "tournamentStartDate": "2025-04-14",
+    "endDate": "2025-04-20",
+    "tournamentEndDate": "2025-04-20"
   },
   "countRounds": 5,
   "countMatches": 31,

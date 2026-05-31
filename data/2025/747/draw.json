@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/beijing/747/2025/draws",
   "tournament": {
     "id": "747",
     "year": "2025",
     "name": "China Open",
     "location": "Beijing, China",
-    "date": "30 September - 6 October, 2026",
+    "date": "25 Sep - 1 Oct, 2025",
     "month": "September, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$4,089,385",
     "totalFinancialCommitment": "$4,106,060",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-25",
+    "tournamentStartDate": "2025-09-25",
+    "endDate": "2025-10-01",
+    "tournamentEndDate": "2025-10-01"
   },
   "countRounds": 5,
   "countMatches": 31,

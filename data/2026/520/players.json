@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/results",
   "tournament": {
     "id": "520",
     "year": "2026",
     "name": "Roland Garros",
     "location": "Paris, France",
-    "date": "24 May - 7 June, 2026",
+    "date": "24 May - 7 Jun, 2026",
     "month": "May, 2026",
     "isLive": true,
     "isPastEvent": false,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/fra.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_grandslam.png",
     "prizeMoney": "€28,900,000",
-    "totalFinancialCommitment": "€28,900,000"
+    "totalFinancialCommitment": "€28,900,000",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-05-24",
+    "tournamentStartDate": "2026-05-24",
+    "endDate": "2026-06-07",
+    "tournamentEndDate": "2026-06-07"
   },
   "count": 233,
   "players": [

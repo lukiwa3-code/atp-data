@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/current/davis-cup-qualifiers-1st-rd/8096/draws",
   "tournament": {
     "id": "8096",
     "year": "2025",
     "name": "Davis Cup Qualifiers 1st Rd",
     "location": "Multiple Locations",
-    "date": "5 - 8 February, 2026",
+    "date": "31 Jan - 2 Feb, 2025",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": null,
     "totalFinancialCommitment": null,
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-01-31",
+    "tournamentStartDate": "2025-01-31",
+    "endDate": "2025-02-02",
+    "tournamentEndDate": "2025-02-02"
   },
   "countRounds": 2,
   "countMatches": 3,

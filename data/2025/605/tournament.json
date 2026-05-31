@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Nitto ATP Finals",
   "location": "Turin, Italy",
-  "date": "15 - 22 November, 2026",
+  "date": "9-16 Nov, 2025",
   "month": "November, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": null,
   "totalFinancialCommitment": null,
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-11-09",
+  "tournamentStartDate": "2025-11-09",
+  "endDate": "2025-11-16",
+  "tournamentEndDate": "2025-11-16"
 }

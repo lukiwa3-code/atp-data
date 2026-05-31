@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "US Open",
   "location": "New York, United States",
-  "date": "31 August - 13 September, 2026",
+  "date": "24 Aug - 7 Sep, 2025",
   "month": "August, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": null,
   "totalFinancialCommitment": null,
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-08-24",
+  "tournamentStartDate": "2025-08-24",
+  "endDate": "2025-09-07",
+  "tournamentEndDate": "2025-09-07"
 }

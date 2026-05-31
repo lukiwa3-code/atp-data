@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/results",
   "tournament": {
     "id": "414",
     "year": "2026",
     "name": "Bitpanda Hamburg Open",
     "location": "Hamburg, Germany",
-    "date": "17 - 23 May, 2026",
+    "date": "17-23 May, 2026",
     "month": "May, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/ger.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
     "prizeMoney": "€2,219,670",
-    "totalFinancialCommitment": "€2,247,225"
+    "totalFinancialCommitment": "€2,247,225",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-05-17",
+    "tournamentStartDate": "2026-05-17",
+    "endDate": "2026-05-23",
+    "tournamentEndDate": "2026-05-23"
   },
   "count": 43,
   "matches": [

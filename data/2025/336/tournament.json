@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Bank of China Hong Kong Tennis Open",
   "location": "Hong Kong, Hong Kong",
-  "date": "5 - 11 January, 2026",
+  "date": "30 Dec - 5 Jan, 2025",
   "month": "January, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "$700,045",
   "totalFinancialCommitment": "$788,349",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-12-30",
+  "tournamentStartDate": "2025-12-30",
+  "endDate": "2026-01-05",
+  "tournamentEndDate": "2026-01-05"
 }

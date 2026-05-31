@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/marrakech/360/2025/results",
   "tournament": {
     "id": "360",
     "year": "2025",
     "name": "Grand Prix Hassan II",
     "location": "Marrakech, Morocco",
-    "date": "30 March - 5 April, 2026",
+    "date": "31 Mar - 6 Apr, 2025",
     "month": "March, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€612,620",
     "totalFinancialCommitment": "€691,875",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-31",
+    "tournamentStartDate": "2025-03-31",
+    "endDate": "2025-04-06",
+    "tournamentEndDate": "2025-04-06"
   },
   "count": 38,
   "players": [

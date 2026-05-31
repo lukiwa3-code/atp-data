@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "ASB Classic",
   "location": "Auckland, New Zealand",
-  "date": "12 - 17 January, 2026",
+  "date": "6-11 Jan, 2025",
   "month": "January, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "$700,045",
   "totalFinancialCommitment": "$788,349",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-01-06",
+  "tournamentStartDate": "2025-01-06",
+  "endDate": "2025-01-11",
+  "tournamentEndDate": "2025-01-11"
 }

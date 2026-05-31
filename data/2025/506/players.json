@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/buenos-aires/506/2025/results",
   "tournament": {
     "id": "506",
     "year": "2025",
     "name": "IEB+ Argentina Open",
     "location": "Buenos Aires, Argentina",
-    "date": "9 - 15 February, 2026",
+    "date": "10-16 Feb, 2025",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$675,310",
     "totalFinancialCommitment": "$763,614",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-10",
+    "tournamentStartDate": "2025-02-10",
+    "endDate": "2025-02-16",
+    "tournamentEndDate": "2025-02-16"
   },
   "count": 38,
   "players": [

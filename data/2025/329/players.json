@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/tokyo/329/2025/results",
   "tournament": {
     "id": "329",
     "year": "2025",
     "name": "Kinoshita Group Japan Open Tennis Championships",
     "location": "Tokyo, Japan",
-    "date": "30 September - 6 October, 2026",
+    "date": "24-30 Sep, 2025",
     "month": "September, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$2,342,275",
     "totalFinancialCommitment": "$2,358,950",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-24",
+    "tournamentStartDate": "2025-09-24",
+    "endDate": "2025-09-30",
+    "tournamentEndDate": "2025-09-30"
   },
   "count": 44,
   "players": [

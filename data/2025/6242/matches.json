@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/winston-salem/6242/2025/results",
   "tournament": {
     "id": "6242",
     "year": "2025",
     "name": "Winston-Salem Open",
     "location": "Winston-Salem, United States",
-    "date": "23 - 29 August, 2026",
+    "date": "17-23 Aug, 2025",
     "month": "August, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$818,240",
     "totalFinancialCommitment": "$906,544",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-08-17",
+    "tournamentStartDate": "2025-08-17",
+    "endDate": "2025-08-23",
+    "tournamentEndDate": "2025-08-23"
   },
   "count": 52,
   "matches": [

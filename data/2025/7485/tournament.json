@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "BNP Paribas Fortis European Open",
   "location": "Brussels, Belgium",
-  "date": "19 - 25 October, 2026",
+  "date": "13-19 Oct, 2025",
   "month": "October, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "€723,435",
   "totalFinancialCommitment": "€802,690",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-10-13",
+  "tournamentStartDate": "2025-10-13",
+  "endDate": "2025-10-19",
+  "tournamentEndDate": "2025-10-19"
 }

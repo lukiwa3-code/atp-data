@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/munich/308/2026/results",
   "tournament": {
     "id": "308",
     "year": "2026",
     "name": "BMW Open by Bitpanda",
     "location": "Munich, Germany",
-    "date": "13 - 19 April, 2026",
+    "date": "13-19 Apr, 2026",
     "month": "April, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/ger.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
     "prizeMoney": "€2,561,110",
-    "totalFinancialCommitment": "€2,814,655"
+    "totalFinancialCommitment": "€2,814,655",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-04-13",
+    "tournamentStartDate": "2026-04-13",
+    "endDate": "2026-04-19",
+    "tournamentEndDate": "2026-04-19"
   },
   "count": 41,
   "players": [

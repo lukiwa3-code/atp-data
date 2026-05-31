@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -17,6 +17,9 @@
       "tournamentYear": "2025",
       "tournamentName": "Bitpanda Hamburg Open",
       "tournamentType": "500",
+      "tournamentDate": "18-24 May, 2025",
+      "tournamentStartDate": "2025-05-18",
+      "tournamentEndDate": "2025-05-24",
       "surface": "Clay",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
@@ -39,6 +42,9 @@
       "tournamentYear": "2025",
       "tournamentName": "BOSS OPEN",
       "tournamentType": "250",
+      "tournamentDate": "9-15 Jun, 2025",
+      "tournamentStartDate": "2025-06-09",
+      "tournamentEndDate": "2025-06-15",
       "surface": "Grass",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",

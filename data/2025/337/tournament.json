@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Erste Bank Open",
   "location": "Vienna, Austria",
-  "date": "26 October - 1 November, 2026",
+  "date": "20-26 Oct, 2025",
   "month": "October, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "€2,797,985",
   "totalFinancialCommitment": "€2,825,540",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-10-20",
+  "tournamentStartDate": "2025-10-20",
+  "endDate": "2025-10-26",
+  "tournamentEndDate": "2025-10-26"
 }

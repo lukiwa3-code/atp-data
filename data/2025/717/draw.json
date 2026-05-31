@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/houston/717/2025/draws",
   "tournament": {
     "id": "717",
     "year": "2025",
     "name": "Fayez Sarofim & Co. U.S. Men's Clay Court Championship",
     "location": "Houston, United States",
-    "date": "30 March - 5 April, 2026",
+    "date": "31 Mar - 6 Apr, 2025",
     "month": "March, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$700,045",
     "totalFinancialCommitment": "$788,349",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-31",
+    "tournamentStartDate": "2025-03-31",
+    "endDate": "2025-04-06",
+    "tournamentEndDate": "2025-04-06"
   },
   "countRounds": 5,
   "countMatches": 31,

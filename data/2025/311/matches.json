@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/london---queen's-club/311/2025/results",
   "tournament": {
     "id": "311",
     "year": "2025",
     "name": "HSBC Championships",
     "location": "London, Great Britain",
-    "date": "15 - 21 June, 2026",
+    "date": "16-22 Jun, 2025",
     "month": "June, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€2,583,330",
     "totalFinancialCommitment": "€2,610,885",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-16",
+    "tournamentStartDate": "2025-06-16",
+    "endDate": "2025-06-22",
+    "tournamentEndDate": "2025-06-22"
   },
   "count": 37,
   "matches": [

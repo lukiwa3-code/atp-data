@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Laver Cup",
   "location": "London, Great Britain",
-  "date": "25 - 27 September, 2026",
+  "date": "19-21 Sep, 2025",
   "month": "September, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": null,
   "totalFinancialCommitment": null,
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-09-19",
+  "tournamentStartDate": "2025-09-19",
+  "endDate": "2025-09-21",
+  "tournamentEndDate": "2025-09-21"
 }

@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "China Open",
   "location": "Beijing, China",
-  "date": "30 September - 6 October, 2026",
+  "date": "25 Sep - 1 Oct, 2025",
   "month": "September, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "$4,089,385",
   "totalFinancialCommitment": "$4,106,060",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-09-25",
+  "tournamentStartDate": "2025-09-25",
+  "endDate": "2025-10-01",
+  "tournamentEndDate": "2025-10-01"
 }

@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Davis Cup Finals",
   "location": "Bologna, Italy",
-  "date": "23 - 29 November, 2026",
+  "date": "18-23 Nov, 2025",
   "month": "November, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": null,
   "totalFinancialCommitment": null,
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-11-18",
+  "tournamentStartDate": "2025-11-18",
+  "endDate": "2025-11-23",
+  "tournamentEndDate": "2025-11-23"
 }

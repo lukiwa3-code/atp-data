@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Qatar ExxonMobil Open",
   "location": "Doha, Qatar",
-  "date": "16 - 21 February, 2026",
+  "date": "16-21 Feb, 2026",
   "month": "February, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,5 +20,10 @@
   "countryFlagUrl": "/-/media/images/flags/qat.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
   "prizeMoney": "$2,833,335",
-  "totalFinancialCommitment": "$3,116,195"
+  "totalFinancialCommitment": "$3,116,195",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2026-02-16",
+  "tournamentStartDate": "2026-02-16",
+  "endDate": "2026-02-21",
+  "tournamentEndDate": "2026-02-21"
 }

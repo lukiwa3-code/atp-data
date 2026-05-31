@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Bitpanda Hamburg Open",
   "location": "Hamburg, Germany",
-  "date": "17 - 23 May, 2026",
+  "date": "18-24 May, 2025",
   "month": "May, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "€2,219,670",
   "totalFinancialCommitment": "€2,247,225",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-05-18",
+  "tournamentStartDate": "2025-05-18",
+  "endDate": "2025-05-24",
+  "tournamentEndDate": "2025-05-24"
 }

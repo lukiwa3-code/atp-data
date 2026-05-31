@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/montpellier/375/2026/results",
   "tournament": {
     "id": "375",
     "year": "2026",
     "name": "Open Occitanie",
     "location": "Montpellier, France",
-    "date": "2 - 8 February, 2026",
+    "date": "2-8 Feb, 2026",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/fra.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
     "prizeMoney": "€612,620",
-    "totalFinancialCommitment": "€691,875"
+    "totalFinancialCommitment": "€691,875",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-02",
+    "tournamentStartDate": "2026-02-02",
+    "endDate": "2026-02-08",
+    "tournamentEndDate": "2026-02-08"
   },
   "count": 39,
   "players": [

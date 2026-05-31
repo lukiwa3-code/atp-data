@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/wimbledon/540/2025/draws",
   "tournament": {
     "id": "540",
     "year": "2025",
     "name": "Wimbledon",
     "location": "London, Great Britain",
-    "date": "29 June - 12 July, 2026",
+    "date": "30 Jun - 13 Jul, 2025",
     "month": "June, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": null,
     "totalFinancialCommitment": null,
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-30",
+    "tournamentStartDate": "2025-06-30",
+    "endDate": "2025-07-13",
+    "tournamentEndDate": "2025-07-13"
   },
   "countRounds": 7,
   "countMatches": 127,

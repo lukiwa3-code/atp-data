@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rotterdam/407/2026/results",
   "tournament": {
     "id": "407",
     "year": "2026",
     "name": "ABN AMRO Open",
     "location": "Rotterdam, Netherlands",
-    "date": "9 - 15 February, 2026",
+    "date": "9-15 Feb, 2026",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/ned.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
     "prizeMoney": "€2,462,660",
-    "totalFinancialCommitment": "€2,490,215"
+    "totalFinancialCommitment": "€2,490,215",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-09",
+    "tournamentStartDate": "2026-02-09",
+    "endDate": "2026-02-15",
+    "tournamentEndDate": "2026-02-15"
   },
   "count": 42,
   "players": [

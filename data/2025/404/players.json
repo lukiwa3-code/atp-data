@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/indian-wells/404/2025/results",
   "tournament": {
     "id": "404",
     "year": "2025",
     "name": "BNP Paribas Open",
     "location": "Indian Wells, United States",
-    "date": "4 - 15 March, 2026",
+    "date": "5-16 Mar, 2025",
     "month": "March, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$9,415,725",
     "totalFinancialCommitment": "$12,848,317",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-05",
+    "tournamentStartDate": "2025-03-05",
+    "endDate": "2025-03-16",
+    "tournamentEndDate": "2025-03-16"
   },
   "count": 129,
   "players": [

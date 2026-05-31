@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rome/416/2026/draws",
   "tournament": {
     "id": "416",
     "year": "2026",
     "name": "Internazionali BNL d'Italia",
     "location": "Rome, Italy",
-    "date": "6 - 17 May, 2026",
+    "date": "6-17 May, 2026",
     "month": "May, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/ita.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
     "prizeMoney": "€8,235,540",
-    "totalFinancialCommitment": "€9,647,275"
+    "totalFinancialCommitment": "€9,647,275",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-05-06",
+    "tournamentStartDate": "2026-05-06",
+    "endDate": "2026-05-17",
+    "tournamentEndDate": "2026-05-17"
   },
   "countRounds": 7,
   "countMatches": 127,

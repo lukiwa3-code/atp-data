@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/brisbane/339/2026/results",
   "tournament": {
     "id": "339",
     "year": "2026",
     "name": "Brisbane International presented by ANZ",
     "location": "Brisbane, Australia",
-    "date": "4 - 11 January, 2026",
+    "date": "4-11 Jan, 2026",
     "month": "January, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/aus.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
     "prizeMoney": "$800,045",
-    "totalFinancialCommitment": "$888,349"
+    "totalFinancialCommitment": "$888,349",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-01-04",
+    "tournamentStartDate": "2026-01-04",
+    "endDate": "2026-01-11",
+    "tournamentEndDate": "2026-01-11"
   },
   "count": 49,
   "matches": [

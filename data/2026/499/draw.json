@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/delray-beach/499/2026/draws",
   "tournament": {
     "id": "499",
     "year": "2026",
     "name": "Delray Beach Open",
     "location": "Delray Beach, United States",
-    "date": "16 - 22 February, 2026",
+    "date": "16-22 Feb, 2026",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,7 +23,12 @@
     "countryFlagUrl": "/-/media/images/flags/usa.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
     "prizeMoney": "$700,045",
-    "totalFinancialCommitment": "$788,349"
+    "totalFinancialCommitment": "$788,349",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-16",
+    "tournamentStartDate": "2026-02-16",
+    "endDate": "2026-02-22",
+    "tournamentEndDate": "2026-02-22"
   },
   "countRounds": 5,
   "countMatches": 30,

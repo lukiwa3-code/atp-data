@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -17,6 +17,9 @@
       "tournamentYear": "2025",
       "tournamentName": "Mifel Tennis Open by Telcel Oppo",
       "tournamentType": "250",
+      "tournamentDate": "14-19 Jul, 2025",
+      "tournamentStartDate": "2025-07-14",
+      "tournamentEndDate": "2025-07-19",
       "surface": "Hard",
       "round": "R16",
       "roundLong": "Round of 16",
@@ -39,6 +42,9 @@
       "tournamentYear": "2025",
       "tournamentName": "Mifel Tennis Open by Telcel Oppo",
       "tournamentType": "250",
+      "tournamentDate": "14-19 Jul, 2025",
+      "tournamentStartDate": "2025-07-14",
+      "tournamentEndDate": "2025-07-19",
       "surface": "Hard",
       "round": "R32",
       "roundLong": "Round of 32",

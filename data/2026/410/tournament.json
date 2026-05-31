@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Rolex Monte-Carlo Masters",
   "location": "Monte-Carlo, Monaco",
-  "date": "5 - 12 April, 2026",
+  "date": "5-12 Apr, 2026",
   "month": "April, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,5 +20,10 @@
   "countryFlagUrl": "/-/media/images/flags/mon.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
   "prizeMoney": "€6,309,095",
-  "totalFinancialCommitment": "€6,791,465"
+  "totalFinancialCommitment": "€6,791,465",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2026-04-05",
+  "tournamentStartDate": "2026-04-05",
+  "endDate": "2026-04-12",
+  "tournamentEndDate": "2026-04-12"
 }

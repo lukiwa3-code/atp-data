@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/mallorca/8994/2025/draws",
   "tournament": {
     "id": "8994",
     "year": "2025",
     "name": "Vanda Pharmaceuticals Mallorca Championships",
     "location": "Mallorca, Spain",
-    "date": "21 - 27 June, 2026",
+    "date": "22-28 Jun, 2025",
     "month": "June, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€612,620",
     "totalFinancialCommitment": "€691,875",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-22",
+    "tournamentStartDate": "2025-06-22",
+    "endDate": "2025-06-28",
+    "tournamentEndDate": "2025-06-28"
   },
   "countRounds": 5,
   "countMatches": 31,

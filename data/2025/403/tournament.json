@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Miami Open presented by Itau",
   "location": "Miami, United States",
-  "date": "18 - 29 March, 2026",
+  "date": "19-30 Mar, 2025",
   "month": "March, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "$9,415,725",
   "totalFinancialCommitment": "$11,278,410",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-03-19",
+  "tournamentStartDate": "2025-03-19",
+  "endDate": "2025-03-30",
+  "tournamentEndDate": "2025-03-30"
 }

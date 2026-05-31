@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/monte-carlo/410/2025/results",
   "tournament": {
     "id": "410",
     "year": "2025",
     "name": "Rolex Monte-Carlo Masters",
     "location": "Monte-Carlo, Monaco",
-    "date": "5 - 12 April, 2026",
+    "date": "6-13 Apr, 2025",
     "month": "April, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€6,309,095",
     "totalFinancialCommitment": "€6,791,465",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-06",
+    "tournamentStartDate": "2025-04-06",
+    "endDate": "2025-04-13",
+    "tournamentEndDate": "2025-04-13"
   },
   "count": 69,
   "matches": [

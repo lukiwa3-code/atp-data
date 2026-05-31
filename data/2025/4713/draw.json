@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hangzhou/4713/2025/draws",
   "tournament": {
     "id": "4713",
     "year": "2025",
     "name": "Lynk & Co Hangzhou Open",
     "location": "Hangzhou, China",
-    "date": "23 - 29 September, 2026",
+    "date": "17-23 Sep, 2025",
     "month": "September, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$1,039,090",
     "totalFinancialCommitment": "$1,127,395",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-17",
+    "tournamentStartDate": "2025-09-17",
+    "endDate": "2025-09-23",
+    "tournamentEndDate": "2025-09-23"
   },
   "countRounds": 5,
   "countMatches": 31,

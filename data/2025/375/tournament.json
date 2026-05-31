@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "Open Occitanie",
   "location": "Montpellier, France",
-  "date": "2 - 8 February, 2026",
+  "date": "27 Jan - 2 Feb, 2025",
   "month": "February, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "€612,620",
   "totalFinancialCommitment": "€691,875",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-01-27",
+  "tournamentStartDate": "2025-01-27",
+  "endDate": "2025-02-02",
+  "tournamentEndDate": "2025-02-02"
 }

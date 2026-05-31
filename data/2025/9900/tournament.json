@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "United Cup",
   "location": "Perth-Sydney, Australia",
-  "date": "2 - 11 January, 2026",
+  "date": "27 Dec - 5 Jan, 2025",
   "month": "January, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "$5,903,345",
   "totalFinancialCommitment": "$5,903,345",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-12-27",
+  "tournamentStartDate": "2025-12-27",
+  "endDate": "2026-01-05",
+  "tournamentEndDate": "2026-01-05"
 }

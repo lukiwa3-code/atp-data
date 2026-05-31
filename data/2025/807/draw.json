@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/acapulco/807/2025/draws",
   "tournament": {
     "id": "807",
     "year": "2025",
     "name": "Abierto Mexicano Telcel presentado por HSBC",
     "location": "Acapulco, Mexico",
-    "date": "23 - 28 February, 2026",
+    "date": "24 Feb - 1 Mar, 2025",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$2,469,450",
     "totalFinancialCommitment": "$2,486,125",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-24",
+    "tournamentStartDate": "2025-02-24",
+    "endDate": "2025-03-01",
+    "tournamentEndDate": "2025-03-01"
   },
   "countRounds": 5,
   "countMatches": 31,

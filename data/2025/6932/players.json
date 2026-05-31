@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2025/results",
   "tournament": {
     "id": "6932",
     "year": "2025",
     "name": "Rio Open presented by Claro",
     "location": "Rio de Janeiro, Brazil",
-    "date": "16 - 22 February, 2026",
+    "date": "17-23 Feb, 2025",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$2,469,450",
     "totalFinancialCommitment": "$2,486,125",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-17",
+    "tournamentStartDate": "2025-02-17",
+    "endDate": "2025-02-23",
+    "tournamentEndDate": "2025-02-23"
   },
   "count": 41,
   "players": [

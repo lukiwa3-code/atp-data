@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/washington/418/2025/results",
   "tournament": {
     "id": "418",
     "year": "2025",
     "name": "Mubadala Citi DC Open",
     "location": "Washington, United States",
-    "date": "27 July - 2 August, 2026",
+    "date": "21-27 Jul, 2025",
     "month": "July, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$2,469,450",
     "totalFinancialCommitment": "$2,486,125",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-21",
+    "tournamentStartDate": "2025-07-21",
+    "endDate": "2025-07-27",
+    "tournamentEndDate": "2025-07-27"
   },
   "count": 57,
   "matches": [

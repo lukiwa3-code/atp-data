@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/almaty/9410/2025/results",
   "tournament": {
     "id": "9410",
     "year": "2025",
     "name": "Almaty Open",
     "location": "Almaty, Kazakhstan",
-    "date": "19 - 25 October, 2026",
+    "date": "13-19 Oct, 2025",
     "month": "October, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "$1,075,160",
     "totalFinancialCommitment": "$1,163,465",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-13",
+    "tournamentStartDate": "2025-10-13",
+    "endDate": "2025-10-19",
+    "tournamentEndDate": "2025-10-19"
   },
   "count": 32,
   "matches": [

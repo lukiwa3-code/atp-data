@@ -3,7 +3,7 @@
   "year": "2025",
   "name": "HSBC Championships",
   "location": "London, Great Britain",
-  "date": "15 - 21 June, 2026",
+  "date": "16-22 Jun, 2025",
   "month": "June, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -22,5 +22,10 @@
   "prizeMoney": "€2,583,330",
   "totalFinancialCommitment": "€2,610,885",
   "syntheticHistoricalFallback": true,
-  "syntheticSourceYear": "2026"
+  "syntheticSourceYear": "2026",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2025-06-16",
+  "tournamentStartDate": "2025-06-16",
+  "endDate": "2025-06-22",
+  "tournamentEndDate": "2025-06-22"
 }

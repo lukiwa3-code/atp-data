@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Australian Open",
   "location": "Melbourne, Australia",
-  "date": "18 January - 1 February, 2026",
+  "date": "18 Jan - 1 Feb, 2026",
   "month": "January, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,5 +20,10 @@
   "countryFlagUrl": "/-/media/images/flags/aus.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_grandslam.png",
   "prizeMoney": "A$49,171,000",
-  "totalFinancialCommitment": "A$49,171,000"
+  "totalFinancialCommitment": "A$49,171,000",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2026-01-18",
+  "tournamentStartDate": "2026-01-18",
+  "endDate": "2026-02-01",
+  "tournamentEndDate": "2026-02-01"
 }

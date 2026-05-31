@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
+  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
   "source": "https://www.atptour.com/en/scores/archive/kitzbuhel/319/2025/results",
   "tournament": {
     "id": "319",
     "year": "2025",
     "name": "Generali Open",
     "location": "Kitzbuhel, Austria",
-    "date": "20 - 25 July, 2026",
+    "date": "21-26 Jul, 2025",
     "month": "July, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -25,7 +25,12 @@
     "prizeMoney": "€612,620",
     "totalFinancialCommitment": "€691,875",
     "syntheticHistoricalFallback": true,
-    "syntheticSourceYear": "2026"
+    "syntheticSourceYear": "2026",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-21",
+    "tournamentStartDate": "2025-07-21",
+    "endDate": "2025-07-26",
+    "tournamentEndDate": "2025-07-26"
   },
   "count": 33,
   "matches": [
