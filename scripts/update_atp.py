@@ -17,7 +17,11 @@ DATA_DIR = BASE_DIR / "data"
 
 ATP_BASE_URL = "https://www.atptour.com"
 ATP_CALENDAR_URL = "https://www.atptour.com/en/-/tournaments/calendar/tour"
+ATP_CHALLENGER_ARCHIVE_URL = "https://www.atptour.com/en/scores/results-archive"
+ATP_CHALLENGER_CURRENT_URL = "https://www.atptour.com/en/scores/current-challenger"
 HISTORY_YEARS = [2025, 2026]
+INCLUDE_CHALLENGER = True
+
 
 # Wyniki pobieramy teraz z zakładki Results, a nie z Player Draw.
 # To jest znacznie pewniejsze dla zakończonych turniejów, np. Acapulco.
@@ -283,11 +287,287 @@ def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
                     "badgeUrl": tournament.get("BadgeUrl"),
                     "prizeMoney": tournament.get("PrizeMoneyDetails"),
                     "totalFinancialCommitment": tournament.get("TotalFinancialCommitment"),
+                    "circuit": "tour",
+                    "circuitLabel": "ATP Tour",
                 }
             )
 
     return flat
 
+
+
+def challenger_archive_urls_for_year(year: int) -> List[str]:
+    return [
+        f"{ATP_CHALLENGER_ARCHIVE_URL}?year={year}&tournamentType=ch",
+        f"{ATP_CHALLENGER_ARCHIVE_URL}?tournamentType=ch&year={year}",
+        f"{ATP_CHALLENGER_ARCHIVE_URL}?tournamentType=ch",
+    ]
+
+
+def nearest_compact_container_text(link: Any) -> Tuple[Any, List[str]]:
+    current = link
+    best_container = link.parent
+    best_lines: List[str] = []
+
+    for _ in range(12):
+        if current is None:
+            break
+        parent = getattr(current, "parent", None)
+        if parent is None:
+            break
+
+        lines = [normalize_space(x) for x in parent.stripped_strings]
+        lines = [x for x in lines if x]
+        text = " | ".join(lines)
+
+        if len(lines) >= 3 and "Results" in lines and len(text) < 900:
+            best_container = parent
+            best_lines = lines
+            break
+
+        if len(lines) >= 3 and len(text) < 1200:
+            best_container = parent
+            best_lines = lines
+
+        current = parent
+
+    return best_container, best_lines
+
+
+def parse_challenger_card_lines(lines: List[str], slug: str, year: int) -> Tuple[str, str, str]:
+    noise = {
+        "Results",
+        "Singles Winner",
+        "Singles Winners",
+        "Doubles Winner",
+        "Doubles Winners",
+        "ATP Challenger Tour",
+        "ATP Challenger",
+        "Challenger",
+    }
+
+    clean = [normalize_space(x) for x in lines if normalize_space(x)]
+    clean = [x for x in clean if x not in noise]
+
+    # Usuń zwycięzców: po etykietach w HTML często zostają same nazwiska.
+    compact: List[str] = []
+    skip_next = 0
+    for x in lines:
+        x = normalize_space(x)
+        if not x:
+            continue
+        if x in {"Singles Winner", "Singles Winners"}:
+            skip_next = 1
+            continue
+        if x in {"Doubles Winner", "Doubles Winners"}:
+            skip_next = 2
+            continue
+        if skip_next > 0:
+            skip_next -= 1
+            continue
+        if x in noise:
+            continue
+        compact.append(x)
+
+    date_line = ""
+    for x in compact:
+        if "|" in x and str(year) in x:
+            date_line = x
+            break
+        if re.search(r"\d{1,2}\s*[-–]\s*\d{1,2}\s+[A-Za-z]+,\s*" + str(year), x):
+            date_line = x
+            break
+        if re.search(r"\d{1,2}\s+[A-Za-z]+\s*[-–]\s*\d{1,2}\s+[A-Za-z]+,\s*" + str(year), x):
+            date_line = x
+            break
+
+    name = ""
+    for x in compact:
+        if x == date_line:
+            break
+        # nazwa turnieju zwykle jest pierwszym sensownym tekstem nad linią lokalizacja|data
+        if not re.search(r"Winner|Results|\d{4}", x, flags=re.IGNORECASE):
+            name = x
+            break
+
+    if not name:
+        name = slug.replace("-", " ").title()
+
+    location = ""
+    date_text = ""
+    if date_line:
+        if "|" in date_line:
+            left, right = date_line.split("|", 1)
+            location = normalize_space(left)
+            date_text = normalize_space(right)
+        else:
+            date_text = normalize_space(date_line)
+
+    return name, location, date_text
+
+
+def parse_challenger_archive_html(html_text: str, year: int, source_url: str) -> List[Dict[str, Any]]:
+    soup = BeautifulSoup(html_text, "html.parser")
+    items: Dict[Tuple[str, str], Dict[str, Any]] = {}
+
+    for link in soup.select('a[href*="/scores/archive/"][href*="/results"]'):
+        href = link.get("href") or ""
+        match = re.search(r"/en/scores/archive/([^/]+)/([^/]+)/(20\d{2})/results", href)
+        if not match:
+            continue
+
+        slug, event_id, item_year = match.group(1), match.group(2), match.group(3)
+        if str(item_year) != str(year):
+            continue
+
+        container, lines = nearest_compact_container_text(link)
+        name, location, date_text = parse_challenger_card_lines(lines, slug, year)
+        start_date, end_date = parse_tournament_date_range(date_text, year)
+
+        key = (item_year, event_id)
+        items[key] = {
+            "id": str(event_id),
+            "year": str(item_year),
+            "name": name,
+            "location": location,
+            "date": date_text,
+            "month": "",
+            "isLive": False,
+            "isPastEvent": True,
+            "type": "CH",
+            "eventType": "Challenger",
+            "surface": "",
+            "indoorOutdoor": "",
+            "singlesDrawSize": "",
+            "doublesDrawSize": "",
+            "scoresUrl": f"/en/scores/archive/{slug}/{event_id}/{item_year}/results",
+            "drawsUrl": f"/en/scores/archive/{slug}/{event_id}/{item_year}/draws",
+            "scheduleUrl": "",
+            "overviewUrl": f"/en/tournaments/{slug}/{event_id}/overview",
+            "countryFlagUrl": "",
+            "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+            "prizeMoney": "",
+            "totalFinancialCommitment": "",
+            "tournamentDate": date_text,
+            "tournamentStartDate": start_date,
+            "tournamentEndDate": end_date,
+            "circuit": "challenger",
+            "circuitLabel": "ATP Challenger",
+            "sourceArchive": source_url,
+        }
+
+    result = list(items.values())
+    result.sort(key=lambda item: (str(item.get("tournamentEndDate") or ""), str(item.get("name") or "")), reverse=True)
+    return result
+
+
+
+def parse_challenger_current_html(html_text: str, source_url: str) -> List[Dict[str, Any]]:
+    soup = BeautifulSoup(html_text, "html.parser")
+    current_year = datetime.now(timezone.utc).year
+    items: Dict[Tuple[str, str], Dict[str, Any]] = {}
+
+    for link in soup.select('a[href*="/scores/current/"][href*="/results"]'):
+        href = link.get("href") or ""
+        match = re.search(r"/en/scores/current/([^/]+)/([^/]+)/results", href)
+        if not match:
+            continue
+
+        slug, event_id = match.group(1), match.group(2)
+        container, lines = nearest_compact_container_text(link)
+        name, location, date_text = parse_challenger_card_lines(lines, slug, current_year)
+
+        detected_year = extract_year_from_text(date_text) or str(current_year)
+        start_date, end_date = parse_tournament_date_range(date_text, int(detected_year))
+
+        key = (str(detected_year), event_id)
+        items[key] = {
+            "id": str(event_id),
+            "year": str(detected_year),
+            "name": name,
+            "location": location,
+            "date": date_text,
+            "month": "",
+            "isLive": True,
+            "isPastEvent": False,
+            "type": "CH",
+            "eventType": "Challenger",
+            "surface": "",
+            "indoorOutdoor": "",
+            "singlesDrawSize": "",
+            "doublesDrawSize": "",
+            "scoresUrl": f"/en/scores/current/{slug}/{event_id}/results",
+            "drawsUrl": f"/en/scores/current/{slug}/{event_id}/draws",
+            "scheduleUrl": "",
+            "overviewUrl": f"/en/tournaments/{slug}/{event_id}/overview",
+            "countryFlagUrl": "",
+            "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+            "prizeMoney": "",
+            "totalFinancialCommitment": "",
+            "tournamentDate": date_text,
+            "tournamentStartDate": start_date,
+            "tournamentEndDate": end_date,
+            "circuit": "challenger",
+            "circuitLabel": "ATP Challenger",
+            "sourceArchive": source_url,
+        }
+
+    result = list(items.values())
+    result.sort(key=lambda item: (str(item.get("tournamentEndDate") or ""), str(item.get("name") or "")), reverse=True)
+    return result
+
+
+def fetch_current_challenger() -> Tuple[List[Dict[str, Any]], Optional[str]]:
+    try:
+        html_text = fetch_text(ATP_CHALLENGER_CURRENT_URL, referer="https://www.atptour.com/en/scores")
+        items = parse_challenger_current_html(html_text, ATP_CHALLENGER_CURRENT_URL)
+        print(f"Current Challenger: {len(items)} tournaments from {ATP_CHALLENGER_CURRENT_URL}")
+        return items, ATP_CHALLENGER_CURRENT_URL
+    except Exception as exc:
+        print(f"WARN current challenger failed: {exc}")
+        return [], None
+
+def fetch_challenger_archive_for_year(year: int) -> Tuple[List[Dict[str, Any]], Optional[str]]:
+    last_error: Optional[str] = None
+
+    for url in challenger_archive_urls_for_year(year):
+        try:
+            html_text = fetch_text(url, referer="https://www.atptour.com/en/scores/results-archive?year={year}&tournamentType=ch")
+            items = parse_challenger_archive_html(html_text, year, url)
+            if items:
+                print(f"Challenger archive {year}: {len(items)} tournaments from {url}")
+                return items, url
+        except Exception as exc:
+            last_error = f"{url}: {exc}"
+            print(f"WARN challenger archive failed: {last_error}")
+            time.sleep(REQUEST_SLEEP_SECONDS)
+
+    print(f"WARN no challenger archive parsed for {year}: {last_error}")
+    return [], None
+
+
+def fetch_challenger_archives(years: List[int]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
+    all_items: List[Dict[str, Any]] = []
+    sources: List[Dict[str, Any]] = []
+
+    current_items, current_source = fetch_current_challenger()
+    all_items.extend(current_items)
+    sources.append({"year": "current", "source": current_source, "count": len(current_items)})
+
+    for year in years:
+        items, source_url = fetch_challenger_archive_for_year(year)
+        all_items.extend(items)
+        sources.append({"year": year, "source": source_url, "count": len(items)})
+        time.sleep(REQUEST_SLEEP_SECONDS)
+
+    # current może dublować się z archiwum tego samego roku. Dla duplikatu zostawiamy current, bo jest świeższy.
+    dedup: Dict[Tuple[str, str], Dict[str, Any]] = {}
+    for item in all_items:
+        key = (str(item.get("year") or ""), str(item.get("id") or ""))
+        if key not in dedup or item.get("isLive"):
+            dedup[key] = item
+
+    return list(dedup.values()), sources
 
 def normalize_space(value: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(value or "")).strip()
@@ -1454,7 +1734,7 @@ def select_tournaments_for_results(flat: List[Dict[str, Any]]) -> List[Dict[str,
 
     unique: Dict[Tuple[str, str], Dict[str, Any]] = {}
     for tournament in selected:
-        key = (str(tournament.get("year")), str(tournament.get("id")))
+        key = (str(tournament.get("circuit") or "tour"), str(tournament.get("year")), str(tournament.get("id")))
         unique[key] = tournament
 
     return list(unique.values())
@@ -2065,22 +2345,50 @@ def ensure_history_years_available(flat_tournaments: List[Dict[str, Any]], years
     return result
 
 
+def tournament_sort_date_for_flat(tournament: Dict[str, Any]) -> str:
+    for key in ("tournamentEndDate", "endDate", "tournamentStartDate", "startDate"):
+        value = str(tournament.get(key) or "")
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+            return value
+    return ""
+
+
+def sorted_flat_tournaments_for_app(flat_tournaments: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    return sorted(
+        flat_tournaments,
+        key=lambda item: (
+            str(item.get("year") or ""),
+            tournament_sort_date_for_flat(item),
+            str(item.get("name") or ""),
+        ),
+        reverse=True,
+    )
+
+
 def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     generated_at = datetime.now(timezone.utc).isoformat()
 
-    print("Fetching ATP calendars...")
+    print("Fetching ATP Tour calendars...")
     flat_tournaments, calendar_sources = flatten_multi_year_calendars(HISTORY_YEARS)
     flat_tournaments = ensure_history_years_available(flat_tournaments, HISTORY_YEARS)
+
+    challenger_sources: List[Dict[str, Any]] = []
+    if INCLUDE_CHALLENGER:
+        print("Fetching ATP Challenger archives...")
+        challenger_tournaments, challenger_sources = fetch_challenger_archives(HISTORY_YEARS)
+        flat_tournaments.extend(challenger_tournaments)
 
     save_json(
         DATA_DIR / "tournaments.json",
         {
             "source": ATP_CALENDAR_URL,
+            "challengerSource": ATP_CHALLENGER_ARCHIVE_URL,
             "years": HISTORY_YEARS,
             "generatedAt": generated_at,
-            "countSources": len(calendar_sources),
+            "countSources": len(calendar_sources) + len(challenger_sources),
             "sources": calendar_sources,
+            "challengerSources": challenger_sources,
         },
     )
 
@@ -2171,6 +2479,8 @@ def main() -> None:
                 "matches": saved_matches_count,
                 "drawRounds": len(draw_rounds),
                 "drawMatches": draw_match_count,
+                "circuit": tournament.get("circuit") or "tour",
+                "circuitLabel": tournament.get("circuitLabel") or "ATP Tour",
                 "matchesPath": f"data/{year}/{event_id}/matches.json",
                 "drawPath": f"data/{year}/{event_id}/draw.json",
                 "source": source_url,
@@ -2179,6 +2489,23 @@ def main() -> None:
         )
 
         time.sleep(REQUEST_SLEEP_SECONDS)
+
+    # Po pobraniu wyników turnieje mają już uzupełnione oryginalne zakresy dat
+    # z nagłówków ATP, np. tournamentStartDate/tournamentEndDate.
+    # Dlatego zapisujemy tournaments_flat.json jeszcze raz, już po wzbogaceniu.
+    flat_tournaments_for_app = sorted_flat_tournaments_for_app(flat_tournaments)
+
+    save_json(
+        DATA_DIR / "tournaments_flat.json",
+        {
+            "source": ATP_CALENDAR_URL,
+            "years": HISTORY_YEARS,
+            "generatedAt": generated_at,
+            "count": len(flat_tournaments_for_app),
+            "note": "Turnieje ATP Tour i Challenger są zapisane po wzbogaceniu o oryginalne zakresy dat z ATP, np. tournamentStartDate/tournamentEndDate. Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów mogła zostać utworzona jako archive fallback.",
+            "tournaments": flat_tournaments_for_app,
+        },
+    )
 
     save_json(
         DATA_DIR / "results_index.json",
