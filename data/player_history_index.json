@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:27:19.331159+00:00",
+  "generatedAt": "2026-05-31T04:38:08.427617+00:00",
   "count": 572,
   "items": [
     {
@@ -359,7 +359,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 55,
+      "count": 53,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -494,7 +494,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 6,
+      "count": 8,
       "path": "data/player-history/alexandershevchenko.json"
     },
     {
@@ -953,7 +953,7 @@
       "displayName": "B. Nakashima",
       "playerId": "N0AE",
       "rank": null,
-      "count": 73,
+      "count": 74,
       "path": "data/player-history/brandonnakashima.json"
     },
     {
@@ -1763,7 +1763,7 @@
       "displayName": "F. Auger-Aliassime",
       "playerId": "AG37",
       "rank": null,
-      "count": 69,
+      "count": 70,
       "path": "data/player-history/felixaugeraliassime.json"
     },
     {
@@ -1826,7 +1826,7 @@
       "displayName": "F. Tiafoe",
       "playerId": "TD51",
       "rank": null,
-      "count": 72,
+      "count": 73,
       "path": "data/player-history/francestiafoe.json"
     },
     {
@@ -2492,7 +2492,7 @@
       "displayName": "J. Faria",
       "playerId": "F0F2",
       "rank": null,
-      "count": 42,
+      "count": 43,
       "path": "data/player-history/jaimefaria.json"
     },
     {
@@ -3491,7 +3491,7 @@
       "displayName": "M. Arnaldi",
       "playerId": "A0FC",
       "rank": null,
-      "count": 60,
+      "count": 61,
       "path": "data/player-history/matteoarnaldi.json"
     },
     {
@@ -4256,7 +4256,7 @@
       "displayName": "R. Collignon",
       "playerId": "C0JP",
       "rank": null,
-      "count": 31,
+      "count": 32,
       "path": "data/player-history/raphaelcollignon.json"
     },
     {

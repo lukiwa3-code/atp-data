@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T19:27:19.331159+00:00",
+  "generatedAt": "2026-05-31T04:38:08.427617+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -198,15 +198,15 @@
           "bracketOrder": 2,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "F. Tiafoe",
+          "player1FullName": "Frances Tiafoe",
+          "player1Id": "TD51",
+          "player1Country": "USA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "M. Arnaldi",
+          "player2FullName": "Matteo Arnaldi",
+          "player2Id": "A0FC",
+          "player2Country": "ITA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -215,10 +215,10 @@
           "bracketOrder": 3,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "F. Auger-Aliassime",
+          "player1FullName": "Felix Auger Aliassime",
+          "player1Id": "AG37",
+          "player1Country": "CAN",
           "player1ScoreTokens": [],
           "player2": "A. Tabilo",
           "player2FullName": "Alejandro Tabilo",
@@ -387,14 +387,26 @@
           "player1FullName": "Jaime Faria",
           "player1Id": "F0F2",
           "player1Country": "POR",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "7",
+            "6 4",
+            "1",
+            "2"
+          ],
           "player2": "F. Tiafoe",
           "player2FullName": "Frances Tiafoe",
           "player2Id": "TD51",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "6 2",
+            "7",
+            "6",
+            "6"
+          ],
+          "winnerName": "Frances Tiafoe",
+          "formattedScore": "4-6 6-7(2) 7-6(4) 6-1 6-2"
         },
         {
           "bracketOrder": 4,
@@ -404,14 +416,26 @@
           "player1FullName": "Matteo Arnaldi",
           "player1Id": "A0FC",
           "player1Country": "ITA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6 5",
+            "5",
+            "6",
+            "7"
+          ],
           "player2": "R. Collignon",
           "player2FullName": "Raphael Collignon",
           "player2Id": "C0JP",
           "player2Country": "BEL",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "7",
+            "4",
+            "6 4"
+          ],
+          "winnerName": "Matteo Arnaldi",
+          "formattedScore": "6-4 6-7(5) 5-7 6-4 7-6(4)"
         },
         {
           "bracketOrder": 5,
@@ -421,14 +445,24 @@
           "player1FullName": "Felix Auger Aliassime",
           "player1Id": "AG37",
           "player1Country": "CAN",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "7",
+            "7"
+          ],
           "player2": "B. Nakashima",
           "player2FullName": "Brandon Nakashima",
           "player2Id": "N0AE",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "1",
+            "6 4",
+            "6 1"
+          ],
+          "winnerName": "Felix Auger Aliassime",
+          "formattedScore": "5-7 6-1 7-6(4) 7-6(1)"
         },
         {
           "bracketOrder": 6,
