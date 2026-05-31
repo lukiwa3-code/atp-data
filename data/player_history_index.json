@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T08:56:13.674083+00:00",
+  "generatedAt": "2026-05-31T12:05:57.252325+00:00",
   "count": 572,
   "items": [
     {
@@ -403,7 +403,7 @@
       "name": "Alex Finkelstein",
       "displayName": "Alex Finkelstein",
       "playerId": "",
-      "rank": null,
+      "rank": 1608,
       "count": 1,
       "path": "data/player-history/alexfinkelstein.json"
     },
@@ -1294,7 +1294,7 @@
       "name": "Daniel Jovanovski",
       "displayName": "Daniel Jovanovski",
       "playerId": "",
-      "rank": null,
+      "rank": 1749,
       "count": 1,
       "path": "data/player-history/danieljovanovski.json"
     },
@@ -2149,7 +2149,7 @@
       "name": "Guto Miguel",
       "displayName": "Guto Miguel",
       "playerId": "",
-      "rank": null,
+      "rank": 1593,
       "count": 2,
       "path": "data/player-history/gutomiguel.json"
     },
@@ -2869,7 +2869,7 @@
       "name": "Kai Thompson",
       "displayName": "Kai Thompson",
       "playerId": "",
-      "rank": null,
+      "rank": 1936,
       "count": 1,
       "path": "data/player-history/kaithompson.json"
     },
@@ -3193,7 +3193,7 @@
       "name": "Lucas Miedler",
       "displayName": "Lucas Miedler",
       "playerId": "",
-      "rank": null,
+      "rank": 1522,
       "count": 1,
       "path": "data/player-history/lucasmiedler.json"
     },
@@ -4579,7 +4579,7 @@
       "name": "Stefan Horia Haita",
       "displayName": "Stefan Horia Haita",
       "playerId": "",
-      "rank": null,
+      "rank": 1383,
       "count": 1,
       "path": "data/player-history/stefanhoriahaita.json"
     },
