@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/brasov/2931/2025/results",
+  "tournament": {
+    "id": "2931",
+    "year": "2025",
+    "name": "Brasov",
+    "location": "",
+    "date": "30 Jun - 6 Jul, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/brasov/2931/2025/results",
+    "drawsUrl": "/en/scores/archive/brasov/2931/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/brasov/2931/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "30 June - 6 July, 2025",
+    "tournamentStartDate": "2025-06-30",
+    "tournamentEndDate": "2025-07-06",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-30",
+    "endDate": "2025-07-06"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Adrian Boitan"
+    },
+    {
+      "id": "",
+      "name": "Alexander Donski"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrea Guerrieri"
+    },
+    {
+      "id": "",
+      "name": "Andrew Paulson"
+    },
+    {
+      "id": "",
+      "name": "Bogdan Pavel"
+    },
+    {
+      "id": "",
+      "name": "Cezar Cretu"
+    },
+    {
+      "id": "",
+      "name": "Cezar Gabriel Papoe"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Dan Alexandru Tomescu"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Dominik Kellovsky"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Felipe Meligeni Alves"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Ghetu"
+    },
+    {
+      "id": "",
+      "name": "Ioan Alexandru Chirita"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jonas Forejtek"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Kilian Feldbausch"
+    },
+    {
+      "id": "",
+      "name": "Kimmer Coppejans"
+    },
+    {
+      "id": "",
+      "name": "Luca Preda"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Manas Dhamne"
+    },
+    {
+      "id": "",
+      "name": "Marko Topo"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Oriol Roca Batalla"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Radu David Turcanu"
+    },
+    {
+      "id": "",
+      "name": "Radu Mihai Papoe"
+    },
+    {
+      "id": "",
+      "name": "Rares Teodor Pieleanu"
+    },
+    {
+      "id": "",
+      "name": "S D Prajwal Dev"
+    },
+    {
+      "id": "",
+      "name": "Saba Purtseladze"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Stefan Adrian Andreescu"
+    },
+    {
+      "id": "",
+      "name": "Stefan Palosi"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Tommaso Compagnucci"
+    }
+  ]
+}

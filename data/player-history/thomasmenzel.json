@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "thomasmenzel",
+    "name": "thomas Menzel",
+    "displayName": "thomas Menzel",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 26 January, 2026",
+      "dateIso": "2026-01-26",
+      "tournamentId": "9452",
+      "tournamentYear": "2026",
+      "tournamentName": "Dove Men+Care Concepción",
+      "tournamentType": "CH",
+      "tournamentDate": "27 Jan - 1 Feb, 2026",
+      "tournamentStartDate": "2026-01-27",
+      "tournamentEndDate": "2026-02-01",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-0 6-1",
+      "matchId": "RES-F862837079",
+      "reason": null,
+      "playerName": "thomas Menzel",
+      "opponentName": "Franco Agamenone",
+      "opponentKey": "francoagamenone",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 258,
+      "rankingDate": "2026-01-26",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

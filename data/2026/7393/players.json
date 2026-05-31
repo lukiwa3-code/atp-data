@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/canberra/7393/2026/results",
+  "tournament": {
+    "id": "7393",
+    "year": "2026",
+    "name": "Workday Canberra International",
+    "location": "",
+    "date": "5-10 Jan, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/canberra/7393/2026/results",
+    "drawsUrl": "/en/scores/archive/canberra/7393/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/canberra/7393/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "5 - 10 January, 2026",
+    "tournamentStartDate": "2026-01-05",
+    "tournamentEndDate": "2026-01-10",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-01-05",
+    "endDate": "2026-01-10"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Alex Molcan"
+    },
+    {
+      "id": "",
+      "name": "Alexander Blockx"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Chris Rodesch"
+    },
+    {
+      "id": "",
+      "name": "Colton Smith"
+    },
+    {
+      "id": "",
+      "name": "Daniel Elahi Galan"
+    },
+    {
+      "id": "",
+      "name": "Daniel Jovanovski"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Edward Winter"
+    },
+    {
+      "id": "",
+      "name": "Elmer Moller"
+    },
+    {
+      "id": "",
+      "name": "George Loffhagen"
+    },
+    {
+      "id": "",
+      "name": "Gilles Arnaud Bailly"
+    },
+    {
+      "id": "",
+      "name": "Hady Habib"
+    },
+    {
+      "id": "",
+      "name": "Henrique Rocha"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "Jaime Faria"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Kei Nishikori"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Luca Nardi"
+    },
+    {
+      "id": "",
+      "name": "Luka Mikrut"
+    },
+    {
+      "id": "",
+      "name": "Lukas Klein"
+    },
+    {
+      "id": "",
+      "name": "Lukas Neumayer"
+    },
+    {
+      "id": "",
+      "name": "Marc Polmans"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Jarry"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Pavle Marinkov"
+    },
+    {
+      "id": "",
+      "name": "Philip Sekulic"
+    },
+    {
+      "id": "",
+      "name": "Rafael Jodar"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Ofner"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Tomas Barrios Vera"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    },
+    {
+      "id": "",
+      "name": "Ymerali Ibraimi"
+    },
+    {
+      "id": "",
+      "name": "Yoshihito Nishioka"
+    },
+    {
+      "id": "",
+      "name": "Yosuke Watanuki"
+    }
+  ]
+}

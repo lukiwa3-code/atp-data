@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/lisbon/7742/2025/results",
+  "tournament": {
+    "id": "7742",
+    "year": "2025",
+    "name": "Lisbon",
+    "location": "",
+    "date": "22-28 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/lisbon/7742/2025/results",
+    "drawsUrl": "/en/scores/archive/lisbon/7742/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/lisbon/7742/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "22 - 28 September, 2025",
+    "tournamentStartDate": "2025-09-22",
+    "tournamentEndDate": "2025-09-28",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-22",
+    "endDate": "2025-09-28"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alexander Donski"
+    },
+    {
+      "id": "",
+      "name": "Alexander Ritschard"
+    },
+    {
+      "id": "",
+      "name": "Amaury Raynel"
+    },
+    {
+      "id": "",
+      "name": "Andrea Pellegrino"
+    },
+    {
+      "id": "",
+      "name": "Aristotelis Thanos"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Daniel Elahi Galan"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Elmer Moller"
+    },
+    {
+      "id": "",
+      "name": "Francisco Rocha"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Goncalo Quintela"
+    },
+    {
+      "id": "",
+      "name": "Guy Den Ouden"
+    },
+    {
+      "id": "",
+      "name": "Henrique Rocha"
+    },
+    {
+      "id": "",
+      "name": "Hugo Maia"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Jaime Faria"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Javier Barranco Cosano"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Jerome Kym"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Max Houkes"
+    },
+    {
+      "id": "",
+      "name": "Maxime Chazal"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Pedro Araujo"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Stefan Latinovic"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Sumit Nagal"
+    },
+    {
+      "id": "",
+      "name": "Thiago Monteiro"
+    },
+    {
+      "id": "",
+      "name": "Thiago Seyboth Wild"
+    },
+    {
+      "id": "",
+      "name": "Tiago Cacao"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Tiago Torres"
+    },
+    {
+      "id": "",
+      "name": "Tomas Serrano Luis"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    }
+  ]
+}

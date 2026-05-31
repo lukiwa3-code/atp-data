@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/liberec/6795/2025/results",
+  "tournament": {
+    "id": "6795",
+    "year": "2025",
+    "name": "Liberec",
+    "location": "",
+    "date": "28 Jul - 3 Aug, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/liberec/6795/2025/results",
+    "drawsUrl": "/en/scores/archive/liberec/6795/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/liberec/6795/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "28 July - 3 August, 2025",
+    "tournamentStartDate": "2025-07-28",
+    "tournamentEndDate": "2025-08-03",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-28",
+    "endDate": "2025-08-03"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/AL)"
+    },
+    {
+      "id": "",
+      "name": "(8/AL)"
+    },
+    {
+      "id": "",
+      "name": "(9/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alex Molcan"
+    },
+    {
+      "id": "",
+      "name": "Amit Vales"
+    },
+    {
+      "id": "",
+      "name": "Andrea Collarini"
+    },
+    {
+      "id": "",
+      "name": "Andrej Martin"
+    },
+    {
+      "id": "",
+      "name": "Andrew Paulson"
+    },
+    {
+      "id": "",
+      "name": "Cedrik-Marcel Stebe"
+    },
+    {
+      "id": "",
+      "name": "Daniel Michalski"
+    },
+    {
+      "id": "",
+      "name": "Denis Petak"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Eero Vasa"
+    },
+    {
+      "id": "",
+      "name": "Federico Coria"
+    },
+    {
+      "id": "",
+      "name": "Filip Pieczonka"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Gregor Ramskogler"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jakub Nicod"
+    },
+    {
+      "id": "",
+      "name": "Jan Jermar"
+    },
+    {
+      "id": "",
+      "name": "Jan Klimas"
+    },
+    {
+      "id": "",
+      "name": "Johan Nikles"
+    },
+    {
+      "id": "",
+      "name": "Jonas Kucera"
+    },
+    {
+      "id": "",
+      "name": "Luca Castagnola"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Matyas Cerny"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nitin Kumar Sinha"
+    },
+    {
+      "id": "",
+      "name": "Norbert Gombos"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "S D Prajwal Dev"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Valentin Vacherot"
+    },
+    {
+      "id": "",
+      "name": "Yanaki Milev"
+    }
+  ]
+}

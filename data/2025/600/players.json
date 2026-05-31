@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/prague/600/2025/results",
+  "tournament": {
+    "id": "600",
+    "year": "2025",
+    "name": "Prague",
+    "location": "",
+    "date": "5-11 May, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/prague/600/2025/results",
+    "drawsUrl": "/en/scores/archive/prague/600/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/prague/600/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "5 - 11 May, 2025",
+    "tournamentStartDate": "2025-05-05",
+    "tournamentEndDate": "2025-05-11",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-05-05",
+    "endDate": "2025-05-11"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alex Martinez"
+    },
+    {
+      "id": "",
+      "name": "Alexander Blockx"
+    },
+    {
+      "id": "",
+      "name": "Antoine Cornut-Chauvinc"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Hassan"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Daniel Evans"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Dmitry Popko"
+    },
+    {
+      "id": "",
+      "name": "Filip Misolic"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Guy Den Ouden"
+    },
+    {
+      "id": "",
+      "name": "Hady Habib"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Henrique Rocha"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Jakub Filip"
+    },
+    {
+      "id": "",
+      "name": "Jakub Nicod"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Jan Kumstat"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Lloyd Harris"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Lukas Klein"
+    },
+    {
+      "id": "",
+      "name": "Lukas Neumayer"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Max Houkes"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Maxime Chazal"
+    },
+    {
+      "id": "",
+      "name": "Mees Rottgering"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Nikoloz Basilashvili"
+    },
+    {
+      "id": "",
+      "name": "Norbert Gombos"
+    },
+    {
+      "id": "",
+      "name": "Oriol Roca Batalla"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Sumit Nagal"
+    },
+    {
+      "id": "",
+      "name": "Toby Kodat"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    }
+  ]
+}

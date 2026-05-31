@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "kaiiwang",
+    "name": "Kai-I Wang",
+    "displayName": "Kai-I Wang",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 03 November, 2025",
+      "dateIso": "2025-11-03",
+      "tournamentId": "2278",
+      "tournamentYear": "2025",
+      "tournamentName": "Taipei",
+      "tournamentType": "CH",
+      "tournamentDate": "3-9 Nov, 2025",
+      "tournamentStartDate": "2025-11-03",
+      "tournamentEndDate": "2025-11-09",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-2",
+      "matchId": "RES-AE6EBD934F",
+      "reason": null,
+      "playerName": "Kai-I Wang",
+      "opponentName": "Leo Vithoontien",
+      "opponentKey": "leovithoontien",
+      "result": "L",
+      "playerRank": 2053,
+      "opponentRank": 787,
+      "rankingDate": "2025-11-03",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

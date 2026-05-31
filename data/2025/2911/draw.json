@@ -1,0 +1,820 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/naples/2911/2025/draws",
+  "tournament": {
+    "id": "2911",
+    "year": "2025",
+    "name": "Naples",
+    "location": "",
+    "date": "24-30 Mar, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/naples/2911/2025/results",
+    "drawsUrl": "/en/scores/archive/naples/2911/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/naples/2911/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "24 - 30 March, 2025",
+    "tournamentStartDate": "2025-03-24",
+    "tournamentEndDate": "2025-03-30",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-24",
+    "endDate": "2025-03-30"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "L. Darderi",
+          "player1FullName": "Luciano Darderi",
+          "player1Id": "D0FJ",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6 4"
+          ],
+          "player2": "V. Kopriva",
+          "player2FullName": "Vit Kopriva",
+          "player2Id": "KI82",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "7"
+          ],
+          "winnerName": "Vit Kopriva",
+          "formattedScore": "3-6 6-3 7-6(4)"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "L. Darderi",
+          "player1FullName": "Luciano Darderi",
+          "player1Id": "D0FJ",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "1",
+            "6",
+            "7"
+          ],
+          "player2": "D. Svrcina",
+          "player2FullName": "Dalibor Svrcina",
+          "player2Id": "S0GD",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6",
+            "2",
+            "5"
+          ],
+          "winnerName": "Luciano Darderi",
+          "formattedScore": "1-6 6-2 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "A. Pellegrino",
+          "player1FullName": "Andrea Pellegrino",
+          "player1Id": "PH64",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "player2": "V. Kopriva",
+          "player2FullName": "Vit Kopriva",
+          "player2Id": "KI82",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Vit Kopriva",
+          "formattedScore": "7-5 6-3"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "L. Darderi",
+          "player1FullName": "Luciano Darderi",
+          "player1Id": "D0FJ",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Wawrinka",
+          "player2FullName": "Stan Wawrinka",
+          "player2Id": "W367",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "winnerName": "Luciano Darderi",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Dellien",
+          "player1FullName": "Murkel Dellien",
+          "player1Id": "DC48",
+          "player1Country": "BOL",
+          "player1ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "player2": "D. Svrcina",
+          "player2FullName": "Dalibor Svrcina",
+          "player2Id": "S0GD",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Dalibor Svrcina",
+          "formattedScore": "6-1 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "A. Pellegrino",
+          "player1FullName": "Andrea Pellegrino",
+          "player1Id": "PH64",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "6"
+          ],
+          "player2": "P. Herbert",
+          "player2FullName": "Pierre Hugues Herbert",
+          "player2Id": "H996",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "6 6",
+            "3"
+          ],
+          "winnerName": "Andrea Pellegrino",
+          "formattedScore": "4-6 7-6(6) 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "F. Arnaboldi",
+          "player1FullName": "Federico Arnaboldi",
+          "player1Id": "A0BA",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "3"
+          ],
+          "player2": "V. Kopriva",
+          "player2FullName": "Vit Kopriva",
+          "player2Id": "KI82",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "winnerName": "Vit Kopriva",
+          "formattedScore": "6-3 4-6 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "L. Darderi",
+          "player1FullName": "Luciano Darderi",
+          "player1Id": "D0FJ",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Nagal",
+          "player2FullName": "Sumit Nagal",
+          "player2Id": "N897",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "0",
+            "1"
+          ],
+          "winnerName": "Luciano Darderi",
+          "formattedScore": "6-0 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "S. Wawrinka",
+          "player1FullName": "Stan Wawrinka",
+          "player1Id": "W367",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "B. Coric",
+          "player2FullName": "Borna Coric",
+          "player2Id": "CG80",
+          "player2Country": "CRO",
+          "player2ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "winnerName": "Stan Wawrinka",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "E. Ymer",
+          "player1FullName": "Elias Ymer",
+          "player1Id": "Y218",
+          "player1Country": "SWE",
+          "player1ScoreTokens": [
+            "6 4",
+            "6",
+            "0"
+          ],
+          "player2": "M. Dellien",
+          "player2FullName": "Murkel Dellien",
+          "player2Id": "DC48",
+          "player2Country": "BOL",
+          "player2ScoreTokens": [
+            "7",
+            "3",
+            "6"
+          ],
+          "winnerName": "Murkel Dellien",
+          "formattedScore": "7-6(4) 3-6 6-0"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Svrcina",
+          "player1FullName": "Dalibor Svrcina",
+          "player1Id": "S0GD",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "C. Tseng",
+          "player2FullName": "Chun Hsin Tseng",
+          "player2Id": "T0AP",
+          "player2Country": "TPE",
+          "player2ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "winnerName": "Dalibor Svrcina",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Onclin",
+          "player1FullName": "Gauthier Onclin",
+          "player1Id": "O0A2",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "player2": "A. Pellegrino",
+          "player2FullName": "Andrea Pellegrino",
+          "player2Id": "PH64",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Andrea Pellegrino",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "P. Herbert",
+          "player1FullName": "Pierre Hugues Herbert",
+          "player1Id": "H996",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "M. Rehberg",
+          "player2FullName": "Max Hans Rehberg",
+          "player2Id": "R0ED",
+          "player2Country": "GER",
+          "player2ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "winnerName": "Pierre Hugues Herbert",
+          "formattedScore": "7-5 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "F. Arnaboldi",
+          "player1FullName": "Federico Arnaboldi",
+          "player1Id": "A0BA",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "2",
+            "6",
+            "6"
+          ],
+          "player2": "F. Jianu",
+          "player2FullName": "Filip Cristian Jianu",
+          "player2Id": "J09X",
+          "player2Country": "ROU",
+          "player2ScoreTokens": [
+            "6",
+            "1",
+            "4"
+          ],
+          "winnerName": "Federico Arnaboldi",
+          "formattedScore": "2-6 6-1 6-4"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "C. Hemery",
+          "player1FullName": "Calvin Hemery",
+          "player1Id": "HB48",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "player2": "V. Kopriva",
+          "player2FullName": "Vit Kopriva",
+          "player2Id": "KI82",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Vit Kopriva",
+          "formattedScore": "6-1 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Darderi",
+          "player1FullName": "Luciano Darderi",
+          "player1Id": "D0FJ",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "F. Agamenone",
+          "player2FullName": "Franco Agamenone",
+          "player2Id": "AA27",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "winnerName": "Luciano Darderi",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Ajdukovic",
+          "player1FullName": "Duje Ajdukovic",
+          "player1Id": "A0CJ",
+          "player1Country": "CRO",
+          "player1ScoreTokens": [
+            "6 6",
+            "4"
+          ],
+          "player2": "S. Nagal",
+          "player2FullName": "Sumit Nagal",
+          "player2Id": "N897",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Sumit Nagal",
+          "formattedScore": "7-6(6) 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Wawrinka",
+          "player1FullName": "Stan Wawrinka",
+          "player1Id": "W367",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "B. Gojo",
+          "player2FullName": "Borna Gojo",
+          "player2Id": "GH92",
+          "player2Country": "CRO",
+          "player2ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "winnerName": "Stan Wawrinka",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Mayot",
+          "player1FullName": "Harold Mayot",
+          "player1Id": "M0G4",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "B. Coric",
+          "player2FullName": "Borna Coric",
+          "player2Id": "CG80",
+          "player2Country": "CRO",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Borna Coric",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "F. Passaro",
+          "player1FullName": "Francesco Passaro",
+          "player1Id": "P0CT",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "5"
+          ],
+          "player2": "E. Ymer",
+          "player2FullName": "Elias Ymer",
+          "player2Id": "Y218",
+          "player2Country": "SWE",
+          "player2ScoreTokens": [
+            "6 6",
+            "6",
+            "7"
+          ],
+          "winnerName": "Elias Ymer",
+          "formattedScore": "6-7(6) 6-3 7-5"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "F. Maestrelli",
+          "player1FullName": "Francesco Maestrelli",
+          "player1Id": "M0IF",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "player2": "M. Dellien",
+          "player2FullName": "Murkel Dellien",
+          "player2Id": "DC48",
+          "player2Country": "BOL",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Murkel Dellien",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "G. Fonio",
+          "player1FullName": "Giovanni Fonio",
+          "player1Id": "FC49",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "7",
+            "2",
+            "5"
+          ],
+          "player2": "D. Svrcina",
+          "player2FullName": "Dalibor Svrcina",
+          "player2Id": "S0GD",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6 2",
+            "6",
+            "7"
+          ],
+          "winnerName": "Dalibor Svrcina",
+          "formattedScore": "6-7(2) 6-2 7-5"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "G. Barrere",
+          "player1FullName": "Gregoire Barrere",
+          "player1Id": "BK24",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "4",
+            "6 6"
+          ],
+          "player2": "C. Tseng",
+          "player2FullName": "Chun Hsin Tseng",
+          "player2Id": "T0AP",
+          "player2Country": "TPE",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Chun Hsin Tseng",
+          "formattedScore": "6-4 7-6(6)"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "F. Fognini",
+          "player1FullName": "Fabio Fognini",
+          "player1Id": "F510",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "5"
+          ],
+          "player2": "G. Onclin",
+          "player2FullName": "Gauthier Onclin",
+          "player2Id": "O0A2",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "7"
+          ],
+          "winnerName": "Gauthier Onclin",
+          "formattedScore": "6-3 4-6 7-5"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Pellegrino",
+          "player1FullName": "Andrea Pellegrino",
+          "player1Id": "PH64",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "6"
+          ],
+          "player2": "D. Evans",
+          "player2FullName": "Daniel Evans",
+          "player2Id": "E687",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "4"
+          ],
+          "winnerName": "Andrea Pellegrino",
+          "formattedScore": "6-3 1-6 6-4"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Barton",
+          "player1FullName": "Hynek Barton",
+          "player1Id": "B0OU",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "1",
+            "5"
+          ],
+          "player2": "P. Herbert",
+          "player2FullName": "Pierre Hugues Herbert",
+          "player2Id": "H996",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Pierre Hugues Herbert",
+          "formattedScore": "6-1 7-5"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Rehberg",
+          "player1FullName": "Max Hans Rehberg",
+          "player1Id": "R0ED",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "player2": "T. Seyboth Wild",
+          "player2FullName": "Thiago Seyboth Wild",
+          "player2Id": "SX91",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "4"
+          ],
+          "winnerName": "Max Hans Rehberg",
+          "formattedScore": "3-6 6-3 6-4"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Boyer",
+          "player1FullName": "Tristan Boyer",
+          "player1Id": "B0EJ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "5"
+          ],
+          "player2": "F. Arnaboldi",
+          "player2FullName": "Federico Arnaboldi",
+          "player2Id": "A0BA",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "1",
+            "6",
+            "7"
+          ],
+          "winnerName": "Federico Arnaboldi",
+          "formattedScore": "1-6 6-3 7-5"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "G. Zeppieri",
+          "player1FullName": "Giulio Zeppieri",
+          "player1Id": "Z0A1",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "0"
+          ],
+          "player2": "F. Jianu",
+          "player2FullName": "Filip Cristian Jianu",
+          "player2Id": "J09X",
+          "player2Country": "ROU",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "winnerName": "Filip Cristian Jianu",
+          "formattedScore": "3-6 6-1 6-0"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Kovalik",
+          "player1FullName": "Jozef Kovalik",
+          "player1Id": "KC04",
+          "player1Country": "SVK",
+          "player1ScoreTokens": [
+            "5",
+            "0"
+          ],
+          "player2": "C. Hemery",
+          "player2FullName": "Calvin Hemery",
+          "player2Id": "HB48",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Calvin Hemery",
+          "formattedScore": "7-5 6-0"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "V. Kopriva",
+          "player1FullName": "Vit Kopriva",
+          "player1Id": "KI82",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "R. Collignon",
+          "player2FullName": "Raphael Collignon",
+          "player2Id": "C0JP",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "winnerName": "Vit Kopriva",
+          "formattedScore": "6-4 6-3"
+        }
+      ]
+    }
+  ]
+}

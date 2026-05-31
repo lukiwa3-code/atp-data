@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "calinteodorstirbu",
+    "name": "Calin Teodor Stirbu",
+    "displayName": "Calin Teodor Stirbu",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 08 February, 2026",
+      "dateIso": "2026-02-08",
+      "tournamentId": "3063",
+      "tournamentYear": "2026",
+      "tournamentName": "Steve Carter Baton Rouge Challenger",
+      "tournamentType": "CH",
+      "tournamentDate": "9-15 Feb, 2026",
+      "tournamentStartDate": "2026-02-09",
+      "tournamentEndDate": "2026-02-15",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-4",
+      "matchId": "RES-7FDC0C9B39",
+      "reason": null,
+      "playerName": "Calin Teodor Stirbu",
+      "opponentName": "Ryan Fishback",
+      "opponentKey": "ryanfishback",
+      "result": "L",
+      "playerRank": 2093,
+      "opponentRank": 629,
+      "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

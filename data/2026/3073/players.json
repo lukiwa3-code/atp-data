@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/miyazaki/3073/2026/results",
+  "tournament": {
+    "id": "3073",
+    "year": "2026",
+    "name": "Koyushokucho Miyazaki Challenger",
+    "location": "",
+    "date": "30 Mar - 5 Apr, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/miyazaki/3073/2026/results",
+    "drawsUrl": "/en/scores/archive/miyazaki/3073/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/miyazaki/3073/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "30 March - 5 April, 2026",
+    "tournamentStartDate": "2026-03-30",
+    "tournamentEndDate": "2026-04-05",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-03-30",
+    "endDate": "2026-04-05"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Alec Deckers"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Axel Nefve"
+    },
+    {
+      "id": "",
+      "name": "Blake Ellis"
+    },
+    {
+      "id": "",
+      "name": "Braden Shick"
+    },
+    {
+      "id": "",
+      "name": "Carl Emil Overbeck"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Fajing Sun"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Hayato Matsuoka"
+    },
+    {
+      "id": "",
+      "name": "Hiroki Moriya"
+    },
+    {
+      "id": "",
+      "name": "James Trotter"
+    },
+    {
+      "id": "",
+      "name": "JiSung Nam"
+    },
+    {
+      "id": "",
+      "name": "Justin Boulais"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Karol Filar"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Koki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Kokoro Isomura"
+    },
+    {
+      "id": "",
+      "name": "Li Tu"
+    },
+    {
+      "id": "",
+      "name": "Liam Broady"
+    },
+    {
+      "id": "",
+      "name": "Masamichi Imamura"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Naoki Nakagawa"
+    },
+    {
+      "id": "",
+      "name": "Naoya Honda"
+    },
+    {
+      "id": "",
+      "name": "Ognjen Milic"
+    },
+    {
+      "id": "",
+      "name": "Omar Jasika"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Renta Tokuda"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Ryo Tabata"
+    },
+    {
+      "id": "",
+      "name": "Ryotaro Taguchi"
+    },
+    {
+      "id": "",
+      "name": "Ryuki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Shunsuke Nakagawa"
+    },
+    {
+      "id": "",
+      "name": "Tai Sach"
+    },
+    {
+      "id": "",
+      "name": "Taisei Ichikawa"
+    },
+    {
+      "id": "",
+      "name": "Takaya Ishii"
+    },
+    {
+      "id": "",
+      "name": "Takuya Kumasaka"
+    },
+    {
+      "id": "",
+      "name": "Tsung-Hao Huang"
+    },
+    {
+      "id": "",
+      "name": "Tung-Lin Wu"
+    },
+    {
+      "id": "",
+      "name": "Yi Zhou"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    },
+    {
+      "id": "",
+      "name": "Yuki Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Yusuke Kusuhara"
+    },
+    {
+      "id": "",
+      "name": "Yusuke Takahashi"
+    },
+    {
+      "id": "",
+      "name": "Yuta Kikuchi"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    },
+    {
+      "id": "",
+      "name": "Yuto Oki"
+    }
+  ]
+}

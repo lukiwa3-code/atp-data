@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/thionville/2973/2025/results",
+  "tournament": {
+    "id": "2973",
+    "year": "2025",
+    "name": "Thionville",
+    "location": "",
+    "date": "3-9 Mar, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/thionville/2973/2025/results",
+    "drawsUrl": "/en/scores/archive/thionville/2973/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/thionville/2973/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "3 - 9 March, 2025",
+    "tournamentStartDate": "2025-03-03",
+    "tournamentEndDate": "2025-03-09",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-03",
+    "endDate": "2025-03-09"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Alexander Blockx"
+    },
+    {
+      "id": "",
+      "name": "Alibek Kachmazov"
+    },
+    {
+      "id": "",
+      "name": "Antoine Escoffier"
+    },
+    {
+      "id": "",
+      "name": "Antoine Vincent"
+    },
+    {
+      "id": "",
+      "name": "Arthur Bouquier"
+    },
+    {
+      "id": "",
+      "name": "Aziz Dougaz"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Hassan"
+    },
+    {
+      "id": "",
+      "name": "Borna Coric"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Daniel Masur"
+    },
+    {
+      "id": "",
+      "name": "David Jorda Sanchis"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Egor Gerasimov"
+    },
+    {
+      "id": "",
+      "name": "Emil Ruusuvuori"
+    },
+    {
+      "id": "",
+      "name": "Etienne Donnet"
+    },
+    {
+      "id": "",
+      "name": "Felix Balshaw"
+    },
+    {
+      "id": "",
+      "name": "Florent Bax"
+    },
+    {
+      "id": "",
+      "name": "Florian Broska"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Kaito Uesugi"
+    },
+    {
+      "id": "",
+      "name": "Kris Van Wyk"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Lilian Marmousez"
+    },
+    {
+      "id": "",
+      "name": "Luca Van Assche"
+    },
+    {
+      "id": "",
+      "name": "Lucas Marionneau"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Lukas Pokorny"
+    },
+    {
+      "id": "",
+      "name": "Matisse Bobichon"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Max Hans Rehberg"
+    },
+    {
+      "id": "",
+      "name": "Maxime Cressy"
+    },
+    {
+      "id": "",
+      "name": "Michael Agwi"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Naoya Honda"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Philip Henning"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    }
+  ]
+}

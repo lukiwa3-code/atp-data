@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/saint-tropez/9552/2025/results",
+  "tournament": {
+    "id": "9552",
+    "year": "2025",
+    "name": "Saint-Tropez",
+    "location": "",
+    "date": "15-21 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/saint-tropez/9552/2025/results",
+    "drawsUrl": "/en/scores/archive/saint-tropez/9552/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/saint-tropez/9552/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "15 - 21 September, 2025",
+    "tournamentStartDate": "2025-09-15",
+    "tournamentEndDate": "2025-09-21",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-15",
+    "endDate": "2025-09-21"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "(5/AL)"
+    },
+    {
+      "id": "",
+      "name": "(8/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adrien Gobat"
+    },
+    {
+      "id": "",
+      "name": "Aidan McHugh"
+    },
+    {
+      "id": "",
+      "name": "Alex Molcan"
+    },
+    {
+      "id": "",
+      "name": "Alexey Vatutin"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "Aryan Shah"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Egor Gerasimov"
+    },
+    {
+      "id": "",
+      "name": "Etienne Donnet"
+    },
+    {
+      "id": "",
+      "name": "Felix Corwin"
+    },
+    {
+      "id": "",
+      "name": "Florent Bax"
+    },
+    {
+      "id": "",
+      "name": "Gregoire Barrere"
+    },
+    {
+      "id": "",
+      "name": "Harold Mayot"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Leo Raquillet"
+    },
+    {
+      "id": "",
+      "name": "Louis Tessa"
+    },
+    {
+      "id": "",
+      "name": "Luca Potenza"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Marek Gengel"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Matteo Gigante"
+    },
+    {
+      "id": "",
+      "name": "Maxence Bertimon"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Mikail Alimli"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Moez Echargui"
+    },
+    {
+      "id": "",
+      "name": "Nikolay Vylegzhanin"
+    },
+    {
+      "id": "",
+      "name": "Norbert Gombos"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Robin Catry"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Stuart Parker"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Trey Hilderbrand"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    },
+    {
+      "id": "",
+      "name": "Valentin Vacherot"
+    }
+  ]
+}

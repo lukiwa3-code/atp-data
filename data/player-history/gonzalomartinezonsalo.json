@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "gonzalomartinezonsalo",
+    "name": "Gonzalo Martinez Onsalo",
+    "displayName": "Gonzalo Martinez Onsalo",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 15 March, 2026",
+      "dateIso": "2026-03-15",
+      "tournamentId": "9171",
+      "tournamentYear": "2026",
+      "tournamentName": "VII CHALLENGER COSTA CALIDA REGION DE MURCIA",
+      "tournamentType": "CH",
+      "tournamentDate": "16-22 Mar, 2026",
+      "tournamentStartDate": "2026-03-16",
+      "tournamentEndDate": "2026-03-22",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-2",
+      "matchId": "RES-154B470D24",
+      "reason": null,
+      "playerName": "Gonzalo Martinez Onsalo",
+      "opponentName": "(3/Alt)",
+      "opponentKey": "3alt",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-03-09",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

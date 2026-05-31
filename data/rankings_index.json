@@ -1,8 +1,138 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "source": "data/rankings/singles/*.json",
-  "count": 22,
+  "count": 48,
   "items": [
+    {
+      "rankingDate": "2025-01-13",
+      "count": 2162,
+      "path": "data/rankings/singles/2025-01-13.json"
+    },
+    {
+      "rankingDate": "2025-01-20",
+      "count": 1346,
+      "path": "data/rankings/singles/2025-01-20.json"
+    },
+    {
+      "rankingDate": "2025-01-27",
+      "count": 2162,
+      "path": "data/rankings/singles/2025-01-27.json"
+    },
+    {
+      "rankingDate": "2025-04-28",
+      "count": 1346,
+      "path": "data/rankings/singles/2025-04-28.json"
+    },
+    {
+      "rankingDate": "2025-05-12",
+      "count": 1346,
+      "path": "data/rankings/singles/2025-05-12.json"
+    },
+    {
+      "rankingDate": "2025-05-19",
+      "count": 2131,
+      "path": "data/rankings/singles/2025-05-19.json"
+    },
+    {
+      "rankingDate": "2025-06-09",
+      "count": 2150,
+      "path": "data/rankings/singles/2025-06-09.json"
+    },
+    {
+      "rankingDate": "2025-06-23",
+      "count": 2161,
+      "path": "data/rankings/singles/2025-06-23.json"
+    },
+    {
+      "rankingDate": "2025-06-30",
+      "count": 2164,
+      "path": "data/rankings/singles/2025-06-30.json"
+    },
+    {
+      "rankingDate": "2025-07-28",
+      "count": 2170,
+      "path": "data/rankings/singles/2025-07-28.json"
+    },
+    {
+      "rankingDate": "2025-08-04",
+      "count": 2177,
+      "path": "data/rankings/singles/2025-08-04.json"
+    },
+    {
+      "rankingDate": "2025-08-11",
+      "count": 1346,
+      "path": "data/rankings/singles/2025-08-11.json"
+    },
+    {
+      "rankingDate": "2025-08-18",
+      "count": 2182,
+      "path": "data/rankings/singles/2025-08-18.json"
+    },
+    {
+      "rankingDate": "2025-09-01",
+      "count": 1346,
+      "path": "data/rankings/singles/2025-09-01.json"
+    },
+    {
+      "rankingDate": "2025-09-08",
+      "count": 2184,
+      "path": "data/rankings/singles/2025-09-08.json"
+    },
+    {
+      "rankingDate": "2025-09-15",
+      "count": 2197,
+      "path": "data/rankings/singles/2025-09-15.json"
+    },
+    {
+      "rankingDate": "2025-09-22",
+      "count": 2188,
+      "path": "data/rankings/singles/2025-09-22.json"
+    },
+    {
+      "rankingDate": "2025-09-29",
+      "count": 2176,
+      "path": "data/rankings/singles/2025-09-29.json"
+    },
+    {
+      "rankingDate": "2025-10-06",
+      "count": 1346,
+      "path": "data/rankings/singles/2025-10-06.json"
+    },
+    {
+      "rankingDate": "2025-10-13",
+      "count": 2185,
+      "path": "data/rankings/singles/2025-10-13.json"
+    },
+    {
+      "rankingDate": "2025-10-20",
+      "count": 2187,
+      "path": "data/rankings/singles/2025-10-20.json"
+    },
+    {
+      "rankingDate": "2025-10-27",
+      "count": 2174,
+      "path": "data/rankings/singles/2025-10-27.json"
+    },
+    {
+      "rankingDate": "2025-11-03",
+      "count": 2174,
+      "path": "data/rankings/singles/2025-11-03.json"
+    },
+    {
+      "rankingDate": "2025-11-10",
+      "count": 2178,
+      "path": "data/rankings/singles/2025-11-10.json"
+    },
+    {
+      "rankingDate": "2025-11-17",
+      "count": 2189,
+      "path": "data/rankings/singles/2025-11-17.json"
+    },
+    {
+      "rankingDate": "2025-11-24",
+      "count": 2188,
+      "path": "data/rankings/singles/2025-11-24.json"
+    },
     {
       "rankingDate": "2025-12-29",
       "count": 2222,

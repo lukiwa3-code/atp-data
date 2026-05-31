@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/cesenatico/3061/2026/results",
+  "tournament": {
+    "id": "3061",
+    "year": "2026",
+    "name": "Start Romagna Cup -1° Trofeo Città di Cesenatico",
+    "location": "",
+    "date": "2-8 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/cesenatico/3061/2026/results",
+    "drawsUrl": "/en/scores/archive/cesenatico/3061/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/cesenatico/3061/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "2 - 8 February, 2026",
+    "tournamentStartDate": "2026-02-02",
+    "tournamentEndDate": "2026-02-08",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-02",
+    "endDate": "2026-02-08"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(10/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Alessio Balestrieri"
+    },
+    {
+      "id": "",
+      "name": "Alex Martinez"
+    },
+    {
+      "id": "",
+      "name": "Andrea Guerrieri"
+    },
+    {
+      "id": "",
+      "name": "Andrea Valli"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Carlo Alberto Caniato"
+    },
+    {
+      "id": "",
+      "name": "Charles Broom"
+    },
+    {
+      "id": "",
+      "name": "Cyril Vandermeersch"
+    },
+    {
+      "id": "",
+      "name": "Daniel Bagnolini"
+    },
+    {
+      "id": "",
+      "name": "David Poljak"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Fausto Tabacco"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Federico Bondioli"
+    },
+    {
+      "id": "",
+      "name": "Federico Iannaccone"
+    },
+    {
+      "id": "",
+      "name": "Filippo Romano"
+    },
+    {
+      "id": "",
+      "name": "Francesco Forti"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Bosio"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Crivellaro"
+    },
+    {
+      "id": "",
+      "name": "Giacomo Crisostomo"
+    },
+    {
+      "id": "",
+      "name": "Gianmarco Ferrari"
+    },
+    {
+      "id": "",
+      "name": "Giorgio Ricca"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Fonio"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Oradini"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Bilardo"
+    },
+    {
+      "id": "",
+      "name": "Josip Simundza"
+    },
+    {
+      "id": "",
+      "name": "Kasra Rahmani"
+    },
+    {
+      "id": "",
+      "name": "Kilian Feldbausch"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Angelini"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Rottoli"
+    },
+    {
+      "id": "",
+      "name": "Luca Castagnola"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michele Mecarelli"
+    },
+    {
+      "id": "",
+      "name": "Mick Veldheer"
+    },
+    {
+      "id": "",
+      "name": "Niels Visker"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Pierluigi Basile"
+    },
+    {
+      "id": "",
+      "name": "Pietro Fellin"
+    },
+    {
+      "id": "",
+      "name": "Pietro Ricci"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Sandro Kopp"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Sorger"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Svyatoslav Gulin"
+    }
+  ]
+}

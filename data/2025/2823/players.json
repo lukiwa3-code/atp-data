@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/valencia/2823/2025/results",
+  "tournament": {
+    "id": "2823",
+    "year": "2025",
+    "name": "Valencia",
+    "location": "",
+    "date": "6-12 Oct, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/valencia/2823/2025/results",
+    "drawsUrl": "/en/scores/archive/valencia/2823/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/valencia/2823/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "6 - 12 October, 2025",
+    "tournamentStartDate": "2025-10-06",
+    "tournamentEndDate": "2025-10-12",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-06",
+    "endDate": "2025-10-12"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/AL)"
+    },
+    {
+      "id": "",
+      "name": "(3/AL)"
+    },
+    {
+      "id": "",
+      "name": "Albert Ramos-Vinolas"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alex Marti Pujolras"
+    },
+    {
+      "id": "",
+      "name": "Alexander Ritschard"
+    },
+    {
+      "id": "",
+      "name": "Andrej Nedic"
+    },
+    {
+      "id": "",
+      "name": "Andres Santamarta Roig"
+    },
+    {
+      "id": "",
+      "name": "Bernabe Zapata Miralles"
+    },
+    {
+      "id": "",
+      "name": "Carlos Lopez Montagud"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Cezar Cretu"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Elmer Moller"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Parisca Romera"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Javier Barranco Cosano"
+    },
+    {
+      "id": "",
+      "name": "Jonas Forejtek"
+    },
+    {
+      "id": "",
+      "name": "Luka Mikrut"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Miguel Damas"
+    },
+    {
+      "id": "",
+      "name": "Nerman Fatic"
+    },
+    {
+      "id": "",
+      "name": "Oleksii Krutykh"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Pedro Martinez"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "Rudolf Molleker"
+    },
+    {
+      "id": "",
+      "name": "Ryan Nijboer"
+    },
+    {
+      "id": "",
+      "name": "Sergi Fita Juan"
+    },
+    {
+      "id": "",
+      "name": "Sergio Planella Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Sumit Nagal"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

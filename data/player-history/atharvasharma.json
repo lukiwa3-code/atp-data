@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "atharvasharma",
+    "name": "Atharva Sharma",
+    "displayName": "Atharva Sharma",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 08 February, 2026",
+      "dateIso": "2026-02-08",
+      "tournamentId": "7849",
+      "tournamentYear": "2026",
+      "tournamentName": "Coromandel Chennai Open",
+      "tournamentType": "CH",
+      "tournamentDate": "9-15 Feb, 2026",
+      "tournamentStartDate": "2026-02-09",
+      "tournamentEndDate": "2026-02-15",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 4-6 6-1",
+      "matchId": "RES-A44ACEBD40",
+      "reason": null,
+      "playerName": "Atharva Sharma",
+      "opponentName": "Adil Kalyanpur",
+      "opponentKey": "adilkalyanpur",
+      "result": "L",
+      "playerRank": 2222,
+      "opponentRank": 1359,
+      "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

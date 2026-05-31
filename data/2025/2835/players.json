@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/piracicaba/2835/2025/results",
+  "tournament": {
+    "id": "2835",
+    "year": "2025",
+    "name": "Piracicaba",
+    "location": "",
+    "date": "27 Jan - 2 Feb, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/piracicaba/2835/2025/results",
+    "drawsUrl": "/en/scores/archive/piracicaba/2835/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/piracicaba/2835/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "27 January - 2 February, 2025",
+    "tournamentStartDate": "2025-01-27",
+    "tournamentEndDate": "2025-02-02",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-01-27",
+    "endDate": "2025-02-02"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alex Marti Pujolras"
+    },
+    {
+      "id": "",
+      "name": "Andrea Collarini"
+    },
+    {
+      "id": "",
+      "name": "Andrea Pellegrino"
+    },
+    {
+      "id": "",
+      "name": "Bruno Kuzuhara"
+    },
+    {
+      "id": "",
+      "name": "Camilo Ugo Carabelli"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Daniel Dutra da Silva"
+    },
+    {
+      "id": "",
+      "name": "Daniel Elahi Galan"
+    },
+    {
+      "id": "",
+      "name": "Emilio Nava"
+    },
+    {
+      "id": "",
+      "name": "Enzo Camargo Lima"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Federico Coria"
+    },
+    {
+      "id": "",
+      "name": "Felipe Meligeni Alves"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Debru"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Roveri Sidney"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Villanueva"
+    },
+    {
+      "id": "",
+      "name": "Gustavo Heide"
+    },
+    {
+      "id": "",
+      "name": "Hugo Dellien"
+    },
+    {
+      "id": "",
+      "name": "Igor Gimenez"
+    },
+    {
+      "id": "",
+      "name": "Joao Lucas Reis Da Silva"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Juan Bautista Otegui"
+    },
+    {
+      "id": "",
+      "name": "Juan Bautista Torres"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Prado Angelo"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Lautaro Midon"
+    },
+    {
+      "id": "",
+      "name": "Leonardo Aboian"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Mariano Kestelboim"
+    },
+    {
+      "id": "",
+      "name": "Mateus Alves"
+    },
+    {
+      "id": "",
+      "name": "Max Houkes"
+    },
+    {
+      "id": "",
+      "name": "Maxime Chazal"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Sanchez Izquierdo"
+    },
+    {
+      "id": "",
+      "name": "Orlando Luz"
+    },
+    {
+      "id": "",
+      "name": "Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Pedro Boscardin Dias"
+    },
+    {
+      "id": "",
+      "name": "Pedro Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Renzo Olivo"
+    },
+    {
+      "id": "",
+      "name": "Roman Andres Burruchaga"
+    },
+    {
+      "id": "",
+      "name": "Ryan Augusto Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Stephan Noale"
+    },
+    {
+      "id": "",
+      "name": "Valerio Aboian"
+    },
+    {
+      "id": "",
+      "name": "Victor Hugo Remondy Pagotto"
+    },
+    {
+      "id": "",
+      "name": "Wilson Leite"
+    }
+  ]
+}

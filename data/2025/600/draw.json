@@ -1,0 +1,806 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/prague/600/2025/draws",
+  "tournament": {
+    "id": "600",
+    "year": "2025",
+    "name": "Prague",
+    "location": "",
+    "date": "5-11 May, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/prague/600/2025/results",
+    "drawsUrl": "/en/scores/archive/prague/600/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/prague/600/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "5 - 11 May, 2025",
+    "tournamentStartDate": "2025-05-05",
+    "tournamentEndDate": "2025-05-11",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-05-05",
+    "endDate": "2025-05-11"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "F. Misolic",
+          "player1FullName": "Filip Misolic",
+          "player1Id": "M0JZ",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "G. Den Ouden",
+          "player2FullName": "Guy Den Ouden",
+          "player2Id": "D0H9",
+          "player2Country": "NED",
+          "player2ScoreTokens": [
+            "4",
+            "0"
+          ],
+          "winnerName": "Filip Misolic",
+          "formattedScore": "6-4 6-0"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "L. Klein",
+          "player1FullName": "Lukas Klein",
+          "player1Id": "KI63",
+          "player1Country": "SVK",
+          "player1ScoreTokens": [
+            "6 4",
+            "2"
+          ],
+          "player2": "F. Misolic",
+          "player2FullName": "Filip Misolic",
+          "player2Id": "M0JZ",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Filip Misolic",
+          "formattedScore": "7-6(4) 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "G. Den Ouden",
+          "player1FullName": "Guy Den Ouden",
+          "player1Id": "D0H9",
+          "player1Country": "NED",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "M. Landaluce",
+          "player2FullName": "Martin Landaluce",
+          "player2Id": "L0IL",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "0",
+            "6 5"
+          ],
+          "winnerName": "Guy Den Ouden",
+          "formattedScore": "6-0 7-6(5)"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Chazal",
+          "player1FullName": "Maxime Chazal",
+          "player1Id": "CD00",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6 4",
+            "3"
+          ],
+          "player2": "L. Klein",
+          "player2FullName": "Lukas Klein",
+          "player2Id": "KI63",
+          "player2Country": "SVK",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Lukas Klein",
+          "formattedScore": "7-6(4) 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Rottgering",
+          "player1FullName": "Mees Rottgering",
+          "player1Id": "R0KD",
+          "player1Country": "NED",
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "player2": "F. Misolic",
+          "player2FullName": "Filip Misolic",
+          "player2Id": "M0JZ",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Filip Misolic",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "G. Den Ouden",
+          "player1FullName": "Guy Den Ouden",
+          "player1Id": "D0H9",
+          "player1Country": "NED",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "player2": "A. Blockx",
+          "player2FullName": "Alexander Blockx",
+          "player2Id": "B0PG",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "1"
+          ],
+          "winnerName": "Guy Den Ouden",
+          "formattedScore": "3-6 6-4 6-1"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "N. Budkov Kjaer",
+          "player1FullName": "Nicolai Budkov Kjaer",
+          "player1Id": "B0U4",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "player2": "M. Landaluce",
+          "player2FullName": "Martin Landaluce",
+          "player2Id": "L0IL",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Martin Landaluce",
+          "formattedScore": "6-4 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "P. Brunclik",
+          "player1FullName": "Petr Brunclik",
+          "player1Id": "B0OV",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "player2": "M. Chazal",
+          "player2FullName": "Maxime Chazal",
+          "player2Id": "CD00",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Maxime Chazal",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "L. Klein",
+          "player1FullName": "Lukas Klein",
+          "player1Id": "KI63",
+          "player1Country": "SVK",
+          "player1ScoreTokens": [],
+          "player2": "M. Kukushkin",
+          "player2FullName": "Mikhail Kukushkin",
+          "player2Id": "K926",
+          "player2Country": "KAZ",
+          "player2ScoreTokens": [],
+          "winnerName": "Lukas Klein",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "S. Gueymard Wayenburg",
+          "player1FullName": "Sascha Gueymard Wayenburg",
+          "player1Id": "G0GW",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "player2": "M. Rottgering",
+          "player2FullName": "Mees Rottgering",
+          "player2Id": "R0KD",
+          "player2Country": "NED",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Mees Rottgering",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "F. Misolic",
+          "player1FullName": "Filip Misolic",
+          "player1Id": "M0JZ",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "N. Basilashvili",
+          "player2FullName": "Nikoloz Basilashvili",
+          "player2Id": "BG23",
+          "player2Country": "GEO",
+          "player2ScoreTokens": [
+            "0",
+            "5"
+          ],
+          "winnerName": "Filip Misolic",
+          "formattedScore": "6-0 7-5"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Den Ouden",
+          "player1FullName": "Guy Den Ouden",
+          "player1Id": "D0H9",
+          "player1Country": "NED",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "H. Barton",
+          "player2FullName": "Hynek Barton",
+          "player2Id": "B0OU",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "winnerName": "Guy Den Ouden",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Choinski",
+          "player1FullName": "Jan Choinski",
+          "player1Id": "CH12",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "2",
+            "6 1"
+          ],
+          "player2": "A. Blockx",
+          "player2FullName": "Alexander Blockx",
+          "player2Id": "B0PG",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "7"
+          ],
+          "winnerName": "Alexander Blockx",
+          "formattedScore": "4-6 6-2 7-6(1)"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "N. Budkov Kjaer",
+          "player1FullName": "Nicolai Budkov Kjaer",
+          "player1Id": "B0U4",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "C. Hemery",
+          "player2FullName": "Calvin Hemery",
+          "player2Id": "HB48",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "winnerName": "Nicolai Budkov Kjaer",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Evans",
+          "player1FullName": "Daniel Evans",
+          "player1Id": "E687",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "M. Landaluce",
+          "player2FullName": "Martin Landaluce",
+          "player2Id": "L0IL",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Martin Landaluce",
+          "formattedScore": "6-3 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Mochizuki",
+          "player1FullName": "Shintaro Mochizuki",
+          "player1Id": "M0HU",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "2"
+          ],
+          "player2": "P. Brunclik",
+          "player2FullName": "Petr Brunclik",
+          "player2Id": "B0OV",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "winnerName": "Petr Brunclik",
+          "formattedScore": "6-3 4-6 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Chazal",
+          "player1FullName": "Maxime Chazal",
+          "player1Id": "CD00",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "7"
+          ],
+          "player2": "B. Zhukayev",
+          "player2FullName": "Beibit Zhukayev",
+          "player2Id": "Z09Z",
+          "player2Country": "KAZ",
+          "player2ScoreTokens": [
+            "6",
+            "5",
+            "5"
+          ],
+          "winnerName": "Maxime Chazal",
+          "formattedScore": "4-6 7-5 7-5"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Holmgren",
+          "player1FullName": "August Holmgren",
+          "player1Id": "H09N",
+          "player1Country": "DEN",
+          "player1ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "player2": "L. Klein",
+          "player2FullName": "Lukas Klein",
+          "player2Id": "KI63",
+          "player2Country": "SVK",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Lukas Klein",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Mrva",
+          "player1FullName": "Maxim Mrva",
+          "player1Id": "M0SE",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "0",
+            "7",
+            "4"
+          ],
+          "player2": "M. Kukushkin",
+          "player2FullName": "Mikhail Kukushkin",
+          "player2Id": "K926",
+          "player2Country": "KAZ",
+          "player2ScoreTokens": [
+            "6",
+            "5",
+            "6"
+          ],
+          "winnerName": "Mikhail Kukushkin",
+          "formattedScore": "6-0 5-7 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Popko",
+          "player1FullName": "Dmitry Popko",
+          "player1Id": "PG20",
+          "player1Country": "KAZ",
+          "player1ScoreTokens": [
+            "6 3",
+            "6",
+            "2"
+          ],
+          "player2": "S. Gueymard Wayenburg",
+          "player2FullName": "Sascha Gueymard Wayenburg",
+          "player2Id": "G0GW",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "7",
+            "4",
+            "6"
+          ],
+          "winnerName": "Sascha Gueymard Wayenburg",
+          "formattedScore": "7-6(3) 4-6 6-2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Rottgering",
+          "player1FullName": "Mees Rottgering",
+          "player1Id": "R0KD",
+          "player1Country": "NED",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "D. Rincon",
+          "player2FullName": "Daniel Rincon",
+          "player2Id": "R0FP",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "4",
+            "6 5"
+          ],
+          "winnerName": "Mees Rottgering",
+          "formattedScore": "6-4 7-6(5)"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Kumstat",
+          "player1FullName": "Jan Kumstat",
+          "player1Id": "K0JH",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "player2": "F. Misolic",
+          "player2FullName": "Filip Misolic",
+          "player2Id": "M0JZ",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Filip Misolic",
+          "formattedScore": "6-4 7-5"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Cornut-Chauvinc",
+          "player1FullName": "Antoine Cornut Chauvinc",
+          "player1Id": "C0AZ",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "2",
+            "6",
+            "4"
+          ],
+          "player2": "N. Basilashvili",
+          "player2FullName": "Nikoloz Basilashvili",
+          "player2Id": "BG23",
+          "player2Country": "GEO",
+          "player2ScoreTokens": [
+            "6",
+            "1",
+            "6"
+          ],
+          "winnerName": "Nikoloz Basilashvili",
+          "formattedScore": "6-2 1-6 6-4"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Nagal",
+          "player1FullName": "Sumit Nagal",
+          "player1Id": "N897",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "1",
+            "1"
+          ],
+          "player2": "G. Den Ouden",
+          "player2FullName": "Guy Den Ouden",
+          "player2Id": "D0H9",
+          "player2Country": "NED",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Guy Den Ouden",
+          "formattedScore": "6-1 6-1"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Barton",
+          "player1FullName": "Hynek Barton",
+          "player1Id": "B0OU",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "player2": "L. Neumayer",
+          "player2FullName": "Lukas Neumayer",
+          "player2Id": "N0CS",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "6",
+            "1",
+            "2"
+          ],
+          "winnerName": "Hynek Barton",
+          "formattedScore": "4-6 6-1 6-2"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Choinski",
+          "player1FullName": "Jan Choinski",
+          "player1Id": "CH12",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "H. Rocha",
+          "player2FullName": "Henrique Rocha",
+          "player2Id": "R0GO",
+          "player2Country": "POR",
+          "player2ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "winnerName": "Jan Choinski",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Habib",
+          "player1FullName": "Hady Habib",
+          "player1Id": "HF80",
+          "player1Country": "LBN",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "A. Blockx",
+          "player2FullName": "Alexander Blockx",
+          "player2Id": "B0PG",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Alexander Blockx",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Moro Canas",
+          "player1FullName": "Alejandro Moro Canas",
+          "player1Id": "M0HT",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "5",
+            "1"
+          ],
+          "player2": "N. Budkov Kjaer",
+          "player2FullName": "Nicolai Budkov Kjaer",
+          "player2Id": "B0U4",
+          "player2Country": "NOR",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Nicolai Budkov Kjaer",
+          "formattedScore": "7-5 6-1"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "V. Sachko",
+          "player1FullName": "Vitaliy Sachko",
+          "player1Id": "SS25",
+          "player1Country": "UKR",
+          "player1ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "player2": "C. Hemery",
+          "player2FullName": "Calvin Hemery",
+          "player2Id": "HB48",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Calvin Hemery",
+          "formattedScore": "6-4 7-5"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Harris",
+          "player1FullName": "Lloyd Harris",
+          "player1Id": "HG86",
+          "player1Country": "RSA",
+          "player1ScoreTokens": [
+            "1",
+            "5"
+          ],
+          "player2": "D. Evans",
+          "player2FullName": "Daniel Evans",
+          "player2Id": "E687",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Daniel Evans",
+          "formattedScore": "6-1 7-5"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Rodionov",
+          "player1FullName": "Jurij Rodionov",
+          "player1Id": "R09X",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "7",
+            "2",
+            "5"
+          ],
+          "player2": "M. Landaluce",
+          "player2FullName": "Martin Landaluce",
+          "player2Id": "L0IL",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "7"
+          ],
+          "winnerName": "Martin Landaluce",
+          "formattedScore": "5-7 6-2 7-5"
+        }
+      ]
+    }
+  ]
+}

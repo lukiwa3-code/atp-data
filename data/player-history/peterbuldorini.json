@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "peterbuldorini",
+    "name": "Peter Buldorini",
+    "displayName": "Peter Buldorini",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9635",
+      "tournamentYear": "2025",
+      "tournamentName": "Manama",
+      "tournamentType": "CH",
+      "tournamentDate": "10-15 Feb, 2025",
+      "tournamentStartDate": "2025-02-10",
+      "tournamentEndDate": "2025-02-15",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-3",
+      "matchId": "RES-039C2B2266",
+      "reason": null,
+      "playerName": "Peter Buldorini",
+      "opponentName": "Vitaliy Sachko",
+      "opponentKey": "vitaliysachko",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

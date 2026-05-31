@@ -1,0 +1,818 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/mouilleron-le-captif/6857/2025/draws",
+  "tournament": {
+    "id": "6857",
+    "year": "2025",
+    "name": "Mouilleron le Captif",
+    "location": "",
+    "date": "29 Sep - 5 Oct, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/mouilleron-le-captif/6857/2025/results",
+    "drawsUrl": "/en/scores/archive/mouilleron-le-captif/6857/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/mouilleron-le-captif/6857/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "29 September - 5 October, 2025",
+    "tournamentStartDate": "2025-09-29",
+    "tournamentEndDate": "2025-10-05",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-29",
+    "endDate": "2025-10-05"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "P. Kypson",
+          "player1FullName": "Patrick Kypson",
+          "player1Id": "K0A3",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "0",
+            "3"
+          ],
+          "player2": "N. Budkov Kjaer",
+          "player2FullName": "Nicolai Budkov Kjaer",
+          "player2Id": "B0U4",
+          "player2Country": "NOR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Nicolai Budkov Kjaer",
+          "formattedScore": "6-0 6-3"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "1",
+            "7",
+            "5"
+          ],
+          "player2": "P. Kypson",
+          "player2FullName": "Patrick Kypson",
+          "player2Id": "K0A3",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6 2",
+            "7"
+          ],
+          "winnerName": "Patrick Kypson",
+          "formattedScore": "6-1 6-7(2) 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "N. Budkov Kjaer",
+          "player1FullName": "Nicolai Budkov Kjaer",
+          "player1Id": "B0U4",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "player2": "C. Chidekh",
+          "player2FullName": "Clement Chidekh",
+          "player2Id": "C0BH",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "1",
+            "6",
+            "2"
+          ],
+          "winnerName": "Nicolai Budkov Kjaer",
+          "formattedScore": "6-1 4-6 6-2"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "7"
+          ],
+          "player2": "A. Fery",
+          "player2FullName": "Arthur Fery",
+          "player2Id": "F0DM",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "7",
+            "2",
+            "6 4"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "5-7 6-2 7-6(4)"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "E. Ruusuvuori",
+          "player1FullName": "Emil Ruusuvuori",
+          "player1Id": "RH24",
+          "player1Country": "FIN",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "player2": "P. Kypson",
+          "player2FullName": "Patrick Kypson",
+          "player2Id": "K0A3",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "6"
+          ],
+          "winnerName": "Patrick Kypson",
+          "formattedScore": "2-6 6-4 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "N. Budkov Kjaer",
+          "player1FullName": "Nicolai Budkov Kjaer",
+          "player1Id": "B0U4",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "F. Passaro",
+          "player2FullName": "Francesco Passaro",
+          "player2Id": "P0CT",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Nicolai Budkov Kjaer",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Kukushkin",
+          "player1FullName": "Mikhail Kukushkin",
+          "player1Id": "K926",
+          "player1Country": "KAZ",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "2"
+          ],
+          "player2": "C. Chidekh",
+          "player2FullName": "Clement Chidekh",
+          "player2Id": "C0BH",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6 4",
+            "6",
+            "6"
+          ],
+          "winnerName": "Clement Chidekh",
+          "formattedScore": "6-7(4) 6-3 6-2"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Parker",
+          "player2FullName": "Stuart Parker",
+          "player2Id": "P0BK",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Fery",
+          "player1FullName": "Arthur Fery",
+          "player1Id": "F0DM",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "3"
+          ],
+          "player2": "G. Blancaneaux",
+          "player2FullName": "Geoffrey Blancaneaux",
+          "player2Id": "BU54",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "2",
+            "1"
+          ],
+          "winnerName": "Arthur Fery",
+          "formattedScore": "6 3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Blockx",
+          "player1FullName": "Alexander Blockx",
+          "player1Id": "B0PG",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "7",
+            "6 8",
+            "2"
+          ],
+          "player2": "E. Ruusuvuori",
+          "player2FullName": "Emil Ruusuvuori",
+          "player2Id": "RH24",
+          "player2Country": "FIN",
+          "player2ScoreTokens": [
+            "5",
+            "7",
+            "6"
+          ],
+          "winnerName": "Emil Ruusuvuori",
+          "formattedScore": "5-7 7-6(8) 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "P. Kypson",
+          "player1FullName": "Patrick Kypson",
+          "player1Id": "K0A3",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "P. Herbert",
+          "player2FullName": "Pierre Hugues Herbert",
+          "player2Id": "H996",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "winnerName": "Patrick Kypson",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "N. Budkov Kjaer",
+          "player1FullName": "Nicolai Budkov Kjaer",
+          "player1Id": "B0U4",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "L. Massard",
+          "player2FullName": "Loann Massard",
+          "player2Id": "M0QK",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "winnerName": "Nicolai Budkov Kjaer",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Strombachs",
+          "player1FullName": "Robert Strombachs",
+          "player1Id": "S0GV",
+          "player1Country": "LAT",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "6 0"
+          ],
+          "player2": "F. Passaro",
+          "player2FullName": "Francesco Passaro",
+          "player2Id": "P0CT",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "7"
+          ],
+          "winnerName": "Francesco Passaro",
+          "formattedScore": "5-7 6-3 7-6(0)"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Rottgering",
+          "player1FullName": "Mees Rottgering",
+          "player1Id": "R0KD",
+          "player1Country": "NED",
+          "player1ScoreTokens": [
+            "2",
+            "7",
+            "2"
+          ],
+          "player2": "M. Kukushkin",
+          "player2FullName": "Mikhail Kukushkin",
+          "player2Id": "K926",
+          "player2Country": "KAZ",
+          "player2ScoreTokens": [
+            "6",
+            "6 4",
+            "6"
+          ],
+          "winnerName": "Mikhail Kukushkin",
+          "formattedScore": "6-2 6-7(4) 6-2"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Martineau",
+          "player1FullName": "Matteo Martineau",
+          "player1Id": "MW76",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6 5",
+            "3"
+          ],
+          "player2": "C. Chidekh",
+          "player2FullName": "Clement Chidekh",
+          "player2Id": "C0BH",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Clement Chidekh",
+          "formattedScore": "7-6(5) 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "J. Sels",
+          "player2FullName": "Jelle Sels",
+          "player2Id": "SO20",
+          "player2Country": "NED",
+          "player2ScoreTokens": [
+            "6 4",
+            "1"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "7-6(4) 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Poullain",
+          "player1FullName": "Lucas Poullain",
+          "player1Id": "PJ74",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "player2": "S. Parker",
+          "player2FullName": "Stuart Parker",
+          "player2Id": "P0BK",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Stuart Parker",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Stewart",
+          "player1FullName": "Hamish Stewart",
+          "player1Id": "S0EX",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "A. Fery",
+          "player2FullName": "Arthur Fery",
+          "player2Id": "F0DM",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Arthur Fery",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "G. Blancaneaux",
+          "player1FullName": "Geoffrey Blancaneaux",
+          "player1Id": "BU54",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "player2": "R. Bertola",
+          "player2FullName": "Remy Bertola",
+          "player2Id": "BU70",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "2"
+          ],
+          "winnerName": "Geoffrey Blancaneaux",
+          "formattedScore": "3-6 6-3 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Blockx",
+          "player1FullName": "Alexander Blockx",
+          "player1Id": "B0PG",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Bouquier",
+          "player2FullName": "Arthur Bouquier",
+          "player2Id": "B0ER",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Alexander Blockx",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Stricker",
+          "player1FullName": "Dominic Stricker",
+          "player1Id": "S0LA",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "4"
+          ],
+          "player2": "E. Ruusuvuori",
+          "player2FullName": "Emil Ruusuvuori",
+          "player2Id": "RH24",
+          "player2Country": "FIN",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "6"
+          ],
+          "winnerName": "Emil Ruusuvuori",
+          "formattedScore": "2-6 6-3 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Hemery",
+          "player1FullName": "Calvin Hemery",
+          "player1Id": "HB48",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "player2": "P. Kypson",
+          "player2FullName": "Patrick Kypson",
+          "player2Id": "K0A3",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Patrick Kypson",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Searle",
+          "player1FullName": "Henry Searle",
+          "player1Id": "S0TX",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "4",
+            "1"
+          ],
+          "player2": "P. Herbert",
+          "player2FullName": "Pierre Hugues Herbert",
+          "player2Id": "H996",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Pierre Hugues Herbert",
+          "formattedScore": "6-4 6-1"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "N. Budkov Kjaer",
+          "player1FullName": "Nicolai Budkov Kjaer",
+          "player1Id": "B0U4",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "N. Vylegzhanin",
+          "player2FullName": "Nikolay Vylegzhanin",
+          "player2Id": "V0BD",
+          "player2Country": "RUS",
+          "player2ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "winnerName": "Nicolai Budkov Kjaer",
+          "formattedScore": "6-1 6-3"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Kaouk",
+          "player1FullName": "Mickael Kaouk",
+          "player1Id": "K0NT",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "player2": "L. Massard",
+          "player2FullName": "Loann Massard",
+          "player2Id": "M0QK",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Loann Massard",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "F. Cina",
+          "player1FullName": "Federico Cina",
+          "player1Id": "C0NB",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6 6",
+            "4"
+          ],
+          "player2": "R. Strombachs",
+          "player2FullName": "Robert Strombachs",
+          "player2Id": "S0GV",
+          "player2Country": "LAT",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Robert Strombachs",
+          "formattedScore": "7-6(6) 6-4"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Rodesch",
+          "player1FullName": "Chris Rodesch",
+          "player1Id": "R0E0",
+          "player1Country": "LUX",
+          "player1ScoreTokens": [
+            "3",
+            "6 6"
+          ],
+          "player2": "F. Passaro",
+          "player2FullName": "Francesco Passaro",
+          "player2Id": "P0CT",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Francesco Passaro",
+          "formattedScore": "6-3 7-6(6)"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Galarneau",
+          "player1FullName": "Alexis Galarneau",
+          "player1Id": "GK06",
+          "player1Country": "CAN",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "3"
+          ],
+          "player2": "M. Rottgering",
+          "player2FullName": "Mees Rottgering",
+          "player2Id": "R0KD",
+          "player2Country": "NED",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "winnerName": "Mees Rottgering",
+          "formattedScore": "6-3 4-6 6-3"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Gueymard Wayenburg",
+          "player1FullName": "Sascha Gueymard Wayenburg",
+          "player1Id": "G0GW",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "5",
+            "0"
+          ],
+          "player2": "M. Kukushkin",
+          "player2FullName": "Mikhail Kukushkin",
+          "player2Id": "K926",
+          "player2Country": "KAZ",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Mikhail Kukushkin",
+          "formattedScore": "7-5 6-0"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Zahraj",
+          "player1FullName": "Patrick Zahraj",
+          "player1Id": "Z09F",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "player2": "M. Martineau",
+          "player2FullName": "Matteo Martineau",
+          "player2Id": "MW76",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Matteo Martineau",
+          "formattedScore": "7-5 6-4"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Chidekh",
+          "player1FullName": "Clement Chidekh",
+          "player1Id": "C0BH",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "6"
+          ],
+          "player2": "H. Gaston",
+          "player2FullName": "Hugo Gaston",
+          "player2Id": "G09O",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "4"
+          ],
+          "winnerName": "Clement Chidekh",
+          "formattedScore": "7-5 3-6 6-4"
+        }
+      ]
+    }
+  ]
+}

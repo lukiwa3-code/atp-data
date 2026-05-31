@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "tugraduran",
+    "name": "Tugra Duran",
+    "displayName": "Tugra Duran",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 17 May, 2026",
+      "dateIso": "2026-05-17",
+      "tournamentId": "3105",
+      "tournamentYear": "2026",
+      "tournamentName": "Bosphorus Challenger Cup",
+      "tournamentType": "CH",
+      "tournamentDate": "18-23 May, 2026",
+      "tournamentStartDate": "2026-05-18",
+      "tournamentEndDate": "2026-05-23",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 6-2",
+      "matchId": "RES-0180EDD473",
+      "reason": null,
+      "playerName": "Tugra Duran",
+      "opponentName": "Reda Bennani",
+      "opponentKey": "redabennani",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 524,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/francavilla-al-mare/7707/2025/results",
+  "tournament": {
+    "id": "7707",
+    "year": "2025",
+    "name": "Francavilla al Mare",
+    "location": "",
+    "date": "5-11 May, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/francavilla-al-mare/7707/2025/results",
+    "drawsUrl": "/en/scores/archive/francavilla-al-mare/7707/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/francavilla-al-mare/7707/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "5 - 11 May, 2025",
+    "tournamentStartDate": "2025-05-05",
+    "tournamentEndDate": "2025-05-11",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-05-05",
+    "endDate": "2025-05-11"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(12/WC)"
+    },
+    {
+      "id": "",
+      "name": "(4/AL)"
+    },
+    {
+      "id": "",
+      "name": "(9/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adil Kalyanpur"
+    },
+    {
+      "id": "",
+      "name": "Alex Marti Pujolras"
+    },
+    {
+      "id": "",
+      "name": "Alexander Donski"
+    },
+    {
+      "id": "",
+      "name": "Alexey Vatutin"
+    },
+    {
+      "id": "",
+      "name": "Andrea Paolini"
+    },
+    {
+      "id": "",
+      "name": "Aslan Karatsev"
+    },
+    {
+      "id": "",
+      "name": "Benoit Paire"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Dominic Stricker"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Francesco Ferrari"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Maria Noce"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Fonio"
+    },
+    {
+      "id": "",
+      "name": "Gregoire Barrere"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Ivan Liutarevich"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jonathan Eysseric"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Kimmer Coppejans"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Carboni"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Lorusso"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Sciahbasi"
+    },
+    {
+      "id": "",
+      "name": "Luca Preda"
+    },
+    {
+      "id": "",
+      "name": "Manas Dhamne"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Massimo Giunta"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Pedro Cachin"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Samuel Vincent Ruggeri"
+    },
+    {
+      "id": "",
+      "name": "Siddhant Banthia"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Valentin Vacherot"
+    }
+  ]
+}

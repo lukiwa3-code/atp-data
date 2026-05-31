@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "lucfomba",
+    "name": "Luc Fomba",
+    "displayName": "Luc Fomba",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 08 March, 2026",
+      "dateIso": "2026-03-08",
+      "tournamentId": "398",
+      "tournamentYear": "2026",
+      "tournamentName": "Challenger Cherbourg La Manche",
+      "tournamentType": "CH",
+      "tournamentDate": "9-15 Mar, 2026",
+      "tournamentStartDate": "2026-03-09",
+      "tournamentEndDate": "2026-03-15",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "3-6 6-1 6-3",
+      "matchId": "RES-CEA678E32E",
+      "reason": null,
+      "playerName": "Luc Fomba",
+      "opponentName": "Alex Knaff",
+      "opponentKey": "alexknaff",
+      "result": "L",
+      "playerRank": 1817,
+      "opponentRank": 644,
+      "rankingDate": "2026-03-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

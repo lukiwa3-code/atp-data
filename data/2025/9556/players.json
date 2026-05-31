@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/tulln/9556/2025/results",
+  "tournament": {
+    "id": "9556",
+    "year": "2025",
+    "name": "Tulln",
+    "location": "",
+    "date": "1-7 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/tulln/9556/2025/results",
+    "drawsUrl": "/en/scores/archive/tulln/9556/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/tulln/9556/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "1 - 7 September, 2025",
+    "tournamentStartDate": "2025-09-01",
+    "tournamentEndDate": "2025-09-07",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-01",
+    "endDate": "2025-09-07"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "(4/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alexander Wagner"
+    },
+    {
+      "id": "",
+      "name": "Andrew Paulson"
+    },
+    {
+      "id": "",
+      "name": "Anton Matusevich"
+    },
+    {
+      "id": "",
+      "name": "Bastian Berenz"
+    },
+    {
+      "id": "",
+      "name": "Benedikt Szerencsits"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "David Poljak"
+    },
+    {
+      "id": "",
+      "name": "Denys Molchanov"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Dominic Stricker"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Gregor Ramskogler"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jakub Nicod"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Jan Jermar"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Jiri Barnat"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Jozef Kovalik"
+    },
+    {
+      "id": "",
+      "name": "Kai Wehnelt"
+    },
+    {
+      "id": "",
+      "name": "Luka Mikrut"
+    },
+    {
+      "id": "",
+      "name": "Lukas Neumayer"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Marko Topo"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Neil Oberleitner"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Piet Luis Pinter"
+    },
+    {
+      "id": "",
+      "name": "Rudolf Molleker"
+    },
+    {
+      "id": "",
+      "name": "Sandro Kopp"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Sorger"
+    },
+    {
+      "id": "",
+      "name": "Sumit Nagal"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

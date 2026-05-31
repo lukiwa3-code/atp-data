@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/cary/7316/2025/results",
+  "tournament": {
+    "id": "7316",
+    "year": "2025",
+    "name": "Cary",
+    "location": "",
+    "date": "30 Jun - 6 Jul, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/cary/7316/2025/results",
+    "drawsUrl": "/en/scores/archive/cary/7316/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/cary/7316/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "30 June - 6 July, 2025",
+    "tournamentStartDate": "2025-06-30",
+    "tournamentEndDate": "2025-07-06",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-30",
+    "endDate": "2025-07-06"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Aidan Mayo"
+    },
+    {
+      "id": "",
+      "name": "Alex Rybakov"
+    },
+    {
+      "id": "",
+      "name": "Alexander Visser"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Braden Shick"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "Hiroki Moriya"
+    },
+    {
+      "id": "",
+      "name": "Hoyoung Roh"
+    },
+    {
+      "id": "",
+      "name": "Hyeon Chung"
+    },
+    {
+      "id": "",
+      "name": "Ian Mayew"
+    },
+    {
+      "id": "",
+      "name": "James Watt"
+    },
+    {
+      "id": "",
+      "name": "Joshua Sheehy"
+    },
+    {
+      "id": "",
+      "name": "Karue Sell"
+    },
+    {
+      "id": "",
+      "name": "Kaylan Bigun"
+    },
+    {
+      "id": "",
+      "name": "Kris Van Wyk"
+    },
+    {
+      "id": "",
+      "name": "Leo Vithoontien"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Masamichi Imamura"
+    },
+    {
+      "id": "",
+      "name": "Michael Zheng"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Naoki Nakagawa"
+    },
+    {
+      "id": "",
+      "name": "Naoki Tajima"
+    },
+    {
+      "id": "",
+      "name": "Nick Chappell"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Ian Kotzen"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Omar Jasika"
+    },
+    {
+      "id": "",
+      "name": "Patrick Kypson"
+    },
+    {
+      "id": "",
+      "name": "Patrick Maloney"
+    },
+    {
+      "id": "",
+      "name": "Philip Sekulic"
+    },
+    {
+      "id": "",
+      "name": "Reece Falck"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Ryuki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Saahith Jayaraman"
+    },
+    {
+      "id": "",
+      "name": "Stefan Dostanic"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    },
+    {
+      "id": "",
+      "name": "Tristan McCormick"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Tung-Lin Wu"
+    },
+    {
+      "id": "",
+      "name": "Will Mayew"
+    },
+    {
+      "id": "",
+      "name": "William Manning"
+    },
+    {
+      "id": "",
+      "name": "Yi Zhou"
+    },
+    {
+      "id": "",
+      "name": "Yibing Wu"
+    }
+  ]
+}

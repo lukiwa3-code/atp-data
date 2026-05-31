@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "L. Sonego",
     "playerId": "SU87"
   },
-  "count": 58,
+  "count": 59,
   "matches": [
     {
       "date": "Wed, 27 May, 2026",
@@ -108,6 +108,31 @@
       "playerRank": 66,
       "opponentRank": 62,
       "rankingDate": "2026-05-04",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Wed, 29 April, 2026",
+      "dateIso": "2026-04-29",
+      "tournamentId": "2861",
+      "tournamentYear": "2026",
+      "tournamentName": "Sardegna Open",
+      "tournamentType": "CH",
+      "tournamentDate": "28 Apr - 3 May, 2026",
+      "tournamentStartDate": "2026-04-28",
+      "tournamentEndDate": "2026-05-03",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 1-6 7-5",
+      "matchId": "RES-2B0800A1B7",
+      "reason": null,
+      "playerName": "Lorenzo Sonego",
+      "opponentName": "Mattia Bellucci",
+      "opponentKey": "mattiabellucci",
+      "result": "L",
+      "playerRank": 70,
+      "opponentRank": 73,
+      "rankingDate": "2026-04-27",
       "rankingNote": "historical_week"
     },
     {
@@ -517,9 +542,9 @@
       "tournamentYear": "2025",
       "tournamentName": "Swiss Indoors Basel",
       "tournamentType": "500",
-      "tournamentDate": "26 October - 1 November, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
+      "tournamentDate": "20-26 Oct, 2025",
+      "tournamentStartDate": "2025-10-20",
+      "tournamentEndDate": "2025-10-26",
       "surface": "Hard",
       "round": "R32",
       "roundLong": "Round of 32",

@@ -21,6 +21,8 @@
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_itf.png",
   "prizeMoney": null,
   "totalFinancialCommitment": null,
+  "circuit": "tour",
+  "circuitLabel": "ATP Tour",
   "dateSource": "results_header_or_calendar",
   "startDate": "2026-02-05",
   "tournamentStartDate": "2026-02-05",

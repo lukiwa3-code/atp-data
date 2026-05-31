@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/istanbul/7083/2025/results",
+  "tournament": {
+    "id": "7083",
+    "year": "2025",
+    "name": "Istanbul",
+    "location": "",
+    "date": "1-7 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/istanbul/7083/2025/results",
+    "drawsUrl": "/en/scores/archive/istanbul/7083/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/istanbul/7083/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "1 - 7 September, 2025",
+    "tournamentStartDate": "2025-09-01",
+    "tournamentEndDate": "2025-09-07",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-01",
+    "endDate": "2025-09-07"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(3/AL)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Alastair Gray"
+    },
+    {
+      "id": "",
+      "name": "Aleksandre Bakshi"
+    },
+    {
+      "id": "",
+      "name": "Alex Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Alex Molcan"
+    },
+    {
+      "id": "",
+      "name": "Alexander Donski"
+    },
+    {
+      "id": "",
+      "name": "Arda Azkara"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Hassan"
+    },
+    {
+      "id": "",
+      "name": "Bora Sengul"
+    },
+    {
+      "id": "",
+      "name": "Cagan Efe Tufekci"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Christian Langmo"
+    },
+    {
+      "id": "",
+      "name": "Connor Thomson"
+    },
+    {
+      "id": "",
+      "name": "Daniel Masur"
+    },
+    {
+      "id": "",
+      "name": "Georgii Kravchenko"
+    },
+    {
+      "id": "",
+      "name": "Gokberk Saritas"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Ivan Nedelko"
+    },
+    {
+      "id": "",
+      "name": "Karan Singh"
+    },
+    {
+      "id": "",
+      "name": "Kaya Arinc"
+    },
+    {
+      "id": "",
+      "name": "Koray Kirci"
+    },
+    {
+      "id": "",
+      "name": "Louis Wessels"
+    },
+    {
+      "id": "",
+      "name": "Luca Castagnola"
+    },
+    {
+      "id": "",
+      "name": "Luca Potenza"
+    },
+    {
+      "id": "",
+      "name": "Lukas Klein"
+    },
+    {
+      "id": "",
+      "name": "Manas Dhamne"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Marek Gengel"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Mert Alkaya"
+    },
+    {
+      "id": "",
+      "name": "Mert Naci Turker"
+    },
+    {
+      "id": "",
+      "name": "Michal Krajci"
+    },
+    {
+      "id": "",
+      "name": "Miguel Tobon"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Moez Echargui"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Norbert Gombos"
+    },
+    {
+      "id": "",
+      "name": "Otto Virtanen"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Peter Makk"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "S Mert Ozdemir"
+    },
+    {
+      "id": "",
+      "name": "Saba Purtseladze"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Zura Tkemaladze"
+    }
+  ]
+}

@@ -21,6 +21,8 @@
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_grandslam.png",
   "prizeMoney": "A$49,171,000",
   "totalFinancialCommitment": "A$49,171,000",
+  "circuit": "tour",
+  "circuitLabel": "ATP Tour",
   "dateSource": "results_header_or_calendar",
   "startDate": "2026-01-18",
   "tournamentStartDate": "2026-01-18",

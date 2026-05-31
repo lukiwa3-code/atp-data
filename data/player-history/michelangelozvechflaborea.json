@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "michelangelozvechflaborea",
+    "name": "Michelangelo Zvech Flaborea",
+    "displayName": "Michelangelo Zvech Flaborea",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9351",
+      "tournamentYear": "2025",
+      "tournamentName": "Trieste",
+      "tournamentType": "CH",
+      "tournamentDate": "7-13 Jul, 2025",
+      "tournamentStartDate": "2025-07-07",
+      "tournamentEndDate": "2025-07-13",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-0 6-0",
+      "matchId": "RES-6F96504901",
+      "reason": null,
+      "playerName": "Michelangelo Zvech Flaborea",
+      "opponentName": "Andrea Collarini",
+      "opponentKey": "andreacollarini",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

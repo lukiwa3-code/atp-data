@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/hersonissos/3017/2025/results",
+  "tournament": {
+    "id": "3017",
+    "year": "2025",
+    "name": "Hersonissos 3",
+    "location": "",
+    "date": "11-16 Aug, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/hersonissos/3017/2025/results",
+    "drawsUrl": "/en/scores/archive/hersonissos/3017/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/hersonissos/3017/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "11 - 16 August, 2025",
+    "tournamentStartDate": "2025-08-11",
+    "tournamentEndDate": "2025-08-16",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-08-11",
+    "endDate": "2025-08-16"
+  },
+  "count": 45,
+  "players": [
+    {
+      "id": "",
+      "name": "Alexander Binda"
+    },
+    {
+      "id": "",
+      "name": "Amit Vales"
+    },
+    {
+      "id": "",
+      "name": "Aoran Wang"
+    },
+    {
+      "id": "",
+      "name": "Aristotelis Thanos"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "Axel Nefve"
+    },
+    {
+      "id": "",
+      "name": "Christian Langmo"
+    },
+    {
+      "id": "",
+      "name": "Christos Antonopoulos"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "David Poljak"
+    },
+    {
+      "id": "",
+      "name": "Dimitris Azoidis"
+    },
+    {
+      "id": "",
+      "name": "Enzo Wallart"
+    },
+    {
+      "id": "",
+      "name": "Filippo Moroni"
+    },
+    {
+      "id": "",
+      "name": "George Loffhagen"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Hazem Naw"
+    },
+    {
+      "id": "",
+      "name": "Ilya Ivashka"
+    },
+    {
+      "id": "",
+      "name": "Ioannis Kountourakis"
+    },
+    {
+      "id": "",
+      "name": "Ioannis Xilas"
+    },
+    {
+      "id": "",
+      "name": "Jie Cui"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Leo Raquillet"
+    },
+    {
+      "id": "",
+      "name": "Luca Castagnola"
+    },
+    {
+      "id": "",
+      "name": "Luca Potenza"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Matas Vasiliauskas"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Mitsuki Wei Kang Leong"
+    },
+    {
+      "id": "",
+      "name": "Oliver Tarvet"
+    },
+    {
+      "id": "",
+      "name": "Orel Kimhi"
+    },
+    {
+      "id": "",
+      "name": "Pavlos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Peter Makk"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Petros Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Pietro Fellin"
+    },
+    {
+      "id": "",
+      "name": "Rafael Jodar"
+    },
+    {
+      "id": "",
+      "name": "Rigele Te"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Stuart Parker"
+    },
+    {
+      "id": "",
+      "name": "Theo Papamalamis"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    },
+    {
+      "id": "",
+      "name": "Vladimir Holban"
+    }
+  ]
+}

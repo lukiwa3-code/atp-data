@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "romanpostolka",
+    "name": "Roman Postolka",
+    "displayName": "Roman Postolka",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 26 April, 2026",
+      "dateIso": "2026-04-26",
+      "tournamentId": "1797",
+      "tournamentYear": "2026",
+      "tournamentName": "Ostra Group Open By Porsche Servisni Centrum Ostrava",
+      "tournamentType": "CH",
+      "tournamentDate": "27 Apr - 3 May, 2026",
+      "tournamentStartDate": "2026-04-27",
+      "tournamentEndDate": "2026-05-03",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(4) 7-5",
+      "matchId": "RES-83F308CBB6",
+      "reason": null,
+      "playerName": "Roman Postolka",
+      "opponentName": "Daniel Siniakov",
+      "opponentKey": "danielsiniakov",
+      "result": "L",
+      "playerRank": 1776,
+      "opponentRank": 488,
+      "rankingDate": "2026-04-20",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

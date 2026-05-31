@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "rikutakahata",
+    "name": "Riku Takahata",
+    "displayName": "Riku Takahata",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 03 November, 2025",
+      "dateIso": "2025-11-03",
+      "tournamentId": "8386",
+      "tournamentYear": "2025",
+      "tournamentName": "Matsuyama",
+      "tournamentType": "CH",
+      "tournamentDate": "3-9 Nov, 2025",
+      "tournamentStartDate": "2025-11-03",
+      "tournamentEndDate": "2025-11-09",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-4",
+      "matchId": "RES-469650E165",
+      "reason": null,
+      "playerName": "Riku Takahata",
+      "opponentName": "Taiyo Yamanaka",
+      "opponentKey": "taiyoyamanaka",
+      "result": "L",
+      "playerRank": 1464,
+      "opponentRank": 818,
+      "rankingDate": "2025-11-03",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

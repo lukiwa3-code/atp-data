@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/tigre/9678/2026/results",
+  "tournament": {
+    "id": "9678",
+    "year": "2026",
+    "name": "AAT Challenger IEB+ Edicion Tigre I",
+    "location": "",
+    "date": "16-22 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/tigre/9678/2026/results",
+    "drawsUrl": "/en/scores/archive/tigre/9678/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/tigre/9678/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "16 - 22 February, 2026",
+    "tournamentStartDate": "2026-02-16",
+    "tournamentEndDate": "2026-02-22",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-22"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrea Collarini"
+    },
+    {
+      "id": "",
+      "name": "Bautista Vilicich"
+    },
+    {
+      "id": "",
+      "name": "Bruno Fernandez"
+    },
+    {
+      "id": "",
+      "name": "Carlos Maria Zarate"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Conner Huertas del Pino"
+    },
+    {
+      "id": "",
+      "name": "Daniel Dutra da Silva"
+    },
+    {
+      "id": "",
+      "name": "Dante Pagani"
+    },
+    {
+      "id": "",
+      "name": "Ezequiel Monferrer"
+    },
+    {
+      "id": "",
+      "name": "Facundo Diaz Acosta"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Cadenasso"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Villanueva"
+    },
+    {
+      "id": "",
+      "name": "Guido Ivan Justo"
+    },
+    {
+      "id": "",
+      "name": "Joao Eduardo Schiessl"
+    },
+    {
+      "id": "",
+      "name": "Joao Vitor Scramin Do Lago"
+    },
+    {
+      "id": "",
+      "name": "Joaquin Aguilar Cardozo"
+    },
+    {
+      "id": "",
+      "name": "Jose Pereira"
+    },
+    {
+      "id": "",
+      "name": "Juan Bautista Torres"
+    },
+    {
+      "id": "",
+      "name": "Juan Estevez"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel La Serna"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Varillas"
+    },
+    {
+      "id": "",
+      "name": "Lautaro Midon"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Joaquin Rodriguez"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Lucio Ratti"
+    },
+    {
+      "id": "",
+      "name": "Mariano Kestelboim"
+    },
+    {
+      "id": "",
+      "name": "Mateo Del Pino"
+    },
+    {
+      "id": "",
+      "name": "Maximo Zeitune"
+    },
+    {
+      "id": "",
+      "name": "Miguel Damas"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Kicker"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Zanellato"
+    },
+    {
+      "id": "",
+      "name": "Pedro Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Renzo Olivo"
+    },
+    {
+      "id": "",
+      "name": "Romeo Arcuschin"
+    },
+    {
+      "id": "",
+      "name": "Santiago De La Fuente"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Stefan Palosi"
+    },
+    {
+      "id": "",
+      "name": "Thiago Cigarran"
+    },
+    {
+      "id": "",
+      "name": "Tomas Farjat"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martinez"
+    },
+    {
+      "id": "",
+      "name": "Tymur Bieldiugin"
+    },
+    {
+      "id": "",
+      "name": "Valentin Garay"
+    },
+    {
+      "id": "",
+      "name": "Valerio Aboian"
+    },
+    {
+      "id": "",
+      "name": "XXXXXXX Chelia"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/tampere/221/2025/results",
+  "tournament": {
+    "id": "221",
+    "year": "2025",
+    "name": "Tampere",
+    "location": "",
+    "date": "21-27 Jul, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/tampere/221/2025/results",
+    "drawsUrl": "/en/scores/archive/tampere/221/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/tampere/221/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "21 - 27 July, 2025",
+    "tournamentStartDate": "2025-07-21",
+    "tournamentEndDate": "2025-07-27",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-21",
+    "endDate": "2025-07-27"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alan Wazny"
+    },
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alex Molcan"
+    },
+    {
+      "id": "",
+      "name": "Aristotelis Thanos"
+    },
+    {
+      "id": "",
+      "name": "Billy Suarez"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Dali Blanch"
+    },
+    {
+      "id": "",
+      "name": "Daniel Michalski"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Dmitry Popko"
+    },
+    {
+      "id": "",
+      "name": "Dragos Nicolae Cazacu"
+    },
+    {
+      "id": "",
+      "name": "Eero Vasa"
+    },
+    {
+      "id": "",
+      "name": "Federico Cina"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Gilles Arnaud Bailly"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Hermanni Tiainen"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Ivan Denisov"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Jiri Cizek"
+    },
+    {
+      "id": "",
+      "name": "Joao Lucas Reis Da Silva"
+    },
+    {
+      "id": "",
+      "name": "Kimmer Coppejans"
+    },
+    {
+      "id": "",
+      "name": "Kristjan Tamm"
+    },
+    {
+      "id": "",
+      "name": "Luca Castagnola"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Matheus Pucinelli De Almeida"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Matteo Fondriest"
+    },
+    {
+      "id": "",
+      "name": "Max Houkes"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Kicker"
+    },
+    {
+      "id": "",
+      "name": "Olle Wallin"
+    },
+    {
+      "id": "",
+      "name": "Oskari Eerola"
+    },
+    {
+      "id": "",
+      "name": "Oskari Paldanius"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Patrik Niklas-Salminen"
+    },
+    {
+      "id": "",
+      "name": "Preston Brown"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Dominko"
+    },
+    {
+      "id": "",
+      "name": "Sumit Nagal"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Vesa Ahti"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    }
+  ]
+}

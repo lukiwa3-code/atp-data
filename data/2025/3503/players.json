@@ -1,0 +1,228 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/rennes/3503/2025/results",
+  "tournament": {
+    "id": "3503",
+    "year": "2025",
+    "name": "Rennes",
+    "location": "",
+    "date": "8-14 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/rennes/3503/2025/results",
+    "drawsUrl": "/en/scores/archive/rennes/3503/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/rennes/3503/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "8 - 14 September, 2025",
+    "tournamentStartDate": "2025-09-08",
+    "tournamentEndDate": "2025-09-14",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-08",
+    "endDate": "2025-09-14"
+  },
+  "count": 47,
+  "players": [
+    {
+      "id": "",
+      "name": "(12/WC)"
+    },
+    {
+      "id": "",
+      "name": "Adrien Gobat"
+    },
+    {
+      "id": "",
+      "name": "Albano Olivetti"
+    },
+    {
+      "id": "",
+      "name": "Arthur Bouquier"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Daniel Jade"
+    },
+    {
+      "id": "",
+      "name": "Egor Gerasimov"
+    },
+    {
+      "id": "",
+      "name": "Eliakim Coulibaly"
+    },
+    {
+      "id": "",
+      "name": "Enzo Couacaud"
+    },
+    {
+      "id": "",
+      "name": "Enzo Wallart"
+    },
+    {
+      "id": "",
+      "name": "Federico Cina"
+    },
+    {
+      "id": "",
+      "name": "Felix Corwin"
+    },
+    {
+      "id": "",
+      "name": "Filippo Moroni"
+    },
+    {
+      "id": "",
+      "name": "Gregoire Barrere"
+    },
+    {
+      "id": "",
+      "name": "Harold Mayot"
+    },
+    {
+      "id": "",
+      "name": "Hugo Gaston"
+    },
+    {
+      "id": "",
+      "name": "Kenny De Schepper"
+    },
+    {
+      "id": "",
+      "name": "Leo Raquillet"
+    },
+    {
+      "id": "",
+      "name": "Loann Massard"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Marek Gengel"
+    },
+    {
+      "id": "",
+      "name": "Matteo Covato"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Maxence Bertimon"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Tepmahc"
+    },
+    {
+      "id": "",
+      "name": "Nikolay Vylegzhanin"
+    },
+    {
+      "id": "",
+      "name": "Pablo Trochu"
+    },
+    {
+      "id": "",
+      "name": "Patrick Brady"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Pierre Antoine Faut"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Robin Catry"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Sean Cuenin"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Thijmen Loof"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    }
+  ]
+}

@@ -1,11 +1,12 @@
 {
   "source": "https://www.atptour.com/en/-/tournaments/calendar/tour",
+  "challengerSource": "https://www.atptour.com/en/scores/results-archive",
   "years": [
     2025,
     2026
   ],
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
-  "countSources": 1,
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "countSources": 4,
   "sources": [
     {
       "year": 2026,
@@ -2268,6 +2269,23 @@
           }
         ]
       }
+    }
+  ],
+  "challengerSources": [
+    {
+      "year": "current",
+      "source": "https://www.atptour.com/en/scores/current-challenger",
+      "count": 0
+    },
+    {
+      "year": 2025,
+      "source": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+      "count": 209
+    },
+    {
+      "year": 2026,
+      "source": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+      "count": 101
     }
   ]
 }

@@ -1,0 +1,804 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/islamabad/3051/2025/draws",
+  "tournament": {
+    "id": "3051",
+    "year": "2025",
+    "name": "Islamabad",
+    "location": "",
+    "date": "24-30 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/islamabad/3051/2025/results",
+    "drawsUrl": "/en/scores/archive/islamabad/3051/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/islamabad/3051/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "24 - 30 November, 2025",
+    "tournamentStartDate": "2025-11-24",
+    "tournamentEndDate": "2025-11-30",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-24",
+    "endDate": "2025-11-30"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "M. Alkaya",
+          "player1FullName": "Mert Alkaya",
+          "player1Id": "A09Q",
+          "player1Country": "TUR",
+          "player1ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "player2": "J. Clarke",
+          "player2FullName": "Jay Clarke",
+          "player2Id": "CI14",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Jay Clarke",
+          "formattedScore": "6-3 6-1"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "M. Alkaya",
+          "player1FullName": "Mert Alkaya",
+          "player1Id": "A09Q",
+          "player1Country": "TUR",
+          "player1ScoreTokens": [
+            "6 7",
+            "6",
+            "6"
+          ],
+          "player2": "D. Yevseyev",
+          "player2FullName": "Denis Yevseyev",
+          "player2Id": "Y171",
+          "player2Country": "KAZ",
+          "player2ScoreTokens": [
+            "7",
+            "1",
+            "3"
+          ],
+          "winnerName": "Mert Alkaya",
+          "formattedScore": "6-7(7) 6-1 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "Z. Stephens",
+          "player1FullName": "Zach Stephens",
+          "player1Id": "S0YI",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "player2": "J. Clarke",
+          "player2FullName": "Jay Clarke",
+          "player2Id": "CI14",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Jay Clarke",
+          "formattedScore": "7-5 6-3"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "E. Ymer",
+          "player1FullName": "Elias Ymer",
+          "player1Id": "Y218",
+          "player1Country": "SWE",
+          "player1ScoreTokens": [
+            "6 8",
+            "6",
+            "0"
+          ],
+          "player2": "M. Alkaya",
+          "player2FullName": "Mert Alkaya",
+          "player2Id": "A09Q",
+          "player2Country": "TUR",
+          "player2ScoreTokens": [
+            "7",
+            "4",
+            "6"
+          ],
+          "winnerName": "Mert Alkaya",
+          "formattedScore": "7-6(8) 4-6 6-0"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "D. Yevseyev",
+          "player1FullName": "Denis Yevseyev",
+          "player1Id": "Y171",
+          "player1Country": "KAZ",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "player2": "J. Nikles",
+          "player2FullName": "Johan Nikles",
+          "player2Id": "N830",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "6",
+            "1",
+            "3"
+          ],
+          "winnerName": "Denis Yevseyev",
+          "formattedScore": "4-6 6-1 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "D. Palan",
+          "player1FullName": "Dominik Palan",
+          "player1Id": "P0E9",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "player2": "Z. Stephens",
+          "player2FullName": "Zach Stephens",
+          "player2Id": "S0YI",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Zach Stephens",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "V. Ursu",
+          "player1FullName": "Vadym Ursu",
+          "player1Id": "U176",
+          "player1Country": "UKR",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6 6"
+          ],
+          "player2": "J. Clarke",
+          "player2FullName": "Jay Clarke",
+          "player2Id": "CI14",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "7"
+          ],
+          "winnerName": "Jay Clarke",
+          "formattedScore": "6-3 4-6 7-6(6)"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "E. Ymer",
+          "player1FullName": "Elias Ymer",
+          "player1Id": "Y218",
+          "player1Country": "SWE",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "D. Cazacu",
+          "player2FullName": "Dragos Nicolae Cazacu",
+          "player2Id": "C0MX",
+          "player2Country": "ROU",
+          "player2ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "winnerName": "Elias Ymer",
+          "formattedScore": "6-3 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Tanner",
+          "player1FullName": "Gian Luca Tanner",
+          "player1Id": "T0E0",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "4"
+          ],
+          "player2": "M. Alkaya",
+          "player2FullName": "Mert Alkaya",
+          "player2Id": "A09Q",
+          "player2Country": "TUR",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "6"
+          ],
+          "winnerName": "Mert Alkaya",
+          "formattedScore": "5-7 6-3 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Yevseyev",
+          "player1FullName": "Denis Yevseyev",
+          "player1Id": "Y171",
+          "player1Country": "KAZ",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Murtaza",
+          "player2FullName": "Muzammil Murtaza",
+          "player2Id": "M0FS",
+          "player2Country": "PAK",
+          "player2ScoreTokens": [
+            "1",
+            "0"
+          ],
+          "winnerName": "Denis Yevseyev",
+          "formattedScore": "6-1 6-0"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Nikles",
+          "player1FullName": "Johan Nikles",
+          "player1Id": "N830",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6",
+            "2",
+            "7"
+          ],
+          "player2": "L. Borg",
+          "player2FullName": "Leo Borg",
+          "player2Id": "B0JG",
+          "player2Country": "SWE",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "5"
+          ],
+          "winnerName": "Johan Nikles",
+          "formattedScore": "6-4 2-6 7-5"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Palan",
+          "player1FullName": "Dominik Palan",
+          "player1Id": "P0E9",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "L. Borrelli",
+          "player2FullName": "Leonardo Borrelli",
+          "player2Id": "B0M8",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "6 6",
+            "4"
+          ],
+          "winnerName": "Dominik Palan",
+          "formattedScore": "7-6(6) 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "Z. Stephens",
+          "player1FullName": "Zach Stephens",
+          "player1Id": "S0YI",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "5"
+          ],
+          "player2": "N. Belozertsev",
+          "player2FullName": "Nikita Belozertsev",
+          "player2Id": "B0V0",
+          "player2Country": "UZB",
+          "player2ScoreTokens": [
+            "6",
+            "6 2",
+            "0"
+          ],
+          "winnerName": "Zach Stephens",
+          "formattedScore": "4 7 5"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "V. Ursu",
+          "player1FullName": "Vadym Ursu",
+          "player1Id": "U176",
+          "player1Country": "UKR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "T. Derepasko",
+          "player2FullName": "Timofei Derepasko",
+          "player2Id": "D0L8",
+          "player2Country": "RUS",
+          "player2ScoreTokens": [
+            "2",
+            "1"
+          ],
+          "winnerName": "Vadym Ursu",
+          "formattedScore": "6-2 6-1"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Dinev",
+          "player1FullName": "Dinko Dinev",
+          "player1Id": "D0HS",
+          "player1Country": "BUL",
+          "player1ScoreTokens": [
+            "2",
+            "7",
+            "2"
+          ],
+          "player2": "J. Clarke",
+          "player2FullName": "Jay Clarke",
+          "player2Id": "CI14",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6 1",
+            "6"
+          ],
+          "winnerName": "Jay Clarke",
+          "formattedScore": "6-2 6-7(1) 6-2"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "E. Ymer",
+          "player1FullName": "Elias Ymer",
+          "player1Id": "Y218",
+          "player1Country": "SWE",
+          "player1ScoreTokens": [],
+          "player2": "Bye",
+          "player2FullName": "Bye",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [],
+          "winnerName": "Elias Ymer",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Brown",
+          "player1FullName": "Preston Brown",
+          "player1Id": "B0G6",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6 2",
+            "4"
+          ],
+          "player2": "D. Cazacu",
+          "player2FullName": "Dragos Nicolae Cazacu",
+          "player2Id": "C0MX",
+          "player2Country": "ROU",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Dragos Nicolae Cazacu",
+          "formattedScore": "7-6(2) 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Aleshchev",
+          "player1FullName": "Alexey Aleshchev",
+          "player1Id": "A0AV",
+          "player1Country": "RUS",
+          "player1ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "player2": "G. Tanner",
+          "player2FullName": "Gian Luca Tanner",
+          "player2Id": "T0E0",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Gian Luca Tanner",
+          "formattedScore": "6-1 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Iftikhar",
+          "player1FullName": "Samir Iftikhar",
+          "player1Id": "I308",
+          "player1Country": "PAK",
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "player2": "M. Alkaya",
+          "player2FullName": "Mert Alkaya",
+          "player2Id": "A09Q",
+          "player2Country": "TUR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Mert Alkaya",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Yevseyev",
+          "player1FullName": "Denis Yevseyev",
+          "player1Id": "Y171",
+          "player1Country": "KAZ",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "I. Gretskiy",
+          "player2FullName": "Ivan Gretskiy",
+          "player2Id": "G0O5",
+          "player2Country": "RUS",
+          "player2ScoreTokens": [
+            "6 7",
+            "3"
+          ],
+          "winnerName": "Denis Yevseyev",
+          "formattedScore": "7-6(7) 6-3"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Murtaza",
+          "player1FullName": "Muzammil Murtaza",
+          "player1Id": "M0FS",
+          "player1Country": "PAK",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "Y. Khalil",
+          "player2FullName": "Yousaf Khalil",
+          "player2Id": "K0D6",
+          "player2Country": "PAK",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "2"
+          ],
+          "winnerName": "Muzammil Murtaza",
+          "formattedScore": "6-3 3-6 6-2"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Arcon",
+          "player1FullName": "Adrian Arcon",
+          "player1Id": "A0IN",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "1",
+            "1"
+          ],
+          "player2": "J. Nikles",
+          "player2FullName": "Johan Nikles",
+          "player2Id": "N830",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Johan Nikles",
+          "formattedScore": "6-1 6-1"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Ujvary",
+          "player1FullName": "Matthias Ujvary",
+          "player1Id": "U0A3",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "player2": "L. Borg",
+          "player2FullName": "Leo Borg",
+          "player2Id": "B0JG",
+          "player2Country": "SWE",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Leo Borg",
+          "formattedScore": "6-2 6-4"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Palan",
+          "player1FullName": "Dominik Palan",
+          "player1Id": "P0E9",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Horoz",
+          "player2FullName": "Alp Horoz",
+          "player2Id": "HB18",
+          "player2Country": "TUR",
+          "player2ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "winnerName": "Dominik Palan",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Borrelli",
+          "player1FullName": "Leonardo Borrelli",
+          "player1Id": "B0M8",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "L. Bataljin",
+          "player2FullName": "Lawrence Bataljin",
+          "player2Id": "BM09",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6 5",
+            "1"
+          ],
+          "winnerName": "Leonardo Borrelli",
+          "formattedScore": "7-6(5) 6-1"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Z. Stephens",
+          "player1FullName": "Zach Stephens",
+          "player1Id": "S0YI",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "G. Saritas",
+          "player2FullName": "Gokberk Saritas",
+          "player2Id": "S0NY",
+          "player2Country": "TUR",
+          "player2ScoreTokens": [
+            "1",
+            "0"
+          ],
+          "winnerName": "Zach Stephens",
+          "formattedScore": "6-1 6-0"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "N. Belozertsev",
+          "player1FullName": "Nikita Belozertsev",
+          "player1Id": "B0V0",
+          "player1Country": "UZB",
+          "player1ScoreTokens": [
+            "6",
+            "3"
+          ],
+          "player2": "S. Purtseladze",
+          "player2FullName": "Saba Purtseladze",
+          "player2Id": "P0EA",
+          "player2Country": "GEO",
+          "player2ScoreTokens": [
+            "2",
+            "0"
+          ],
+          "winnerName": "Nikita Belozertsev",
+          "formattedScore": "6 3"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "V. Ursu",
+          "player1FullName": "Vadym Ursu",
+          "player1Id": "U176",
+          "player1Country": "UKR",
+          "player1ScoreTokens": [
+            "6",
+            "6 9",
+            "6"
+          ],
+          "player2": "M. Shoaib",
+          "player2FullName": "Muhammad Shoaib",
+          "player2Id": "S0HP",
+          "player2Country": "PAK",
+          "player2ScoreTokens": [
+            "3",
+            "7",
+            "3"
+          ],
+          "winnerName": "Vadym Ursu",
+          "formattedScore": "6-3 6-7(9) 6-3"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Derepasko",
+          "player1FullName": "Timofei Derepasko",
+          "player1Id": "D0L8",
+          "player1Country": "RUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "K. Kirci",
+          "player2FullName": "Koray Kirci",
+          "player2Id": "KI91",
+          "player2Country": "TUR",
+          "player2ScoreTokens": [
+            "0",
+            "3"
+          ],
+          "winnerName": "Timofei Derepasko",
+          "formattedScore": "6-0 6-3"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Khan",
+          "player1FullName": "Aqeel Khan",
+          "player1Id": "K425",
+          "player1Country": "PAK",
+          "player1ScoreTokens": [
+            "6",
+            "6 5",
+            "1"
+          ],
+          "player2": "D. Dinev",
+          "player2FullName": "Dinko Dinev",
+          "player2Id": "D0HS",
+          "player2Country": "BUL",
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "6"
+          ],
+          "winnerName": "Dinko Dinev",
+          "formattedScore": "4-6 7-6(5) 6-1"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Bye",
+          "player1FullName": "Bye",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [],
+          "player2": "J. Clarke",
+          "player2FullName": "Jay Clarke",
+          "player2Id": "CI14",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [],
+          "winnerName": "Jay Clarke",
+          "formattedScore": ""
+        }
+      ]
+    }
+  ]
+}

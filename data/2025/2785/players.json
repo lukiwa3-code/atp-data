@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/zug/2785/2025/results",
+  "tournament": {
+    "id": "2785",
+    "year": "2025",
+    "name": "Zug",
+    "location": "",
+    "date": "21-27 Jul, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/zug/2785/2025/results",
+    "drawsUrl": "/en/scores/archive/zug/2785/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/zug/2785/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "21 - 27 July, 2025",
+    "tournamentStartDate": "2025-07-21",
+    "tournamentEndDate": "2025-07-27",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-21",
+    "endDate": "2025-07-27"
+  },
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adolfo Daniel Vallejo"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Braynin"
+    },
+    {
+      "id": "",
+      "name": "Alexander Ritschard"
+    },
+    {
+      "id": "",
+      "name": "Andrea Collarini"
+    },
+    {
+      "id": "",
+      "name": "Andrin Casanova"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Hassan"
+    },
+    {
+      "id": "",
+      "name": "Buvaysar Gadamauri"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Dominic Stricker"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Evgeny Karlovskiy"
+    },
+    {
+      "id": "",
+      "name": "Facundo Diaz Acosta"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Filippo Romano"
+    },
+    {
+      "id": "",
+      "name": "Flynn Thomas"
+    },
+    {
+      "id": "",
+      "name": "Francesco Forti"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Villanueva"
+    },
+    {
+      "id": "",
+      "name": "Harold Mayot"
+    },
+    {
+      "id": "",
+      "name": "Henry Bernet"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jeffrey Von Der Schulenburg"
+    },
+    {
+      "id": "",
+      "name": "JiSung Nam"
+    },
+    {
+      "id": "",
+      "name": "Kilian Feldbausch"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Giustino"
+    },
+    {
+      "id": "",
+      "name": "Lukas Klein"
+    },
+    {
+      "id": "",
+      "name": "Lukas Pokorny"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Mariano Kestelboim"
+    },
+    {
+      "id": "",
+      "name": "Matthew Dellavedova"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Maximilian Neuchrist"
+    },
+    {
+      "id": "",
+      "name": "Michiel De Krom"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nerman Fatic"
+    },
+    {
+      "id": "",
+      "name": "Nikola Djosic"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Roman Andres Burruchaga"
+    },
+    {
+      "id": "",
+      "name": "Ryan Nijboer"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Zsombor Piros"
+    }
+  ]
+}

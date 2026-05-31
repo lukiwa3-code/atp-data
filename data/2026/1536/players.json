@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "source": "https://www.atptour.com/en/scores/archive/madrid/1536/2026/results",
   "tournament": {
     "id": "1536",
@@ -24,6 +24,8 @@
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_1000.png",
     "prizeMoney": "€8,235,540",
     "totalFinancialCommitment": "€9,796,140",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
     "dateSource": "results_header_or_calendar",
     "startDate": "2026-04-22",
     "tournamentStartDate": "2026-04-22",

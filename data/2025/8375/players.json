@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/mexico-city/8375/2025/results",
+  "tournament": {
+    "id": "8375",
+    "year": "2025",
+    "name": "Mexico City",
+    "location": "",
+    "date": "7-13 Apr, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/mexico-city/8375/2025/results",
+    "drawsUrl": "/en/scores/archive/mexico-city/8375/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/mexico-city/8375/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "7 - 13 April, 2025",
+    "tournamentStartDate": "2025-04-07",
+    "tournamentEndDate": "2025-04-13",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-07",
+    "endDate": "2025-04-13"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "(2/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Aidan Mayo"
+    },
+    {
+      "id": "",
+      "name": "Alafia Ayeni"
+    },
+    {
+      "id": "",
+      "name": "Alan Fernando Rubio Fierros"
+    },
+    {
+      "id": "",
+      "name": "Alex Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Alfredo Perez"
+    },
+    {
+      "id": "",
+      "name": "Alvin Nicholas Tudorica"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Aziz Dougaz"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Bor Artnak"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Darwin Blanch"
+    },
+    {
+      "id": "",
+      "name": "Elmar Ejupovic"
+    },
+    {
+      "id": "",
+      "name": "Felipe Meligeni Alves"
+    },
+    {
+      "id": "",
+      "name": "Guillermo Tunas"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Aguilar"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Varillas"
+    },
+    {
+      "id": "",
+      "name": "Kiranpal Pannu"
+    },
+    {
+      "id": "",
+      "name": "Kosuke Ogura"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Mateus Alves"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maxime Cressy"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Maximilian Neuchrist"
+    },
+    {
+      "id": "",
+      "name": "Neil Oberleitner"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Patricio Betancourt Gonzalez"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Pedro Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Rafael De Alba"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Alujas"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Ryan Seggerman"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Stefan Dostanic"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Thiago Agustin Tirante"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Vladyslav Orlov"
+    },
+    {
+      "id": "",
+      "name": "Yuki Mochizuki"
+    }
+  ]
+}

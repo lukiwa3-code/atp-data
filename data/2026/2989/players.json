@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/monza/2989/2026/results",
+  "tournament": {
+    "id": "2989",
+    "year": "2026",
+    "name": "Atkinsons Monza Open",
+    "location": "",
+    "date": "6-12 Apr, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/monza/2989/2026/results",
+    "drawsUrl": "/en/scores/archive/monza/2989/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/monza/2989/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "6 - 12 April, 2026",
+    "tournamentStartDate": "2026-04-06",
+    "tournamentEndDate": "2026-04-12",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-12"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(4/NG)"
+    },
+    {
+      "id": "",
+      "name": "(6/WC)"
+    },
+    {
+      "id": "",
+      "name": "Andrea Guerrieri"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "Billy Harris"
+    },
+    {
+      "id": "",
+      "name": "Carlo Alberto Caniato"
+    },
+    {
+      "id": "",
+      "name": "Christopher O'Connell"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Dino Prizmic"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Eero Vasa"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Fabrizio Andaloro"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Filippo Romano"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Cadenasso"
+    },
+    {
+      "id": "",
+      "name": "Guy Den Ouden"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Hugo Gaston"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Vasami"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Luca Nardi"
+    },
+    {
+      "id": "",
+      "name": "Luca Van Assche"
+    },
+    {
+      "id": "",
+      "name": "Maks Kasnikowski"
+    },
+    {
+      "id": "",
+      "name": "Manas Dhamne"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Michele Ribecai"
+    },
+    {
+      "id": "",
+      "name": "Moez Echargui"
+    },
+    {
+      "id": "",
+      "name": "Neil Oberleitner"
+    },
+    {
+      "id": "",
+      "name": "Norbert Gombos"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Pietro Fellin"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Rudolf Molleker"
+    },
+    {
+      "id": "",
+      "name": "Sandro Kopp"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Sumit Nagal"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Tomasz Berkieta"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Van Son Didoni"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    }
+  ]
+}

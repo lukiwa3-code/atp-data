@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/istanbul/3105/2026/results",
+  "tournament": {
+    "id": "3105",
+    "year": "2026",
+    "name": "Bosphorus Challenger Cup",
+    "location": "",
+    "date": "18-23 May, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/istanbul/3105/2026/results",
+    "drawsUrl": "/en/scores/archive/istanbul/3105/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/istanbul/3105/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "18 - 23 May, 2026",
+    "tournamentStartDate": "2026-05-18",
+    "tournamentEndDate": "2026-05-23",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-05-18",
+    "endDate": "2026-05-23"
+  },
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(4/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Alafia Ayeni"
+    },
+    {
+      "id": "",
+      "name": "Alejo Sanchez Quilez"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Braynin"
+    },
+    {
+      "id": "",
+      "name": "Andrej Nedic"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Anton Matusevich"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Hassan"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Cem Ilkel"
+    },
+    {
+      "id": "",
+      "name": "Daniel Dutra da Silva"
+    },
+    {
+      "id": "",
+      "name": "Daniel Michalski"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "David Jorda Sanchis"
+    },
+    {
+      "id": "",
+      "name": "Denis Klok"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Georgii Kravchenko"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Imanol Lopez Morillo"
+    },
+    {
+      "id": "",
+      "name": "Jonas Forejtek"
+    },
+    {
+      "id": "",
+      "name": "Kaan Isik Kosaner"
+    },
+    {
+      "id": "",
+      "name": "Karim Bennani"
+    },
+    {
+      "id": "",
+      "name": "Kerem Yilmaz"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Lukas Pokorny"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Maxwell Mckennon"
+    },
+    {
+      "id": "",
+      "name": "Melih Anavatan"
+    },
+    {
+      "id": "",
+      "name": "Mert Alkaya"
+    },
+    {
+      "id": "",
+      "name": "Mert Naci Turker"
+    },
+    {
+      "id": "",
+      "name": "Michal Krajci"
+    },
+    {
+      "id": "",
+      "name": "Michiel De Krom"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Sanchez Izquierdo"
+    },
+    {
+      "id": "",
+      "name": "Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Reda Bennani"
+    },
+    {
+      "id": "",
+      "name": "Sergey Fomin"
+    },
+    {
+      "id": "",
+      "name": "Thiago Monteiro"
+    },
+    {
+      "id": "",
+      "name": "Toprak Avcibasi"
+    },
+    {
+      "id": "",
+      "name": "Tugra Duran"
+    },
+    {
+      "id": "",
+      "name": "Tuncay Duran"
+    },
+    {
+      "id": "",
+      "name": "Vladyslav Orlov"
+    },
+    {
+      "id": "",
+      "name": "Yannick Theodor Alexandrescou"
+    },
+    {
+      "id": "",
+      "name": "Yurii Dzhavakian"
+    }
+  ]
+}

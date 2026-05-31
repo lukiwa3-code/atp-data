@@ -1,0 +1,228 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/sarasota/5069/2025/results",
+  "tournament": {
+    "id": "5069",
+    "year": "2025",
+    "name": "Sarasota",
+    "location": "",
+    "date": "7-13 Apr, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/sarasota/5069/2025/results",
+    "drawsUrl": "/en/scores/archive/sarasota/5069/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/sarasota/5069/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "7 - 13 April, 2025",
+    "tournamentStartDate": "2025-04-07",
+    "tournamentEndDate": "2025-04-13",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-07",
+    "endDate": "2025-04-13"
+  },
+  "count": 47,
+  "players": [
+    {
+      "id": "",
+      "name": "Adolfo Daniel Vallejo"
+    },
+    {
+      "id": "",
+      "name": "Adrian Boitan"
+    },
+    {
+      "id": "",
+      "name": "Alex Rybakov"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Willwerth"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Bruno Kuzuhara"
+    },
+    {
+      "id": "",
+      "name": "Charlie Robertson"
+    },
+    {
+      "id": "",
+      "name": "Chris Rodesch"
+    },
+    {
+      "id": "",
+      "name": "Christian Sigsgaard"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Daniel Dutra da Silva"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Emilio Nava"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Federico Agustin Gomez"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Inaki Montes-De La Torre"
+    },
+    {
+      "id": "",
+      "name": "JJ Tracy"
+    },
+    {
+      "id": "",
+      "name": "Jack Satterfield"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Prado Angelo"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Marc Polmans"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Noah Schachter"
+    },
+    {
+      "id": "",
+      "name": "Patrick Maloney"
+    },
+    {
+      "id": "",
+      "name": "Petr Nesterov"
+    },
+    {
+      "id": "",
+      "name": "Ronald Hohmann"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Tomas Barrios Vera"
+    },
+    {
+      "id": "",
+      "name": "Tung-Lin Wu"
+    },
+    {
+      "id": "",
+      "name": "Tyler Zink"
+    },
+    {
+      "id": "",
+      "name": "William Grant"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/naples/2911/2025/results",
+  "tournament": {
+    "id": "2911",
+    "year": "2025",
+    "name": "Naples",
+    "location": "",
+    "date": "24-30 Mar, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/naples/2911/2025/results",
+    "drawsUrl": "/en/scores/archive/naples/2911/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/naples/2911/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "24 - 30 March, 2025",
+    "tournamentStartDate": "2025-03-24",
+    "tournamentEndDate": "2025-03-30",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-24",
+    "endDate": "2025-03-30"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "(4/WC)"
+    },
+    {
+      "id": "",
+      "name": "Alessandro Pecci"
+    },
+    {
+      "id": "",
+      "name": "Andrea Pellegrino"
+    },
+    {
+      "id": "",
+      "name": "Borna Coric"
+    },
+    {
+      "id": "",
+      "name": "Borna Gojo"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Daniel Evans"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Fabio Fognini"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Francesco Passaro"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Cadenasso"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Mager"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Fonio"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Gregoire Barrere"
+    },
+    {
+      "id": "",
+      "name": "Harold Mayot"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jozef Kovalik"
+    },
+    {
+      "id": "",
+      "name": "Luciano Darderi"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Mariano Tammaro"
+    },
+    {
+      "id": "",
+      "name": "Martin Klizan"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Max Hans Rehberg"
+    },
+    {
+      "id": "",
+      "name": "Max Houkes"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Oleksandr Ovcharenko"
+    },
+    {
+      "id": "",
+      "name": "Pierluigi Basile"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Sumit Nagal"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    }
+  ]
+}

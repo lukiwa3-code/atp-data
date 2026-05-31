@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/zadar/9472/2025/results",
+  "tournament": {
+    "id": "9472",
+    "year": "2025",
+    "name": "Zadar",
+    "location": "",
+    "date": "17-23 Mar, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/zadar/9472/2025/results",
+    "drawsUrl": "/en/scores/archive/zadar/9472/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/zadar/9472/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "17 - 23 March, 2025",
+    "tournamentStartDate": "2025-03-17",
+    "tournamentEndDate": "2025-03-23",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-17",
+    "endDate": "2025-03-23"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Adrian Andreev"
+    },
+    {
+      "id": "",
+      "name": "Alex Molcan"
+    },
+    {
+      "id": "",
+      "name": "Andrej Martin"
+    },
+    {
+      "id": "",
+      "name": "Antonio Voljavec"
+    },
+    {
+      "id": "",
+      "name": "Borna Coric"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Damir Dzumhur"
+    },
+    {
+      "id": "",
+      "name": "Daniel Michalski"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Dino Prizmic"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Dusan Obradovic"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Filip Misolic"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Frane Nincevic"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Josip Simundza"
+    },
+    {
+      "id": "",
+      "name": "Jozef Kovalik"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Paz"
+    },
+    {
+      "id": "",
+      "name": "Kalin Ivanovski"
+    },
+    {
+      "id": "",
+      "name": "Lilian Marmousez"
+    },
+    {
+      "id": "",
+      "name": "Luka Mikrut"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Marko Topo"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Matteo Fondriest"
+    },
+    {
+      "id": "",
+      "name": "Max Hans Rehberg"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Mirza Basic"
+    },
+    {
+      "id": "",
+      "name": "Neil Oberleitner"
+    },
+    {
+      "id": "",
+      "name": "Nerman Fatic"
+    },
+    {
+      "id": "",
+      "name": "Oleksandr Ovcharenko"
+    },
+    {
+      "id": "",
+      "name": "Pedro Cachin"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    },
+    {
+      "id": "",
+      "name": "Zsombor Piros"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/monza/2989/2025/results",
+  "tournament": {
+    "id": "2989",
+    "year": "2025",
+    "name": "Monza",
+    "location": "",
+    "date": "7-13 Apr, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/monza/2989/2025/results",
+    "drawsUrl": "/en/scores/archive/monza/2989/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/monza/2989/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "7 - 13 April, 2025",
+    "tournamentStartDate": "2025-04-07",
+    "tournamentEndDate": "2025-04-13",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-07",
+    "endDate": "2025-04-13"
+  },
+  "count": 47,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "Andrea Picchione"
+    },
+    {
+      "id": "",
+      "name": "Arthur Gea"
+    },
+    {
+      "id": "",
+      "name": "Cedrik-Marcel Stebe"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Daniel Evans"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Fausto Tabacco"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Federico Cina"
+    },
+    {
+      "id": "",
+      "name": "Federico Coria"
+    },
+    {
+      "id": "",
+      "name": "Federico Iannaccone"
+    },
+    {
+      "id": "",
+      "name": "Filip Misolic"
+    },
+    {
+      "id": "",
+      "name": "Filippo Romano"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Vasami"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Khumoyun Sultanov"
+    },
+    {
+      "id": "",
+      "name": "Luca Van Assche"
+    },
+    {
+      "id": "",
+      "name": "Lukas Klein"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Matteo Gigante"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nishesh Basavareddy"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Pietro Fellin"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Thiago Seyboth Wild"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    },
+    {
+      "id": "",
+      "name": "William Mirarchi"
+    }
+  ]
+}

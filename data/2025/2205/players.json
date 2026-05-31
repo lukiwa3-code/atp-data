@@ -1,0 +1,216 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/noumea/2205/2025/results",
+  "tournament": {
+    "id": "2205",
+    "year": "2025",
+    "name": "Noumea",
+    "location": "",
+    "date": "30 Dec - 4 Jan, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/noumea/2205/2025/results",
+    "drawsUrl": "/en/scores/archive/noumea/2205/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/noumea/2205/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "30 December, 2024 - 4 January, 2025",
+    "tournamentStartDate": "2024-12-30",
+    "tournamentEndDate": "2025-01-04",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2024-12-30",
+    "endDate": "2025-01-04"
+  },
+  "count": 44,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/AL)"
+    },
+    {
+      "id": "",
+      "name": "(12/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adam Taylor"
+    },
+    {
+      "id": "",
+      "name": "Adolfo Daniel Vallejo"
+    },
+    {
+      "id": "",
+      "name": "Adrian Arcon"
+    },
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Antoine Voisin"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Benoit Paire"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Blake Bayldon"
+    },
+    {
+      "id": "",
+      "name": "Cade Birrell"
+    },
+    {
+      "id": "",
+      "name": "Charlie Camus"
+    },
+    {
+      "id": "",
+      "name": "Colin Sinclair"
+    },
+    {
+      "id": "",
+      "name": "Constant Lestienne"
+    },
+    {
+      "id": "",
+      "name": "Courte Heremana"
+    },
+    {
+      "id": "",
+      "name": "Elmer Moller"
+    },
+    {
+      "id": "",
+      "name": "Enzo Couacaud"
+    },
+    {
+      "id": "",
+      "name": "Francisco Cabral"
+    },
+    {
+      "id": "",
+      "name": "Gijs Brouwer"
+    },
+    {
+      "id": "",
+      "name": "Gillian Osmont"
+    },
+    {
+      "id": "",
+      "name": "Jake Delaney"
+    },
+    {
+      "id": "",
+      "name": "Jalane SALAUN-OUILLEMON"
+    },
+    {
+      "id": "",
+      "name": "Jesper de Jong"
+    },
+    {
+      "id": "",
+      "name": "Jesse Delaney"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Keisuke Saitoh"
+    },
+    {
+      "id": "",
+      "name": "Kiranpal Pannu"
+    },
+    {
+      "id": "",
+      "name": "Kosuke Ogura"
+    },
+    {
+      "id": "",
+      "name": "Lawrence Bataljin"
+    },
+    {
+      "id": "",
+      "name": "Liam Branger"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Matt Hulme"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Ryotaro Taguchi"
+    },
+    {
+      "id": "",
+      "name": "Ryuki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Shinji Hazawa"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Taisei Ichikawa"
+    },
+    {
+      "id": "",
+      "name": "Thijmen Loof"
+    },
+    {
+      "id": "",
+      "name": "Valentin Vacherot"
+    },
+    {
+      "id": "",
+      "name": "Yusuke Takahashi"
+    }
+  ]
+}

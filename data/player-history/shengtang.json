@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "shengtang",
+    "name": "Sheng Tang",
+    "displayName": "Sheng Tang",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "2921",
+      "tournamentYear": "2025",
+      "tournamentName": "Wuxi",
+      "tournamentType": "CH",
+      "tournamentDate": "5-11 May, 2025",
+      "tournamentStartDate": "2025-05-05",
+      "tournamentEndDate": "2025-05-11",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-4",
+      "matchId": "RES-A310ABD2DC",
+      "reason": null,
+      "playerName": "Sheng Tang",
+      "opponentName": "Egor Agafonov",
+      "opponentKey": "egoragafonov",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

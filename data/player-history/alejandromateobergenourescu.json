@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "alejandromateobergenourescu",
+    "name": "Alejandro Mateo Berge Nourescu",
+    "displayName": "Alejandro Mateo Berge Nourescu",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 15 September, 2025",
+      "dateIso": "2025-09-15",
+      "tournamentId": "3023",
+      "tournamentYear": "2025",
+      "tournamentName": "Targu Mures 2",
+      "tournamentType": "CH",
+      "tournamentDate": "16-21 Sep, 2025",
+      "tournamentStartDate": "2025-09-16",
+      "tournamentEndDate": "2025-09-21",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-4",
+      "matchId": "RES-35B84BA09D",
+      "reason": null,
+      "playerName": "Alejandro Mateo Berge Nourescu",
+      "opponentName": "Gianluca Cadenasso",
+      "opponentKey": "gianlucacadenasso",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 463,
+      "rankingDate": "2025-09-15",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/soma-bay/3055/2026/results",
+  "tournament": {
+    "id": "3055",
+    "year": "2026",
+    "name": "Soma Bay Open",
+    "location": "",
+    "date": "19-26 Jan, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/soma-bay/3055/2026/results",
+    "drawsUrl": "/en/scores/archive/soma-bay/3055/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/soma-bay/3055/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "19 - 26 January, 2026",
+    "tournamentStartDate": "2026-01-19",
+    "tournamentEndDate": "2026-01-26",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-01-19",
+    "endDate": "2026-01-26"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Alexander Binda"
+    },
+    {
+      "id": "",
+      "name": "Benoit Paire"
+    },
+    {
+      "id": "",
+      "name": "Borna Gojo"
+    },
+    {
+      "id": "",
+      "name": "Constantin Bittoun Kouzmine"
+    },
+    {
+      "id": "",
+      "name": "Dali Blanch"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "Daniil Ostapenkov"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Dmitry Popko"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Fares Zakaria"
+    },
+    {
+      "id": "",
+      "name": "Filip Peliwo"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Gianmarco Ferrari"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Fonio"
+    },
+    {
+      "id": "",
+      "name": "Guy Den Ouden"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Kimmer Coppejans"
+    },
+    {
+      "id": "",
+      "name": "Kirill Kivattsev"
+    },
+    {
+      "id": "",
+      "name": "Lloyd Harris"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Giustino"
+    },
+    {
+      "id": "",
+      "name": "Lukas Neumayer"
+    },
+    {
+      "id": "",
+      "name": "Marko Miladinovic"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Maxwell Mckennon"
+    },
+    {
+      "id": "",
+      "name": "Michael Bassem Sobhy"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Michal Krajci"
+    },
+    {
+      "id": "",
+      "name": "Niels McDonald"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Saba Purtseladze"
+    },
+    {
+      "id": "",
+      "name": "Sandro Kopp"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Sorger"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Svyatoslav Gulin"
+    },
+    {
+      "id": "",
+      "name": "Thijs Boogaard"
+    },
+    {
+      "id": "",
+      "name": "Tom Gentzsch"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Yanki Erel"
+    },
+    {
+      "id": "",
+      "name": "Zura Tkemaladze"
+    }
+  ]
+}

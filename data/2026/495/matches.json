@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "source": "https://www.atptour.com/en/scores/archive/dubai/495/2026/results",
   "tournament": {
     "id": "495",
@@ -24,6 +24,8 @@
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
     "prizeMoney": "$3,311,005",
     "totalFinancialCommitment": "$3,327,680",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
     "dateSource": "results_header_or_calendar",
     "startDate": "2026-02-23",
     "tournamentStartDate": "2026-02-23",

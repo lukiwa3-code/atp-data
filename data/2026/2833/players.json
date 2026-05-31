@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/oeiras/2833/2026/results",
+  "tournament": {
+    "id": "2833",
+    "year": "2026",
+    "name": "Oeiras Indoor 2",
+    "location": "",
+    "date": "26 Jan - 1 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/oeiras/2833/2026/results",
+    "drawsUrl": "/en/scores/archive/oeiras/2833/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/oeiras/2833/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "26 January - 1 February, 2026",
+    "tournamentStartDate": "2026-01-26",
+    "tournamentEndDate": "2026-02-01",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-01-26",
+    "endDate": "2026-02-01"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(3/WC)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Adria Soriano Barrera"
+    },
+    {
+      "id": "",
+      "name": "Alastair Gray"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alexander Donski"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Andrea Guerrieri"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Chris Rodesch"
+    },
+    {
+      "id": "",
+      "name": "Daniel Batista"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Digvijaypratap Singh"
+    },
+    {
+      "id": "",
+      "name": "Eero Vasa"
+    },
+    {
+      "id": "",
+      "name": "Elmer Moller"
+    },
+    {
+      "id": "",
+      "name": "Francisco Rocha"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Gastao Elias"
+    },
+    {
+      "id": "",
+      "name": "Henrique Rocha"
+    },
+    {
+      "id": "",
+      "name": "Inaki Montes-De La Torre"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jaime Faria"
+    },
+    {
+      "id": "",
+      "name": "Jerome Kym"
+    },
+    {
+      "id": "",
+      "name": "Joao Silva"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Prado Angelo"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Michal Krajci"
+    },
+    {
+      "id": "",
+      "name": "Miguel Damas"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Pietro Fellin"
+    },
+    {
+      "id": "",
+      "name": "Tiago Cacao"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Tiago Torres"
+    },
+    {
+      "id": "",
+      "name": "Tomas Serrano Luis"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

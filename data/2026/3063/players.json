@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/baton-rouge/3063/2026/results",
+  "tournament": {
+    "id": "3063",
+    "year": "2026",
+    "name": "Steve Carter Baton Rouge Challenger",
+    "location": "",
+    "date": "9-15 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/baton-rouge/3063/2026/results",
+    "drawsUrl": "/en/scores/archive/baton-rouge/3063/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/baton-rouge/3063/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "9 - 15 February, 2026",
+    "tournamentStartDate": "2026-02-09",
+    "tournamentEndDate": "2026-02-15",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-09",
+    "endDate": "2026-02-15"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Andrej Loncarevic"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Arda Azkara"
+    },
+    {
+      "id": "",
+      "name": "Ben Jones"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Thomas George"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Braden Shick"
+    },
+    {
+      "id": "",
+      "name": "Calin Teodor Stirbu"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Christian Langmo"
+    },
+    {
+      "id": "",
+      "name": "Daniel Milavsky"
+    },
+    {
+      "id": "",
+      "name": "Enzo Kohlmann De Freitas"
+    },
+    {
+      "id": "",
+      "name": "Erik Arutiunian"
+    },
+    {
+      "id": "",
+      "name": "Evan Zhu"
+    },
+    {
+      "id": "",
+      "name": "Felix Corwin"
+    },
+    {
+      "id": "",
+      "name": "Finn Bass"
+    },
+    {
+      "id": "",
+      "name": "Franco Ribero"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Jack Kennedy"
+    },
+    {
+      "id": "",
+      "name": "Justin Boulais"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Karlis Ozolins"
+    },
+    {
+      "id": "",
+      "name": "Kaylan Bigun"
+    },
+    {
+      "id": "",
+      "name": "Keegan Smith"
+    },
+    {
+      "id": "",
+      "name": "Matt Kuhar"
+    },
+    {
+      "id": "",
+      "name": "Matteo Covato"
+    },
+    {
+      "id": "",
+      "name": "Matthew Forbes"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Stoot"
+    },
+    {
+      "id": "",
+      "name": "Noah Schachter"
+    },
+    {
+      "id": "",
+      "name": "Olaf Pieczkowski"
+    },
+    {
+      "id": "",
+      "name": "Quinn Vandecasteele"
+    },
+    {
+      "id": "",
+      "name": "Rafael De Alba"
+    },
+    {
+      "id": "",
+      "name": "Raphael Perot"
+    },
+    {
+      "id": "",
+      "name": "Robert Strombachs"
+    },
+    {
+      "id": "",
+      "name": "Ronald Hohmann"
+    },
+    {
+      "id": "",
+      "name": "Ryan Dickerson"
+    },
+    {
+      "id": "",
+      "name": "Ryan Fishback"
+    },
+    {
+      "id": "",
+      "name": "Sasa Markovic"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Stefan Dostanic"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    },
+    {
+      "id": "",
+      "name": "Tristan McCormick"
+    },
+    {
+      "id": "",
+      "name": "Tyler Zink"
+    },
+    {
+      "id": "",
+      "name": "Valentin Basel"
+    }
+  ]
+}

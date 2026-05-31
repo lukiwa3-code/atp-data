@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/jinan/7746/2025/results",
+  "tournament": {
+    "id": "7746",
+    "year": "2025",
+    "name": "Jinan",
+    "location": "",
+    "date": "6-12 Oct, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/jinan/7746/2025/results",
+    "drawsUrl": "/en/scores/archive/jinan/7746/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/jinan/7746/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "6 - 12 October, 2025",
+    "tournamentStartDate": "2025-10-06",
+    "tournamentEndDate": "2025-10-12",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-06",
+    "endDate": "2025-10-12"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Adria Soriano Barrera"
+    },
+    {
+      "id": "",
+      "name": "Akira Santillan"
+    },
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Aoran Wang"
+    },
+    {
+      "id": "",
+      "name": "Arthur Cazaux"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Billy Harris"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Charles Chen"
+    },
+    {
+      "id": "",
+      "name": "Coleman Wong"
+    },
+    {
+      "id": "",
+      "name": "Colton Smith"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Evan Zhu"
+    },
+    {
+      "id": "",
+      "name": "Fajing Sun"
+    },
+    {
+      "id": "",
+      "name": "Harold Mayot"
+    },
+    {
+      "id": "",
+      "name": "Hyeon Chung"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "Jason Kubler"
+    },
+    {
+      "id": "",
+      "name": "Jie Cui"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Laslo Djere"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Linang Xiao"
+    },
+    {
+      "id": "",
+      "name": "Mackenzie McDonald"
+    },
+    {
+      "id": "",
+      "name": "Maxim Zhukov"
+    },
+    {
+      "id": "",
+      "name": "Omar Jasika"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Petr Bar Biryukov"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Sanhui Shin"
+    },
+    {
+      "id": "",
+      "name": "Sergey Fomin"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Sidharth Rawat"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Tsung-Hao Huang"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Xiaofei Wang"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yi Zhou"
+    },
+    {
+      "id": "",
+      "name": "Yosuke Watanuki"
+    }
+  ]
+}

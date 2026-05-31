@@ -1,0 +1,228 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/santa-cruz/9479/2025/results",
+  "tournament": {
+    "id": "9479",
+    "year": "2025",
+    "name": "Santa Cruz de la Sierra",
+    "location": "",
+    "date": "16-21 Jun, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/santa-cruz/9479/2025/results",
+    "drawsUrl": "/en/scores/archive/santa-cruz/9479/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/santa-cruz/9479/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "16 - 21 June, 2025",
+    "tournamentStartDate": "2025-06-16",
+    "tournamentEndDate": "2025-06-21",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-16",
+    "endDate": "2025-06-21"
+  },
+  "count": 47,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alex Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Alvin Nicholas Tudorica"
+    },
+    {
+      "id": "",
+      "name": "Arklon Huertas Del Pino Cordova"
+    },
+    {
+      "id": "",
+      "name": "Bautista Vilicich"
+    },
+    {
+      "id": "",
+      "name": "Bruno Kuzuhara"
+    },
+    {
+      "id": "",
+      "name": "Carlos Maria Zarate"
+    },
+    {
+      "id": "",
+      "name": "Christopher Li"
+    },
+    {
+      "id": "",
+      "name": "Conner Huertas del Pino"
+    },
+    {
+      "id": "",
+      "name": "Diego Augusto Barreto Sanchez"
+    },
+    {
+      "id": "",
+      "name": "Diego Munoz"
+    },
+    {
+      "id": "",
+      "name": "Facundo Bagnis"
+    },
+    {
+      "id": "",
+      "name": "Federico Zeballos"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Villanueva"
+    },
+    {
+      "id": "",
+      "name": "Guido Ivan Justo"
+    },
+    {
+      "id": "",
+      "name": "Hernan Casanova"
+    },
+    {
+      "id": "",
+      "name": "Igor Gimenez"
+    },
+    {
+      "id": "",
+      "name": "Joao Lucas Reis Da Silva"
+    },
+    {
+      "id": "",
+      "name": "Johan Alexander Rodriguez"
+    },
+    {
+      "id": "",
+      "name": "John Sperle"
+    },
+    {
+      "id": "",
+      "name": "Juan Bautista Torres"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Aguilar"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Prado Angelo"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel La Serna"
+    },
+    {
+      "id": "",
+      "name": "Lautaro Midon"
+    },
+    {
+      "id": "",
+      "name": "Leonardo Suarez"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Joaquin Rodriguez"
+    },
+    {
+      "id": "",
+      "name": "Lucas Gerch"
+    },
+    {
+      "id": "",
+      "name": "Lucas Trigo"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Luis Carlos Alvarez"
+    },
+    {
+      "id": "",
+      "name": "Mariano Kestelboim"
+    },
+    {
+      "id": "",
+      "name": "Mateo Barreiros Reyes"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Miguel Tobon"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Kicker"
+    },
+    {
+      "id": "",
+      "name": "Pedro Boscardin Dias"
+    },
+    {
+      "id": "",
+      "name": "Pedro Rodrigues"
+    },
+    {
+      "id": "",
+      "name": "Raul Garcia"
+    },
+    {
+      "id": "",
+      "name": "Santiago De La Fuente"
+    },
+    {
+      "id": "",
+      "name": "Santiago Lora"
+    },
+    {
+      "id": "",
+      "name": "Thiago Cigarran"
+    },
+    {
+      "id": "",
+      "name": "Tomas Farjat"
+    }
+  ]
+}

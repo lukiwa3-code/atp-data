@@ -1,0 +1,204 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/valencia/2823/2026/results",
+  "tournament": {
+    "id": "2823",
+    "year": "2026",
+    "name": "Copa Faulconbridge",
+    "location": "",
+    "date": "12-17 May, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/valencia/2823/2026/results",
+    "drawsUrl": "/en/scores/archive/valencia/2823/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/valencia/2823/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "12 - 17 May, 2026",
+    "tournamentStartDate": "2026-05-12",
+    "tournamentEndDate": "2026-05-17",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-17"
+  },
+  "count": 41,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Adolfo Daniel Vallejo"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Juan Mano"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Tabilo"
+    },
+    {
+      "id": "",
+      "name": "Alejo Sanchez Quilez"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Bernabe Zapata Miralles"
+    },
+    {
+      "id": "",
+      "name": "Camilo Ugo Carabelli"
+    },
+    {
+      "id": "",
+      "name": "Carlos Lopez Montagud"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Christopher O'Connell"
+    },
+    {
+      "id": "",
+      "name": "Damir Dzumhur"
+    },
+    {
+      "id": "",
+      "name": "Daniel Altmaier"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Fajing Sun"
+    },
+    {
+      "id": "",
+      "name": "Francisco Comesana"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jan-Lennard Struff"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Prado Angelo"
+    },
+    {
+      "id": "",
+      "name": "Leandro Riedi"
+    },
+    {
+      "id": "",
+      "name": "Mario Mansilla Diez"
+    },
+    {
+      "id": "",
+      "name": "Matteo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Alvarez Varona"
+    },
+    {
+      "id": "",
+      "name": "Pablo Carreno Busta"
+    },
+    {
+      "id": "",
+      "name": "Pedro Martinez"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Sergi Fita Juan"
+    },
+    {
+      "id": "",
+      "name": "Stefan Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
+}

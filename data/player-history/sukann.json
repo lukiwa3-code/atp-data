@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "sukann",
+    "name": "Suk Ann",
+    "displayName": "Suk Ann",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 12 April, 2026",
+      "dateIso": "2026-04-12",
+      "tournamentId": "1741",
+      "tournamentYear": "2026",
+      "tournamentName": "Renault Busan Open Tennis Championships",
+      "tournamentType": "CH",
+      "tournamentDate": "13-19 Apr, 2026",
+      "tournamentStartDate": "2026-04-13",
+      "tournamentEndDate": "2026-04-19",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 7-5",
+      "matchId": "RES-C842BF1CE9",
+      "reason": null,
+      "playerName": "Suk Ann",
+      "opponentName": "James Trotter",
+      "opponentKey": "jamestrotter",
+      "result": "L",
+      "playerRank": 2146,
+      "opponentRank": 345,
+      "rankingDate": "2026-04-06",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

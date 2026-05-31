@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "thiagoagustinpernas",
+    "name": "Thiago Agustin Pernas",
+    "displayName": "Thiago Agustin Pernas",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 11 January, 2026",
+      "dateIso": "2026-01-11",
+      "tournamentId": "1210",
+      "tournamentYear": "2026",
+      "tournamentName": "AAT Challenger Edicion TCA",
+      "tournamentType": "CH",
+      "tournamentDate": "12-17 Jan, 2026",
+      "tournamentStartDate": "2026-01-12",
+      "tournamentEndDate": "2026-01-17",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-4",
+      "matchId": "RES-33DE9A9865",
+      "reason": null,
+      "playerName": "Thiago Agustin Pernas",
+      "opponentName": "Stefan Palosi",
+      "opponentKey": "stefanpalosi",
+      "result": "L",
+      "playerRank": 1122,
+      "opponentRank": 507,
+      "rankingDate": "2026-01-05",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

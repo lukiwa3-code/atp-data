@@ -1,0 +1,804 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/sydney/2817/2025/draws",
+  "tournament": {
+    "id": "2817",
+    "year": "2025",
+    "name": "Sydney",
+    "location": "",
+    "date": "17-23 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/sydney/2817/2025/results",
+    "drawsUrl": "/en/scores/archive/sydney/2817/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/sydney/2817/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "17 - 23 November, 2025",
+    "tournamentStartDate": "2025-11-17",
+    "tournamentEndDate": "2025-11-23",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-17",
+    "endDate": "2025-11-23"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "J. Duckworth",
+          "player1FullName": "James Duckworth",
+          "player1Id": "D994",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "H. Matsuoka",
+          "player2FullName": "Hayato Matsuoka",
+          "player2Id": "M0SC",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "1",
+            "4"
+          ],
+          "winnerName": "James Duckworth",
+          "formattedScore": "6-1 6-4"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "J. Duckworth",
+          "player1FullName": "James Duckworth",
+          "player1Id": "D994",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "J. Kubler",
+          "player2FullName": "Jason Kubler",
+          "player2Id": "KB95",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "5",
+            "2"
+          ],
+          "winnerName": "James Duckworth",
+          "formattedScore": "7-5 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "H. Matsuoka",
+          "player1FullName": "Hayato Matsuoka",
+          "player1Id": "M0SC",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "J. McCabe",
+          "player2FullName": "James Mccabe",
+          "player2Id": "M0OQ",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "winnerName": "Hayato Matsuoka",
+          "formattedScore": "7-5 6-4"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "J. Duckworth",
+          "player1FullName": "James Duckworth",
+          "player1Id": "D994",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "D. Sweeny",
+          "player2FullName": "Dane Sweeny",
+          "player2Id": "S0IA",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "winnerName": "James Duckworth",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "J. Kubler",
+          "player1FullName": "Jason Kubler",
+          "player1Id": "KB95",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "A. Bolt",
+          "player2FullName": "Alex Bolt",
+          "player2Id": "BI81",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "winnerName": "Jason Kubler",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "T. Sach",
+          "player1FullName": "Tai Sach",
+          "player1Id": "S0U5",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "5",
+            "1"
+          ],
+          "player2": "H. Matsuoka",
+          "player2FullName": "Hayato Matsuoka",
+          "player2Id": "M0SC",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "6"
+          ],
+          "winnerName": "Hayato Matsuoka",
+          "formattedScore": "4-6 7-5 6-1"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "J. McCabe",
+          "player1FullName": "James Mccabe",
+          "player1Id": "M0OQ",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "R. Hijikata",
+          "player2FullName": "Rinky Hijikata",
+          "player2Id": "H0BH",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "winnerName": "James Mccabe",
+          "formattedScore": "6-3 7-5"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Duckworth",
+          "player1FullName": "James Duckworth",
+          "player1Id": "D994",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Dellavedova",
+          "player2FullName": "Matthew Dellavedova",
+          "player2Id": "D0A2",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "3",
+            "0"
+          ],
+          "winnerName": "James Duckworth",
+          "formattedScore": "6-3 6-0"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "T. Wu",
+          "player1FullName": "Tung Lin Wu",
+          "player1Id": "W857",
+          "player1Country": "TPE",
+          "player1ScoreTokens": [
+            "1",
+            "6 5"
+          ],
+          "player2": "D. Sweeny",
+          "player2FullName": "Dane Sweeny",
+          "player2Id": "S0IA",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Dane Sweeny",
+          "formattedScore": "6-1 7-6(5)"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Kubler",
+          "player1FullName": "Jason Kubler",
+          "player1Id": "KB95",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Gengel",
+          "player2FullName": "Marek Gengel",
+          "player2Id": "G09C",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "winnerName": "Jason Kubler",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "P. Sekulic",
+          "player1FullName": "Philip Sekulic",
+          "player1Id": "S0TI",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "2",
+            "1"
+          ],
+          "player2": "A. Bolt",
+          "player2FullName": "Alex Bolt",
+          "player2Id": "BI81",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Alex Bolt",
+          "formattedScore": "6-2 6-1"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "T. Sach",
+          "player1FullName": "Tai Sach",
+          "player1Id": "S0U5",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [],
+          "player2": "B. Ellis",
+          "player2FullName": "Blake Ellis",
+          "player2Id": "EA27",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [],
+          "winnerName": "Tai Sach",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "C. Hewitt",
+          "player1FullName": "Cruz Hewitt",
+          "player1Id": "H0K0",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "5"
+          ],
+          "player2": "H. Matsuoka",
+          "player2FullName": "Hayato Matsuoka",
+          "player2Id": "M0SC",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "7"
+          ],
+          "winnerName": "Hayato Matsuoka",
+          "formattedScore": "5-7 6-3 7-5"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. McCabe",
+          "player1FullName": "James Mccabe",
+          "player1Id": "M0OQ",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "K. Singh",
+          "player2FullName": "Karan Singh",
+          "player2Id": "S0RI",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "winnerName": "James Mccabe",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "C. Overbeck",
+          "player1FullName": "Carl Emil Overbeck",
+          "player1Id": "O0BI",
+          "player1Country": "DEN",
+          "player1ScoreTokens": [
+            "6 3",
+            "6 2"
+          ],
+          "player2": "R. Hijikata",
+          "player2FullName": "Rinky Hijikata",
+          "player2Id": "H0BH",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Rinky Hijikata",
+          "formattedScore": "7-6(3) 7-6(2)"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Duckworth",
+          "player1FullName": "James Duckworth",
+          "player1Id": "D994",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Bouzige",
+          "player2FullName": "Moerani Bouzige",
+          "player2Id": "B0EK",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "4",
+            "1"
+          ],
+          "winnerName": "James Duckworth",
+          "formattedScore": "6-4 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "F. Peliwo",
+          "player1FullName": "Filip Peliwo",
+          "player1Id": "PF65",
+          "player1Country": "POL",
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "player2": "M. Dellavedova",
+          "player2FullName": "Matthew Dellavedova",
+          "player2Id": "D0A2",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Matthew Dellavedova",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Wu",
+          "player1FullName": "Tung Lin Wu",
+          "player1Id": "W857",
+          "player1Country": "TPE",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "7"
+          ],
+          "player2": "M. Polmans",
+          "player2FullName": "Marc Polmans",
+          "player2Id": "PG94",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "5"
+          ],
+          "winnerName": "Tung Lin Wu",
+          "formattedScore": "6-4 3-6 7-5"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Langmo",
+          "player1FullName": "Christian Langmo",
+          "player1Id": "LI10",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "0"
+          ],
+          "player2": "D. Sweeny",
+          "player2FullName": "Dane Sweeny",
+          "player2Id": "S0IA",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "2"
+          ],
+          "winnerName": "Dane Sweeny",
+          "formattedScore": "2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Kubler",
+          "player1FullName": "Jason Kubler",
+          "player1Id": "KB95",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "6"
+          ],
+          "player2": "P. Marinkov",
+          "player2FullName": "Pavle Marinkov",
+          "player2Id": "M0TE",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "2"
+          ],
+          "winnerName": "Jason Kubler",
+          "formattedScore": "6-3 1-6 6-2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Jones",
+          "player1FullName": "Hayden Jones",
+          "player1Id": "J0D5",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "5"
+          ],
+          "player2": "M. Gengel",
+          "player2FullName": "Marek Gengel",
+          "player2Id": "G09C",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "7"
+          ],
+          "winnerName": "Marek Gengel",
+          "formattedScore": "5-7 6-4 7-5"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Sekulic",
+          "player1FullName": "Philip Sekulic",
+          "player1Id": "S0TI",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "2",
+            "6"
+          ],
+          "player2": "E. Hudd",
+          "player2FullName": "Emile Hudd",
+          "player2Id": "H0EK",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "3"
+          ],
+          "winnerName": "Philip Sekulic",
+          "formattedScore": "6-3 2-6 6-3"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Kumasaka",
+          "player1FullName": "Takuya Kumasaka",
+          "player1Id": "K0DE",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "player2": "A. Bolt",
+          "player2FullName": "Alex Bolt",
+          "player2Id": "BI81",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Alex Bolt",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Noguchi",
+          "player1FullName": "Rio Noguchi",
+          "player1Id": "N09U",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "2"
+          ],
+          "player2": "T. Sach",
+          "player2FullName": "Tai Sach",
+          "player2Id": "S0U5",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "6"
+          ],
+          "winnerName": "Tai Sach",
+          "formattedScore": "2-6 6-1 6-2"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Ellis",
+          "player1FullName": "Blake Ellis",
+          "player1Id": "EA27",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6 0",
+            "6",
+            "6"
+          ],
+          "player2": "S. Hazawa",
+          "player2FullName": "Shinji Hazawa",
+          "player2Id": "H0BA",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "2",
+            "4"
+          ],
+          "winnerName": "Blake Ellis",
+          "formattedScore": "6-7(0) 6-2 6-4"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Hewitt",
+          "player1FullName": "Cruz Hewitt",
+          "player1Id": "H0K0",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "3",
+            "7",
+            "6"
+          ],
+          "player2": "O. Jasika",
+          "player2FullName": "Omar Jasika",
+          "player2Id": "J553",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6 6",
+            "4"
+          ],
+          "winnerName": "Cruz Hewitt",
+          "formattedScore": "3-6 7-6(6) 6-4"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Matsuoka",
+          "player1FullName": "Hayato Matsuoka",
+          "player1Id": "M0SC",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6"
+          ],
+          "player2": "B. Tomic",
+          "player2FullName": "Bernard Tomic",
+          "player2Id": "TA46",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "4"
+          ],
+          "winnerName": "Hayato Matsuoka",
+          "formattedScore": "6-4"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. McCabe",
+          "player1FullName": "James Mccabe",
+          "player1Id": "M0OQ",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "H. Moriya",
+          "player2FullName": "Hiroki Moriya",
+          "player2Id": "MI01",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "winnerName": "James Mccabe",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Singh",
+          "player1FullName": "Karan Singh",
+          "player1Id": "S0RI",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "A. Shah",
+          "player2FullName": "Aryan Shah",
+          "player2Id": "S0W8",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "6 2",
+            "3"
+          ],
+          "winnerName": "Karan Singh",
+          "formattedScore": "7-6(2) 6-3"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Delaney",
+          "player1FullName": "Jake Delaney",
+          "player1Id": "DC38",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "player2": "C. Overbeck",
+          "player2FullName": "Carl Emil Overbeck",
+          "player2Id": "O0BI",
+          "player2Country": "DEN",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Carl Emil Overbeck",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Bicknell",
+          "player1FullName": "Blaise Bicknell",
+          "player1Id": "B0I5",
+          "player1Country": "JAM",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "2"
+          ],
+          "player2": "R. Hijikata",
+          "player2FullName": "Rinky Hijikata",
+          "player2Id": "H0BH",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "5",
+            "6"
+          ],
+          "winnerName": "Rinky Hijikata",
+          "formattedScore": "6-4 5-7 6-2"
+        }
+      ]
+    }
+  ]
+}

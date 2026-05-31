@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/como/3473/2025/results",
+  "tournament": {
+    "id": "3473",
+    "year": "2025",
+    "name": "Como",
+    "location": "",
+    "date": "25-31 Aug, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/como/3473/2025/results",
+    "drawsUrl": "/en/scores/archive/como/3473/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/como/3473/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "25 - 31 August, 2025",
+    "tournamentStartDate": "2025-08-25",
+    "tournamentEndDate": "2025-08-31",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-08-25",
+    "endDate": "2025-08-31"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adil Kalyanpur"
+    },
+    {
+      "id": "",
+      "name": "Adrian Boitan"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrej Martin"
+    },
+    {
+      "id": "",
+      "name": "Carlo Alberto Caniato"
+    },
+    {
+      "id": "",
+      "name": "Carlo Alberto Fossati"
+    },
+    {
+      "id": "",
+      "name": "Cedrik-Marcel Stebe"
+    },
+    {
+      "id": "",
+      "name": "Daniel Cukierman"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Facundo Diaz Acosta"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Federico Bondioli"
+    },
+    {
+      "id": "",
+      "name": "Federico Iannaccone"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Filip Duda"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Pennaforti"
+    },
+    {
+      "id": "",
+      "name": "Georgii Kravchenko"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Fonio"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Inaki Montes-De La Torre"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Vasami"
+    },
+    {
+      "id": "",
+      "name": "Jiri Barnat"
+    },
+    {
+      "id": "",
+      "name": "Juan Bautista Torres"
+    },
+    {
+      "id": "",
+      "name": "Kilian Feldbausch"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Carboni"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Luka Mikrut"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Parikshit Somani"
+    },
+    {
+      "id": "",
+      "name": "Pierluigi Basile"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "Rocco Piatti"
+    },
+    {
+      "id": "",
+      "name": "Rudolf Molleker"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Stefan Latinovic"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Thiago Monteiro"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Tommaso Compagnucci"
+    }
+  ]
+}

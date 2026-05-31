@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/nottingham/3007/2025/results",
+  "tournament": {
+    "id": "3007",
+    "year": "2025",
+    "name": "Nottingham 3",
+    "location": "",
+    "date": "7-13 Jul, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/nottingham/3007/2025/results",
+    "drawsUrl": "/en/scores/archive/nottingham/3007/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/nottingham/3007/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "7 - 13 July, 2025",
+    "tournamentStartDate": "2025-07-07",
+    "tournamentEndDate": "2025-07-13",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-07",
+    "endDate": "2025-07-13"
+  },
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "(12/WC)"
+    },
+    {
+      "id": "",
+      "name": "Adil Kalyanpur"
+    },
+    {
+      "id": "",
+      "name": "Alastair Gray"
+    },
+    {
+      "id": "",
+      "name": "Alexis Canter"
+    },
+    {
+      "id": "",
+      "name": "Amit Vales"
+    },
+    {
+      "id": "",
+      "name": "Andrin Casanova"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "Axel Nefve"
+    },
+    {
+      "id": "",
+      "name": "Ben Jones"
+    },
+    {
+      "id": "",
+      "name": "Charles Broom"
+    },
+    {
+      "id": "",
+      "name": "Charlie Robertson"
+    },
+    {
+      "id": "",
+      "name": "Connor Thomson"
+    },
+    {
+      "id": "",
+      "name": "Dinko Dinev"
+    },
+    {
+      "id": "",
+      "name": "Dylan Dietrich"
+    },
+    {
+      "id": "",
+      "name": "Edward Winter"
+    },
+    {
+      "id": "",
+      "name": "Finn Bass"
+    },
+    {
+      "id": "",
+      "name": "George Loffhagen"
+    },
+    {
+      "id": "",
+      "name": "Hamish Stewart"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Henry Searle"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Ilya Ivashka"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "James Mackinlay"
+    },
+    {
+      "id": "",
+      "name": "James Story"
+    },
+    {
+      "id": "",
+      "name": "Jan Hrazdil"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Kenny De Schepper"
+    },
+    {
+      "id": "",
+      "name": "Kyle Edmund"
+    },
+    {
+      "id": "",
+      "name": "Leonardo Rossi"
+    },
+    {
+      "id": "",
+      "name": "Liam Broady"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Lorusso"
+    },
+    {
+      "id": "",
+      "name": "Lui Maxted"
+    },
+    {
+      "id": "",
+      "name": "Mark Whitehouse"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Matthew Summers"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Niklas Schell"
+    },
+    {
+      "id": "",
+      "name": "Oliver Crawford"
+    },
+    {
+      "id": "",
+      "name": "Patrick Brady"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Petros Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Phoenix Weir"
+    },
+    {
+      "id": "",
+      "name": "Pietro Fellin"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Alujas"
+    },
+    {
+      "id": "",
+      "name": "Ryan Peniston"
+    },
+    {
+      "id": "",
+      "name": "Taha Baadi"
+    },
+    {
+      "id": "",
+      "name": "Tom Hands"
+    },
+    {
+      "id": "",
+      "name": "William Jansen"
+    }
+  ]
+}

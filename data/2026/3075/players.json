@@ -1,0 +1,248 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/metepec/3075/2026/results",
+  "tournament": {
+    "id": "3075",
+    "year": "2026",
+    "name": "Chaca Challenger Metepec Open",
+    "location": "",
+    "date": "16-22 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/metepec/3075/2026/results",
+    "drawsUrl": "/en/scores/archive/metepec/3075/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/metepec/3075/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "16 - 22 February, 2026",
+    "tournamentStartDate": "2026-02-16",
+    "tournamentEndDate": "2026-02-22",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-16",
+    "endDate": "2026-02-22"
+  },
+  "count": 52,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(2/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(3/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Alafia Ayeni"
+    },
+    {
+      "id": "",
+      "name": "Alan Fernando Rubio Fierros"
+    },
+    {
+      "id": "",
+      "name": "Alan Raul Sau Franco"
+    },
+    {
+      "id": "",
+      "name": "Alex Kobelt"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Amit Vales"
+    },
+    {
+      "id": "",
+      "name": "Andres Guerra"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "Axel Nefve"
+    },
+    {
+      "id": "",
+      "name": "Bautista De La Pena"
+    },
+    {
+      "id": "",
+      "name": "Ben Jones"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Thomas George"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Borna Gojo"
+    },
+    {
+      "id": "",
+      "name": "Brandon Perez"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "Dillon Beckles"
+    },
+    {
+      "id": "",
+      "name": "Drew Van Orderlain"
+    },
+    {
+      "id": "",
+      "name": "Edward Winter"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Gijs Brouwer"
+    },
+    {
+      "id": "",
+      "name": "Guillaume Dalmasso"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Aguilar"
+    },
+    {
+      "id": "",
+      "name": "Juan Jose Bianchi"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Barriga Martinez"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Juan Sebastian Gomez"
+    },
+    {
+      "id": "",
+      "name": "Juan Sebastian Osorio"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Kosuke Ogura"
+    },
+    {
+      "id": "",
+      "name": "Matteo Covato"
+    },
+    {
+      "id": "",
+      "name": "Miguel Tobon"
+    },
+    {
+      "id": "",
+      "name": "Natan Rodrigues"
+    },
+    {
+      "id": "",
+      "name": "Nick Hardt"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Esteban Rico Arias"
+    },
+    {
+      "id": "",
+      "name": "Noah Schachter"
+    },
+    {
+      "id": "",
+      "name": "Patricio Betancourt Gonzalez"
+    },
+    {
+      "id": "",
+      "name": "Pranav Kumar"
+    },
+    {
+      "id": "",
+      "name": "Rafael De Alba"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Ryan Dickerson"
+    },
+    {
+      "id": "",
+      "name": "Ryan Fishback"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Stefan Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Taha Baadi"
+    },
+    {
+      "id": "",
+      "name": "Tristan McCormick"
+    }
+  ]
+}

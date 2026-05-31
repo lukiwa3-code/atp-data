@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "source": "https://www.atptour.com/en/scores/archive/basel/328/2025/draws",
   "tournament": {
     "id": "328",
@@ -24,6 +24,8 @@
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
     "prizeMoney": "€2,584,155",
     "totalFinancialCommitment": "€2,611,710",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
     "syntheticHistoricalFallback": true,
     "syntheticSourceYear": "2026",
     "dateSource": "results_header_or_calendar",

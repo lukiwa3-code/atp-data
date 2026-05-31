@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/lincoln/2941/2025/results",
+  "tournament": {
+    "id": "2941",
+    "year": "2025",
+    "name": "Lincoln",
+    "location": "",
+    "date": "13-19 Oct, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/lincoln/2941/2025/results",
+    "drawsUrl": "/en/scores/archive/lincoln/2941/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/lincoln/2941/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "13 - 19 October, 2025",
+    "tournamentStartDate": "2025-10-13",
+    "tournamentEndDate": "2025-10-19",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-13",
+    "endDate": "2025-10-19"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/AL)"
+    },
+    {
+      "id": "",
+      "name": "(8/WC)"
+    },
+    {
+      "id": "",
+      "name": "Adhithya Ganesan"
+    },
+    {
+      "id": "",
+      "name": "Aidan McHugh"
+    },
+    {
+      "id": "",
+      "name": "Alex Rybakov"
+    },
+    {
+      "id": "",
+      "name": "Alfredo Perez"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andrew Fenty"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Hassan"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Brandon Perez"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Colson Wells"
+    },
+    {
+      "id": "",
+      "name": "Cooper Williams"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "Dhakshineswar Suresh"
+    },
+    {
+      "id": "",
+      "name": "Dmitry Popko"
+    },
+    {
+      "id": "",
+      "name": "Erik Arutiunian"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "Jay Friend"
+    },
+    {
+      "id": "",
+      "name": "Jeri Lassila"
+    },
+    {
+      "id": "",
+      "name": "Joan Torres Espinosa"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Joshua Sheehy"
+    },
+    {
+      "id": "",
+      "name": "Justin Boulais"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Keegan Smith"
+    },
+    {
+      "id": "",
+      "name": "Kyle Seelig"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Arseneault"
+    },
+    {
+      "id": "",
+      "name": "Niels Van Der Sijs"
+    },
+    {
+      "id": "",
+      "name": "Nikolay Sysoev"
+    },
+    {
+      "id": "",
+      "name": "Noah Schachter"
+    },
+    {
+      "id": "",
+      "name": "Oliver Tarvet"
+    },
+    {
+      "id": "",
+      "name": "Olle Wallin"
+    },
+    {
+      "id": "",
+      "name": "Ozan Baris"
+    },
+    {
+      "id": "",
+      "name": "Patrick Kypson"
+    },
+    {
+      "id": "",
+      "name": "Pranav Kumar"
+    },
+    {
+      "id": "",
+      "name": "Rafael Jodar"
+    },
+    {
+      "id": "",
+      "name": "Samir Banerjee"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    },
+    {
+      "id": "",
+      "name": "Sydney Zick"
+    },
+    {
+      "id": "",
+      "name": "Tyler Zink"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/brest/7341/2025/results",
+  "tournament": {
+    "id": "7341",
+    "year": "2025",
+    "name": "Brest",
+    "location": "",
+    "date": "20-26 Oct, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/brest/7341/2025/results",
+    "drawsUrl": "/en/scores/archive/brest/7341/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/brest/7341/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "20 - 26 October, 2025",
+    "tournamentStartDate": "2025-10-20",
+    "tournamentEndDate": "2025-10-26",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-20",
+    "endDate": "2025-10-26"
+  },
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(2/AL)"
+    },
+    {
+      "id": "",
+      "name": "(3/AL)"
+    },
+    {
+      "id": "",
+      "name": "(3/WC)"
+    },
+    {
+      "id": "",
+      "name": "(4/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alexey Vatutin"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Arthur Bonnaud"
+    },
+    {
+      "id": "",
+      "name": "Arthur Bouquier"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Clement Tabur"
+    },
+    {
+      "id": "",
+      "name": "Colton Smith"
+    },
+    {
+      "id": "",
+      "name": "Constantin Bittoun Kouzmine"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "David Jorda Sanchis"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Emil Ruusuvuori"
+    },
+    {
+      "id": "",
+      "name": "Evan Furness"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Francesco Passaro"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Jaime Faria"
+    },
+    {
+      "id": "",
+      "name": "Jonas Forejtek"
+    },
+    {
+      "id": "",
+      "name": "Kenny De Schepper"
+    },
+    {
+      "id": "",
+      "name": "Kimmer Coppejans"
+    },
+    {
+      "id": "",
+      "name": "Laslo Djere"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Leo Raquillet"
+    },
+    {
+      "id": "",
+      "name": "Lilian Marmousez"
+    },
+    {
+      "id": "",
+      "name": "Luca Nardi"
+    },
+    {
+      "id": "",
+      "name": "Luca Van Assche"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Moez Echargui"
+    },
+    {
+      "id": "",
+      "name": "Nikolay Vylegzhanin"
+    },
+    {
+      "id": "",
+      "name": "Norbert Gombos"
+    },
+    {
+      "id": "",
+      "name": "Otto Virtanen"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Ricardas Berankis"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Stuart Parker"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    }
+  ]
+}

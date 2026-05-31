@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/targu-mures/3023/2025/results",
+  "tournament": {
+    "id": "3023",
+    "year": "2025",
+    "name": "Targu Mures 2",
+    "location": "",
+    "date": "16-21 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/targu-mures/3023/2025/results",
+    "drawsUrl": "/en/scores/archive/targu-mures/3023/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/targu-mures/3023/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "16 - 21 September, 2025",
+    "tournamentStartDate": "2025-09-16",
+    "tournamentEndDate": "2025-09-21",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-16",
+    "endDate": "2025-09-21"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Adrian Boitan"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Mateo Berge Nourescu"
+    },
+    {
+      "id": "",
+      "name": "Alex Marti Pujolras"
+    },
+    {
+      "id": "",
+      "name": "Amaury Raynel"
+    },
+    {
+      "id": "",
+      "name": "Andrea Picchione"
+    },
+    {
+      "id": "",
+      "name": "Bernabe Zapata Miralles"
+    },
+    {
+      "id": "",
+      "name": "Brandon Perez"
+    },
+    {
+      "id": "",
+      "name": "Cezar Stefan Bentzel"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Dan Alexandru Tomescu"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Daniel Siniakov"
+    },
+    {
+      "id": "",
+      "name": "Daniel Uta"
+    },
+    {
+      "id": "",
+      "name": "Darius Florin Pop"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Emilien Demanet"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Filippo Romano"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Pennaforti"
+    },
+    {
+      "id": "",
+      "name": "Gerard Campana Lee"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Cadenasso"
+    },
+    {
+      "id": "",
+      "name": "Iannis Miletich"
+    },
+    {
+      "id": "",
+      "name": "Imanol Lopez Morillo"
+    },
+    {
+      "id": "",
+      "name": "Inaki Montes-De La Torre"
+    },
+    {
+      "id": "",
+      "name": "Jack Loge"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "John Sperle"
+    },
+    {
+      "id": "",
+      "name": "Juan Cruz Martin Manzano"
+    },
+    {
+      "id": "",
+      "name": "Kirill Kivattsev"
+    },
+    {
+      "id": "",
+      "name": "Matei Varbanciu"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Max Alcala Gurri"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Maximilian Neuchrist"
+    },
+    {
+      "id": "",
+      "name": "Miguel Damas"
+    },
+    {
+      "id": "",
+      "name": "Mihai Alexandru Coman"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Nicholas David Ionel"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Alvarez Varona"
+    },
+    {
+      "id": "",
+      "name": "Oleksandr Ovcharenko"
+    },
+    {
+      "id": "",
+      "name": "Radu Mihai Papoe"
+    },
+    {
+      "id": "",
+      "name": "Ryan Nijboer"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Stefan Palosi"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Tommaso Compagnucci"
+    }
+  ]
+}

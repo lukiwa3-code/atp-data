@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "xxxxxxxtran",
+    "name": "XXXXXXX Tran",
+    "displayName": "XXXXXXX Tran",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 25 January, 2026",
+      "dateIso": "2026-01-25",
+      "tournamentId": "3059",
+      "tournamentYear": "2026",
+      "tournamentName": "NovaWorld Phan Thiet Challenger 2",
+      "tournamentType": "CH",
+      "tournamentDate": "26 Jan - 1 Feb, 2026",
+      "tournamentStartDate": "2026-01-26",
+      "tournamentEndDate": "2026-02-01",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 6-3",
+      "matchId": "RES-AA99F967AC",
+      "reason": null,
+      "playerName": "XXXXXXX Tran",
+      "opponentName": "Jake Delaney",
+      "opponentKey": "jakedelaney",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 475,
+      "rankingDate": "2026-01-19",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

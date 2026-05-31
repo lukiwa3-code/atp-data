@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/cherbourg/398/2025/results",
+  "tournament": {
+    "id": "398",
+    "year": "2025",
+    "name": "Cherbourg",
+    "location": "",
+    "date": "10-16 Mar, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/cherbourg/398/2025/results",
+    "drawsUrl": "/en/scores/archive/cherbourg/398/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/cherbourg/398/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "10 - 16 March, 2025",
+    "tournamentStartDate": "2025-03-10",
+    "tournamentEndDate": "2025-03-16",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-10",
+    "endDate": "2025-03-16"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adrien Gobat"
+    },
+    {
+      "id": "",
+      "name": "Alex Martinez"
+    },
+    {
+      "id": "",
+      "name": "Alexey Vatutin"
+    },
+    {
+      "id": "",
+      "name": "Alibek Kachmazov"
+    },
+    {
+      "id": "",
+      "name": "Antoine Escoffier"
+    },
+    {
+      "id": "",
+      "name": "Arthur Bouquier"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "Axel Garcian"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Cyril Vandermeersch"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "David Jorda Sanchis"
+    },
+    {
+      "id": "",
+      "name": "Denis Istomin"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Egor Gerasimov"
+    },
+    {
+      "id": "",
+      "name": "Emil Ruusuvuori"
+    },
+    {
+      "id": "",
+      "name": "Evgeny Karlovskiy"
+    },
+    {
+      "id": "",
+      "name": "Felix Balshaw"
+    },
+    {
+      "id": "",
+      "name": "Florian Broska"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Kenny De Schepper"
+    },
+    {
+      "id": "",
+      "name": "Kris Van Wyk"
+    },
+    {
+      "id": "",
+      "name": "Loann Massard"
+    },
+    {
+      "id": "",
+      "name": "Louis Dussin"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Lukas Pokorny"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Maxence Beauge"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Naoya Honda"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Philip Henning"
+    },
+    {
+      "id": "",
+      "name": "Pierre Antoine Faut"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Tom Gentzsch"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    },
+    {
+      "id": "",
+      "name": "Yanis Ghazouani Durand"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    }
+  ]
+}

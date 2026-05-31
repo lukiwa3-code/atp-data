@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "louamboivin",
+    "name": "Louam Boivin",
+    "displayName": "Louam Boivin",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 04 January, 2026",
+      "dateIso": "2026-01-04",
+      "tournamentId": "2205",
+      "tournamentYear": "2026",
+      "tournamentName": "BNC TENNIS OPEN",
+      "tournamentType": "CH",
+      "tournamentDate": "5-10 Jan, 2026",
+      "tournamentStartDate": "2026-01-05",
+      "tournamentEndDate": "2026-01-10",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-0",
+      "matchId": "RES-7822BE6C65",
+      "reason": null,
+      "playerName": "Louam Boivin",
+      "opponentName": "Shunsuke Nakagawa",
+      "opponentKey": "shunsukenakagawa",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 864,
+      "rankingDate": "2025-12-29",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

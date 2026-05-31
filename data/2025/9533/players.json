@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/astana/9533/2025/results",
+  "tournament": {
+    "id": "9533",
+    "year": "2025",
+    "name": "Astana",
+    "location": "",
+    "date": "28 Jul - 3 Aug, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/astana/9533/2025/results",
+    "drawsUrl": "/en/scores/archive/astana/9533/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/astana/9533/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "28 July - 3 August, 2025",
+    "tournamentStartDate": "2025-07-28",
+    "tournamentEndDate": "2025-08-03",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-28",
+    "endDate": "2025-08-03"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Lobanov"
+    },
+    {
+      "id": "",
+      "name": "Aleksandre Bakshi"
+    },
+    {
+      "id": "",
+      "name": "Alexander Binda"
+    },
+    {
+      "id": "",
+      "name": "Alp Horoz"
+    },
+    {
+      "id": "",
+      "name": "Amir Milushev"
+    },
+    {
+      "id": "",
+      "name": "Amir Omarkhanov"
+    },
+    {
+      "id": "",
+      "name": "Arda Azkara"
+    },
+    {
+      "id": "",
+      "name": "Bekkhan Atlangeriev"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Daniel Tazabekov"
+    },
+    {
+      "id": "",
+      "name": "Dominik Palan"
+    },
+    {
+      "id": "",
+      "name": "Edward Winter"
+    },
+    {
+      "id": "",
+      "name": "Egor Gerasimov"
+    },
+    {
+      "id": "",
+      "name": "Erasyl Bakhtiyar"
+    },
+    {
+      "id": "",
+      "name": "Erik Arutiunian"
+    },
+    {
+      "id": "",
+      "name": "Evgeny Philippov"
+    },
+    {
+      "id": "",
+      "name": "Grigoriy Lomakin"
+    },
+    {
+      "id": "",
+      "name": "Islam Orynbasar"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Karan Singh"
+    },
+    {
+      "id": "",
+      "name": "Kokoro Isomura"
+    },
+    {
+      "id": "",
+      "name": "Kristjan Tamm"
+    },
+    {
+      "id": "",
+      "name": "Luca Castelnuovo"
+    },
+    {
+      "id": "",
+      "name": "Martin Borisiouk"
+    },
+    {
+      "id": "",
+      "name": "Maxim Shin"
+    },
+    {
+      "id": "",
+      "name": "Maxim Zhukov"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Michal Krajci"
+    },
+    {
+      "id": "",
+      "name": "Mitsuki Wei Kang Leong"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Olaf Pieczkowski"
+    },
+    {
+      "id": "",
+      "name": "Renta Tokuda"
+    },
+    {
+      "id": "",
+      "name": "Ricardas Berankis"
+    },
+    {
+      "id": "",
+      "name": "Ruslan Tiukaev"
+    },
+    {
+      "id": "",
+      "name": "Ryotaro Taguchi"
+    },
+    {
+      "id": "",
+      "name": "Saba Purtseladze"
+    },
+    {
+      "id": "",
+      "name": "Sanhui Shin"
+    },
+    {
+      "id": "",
+      "name": "Saveliy Ivanov"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Imai"
+    },
+    {
+      "id": "",
+      "name": "Shunsuke Nakagawa"
+    },
+    {
+      "id": "",
+      "name": "Taisei Ichikawa"
+    },
+    {
+      "id": "",
+      "name": "Takuya Kumasaka"
+    },
+    {
+      "id": "",
+      "name": "Uisung Park"
+    },
+    {
+      "id": "",
+      "name": "Woobin Shin"
+    },
+    {
+      "id": "",
+      "name": "Zangar Nurlanuly"
+    },
+    {
+      "id": "",
+      "name": "Zura Tkemaladze"
+    }
+  ]
+}

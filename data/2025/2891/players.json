@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/bad-waltersdorf/2891/2025/results",
+  "tournament": {
+    "id": "2891",
+    "year": "2025",
+    "name": "Bad Waltersdorf",
+    "location": "",
+    "date": "15-21 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/bad-waltersdorf/2891/2025/results",
+    "drawsUrl": "/en/scores/archive/bad-waltersdorf/2891/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/bad-waltersdorf/2891/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "15 - 21 September, 2025",
+    "tournamentStartDate": "2025-09-15",
+    "tournamentEndDate": "2025-09-21",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-15",
+    "endDate": "2025-09-21"
+  },
+  "count": 45,
+  "players": [
+    {
+      "id": "",
+      "name": "(9/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alex Huszar"
+    },
+    {
+      "id": "",
+      "name": "Cedrik-Marcel Stebe"
+    },
+    {
+      "id": "",
+      "name": "Daniel Elahi Galan"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Dennis Novak"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Facundo Diaz Acosta"
+    },
+    {
+      "id": "",
+      "name": "Francesco Passaro"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Piraino"
+    },
+    {
+      "id": "",
+      "name": "Gregor Ramskogler"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Janis Graski"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Jozef Kovalik"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Lukas Neumayer"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Marko Topo"
+    },
+    {
+      "id": "",
+      "name": "Marvin Moeller"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Matthew William Donald"
+    },
+    {
+      "id": "",
+      "name": "Matyas Cerny"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Neil Oberleitner"
+    },
+    {
+      "id": "",
+      "name": "Nico Hipfl"
+    },
+    {
+      "id": "",
+      "name": "Nikita Mashtakov"
+    },
+    {
+      "id": "",
+      "name": "Pablo Carreno Busta"
+    },
+    {
+      "id": "",
+      "name": "Robert Strombachs"
+    },
+    {
+      "id": "",
+      "name": "Roberto Carballes Baena"
+    },
+    {
+      "id": "",
+      "name": "Roman Andres Burruchaga"
+    },
+    {
+      "id": "",
+      "name": "Sandro Kopp"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Sorger"
+    },
+    {
+      "id": "",
+      "name": "Stijn Slump"
+    },
+    {
+      "id": "",
+      "name": "Syl Gaxherri"
+    },
+    {
+      "id": "",
+      "name": "Tadeas Paroulek"
+    },
+    {
+      "id": "",
+      "name": "Thiago Agustin Tirante"
+    },
+    {
+      "id": "",
+      "name": "Thiago Monteiro"
+    },
+    {
+      "id": "",
+      "name": "Thiago Seyboth Wild"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

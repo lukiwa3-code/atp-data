@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "tuncayduran",
+    "name": "Tuncay Duran",
+    "displayName": "T. Duran",
+    "playerId": "D0IO"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 18 May, 2026",
+      "dateIso": "2026-05-18",
+      "tournamentId": "3105",
+      "tournamentYear": "2026",
+      "tournamentName": "Bosphorus Challenger Cup",
+      "tournamentType": "CH",
+      "tournamentDate": "18-23 May, 2026",
+      "tournamentStartDate": "2026-05-18",
+      "tournamentEndDate": "2026-05-23",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-2",
+      "matchId": "RES-501D9C2ECA",
+      "reason": null,
+      "playerName": "Tuncay Duran",
+      "opponentName": "Franco Agamenone",
+      "opponentKey": "francoagamenone",
+      "result": "L",
+      "playerRank": 645,
+      "opponentRank": 269,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

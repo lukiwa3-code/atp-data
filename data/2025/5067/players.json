@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/savannah/5067/2025/results",
+  "tournament": {
+    "id": "5067",
+    "year": "2025",
+    "name": "Savannah",
+    "location": "",
+    "date": "21-27 Apr, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/savannah/5067/2025/results",
+    "drawsUrl": "/en/scores/archive/savannah/5067/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/savannah/5067/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "21 - 27 April, 2025",
+    "tournamentStartDate": "2025-04-21",
+    "tournamentEndDate": "2025-04-27",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-21",
+    "endDate": "2025-04-27"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(6/WC)"
+    },
+    {
+      "id": "",
+      "name": "Adrian Boitan"
+    },
+    {
+      "id": "",
+      "name": "Aidan Mayo"
+    },
+    {
+      "id": "",
+      "name": "Alex Rybakov"
+    },
+    {
+      "id": "",
+      "name": "Alfredo Perez"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Bruno Kuzuhara"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Chris Rodesch"
+    },
+    {
+      "id": "",
+      "name": "Christian Sigsgaard"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Dmitry Popko"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Emilio Nava"
+    },
+    {
+      "id": "",
+      "name": "Federico Agustin Gomez"
+    },
+    {
+      "id": "",
+      "name": "Felix Corwin"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Govind Nanda"
+    },
+    {
+      "id": "",
+      "name": "JJ Tracy"
+    },
+    {
+      "id": "",
+      "name": "Joao Lucas Reis Da Silva"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Joshua Charlton"
+    },
+    {
+      "id": "",
+      "name": "Joshua Sheehy"
+    },
+    {
+      "id": "",
+      "name": "Kiranpal Pannu"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Marc Polmans"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Oliver Crawford"
+    },
+    {
+      "id": "",
+      "name": "Patrick Kypson"
+    },
+    {
+      "id": "",
+      "name": "Patrick Maloney"
+    },
+    {
+      "id": "",
+      "name": "Quinn Vandecasteele"
+    },
+    {
+      "id": "",
+      "name": "Ryan Fishback"
+    },
+    {
+      "id": "",
+      "name": "Ryan Seggerman"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Stefan Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Steven Diez"
+    },
+    {
+      "id": "",
+      "name": "Tristan McCormick"
+    },
+    {
+      "id": "",
+      "name": "Tung-Lin Wu"
+    },
+    {
+      "id": "",
+      "name": "Tyler Zink"
+    }
+  ]
+}

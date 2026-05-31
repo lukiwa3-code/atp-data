@@ -21,6 +21,8 @@
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
   "prizeMoney": "€723,435",
   "totalFinancialCommitment": "€802,690",
+  "circuit": "tour",
+  "circuitLabel": "ATP Tour",
   "syntheticHistoricalFallback": true,
   "syntheticSourceYear": "2026",
   "dateSource": "results_header_or_calendar",

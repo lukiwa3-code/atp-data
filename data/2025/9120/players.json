@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/cassis/9120/2025/results",
+  "tournament": {
+    "id": "9120",
+    "year": "2025",
+    "name": "Cassis",
+    "location": "",
+    "date": "1-7 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/cassis/9120/2025/results",
+    "drawsUrl": "/en/scores/archive/cassis/9120/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/cassis/9120/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "1 - 7 September, 2025",
+    "tournamentStartDate": "2025-09-01",
+    "tournamentEndDate": "2025-09-07",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-01",
+    "endDate": "2025-09-07"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Antoine Escoffier"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "Benoit Paire"
+    },
+    {
+      "id": "",
+      "name": "Billy Harris"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Cyril Vandermeersch"
+    },
+    {
+      "id": "",
+      "name": "Damien Salvestre"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "David Pichler"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Egor Gerasimov"
+    },
+    {
+      "id": "",
+      "name": "Eliakim Coulibaly"
+    },
+    {
+      "id": "",
+      "name": "Enzo Wallart"
+    },
+    {
+      "id": "",
+      "name": "Etienne Donnet"
+    },
+    {
+      "id": "",
+      "name": "Felix Corwin"
+    },
+    {
+      "id": "",
+      "name": "Filippo Moroni"
+    },
+    {
+      "id": "",
+      "name": "Hamish Stewart"
+    },
+    {
+      "id": "",
+      "name": "Hugo Car"
+    },
+    {
+      "id": "",
+      "name": "Hugo Cardinaud"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Kenny De Schepper"
+    },
+    {
+      "id": "",
+      "name": "Leo Raquillet"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Lui Maxted"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Matteo Covato"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Tepmahc"
+    },
+    {
+      "id": "",
+      "name": "Nikolay Vylegzhanin"
+    },
+    {
+      "id": "",
+      "name": "Olaf Pieczkowski"
+    },
+    {
+      "id": "",
+      "name": "Olle Wallin"
+    },
+    {
+      "id": "",
+      "name": "Pierre Antoine Tailleu"
+    },
+    {
+      "id": "",
+      "name": "Quentin Halys"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Robin Catry"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Valentin Vacherot"
+    }
+  ]
+}

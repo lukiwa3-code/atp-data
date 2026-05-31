@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/seoul/7288/2025/results",
+  "tournament": {
+    "id": "7288",
+    "year": "2025",
+    "name": "Seoul",
+    "location": "",
+    "date": "27 Oct - 2 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/seoul/7288/2025/results",
+    "drawsUrl": "/en/scores/archive/seoul/7288/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/seoul/7288/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "27 October - 2 November, 2025",
+    "tournamentStartDate": "2025-10-27",
+    "tournamentEndDate": "2025-11-02",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-27",
+    "endDate": "2025-11-02"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Alexander Bravo"
+    },
+    {
+      "id": "",
+      "name": "Coleman Wong"
+    },
+    {
+      "id": "",
+      "name": "Dominik Palan"
+    },
+    {
+      "id": "",
+      "name": "Dong Ju Kim"
+    },
+    {
+      "id": "",
+      "name": "Duckhee Lee"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Egor Agafonov"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Evan Zhu"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Henrique Rocha"
+    },
+    {
+      "id": "",
+      "name": "Hyeon Chung"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "JiSung Nam"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Kaito Uesugi"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Kokoro Isomura"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Masamichi Imamura"
+    },
+    {
+      "id": "",
+      "name": "Maxim Zhukov"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Neil Oberleitner"
+    },
+    {
+      "id": "",
+      "name": "Oliver Crawford"
+    },
+    {
+      "id": "",
+      "name": "Omar Jasika"
+    },
+    {
+      "id": "",
+      "name": "Philip Sekulic"
+    },
+    {
+      "id": "",
+      "name": "Ramkumar Ramanathan"
+    },
+    {
+      "id": "",
+      "name": "Renta Tokuda"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Ryuki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Sanhui Shin"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Takuya Kumasaka"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Tsung-Hao Huang"
+    },
+    {
+      "id": "",
+      "name": "Uisung Park"
+    },
+    {
+      "id": "",
+      "name": "Woobin Shin"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yi Zhou"
+    },
+    {
+      "id": "",
+      "name": "Yoshihito Nishioka"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    },
+    {
+      "id": "",
+      "name": "Yuki Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Yun seong Chung"
+    },
+    {
+      "id": "",
+      "name": "Yunchaokete Bu"
+    },
+    {
+      "id": "",
+      "name": "Yusuke Takahashi"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    }
+  ]
+}

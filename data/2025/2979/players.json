@@ -1,0 +1,228 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/oeiras/2979/2025/results",
+  "tournament": {
+    "id": "2979",
+    "year": "2025",
+    "name": "Oeiras 3",
+    "location": "",
+    "date": "21-26 Jan, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/oeiras/2979/2025/results",
+    "drawsUrl": "/en/scores/archive/oeiras/2979/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/oeiras/2979/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "21 - 26 January, 2025",
+    "tournamentStartDate": "2025-01-21",
+    "tournamentEndDate": "2025-01-26",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-01-21",
+    "endDate": "2025-01-26"
+  },
+  "count": 47,
+  "players": [
+    {
+      "id": "",
+      "name": "(12/AL)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Adrian Andreev"
+    },
+    {
+      "id": "",
+      "name": "Aidan Mayo"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alexander Blockx"
+    },
+    {
+      "id": "",
+      "name": "Alexander Ritschard"
+    },
+    {
+      "id": "",
+      "name": "Alexey Zakharov"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Bernabe Zapata Miralles"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Christopher Eubanks"
+    },
+    {
+      "id": "",
+      "name": "Cleeve Harper"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Daniel Batista"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Dino Molokova Ferreira"
+    },
+    {
+      "id": "",
+      "name": "Dmitry Popko"
+    },
+    {
+      "id": "",
+      "name": "Dominik Koepfer"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Gastao Elias"
+    },
+    {
+      "id": "",
+      "name": "Henrique Rocha"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Jaime Faria"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Jesper de Jong"
+    },
+    {
+      "id": "",
+      "name": "Jiri Vesely"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Lukas Klein"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Mick Veldheer"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Nikoloz Basilashvili"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Pedro Araujo"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    }
+  ]
+}

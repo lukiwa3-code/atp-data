@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/lyon/2963/2025/results",
+  "tournament": {
+    "id": "2963",
+    "year": "2025",
+    "name": "Lyon (Décines-Charpieu)",
+    "location": "",
+    "date": "10-16 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/lyon/2963/2025/results",
+    "drawsUrl": "/en/scores/archive/lyon/2963/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/lyon/2963/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "10 - 16 November, 2025",
+    "tournamentStartDate": "2025-11-10",
+    "tournamentEndDate": "2025-11-16",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-10",
+    "endDate": "2025-11-16"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Alexander Binda"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Arthur Bouquier"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "Arthur Gea"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Hassan"
+    },
+    {
+      "id": "",
+      "name": "Billy Harris"
+    },
+    {
+      "id": "",
+      "name": "Charlie Robertson"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Francesco Passaro"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "George Loffhagen"
+    },
+    {
+      "id": "",
+      "name": "Gilles Arnaud Bailly"
+    },
+    {
+      "id": "",
+      "name": "Gregoire Barrere"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jan Kumstat"
+    },
+    {
+      "id": "",
+      "name": "Jan-Lennard Struff"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Laslo Djere"
+    },
+    {
+      "id": "",
+      "name": "Liam Broady"
+    },
+    {
+      "id": "",
+      "name": "Luca Van Assche"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Matisse Bobichon"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Thiago Agustin Tirante"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Timothee Lustig"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Tom Gentzsch"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Tomasz Berkieta"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    },
+    {
+      "id": "",
+      "name": "Yannick Hanfmann"
+    }
+  ]
+}

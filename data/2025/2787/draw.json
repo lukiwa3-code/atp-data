@@ -1,0 +1,806 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/lima/2787/2025/draws",
+  "tournament": {
+    "id": "2787",
+    "year": "2025",
+    "name": "Lima 1",
+    "location": "",
+    "date": "23-28 Jun, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/lima/2787/2025/results",
+    "drawsUrl": "/en/scores/archive/lima/2787/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/lima/2787/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "23 - 28 June, 2025",
+    "tournamentStartDate": "2025-06-23",
+    "tournamentEndDate": "2025-06-28",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-23",
+    "endDate": "2025-06-28"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "J. Prado Angelo",
+          "player1FullName": "Juan Carlos Prado Angelo",
+          "player1Id": "P0IY",
+          "player1Country": "BOL",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "G. Bueno",
+          "player2FullName": "Gonzalo Bueno",
+          "player2Id": "B0GR",
+          "player2Country": "PER",
+          "player2ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "winnerName": "Juan Carlos Prado Angelo",
+          "formattedScore": "6-4 7-5"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "J. Prado Angelo",
+          "player1FullName": "Juan Carlos Prado Angelo",
+          "player1Id": "P0IY",
+          "player1Country": "BOL",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "P. Boscardin Dias",
+          "player2FullName": "Pedro Boscardin Dias",
+          "player2Id": "B0FI",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "4",
+            "1"
+          ],
+          "winnerName": "Juan Carlos Prado Angelo",
+          "formattedScore": "6-4 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "G. Bueno",
+          "player1FullName": "Gonzalo Bueno",
+          "player1Id": "B0GR",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "D. Blanch",
+          "player2FullName": "Dali Blanch",
+          "player2Id": "B0JP",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "5",
+            "6 3"
+          ],
+          "winnerName": "Gonzalo Bueno",
+          "formattedScore": "7-5 7-6(3)"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "N. Mejia",
+          "player1FullName": "Nicolas Mejia",
+          "player1Id": "M0AW",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "player2": "J. Prado Angelo",
+          "player2FullName": "Juan Carlos Prado Angelo",
+          "player2Id": "P0IY",
+          "player2Country": "BOL",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Juan Carlos Prado Angelo",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "P. Boscardin Dias",
+          "player1FullName": "Pedro Boscardin Dias",
+          "player1Id": "B0FI",
+          "player1Country": "BRA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Barrena",
+          "player2FullName": "Alex Barrena",
+          "player2Id": "B0GY",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "winnerName": "Pedro Boscardin Dias",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "G. Bueno",
+          "player1FullName": "Gonzalo Bueno",
+          "player1Id": "B0GR",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Pucinelli De Almeida",
+          "player2FullName": "Matheus Pucinelli De Almeida",
+          "player2Id": "P0DF",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "winnerName": "Gonzalo Bueno",
+          "formattedScore": "6-3 6-1"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "G. Olivieri",
+          "player1FullName": "Genaro Alberto Olivieri",
+          "player1Id": "O660",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6 6",
+            "6 4"
+          ],
+          "player2": "D. Blanch",
+          "player2FullName": "Dali Blanch",
+          "player2Id": "B0JP",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Dali Blanch",
+          "formattedScore": "7-6(6) 7-6(4)"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "N. Mejia",
+          "player1FullName": "Nicolas Mejia",
+          "player1Id": "M0AW",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "7",
+            "6 3",
+            "6"
+          ],
+          "player2": "P. Rodrigues",
+          "player2FullName": "Pedro Rodrigues",
+          "player2Id": "R0JH",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6 5",
+            "7",
+            "3"
+          ],
+          "winnerName": "Nicolas Mejia",
+          "formattedScore": "7-6(5) 6-7(3) 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Prado Angelo",
+          "player1FullName": "Juan Carlos Prado Angelo",
+          "player1Id": "P0IY",
+          "player1Country": "BOL",
+          "player1ScoreTokens": [
+            "6",
+            "5",
+            "6"
+          ],
+          "player2": "M. Jones",
+          "player2FullName": "Maximus Jones",
+          "player2Id": "J0D2",
+          "player2Country": "THA",
+          "player2ScoreTokens": [
+            "3",
+            "7",
+            "3"
+          ],
+          "winnerName": "Juan Carlos Prado Angelo",
+          "formattedScore": "6-3 5-7 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "L. Midon",
+          "player1FullName": "Lautaro Midon",
+          "player1Id": "M0OH",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "0",
+            "2"
+          ],
+          "player2": "P. Boscardin Dias",
+          "player2FullName": "Pedro Boscardin Dias",
+          "player2Id": "B0FI",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Pedro Boscardin Dias",
+          "formattedScore": "6-0 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Barrena",
+          "player1FullName": "Alex Barrena",
+          "player1Id": "B0GY",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "6"
+          ],
+          "player2": "J. Torres",
+          "player2FullName": "Juan Bautista Torres",
+          "player2Id": "T0DM",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "7",
+            "3",
+            "4"
+          ],
+          "winnerName": "Alex Barrena",
+          "formattedScore": "5-7 6-3 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Bueno",
+          "player1FullName": "Gonzalo Bueno",
+          "player1Id": "B0GR",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "6",
+            "2"
+          ],
+          "player2": "H. Casanova",
+          "player2FullName": "Hernan Casanova",
+          "player2Id": "CG07",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "2",
+            "0"
+          ],
+          "winnerName": "Gonzalo Bueno",
+          "formattedScore": "6 2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Villanueva",
+          "player1FullName": "Gonzalo Villanueva",
+          "player1Id": "V821",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "1",
+            "4"
+          ],
+          "player2": "M. Pucinelli De Almeida",
+          "player2FullName": "Matheus Pucinelli De Almeida",
+          "player2Id": "P0DF",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Matheus Pucinelli De Almeida",
+          "formattedScore": "6-1 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Olivieri",
+          "player1FullName": "Genaro Alberto Olivieri",
+          "player1Id": "O660",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "B. Bicknell",
+          "player2FullName": "Blaise Bicknell",
+          "player2Id": "B0I5",
+          "player2Country": "JAM",
+          "player2ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "winnerName": "Genaro Alberto Olivieri",
+          "formattedScore": "6-3 6-1"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Blanch",
+          "player1FullName": "Dali Blanch",
+          "player1Id": "B0JP",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "M. Tobon",
+          "player2FullName": "Miguel Tobon",
+          "player2Id": "T0I3",
+          "player2Country": "COL",
+          "player2ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "winnerName": "Dali Blanch",
+          "formattedScore": "7-5 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "N. Mejia",
+          "player1FullName": "Nicolas Mejia",
+          "player1Id": "M0AW",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "N. Kicker",
+          "player2FullName": "Nicolas Kicker",
+          "player2Id": "KC29",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6 2",
+            "5"
+          ],
+          "winnerName": "Nicolas Mejia",
+          "formattedScore": "7-6(2) 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Tudorica",
+          "player1FullName": "Alvin Nicholas Tudorica",
+          "player1Id": "T0IZ",
+          "player1Country": "CAN",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "player2": "P. Rodrigues",
+          "player2FullName": "Pedro Rodrigues",
+          "player2Id": "R0JH",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "winnerName": "Pedro Rodrigues",
+          "formattedScore": "4-6 6-4 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Li",
+          "player1FullName": "Christopher Li",
+          "player1Id": "L0DO",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "1",
+            "6",
+            "2"
+          ],
+          "player2": "J. Prado Angelo",
+          "player2FullName": "Juan Carlos Prado Angelo",
+          "player2Id": "P0IY",
+          "player2Country": "BOL",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "winnerName": "Juan Carlos Prado Angelo",
+          "formattedScore": "6-1 4-6 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Jones",
+          "player1FullName": "Maximus Jones",
+          "player1Id": "J0D2",
+          "player1Country": "THA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "R. Olivo",
+          "player2FullName": "Renzo Olivo",
+          "player2Id": "O376",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6 2",
+            "4"
+          ],
+          "winnerName": "Maximus Jones",
+          "formattedScore": "7-6(2) 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Midon",
+          "player1FullName": "Lautaro Midon",
+          "player1Id": "M0OH",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "N. Baena",
+          "player2FullName": "Nicolas Baena",
+          "player2Id": "B0YB",
+          "player2Country": "PER",
+          "player2ScoreTokens": [
+            "0",
+            "4"
+          ],
+          "winnerName": "Lautaro Midon",
+          "formattedScore": "6-0 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "F. Roncadelli",
+          "player1FullName": "Franco Roncadelli",
+          "player1Id": "R0BT",
+          "player1Country": "URU",
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "player2": "P. Boscardin Dias",
+          "player2FullName": "Pedro Boscardin Dias",
+          "player2Id": "B0FI",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Pedro Boscardin Dias",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Ambrogi",
+          "player1FullName": "Luciano Emanuel Ambrogi",
+          "player1Id": "A0IK",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "5",
+            "0"
+          ],
+          "player2": "A. Barrena",
+          "player2FullName": "Alex Barrena",
+          "player2Id": "B0GY",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "7",
+            "2"
+          ],
+          "winnerName": "Alex Barrena",
+          "formattedScore": "7 2"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Kuzuhara",
+          "player1FullName": "Bruno Kuzuhara",
+          "player1Id": "K0HN",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6 5",
+            "3"
+          ],
+          "player2": "J. Torres",
+          "player2FullName": "Juan Bautista Torres",
+          "player2Id": "T0DM",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Juan Bautista Torres",
+          "formattedScore": "7-6(5) 6-3"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "G. Bueno",
+          "player1FullName": "Gonzalo Bueno",
+          "player1Id": "B0GR",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "G. Justo",
+          "player2FullName": "Guido Ivan Justo",
+          "player2Id": "J0AW",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "0",
+            "4"
+          ],
+          "winnerName": "Gonzalo Bueno",
+          "formattedScore": "6-0 6-4"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Casanova",
+          "player1FullName": "Hernan Casanova",
+          "player1Id": "CG07",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "M. Kestelboim",
+          "player2FullName": "Mariano Kestelboim",
+          "player2Id": "KE69",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "winnerName": "Hernan Casanova",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "G. Villanueva",
+          "player1FullName": "Gonzalo Villanueva",
+          "player1Id": "V821",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Hernandez",
+          "player2FullName": "Alex Hernandez",
+          "player2Id": "H0CD",
+          "player2Country": "MEX",
+          "player2ScoreTokens": [
+            "1",
+            "1"
+          ],
+          "winnerName": "Gonzalo Villanueva",
+          "formattedScore": "6-1 6-1"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Bertran",
+          "player1FullName": "Peter Bertran",
+          "player1Id": "BP79",
+          "player1Country": "DOM",
+          "player1ScoreTokens": [
+            "1",
+            "2"
+          ],
+          "player2": "M. Pucinelli De Almeida",
+          "player2FullName": "Matheus Pucinelli De Almeida",
+          "player2Id": "P0DF",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Matheus Pucinelli De Almeida",
+          "formattedScore": "6-1 6-2"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "G. Olivieri",
+          "player1FullName": "Genaro Alberto Olivieri",
+          "player1Id": "O660",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "C. Huertas del Pino",
+          "player2FullName": "Conner Huertas Del Pino",
+          "player2Id": "HG90",
+          "player2Country": "PER",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "3"
+          ],
+          "winnerName": "Genaro Alberto Olivieri",
+          "formattedScore": "6-3 3-6 6-3"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Sperle",
+          "player1FullName": "John Sperle",
+          "player1Id": "S0LR",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "player2": "B. Bicknell",
+          "player2FullName": "Blaise Bicknell",
+          "player2Id": "B0I5",
+          "player2Country": "JAM",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Blaise Bicknell",
+          "formattedScore": "6-4 7-5"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Rodriguez",
+          "player1FullName": "Johan Alexander Rodriguez",
+          "player1Id": "R0F1",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "2",
+            "6 10"
+          ],
+          "player2": "D. Blanch",
+          "player2FullName": "Dali Blanch",
+          "player2Id": "B0JP",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Dali Blanch",
+          "formattedScore": "6-2 7-6(10)"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Tobon",
+          "player1FullName": "Miguel Tobon",
+          "player1Id": "T0I3",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "J. Reis Da Silva",
+          "player2FullName": "Joao Lucas Reis Da Silva",
+          "player2Id": "R0A7",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "2",
+            "5"
+          ],
+          "winnerName": "Miguel Tobon",
+          "formattedScore": "6-2 7-5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/pau/9162/2026/results",
+  "tournament": {
+    "id": "9162",
+    "year": "2026",
+    "name": "Terega Open Pau Pyrénées",
+    "location": "",
+    "date": "9-15 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/pau/9162/2026/results",
+    "drawsUrl": "/en/scores/archive/pau/9162/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/pau/9162/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "9 - 15 February, 2026",
+    "tournamentStartDate": "2026-02-09",
+    "tournamentEndDate": "2026-02-15",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-09",
+    "endDate": "2026-02-15"
+  },
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(4/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(5/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(5/WC)"
+    },
+    {
+      "id": "",
+      "name": "(6/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(7/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Shevchenko"
+    },
+    {
+      "id": "",
+      "name": "Alexander Blockx"
+    },
+    {
+      "id": "",
+      "name": "Arthur Bouquier"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Bonzi"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Clement Tabur"
+    },
+    {
+      "id": "",
+      "name": "Cyril Vandermeersch"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "Felix Balshaw"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "James Trotter"
+    },
+    {
+      "id": "",
+      "name": "Jerome Kym"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Leandro Riedi"
+    },
+    {
+      "id": "",
+      "name": "Leo Raquillet"
+    },
+    {
+      "id": "",
+      "name": "Loann Massard"
+    },
+    {
+      "id": "",
+      "name": "Luca Nardi"
+    },
+    {
+      "id": "",
+      "name": "Luca Van Assche"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Lukas Klein"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Mark Lajal"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Maxence Beauge"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michele Ribecai"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Moez Echargui"
+    },
+    {
+      "id": "",
+      "name": "Moise Kouame"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Pierre Antoine Faut"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Robin Catry"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/sofia/2043/2025/results",
+  "tournament": {
+    "id": "2043",
+    "year": "2025",
+    "name": "Sofia 1",
+    "location": "",
+    "date": "11-16 Aug, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/sofia/2043/2025/results",
+    "drawsUrl": "/en/scores/archive/sofia/2043/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/sofia/2043/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "11 - 16 August, 2025",
+    "tournamentStartDate": "2025-08-11",
+    "tournamentEndDate": "2025-08-16",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-08-11",
+    "endDate": "2025-08-16"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(3/WC)"
+    },
+    {
+      "id": "",
+      "name": "Alexander Donski"
+    },
+    {
+      "id": "",
+      "name": "Alexander Vasilev"
+    },
+    {
+      "id": "",
+      "name": "Anas Mazdrashki"
+    },
+    {
+      "id": "",
+      "name": "Andrej Nedic"
+    },
+    {
+      "id": "",
+      "name": "Aryan Shah"
+    },
+    {
+      "id": "",
+      "name": "Bernabe Zapata Miralles"
+    },
+    {
+      "id": "",
+      "name": "Branko Djuric"
+    },
+    {
+      "id": "",
+      "name": "Dali Blanch"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Dusan Obradovic"
+    },
+    {
+      "id": "",
+      "name": "Eric Vanshelboim"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Georgi Georgiev"
+    },
+    {
+      "id": "",
+      "name": "Ivan Ivanov"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Bilardo"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Kilian Feldbausch"
+    },
+    {
+      "id": "",
+      "name": "Kirill Kivattsev"
+    },
+    {
+      "id": "",
+      "name": "Lautaro Midon"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Maxime Chazal"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Naoya Honda"
+    },
+    {
+      "id": "",
+      "name": "Nerman Fatic"
+    },
+    {
+      "id": "",
+      "name": "Nikita Mashtakov"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Sanchez Izquierdo"
+    },
+    {
+      "id": "",
+      "name": "Nitin Kumar Sinha"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Olle Wallin"
+    },
+    {
+      "id": "",
+      "name": "S D Prajwal Dev"
+    },
+    {
+      "id": "",
+      "name": "Sandro Kopp"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Sergey Fomin"
+    },
+    {
+      "id": "",
+      "name": "Stefan Adrian Andreescu"
+    },
+    {
+      "id": "",
+      "name": "Stefan Latinovic"
+    },
+    {
+      "id": "",
+      "name": "Tadeas Paroulek"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Viktor Kirov"
+    },
+    {
+      "id": "",
+      "name": "Viktor Markov"
+    },
+    {
+      "id": "",
+      "name": "Yanaki Milev"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

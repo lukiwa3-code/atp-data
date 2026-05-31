@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/newport/315/2025/results",
+  "tournament": {
+    "id": "315",
+    "year": "2025",
+    "name": "Newport",
+    "location": "",
+    "date": "7-13 Jul, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/newport/315/2025/results",
+    "drawsUrl": "/en/scores/archive/newport/315/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/newport/315/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "7 - 13 July, 2025",
+    "tournamentStartDate": "2025-07-07",
+    "tournamentEndDate": "2025-07-13",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-07",
+    "endDate": "2025-07-13"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(5/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Aidan Mayo"
+    },
+    {
+      "id": "",
+      "name": "Alafia Ayeni"
+    },
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Alex Finkelstein"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Blake Bayldon"
+    },
+    {
+      "id": "",
+      "name": "Boris Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Christopher Eubanks"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "Daniel Milavsky"
+    },
+    {
+      "id": "",
+      "name": "Drew Van Orderlain"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Evan Zhu"
+    },
+    {
+      "id": "",
+      "name": "Finn Reynolds"
+    },
+    {
+      "id": "",
+      "name": "Gage Brymer"
+    },
+    {
+      "id": "",
+      "name": "Hans Hach Verdugo"
+    },
+    {
+      "id": "",
+      "name": "Henry Barrett"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "James Watt"
+    },
+    {
+      "id": "",
+      "name": "Joao Vitor Goncalves Ceolin"
+    },
+    {
+      "id": "",
+      "name": "Joshua Sheehy"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Keisuke Saitoh"
+    },
+    {
+      "id": "",
+      "name": "Kiranpal Pannu"
+    },
+    {
+      "id": "",
+      "name": "Matt Kuhar"
+    },
+    {
+      "id": "",
+      "name": "Michael Zheng"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Omar Jasika"
+    },
+    {
+      "id": "",
+      "name": "Oscar Weightman"
+    },
+    {
+      "id": "",
+      "name": "Patrick Kypson"
+    },
+    {
+      "id": "",
+      "name": "Patrick Maloney"
+    },
+    {
+      "id": "",
+      "name": "Pranav Kumar"
+    },
+    {
+      "id": "",
+      "name": "Quinn Vandecasteele"
+    },
+    {
+      "id": "",
+      "name": "Reese Stalder"
+    },
+    {
+      "id": "",
+      "name": "Stefan Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Takeru Yuzuki"
+    },
+    {
+      "id": "",
+      "name": "Trey Hilderbrand"
+    },
+    {
+      "id": "",
+      "name": "Tristan McCormick"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Tyler Zink"
+    },
+    {
+      "id": "",
+      "name": "Wally Thayne"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yosuke Watanuki"
+    },
+    {
+      "id": "",
+      "name": "Zachary Svajda"
+    }
+  ]
+}

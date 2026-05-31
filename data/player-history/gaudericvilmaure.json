@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "gaudericvilmaure",
+    "name": "Gauderic Vilmaure",
+    "displayName": "Gauderic Vilmaure",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 03 May, 2026",
+      "dateIso": "2026-05-03",
+      "tournamentId": "2961",
+      "tournamentYear": "2026",
+      "tournamentName": "Brazzaville Challenger",
+      "tournamentType": "CH",
+      "tournamentDate": "4-10 May, 2026",
+      "tournamentStartDate": "2026-05-04",
+      "tournamentEndDate": "2026-05-10",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-7(5) 6-4",
+      "matchId": "RES-3CFA16DBF2",
+      "reason": null,
+      "playerName": "Gauderic Vilmaure",
+      "opponentName": "Guelord Kayombo",
+      "opponentKey": "guelordkayombo",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-04-27",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

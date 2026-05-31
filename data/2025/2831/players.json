@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/oeiras/2831/2025/results",
+  "tournament": {
+    "id": "2831",
+    "year": "2025",
+    "name": "Oeiras 1",
+    "location": "",
+    "date": "6-11 Jan, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/oeiras/2831/2025/results",
+    "drawsUrl": "/en/scores/archive/oeiras/2831/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/oeiras/2831/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "6 - 11 January, 2025",
+    "tournamentStartDate": "2025-01-06",
+    "tournamentEndDate": "2025-01-11",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-01-06",
+    "endDate": "2025-01-11"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Alexander Ritschard"
+    },
+    {
+      "id": "",
+      "name": "Alexey Vatutin"
+    },
+    {
+      "id": "",
+      "name": "Alexey Zakharov"
+    },
+    {
+      "id": "",
+      "name": "Antoine Cornut-Chauvinc"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Bernabe Zapata Miralles"
+    },
+    {
+      "id": "",
+      "name": "Cezar Cretu"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Cleeve Harper"
+    },
+    {
+      "id": "",
+      "name": "Daniel Batista"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Diogo Marques"
+    },
+    {
+      "id": "",
+      "name": "Duarte Vale"
+    },
+    {
+      "id": "",
+      "name": "Egor Gerasimov"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Evgeny Karlovskiy"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Gastao Elias"
+    },
+    {
+      "id": "",
+      "name": "Gerard Campana Lee"
+    },
+    {
+      "id": "",
+      "name": "Hamad Medjedovic"
+    },
+    {
+      "id": "",
+      "name": "Hazem Naw"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "J.J. Wolf"
+    },
+    {
+      "id": "",
+      "name": "JJ Tracy"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Karue Sell"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Giustino"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Max Hans Rehberg"
+    },
+    {
+      "id": "",
+      "name": "Micah Braswell"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Pedro Araujo"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Ricardas Berankis"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Rudolf Molleker"
+    },
+    {
+      "id": "",
+      "name": "Samuel Vincent Ruggeri"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Fanselow"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Tiago Torres"
+    },
+    {
+      "id": "",
+      "name": "Tomas Serrano Luis"
+    },
+    {
+      "id": "",
+      "name": "Trey Hilderbrand"
+    },
+    {
+      "id": "",
+      "name": "Zsombor Piros"
+    }
+  ]
+}

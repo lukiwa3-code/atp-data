@@ -1,0 +1,228 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/sioux-falls/2951/2025/results",
+  "tournament": {
+    "id": "2951",
+    "year": "2025",
+    "name": "Sioux Falls",
+    "location": "",
+    "date": "20-26 Oct, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/sioux-falls/2951/2025/results",
+    "drawsUrl": "/en/scores/archive/sioux-falls/2951/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/sioux-falls/2951/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "20 - 26 October, 2025",
+    "tournamentStartDate": "2025-10-20",
+    "tournamentEndDate": "2025-10-26",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-20",
+    "endDate": "2025-10-26"
+  },
+  "count": 47,
+  "players": [
+    {
+      "id": "",
+      "name": "Adhithya Ganesan"
+    },
+    {
+      "id": "",
+      "name": "Aidan McHugh"
+    },
+    {
+      "id": "",
+      "name": "Alfredo Perez"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andrew Fenty"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Aryan Shah"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Kittay"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Cleeve Harper"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "Dante Carlos Teramo"
+    },
+    {
+      "id": "",
+      "name": "Darwin Blanch"
+    },
+    {
+      "id": "",
+      "name": "Erik Arutiunian"
+    },
+    {
+      "id": "",
+      "name": "Francisco Rocha"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "Jacob Brumm"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Jordan Thompson"
+    },
+    {
+      "id": "",
+      "name": "Joshua Sheehy"
+    },
+    {
+      "id": "",
+      "name": "Justin Boulais"
+    },
+    {
+      "id": "",
+      "name": "Keegan Smith"
+    },
+    {
+      "id": "",
+      "name": "Kenta Miyoshi"
+    },
+    {
+      "id": "",
+      "name": "Kyle Seelig"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maxwell Exsted"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Michael Zheng"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Arseneault"
+    },
+    {
+      "id": "",
+      "name": "Noah Schachter"
+    },
+    {
+      "id": "",
+      "name": "Oliver Tarvet"
+    },
+    {
+      "id": "",
+      "name": "Ozan Baris"
+    },
+    {
+      "id": "",
+      "name": "Patrick Kypson"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Quinn Vandecasteele"
+    },
+    {
+      "id": "",
+      "name": "Rafael Jodar"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Saba Purtseladze"
+    },
+    {
+      "id": "",
+      "name": "Samir Banerjee"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/knoxville/363/2025/results",
+  "tournament": {
+    "id": "363",
+    "year": "2025",
+    "name": "Knoxville",
+    "location": "",
+    "date": "3-9 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/knoxville/363/2025/results",
+    "drawsUrl": "/en/scores/archive/knoxville/363/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/knoxville/363/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "3 - 9 November, 2025",
+    "tournamentStartDate": "2025-11-03",
+    "tournamentEndDate": "2025-11-09",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-09"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moreno"
+    },
+    {
+      "id": "",
+      "name": "Alex Rybakov"
+    },
+    {
+      "id": "",
+      "name": "Alexander Kotzen"
+    },
+    {
+      "id": "",
+      "name": "Alfredo Perez"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andrew Delgado"
+    },
+    {
+      "id": "",
+      "name": "Andrew Fenty"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Aristotelis Thanos"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Willwerth"
+    },
+    {
+      "id": "",
+      "name": "Cedrik-Marcel Stebe"
+    },
+    {
+      "id": "",
+      "name": "Charles Broom"
+    },
+    {
+      "id": "",
+      "name": "Cooper Williams"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "Darwin Blanch"
+    },
+    {
+      "id": "",
+      "name": "Dhakshineswar Suresh"
+    },
+    {
+      "id": "",
+      "name": "Dominique Rolland"
+    },
+    {
+      "id": "",
+      "name": "Francisco Rocha"
+    },
+    {
+      "id": "",
+      "name": "Gage Brymer"
+    },
+    {
+      "id": "",
+      "name": "Gus Grumet"
+    },
+    {
+      "id": "",
+      "name": "Hoyoung Roh"
+    },
+    {
+      "id": "",
+      "name": "Inaki Montes-De La Torre"
+    },
+    {
+      "id": "",
+      "name": "Jack Kennedy"
+    },
+    {
+      "id": "",
+      "name": "James Trotter"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Keegan Smith"
+    },
+    {
+      "id": "",
+      "name": "Leo Borg"
+    },
+    {
+      "id": "",
+      "name": "Luca Pow"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Noah Schachter"
+    },
+    {
+      "id": "",
+      "name": "Oliver Tarvet"
+    },
+    {
+      "id": "",
+      "name": "Pablo Martinez Gomez"
+    },
+    {
+      "id": "",
+      "name": "Peter Makk"
+    },
+    {
+      "id": "",
+      "name": "Preston Brown"
+    },
+    {
+      "id": "",
+      "name": "Quinn Vandecasteele"
+    },
+    {
+      "id": "",
+      "name": "Saba Purtseladze"
+    },
+    {
+      "id": "",
+      "name": "Shunsuke Mitsui"
+    },
+    {
+      "id": "",
+      "name": "Spencer Johnson"
+    },
+    {
+      "id": "",
+      "name": "Stefan Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    },
+    {
+      "id": "",
+      "name": "Tomas Serrano Luis"
+    },
+    {
+      "id": "",
+      "name": "Tyler Zink"
+    },
+    {
+      "id": "",
+      "name": "Younes Lalami"
+    }
+  ]
+}

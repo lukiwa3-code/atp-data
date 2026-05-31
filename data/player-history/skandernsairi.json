@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "skandernsairi",
+    "name": "Skander Nsairi",
+    "displayName": "Skander Nsairi",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 10 May, 2026",
+      "dateIso": "2026-05-10",
+      "tournamentId": "1541",
+      "tournamentYear": "2026",
+      "tournamentName": "KIA Tunis Open",
+      "tournamentType": "CH",
+      "tournamentDate": "11-16 May, 2026",
+      "tournamentStartDate": "2026-05-11",
+      "tournamentEndDate": "2026-05-16",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "3-6 7-5 6-1",
+      "matchId": "RES-2BB8527E1D",
+      "reason": null,
+      "playerName": "Skander Nsairi",
+      "opponentName": "Antoine Ghibaudo",
+      "opponentKey": "antoineghibaudo",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 287,
+      "rankingDate": "2026-05-04",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

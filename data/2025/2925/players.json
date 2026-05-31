@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/tbilisi/2925/2025/results",
+  "tournament": {
+    "id": "2925",
+    "year": "2025",
+    "name": "Tbilisi",
+    "location": "",
+    "date": "19-24 May, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/tbilisi/2925/2025/results",
+    "drawsUrl": "/en/scores/archive/tbilisi/2925/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/tbilisi/2925/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "19 - 24 May, 2025",
+    "tournamentStartDate": "2025-05-19",
+    "tournamentEndDate": "2025-05-24",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-05-19",
+    "endDate": "2025-05-24"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Ajeet Rai"
+    },
+    {
+      "id": "",
+      "name": "Alastair Gray"
+    },
+    {
+      "id": "",
+      "name": "Aleksandre Bakshi"
+    },
+    {
+      "id": "",
+      "name": "Aleksandre Shvangiradze"
+    },
+    {
+      "id": "",
+      "name": "Cem Ilkel"
+    },
+    {
+      "id": "",
+      "name": "Charles Broom"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Dane Sweeny"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "Egor Agafonov"
+    },
+    {
+      "id": "",
+      "name": "Eliakim Coulibaly"
+    },
+    {
+      "id": "",
+      "name": "Erik Arutiunian"
+    },
+    {
+      "id": "",
+      "name": "Evgenii Tiurnev"
+    },
+    {
+      "id": "",
+      "name": "Evgeny Karlovskiy"
+    },
+    {
+      "id": "",
+      "name": "Fabrizio Andaloro"
+    },
+    {
+      "id": "",
+      "name": "Fajing Sun"
+    },
+    {
+      "id": "",
+      "name": "Federico Cina"
+    },
+    {
+      "id": "",
+      "name": "Florent Bax"
+    },
+    {
+      "id": "",
+      "name": "George Loffhagen"
+    },
+    {
+      "id": "",
+      "name": "Giles Hussey"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Henry Searle"
+    },
+    {
+      "id": "",
+      "name": "Ilia Simakin"
+    },
+    {
+      "id": "",
+      "name": "Ilya Snitari"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Konstantine Gogeliya"
+    },
+    {
+      "id": "",
+      "name": "Kris Van Wyk"
+    },
+    {
+      "id": "",
+      "name": "Lukas Pokorny"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Masamichi Imamura"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Naoya Honda"
+    },
+    {
+      "id": "",
+      "name": "Nathan Trouve"
+    },
+    {
+      "id": "",
+      "name": "Olaf Pieczkowski"
+    },
+    {
+      "id": "",
+      "name": "Pavlos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Petr Bar Biryukov"
+    },
+    {
+      "id": "",
+      "name": "Philip Henning"
+    },
+    {
+      "id": "",
+      "name": "Ricardas Berankis"
+    },
+    {
+      "id": "",
+      "name": "Robert Strombachs"
+    },
+    {
+      "id": "",
+      "name": "Saba Purtseladze"
+    },
+    {
+      "id": "",
+      "name": "Semen Pankin"
+    },
+    {
+      "id": "",
+      "name": "Sergey Fomin"
+    },
+    {
+      "id": "",
+      "name": "Stuart Parker"
+    },
+    {
+      "id": "",
+      "name": "Tibo Colson"
+    },
+    {
+      "id": "",
+      "name": "Toby Samuel"
+    },
+    {
+      "id": "",
+      "name": "Zura Tkemaladze"
+    }
+  ]
+}

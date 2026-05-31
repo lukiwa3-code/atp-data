@@ -1,0 +1,228 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/parma/9835/2025/results",
+  "tournament": {
+    "id": "9835",
+    "year": "2025",
+    "name": "Sassuolo",
+    "location": "",
+    "date": "16-21 Jun, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/parma/9835/2025/results",
+    "drawsUrl": "/en/scores/archive/parma/9835/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/parma/9835/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "16 - 21 June, 2025",
+    "tournamentStartDate": "2025-06-16",
+    "tournamentEndDate": "2025-06-21",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-16",
+    "endDate": "2025-06-21"
+  },
+  "count": 47,
+  "players": [
+    {
+      "id": "",
+      "name": "(6/WC)"
+    },
+    {
+      "id": "",
+      "name": "Albert Ramos-Vinolas"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alex Molcan"
+    },
+    {
+      "id": "",
+      "name": "Alexander Weis"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrej Martin"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Federico Bondioli"
+    },
+    {
+      "id": "",
+      "name": "Federico Iannaccone"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Francesco Passaro"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Piraino"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Gerard Campana Lee"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Cadenasso"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Mager"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Fonio"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jozef Kovalik"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Bocchi"
+    },
+    {
+      "id": "",
+      "name": "Luca Van Assche"
+    },
+    {
+      "id": "",
+      "name": "Lukas Neumayer"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Oriol Roca Batalla"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Ryan Nijboer"
+    },
+    {
+      "id": "",
+      "name": "Ryan Seggerman"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    }
+  ]
+}

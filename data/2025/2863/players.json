@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/turin/2863/2025/results",
+  "tournament": {
+    "id": "2863",
+    "year": "2025",
+    "name": "Turin",
+    "location": "",
+    "date": "13-18 May, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/turin/2863/2025/results",
+    "drawsUrl": "/en/scores/archive/turin/2863/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/turin/2863/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "13 - 18 May, 2025",
+    "tournamentStartDate": "2025-05-13",
+    "tournamentEndDate": "2025-05-18",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-05-13",
+    "endDate": "2025-05-18"
+  },
+  "count": 39,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/WC)"
+    },
+    {
+      "id": "",
+      "name": "(4/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alexander Bublik"
+    },
+    {
+      "id": "",
+      "name": "Andrea Collarini"
+    },
+    {
+      "id": "",
+      "name": "Andrea Pellegrino"
+    },
+    {
+      "id": "",
+      "name": "Arthur Weber"
+    },
+    {
+      "id": "",
+      "name": "Camilo Ugo Carabelli"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Daniel Altmaier"
+    },
+    {
+      "id": "",
+      "name": "Edoardo Zanada"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Ethan Quinn"
+    },
+    {
+      "id": "",
+      "name": "Fabio Fognini"
+    },
+    {
+      "id": "",
+      "name": "Federico Agustin Gomez"
+    },
+    {
+      "id": "",
+      "name": "Federico Arnaboldi"
+    },
+    {
+      "id": "",
+      "name": "Federico Campana"
+    },
+    {
+      "id": "",
+      "name": "Federico Cina"
+    },
+    {
+      "id": "",
+      "name": "Francesco Passaro"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Mager"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Fonio"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Oradini"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Vasami"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Carboni"
+    },
+    {
+      "id": "",
+      "name": "Luca Nardi"
+    },
+    {
+      "id": "",
+      "name": "Luciano Darderi"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Matteo Gigante"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Otto Virtanen"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martin Etcheverry"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    },
+    {
+      "id": "",
+      "name": "Yunchaokete Bu"
+    }
+  ]
+}

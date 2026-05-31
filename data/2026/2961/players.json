@@ -1,0 +1,212 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/brazzaville/2961/2026/results",
+  "tournament": {
+    "id": "2961",
+    "year": "2026",
+    "name": "Brazzaville Challenger",
+    "location": "",
+    "date": "4-10 May, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/brazzaville/2961/2026/results",
+    "drawsUrl": "/en/scores/archive/brazzaville/2961/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/brazzaville/2961/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "4 - 10 May, 2026",
+    "tournamentStartDate": "2026-05-04",
+    "tournamentEndDate": "2026-05-10",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-10"
+  },
+  "count": 43,
+  "players": [
+    {
+      "id": "",
+      "name": "(10/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(2/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(3/WC)"
+    },
+    {
+      "id": "",
+      "name": "(4/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(5/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(6/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(6/WC)"
+    },
+    {
+      "id": "",
+      "name": "(7/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(8/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(9/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Aditya Vishal Balsekar"
+    },
+    {
+      "id": "",
+      "name": "Adrian Arcon"
+    },
+    {
+      "id": "",
+      "name": "Aziz Dougaz"
+    },
+    {
+      "id": "",
+      "name": "Bienvenue Bolangi"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Bor Artnak"
+    },
+    {
+      "id": "",
+      "name": "Brandon Perez"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Cheik Pandzou Ekoume"
+    },
+    {
+      "id": "",
+      "name": "Courtney John Lock"
+    },
+    {
+      "id": "",
+      "name": "Digvijaypratap Singh"
+    },
+    {
+      "id": "",
+      "name": "Dillon Beckles"
+    },
+    {
+      "id": "",
+      "name": "Dinko Dinev"
+    },
+    {
+      "id": "",
+      "name": "Elijah Sanogo"
+    },
+    {
+      "id": "",
+      "name": "Florent Bax"
+    },
+    {
+      "id": "",
+      "name": "Franco Ribero"
+    },
+    {
+      "id": "",
+      "name": "Gauderic Vilmaure"
+    },
+    {
+      "id": "",
+      "name": "Gray Voelzke"
+    },
+    {
+      "id": "",
+      "name": "Guelord Kayombo"
+    },
+    {
+      "id": "",
+      "name": "Iiro Vasa"
+    },
+    {
+      "id": "",
+      "name": "Ivan Marrero Curbelo"
+    },
+    {
+      "id": "",
+      "name": "Jody Maginley"
+    },
+    {
+      "id": "",
+      "name": "Karan Singh"
+    },
+    {
+      "id": "",
+      "name": "Lawrence Bataljin"
+    },
+    {
+      "id": "",
+      "name": "Luis Britto"
+    },
+    {
+      "id": "",
+      "name": "Matt Kleiman"
+    },
+    {
+      "id": "",
+      "name": "Matteo Covato"
+    },
+    {
+      "id": "",
+      "name": "Matyas Cerny"
+    },
+    {
+      "id": "",
+      "name": "Parth Aggarwal"
+    },
+    {
+      "id": "",
+      "name": "Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Reda Bennani"
+    },
+    {
+      "id": "",
+      "name": "Skander Mansouri"
+    },
+    {
+      "id": "",
+      "name": "Younes Lalami"
+    }
+  ]
+}

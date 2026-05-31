@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/winnipeg/7542/2025/results",
+  "tournament": {
+    "id": "7542",
+    "year": "2025",
+    "name": "Winnipeg",
+    "location": "",
+    "date": "7-13 Jul, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/winnipeg/7542/2025/results",
+    "drawsUrl": "/en/scores/archive/winnipeg/7542/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/winnipeg/7542/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "7 - 13 July, 2025",
+    "tournamentStartDate": "2025-07-07",
+    "tournamentEndDate": "2025-07-13",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-07-07",
+    "endDate": "2025-07-13"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(4/WC)"
+    },
+    {
+      "id": "",
+      "name": "Adam Farag Cao"
+    },
+    {
+      "id": "",
+      "name": "Alexander Blockx"
+    },
+    {
+      "id": "",
+      "name": "Alfredo Perez"
+    },
+    {
+      "id": "",
+      "name": "Alvin Nicholas Tudorica"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Thomas George"
+    },
+    {
+      "id": "",
+      "name": "Christian Langmo"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "Duncan Chan"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Hiroki Moriya"
+    },
+    {
+      "id": "",
+      "name": "Hyeon Chung"
+    },
+    {
+      "id": "",
+      "name": "Jesse Flores"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Aguilar"
+    },
+    {
+      "id": "",
+      "name": "Justin Boulais"
+    },
+    {
+      "id": "",
+      "name": "Karue Sell"
+    },
+    {
+      "id": "",
+      "name": "Keegan Rice"
+    },
+    {
+      "id": "",
+      "name": "Kenta Miyoshi"
+    },
+    {
+      "id": "",
+      "name": "Keshav Chopra"
+    },
+    {
+      "id": "",
+      "name": "Kody Pearson"
+    },
+    {
+      "id": "",
+      "name": "Kris Van Wyk"
+    },
+    {
+      "id": "",
+      "name": "Leandro Riedi"
+    },
+    {
+      "id": "",
+      "name": "Liam Draxl"
+    },
+    {
+      "id": "",
+      "name": "Marek Gengel"
+    },
+    {
+      "id": "",
+      "name": "Masamichi Imamura"
+    },
+    {
+      "id": "",
+      "name": "Mikael Arseneault"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Naoki Nakagawa"
+    },
+    {
+      "id": "",
+      "name": "Nicaise Muamba"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Arseneault"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Philip Sekulic"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Ryan Fishback"
+    },
+    {
+      "id": "",
+      "name": "Ryuki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    },
+    {
+      "id": "",
+      "name": "Tsung-Hao Huang"
+    },
+    {
+      "id": "",
+      "name": "Tung-Lin Wu"
+    },
+    {
+      "id": "",
+      "name": "Vasek Pospisil"
+    },
+    {
+      "id": "",
+      "name": "Yi Zhou"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    },
+    {
+      "id": "",
+      "name": "Yusuke Takahashi"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    }
+  ]
+}

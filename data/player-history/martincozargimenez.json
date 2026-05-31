@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "martincozargimenez",
+    "name": "Martin Cozar Gimenez",
+    "displayName": "Martin Cozar Gimenez",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 05 April, 2026",
+      "dateIso": "2026-04-05",
+      "tournamentId": "9687",
+      "tournamentYear": "2026",
+      "tournamentName": "Grand Prix Open Comunidad de Madrid by Silverway",
+      "tournamentType": "CH",
+      "tournamentDate": "6-12 Apr, 2026",
+      "tournamentStartDate": "2026-04-06",
+      "tournamentEndDate": "2026-04-12",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-0",
+      "matchId": "RES-D3D54AEA13",
+      "reason": null,
+      "playerName": "Martin Cozar Gimenez",
+      "opponentName": "Inaki Montes-De La Torre",
+      "opponentKey": "inakimontesdelatorre",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 345,
+      "rankingDate": "2026-03-30",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

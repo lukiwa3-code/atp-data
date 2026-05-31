@@ -1,0 +1,816 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/mauthausen/9697/2025/draws",
+  "tournament": {
+    "id": "9697",
+    "year": "2025",
+    "name": "Mauthausen",
+    "location": "",
+    "date": "28 Apr - 4 May, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/mauthausen/9697/2025/results",
+    "drawsUrl": "/en/scores/archive/mauthausen/9697/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/mauthausen/9697/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "28 April - 4 May, 2025",
+    "tournamentStartDate": "2025-04-28",
+    "tournamentEndDate": "2025-05-04",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-28",
+    "endDate": "2025-05-04"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "T. Barrios Vera",
+          "player1FullName": "Tomas Barrios Vera",
+          "player1Id": "BS86",
+          "player1Country": "CHI",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "4"
+          ],
+          "player2": "C. Garin",
+          "player2FullName": "Cristian Garin",
+          "player2Id": "GD64",
+          "player2Country": "CHI",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "winnerName": "Cristian Garin",
+          "formattedScore": "3-6 6-1 6-4"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "J. Kym",
+          "player1FullName": "Jerome Kym",
+          "player1Id": "K0EP",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "player2": "T. Barrios Vera",
+          "player2FullName": "Tomas Barrios Vera",
+          "player2Id": "BS86",
+          "player2Country": "CHI",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Tomas Barrios Vera",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "C. Garin",
+          "player1FullName": "Cristian Garin",
+          "player1Id": "GD64",
+          "player1Country": "CHI",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "player2": "R. Burruchaga",
+          "player2FullName": "Roman Andres Burruchaga",
+          "player2Id": "B0FV",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "0"
+          ],
+          "winnerName": "Cristian Garin",
+          "formattedScore": "3-6 6-4 6-0"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "A. Blockx",
+          "player1FullName": "Alexander Blockx",
+          "player1Id": "B0PG",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [],
+          "player2": "J. Kym",
+          "player2FullName": "Jerome Kym",
+          "player2Id": "K0EP",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [],
+          "winnerName": "Jerome Kym",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Trungelliti",
+          "player1FullName": "Marco Trungelliti",
+          "player1Id": "TA29",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "player2": "T. Barrios Vera",
+          "player2FullName": "Tomas Barrios Vera",
+          "player2Id": "BS86",
+          "player2Country": "CHI",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Tomas Barrios Vera",
+          "formattedScore": "6-2 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "C. Garin",
+          "player1FullName": "Cristian Garin",
+          "player1Id": "GD64",
+          "player1Country": "CHI",
+          "player1ScoreTokens": [
+            "6",
+            "6 6",
+            "6"
+          ],
+          "player2": "N. Oberleitner",
+          "player2FullName": "Neil Oberleitner",
+          "player2Id": "O0AD",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "2",
+            "7",
+            "4"
+          ],
+          "winnerName": "Cristian Garin",
+          "formattedScore": "6-2 6-7(6) 6-4"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "T. Tirante",
+          "player1FullName": "Thiago Agustin Tirante",
+          "player1Id": "T0A1",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "3"
+          ],
+          "player2": "R. Burruchaga",
+          "player2FullName": "Roman Andres Burruchaga",
+          "player2Id": "B0FV",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "7",
+            "4",
+            "6"
+          ],
+          "winnerName": "Roman Andres Burruchaga",
+          "formattedScore": "7-5 4-6 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Blockx",
+          "player1FullName": "Alexander Blockx",
+          "player1Id": "B0PG",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "6"
+          ],
+          "player2": "T. Seyboth Wild",
+          "player2FullName": "Thiago Seyboth Wild",
+          "player2Id": "SX91",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "3"
+          ],
+          "winnerName": "Alexander Blockx",
+          "formattedScore": "7-5 4-6 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "L. Neumayer",
+          "player1FullName": "Lukas Neumayer",
+          "player1Id": "N0CS",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "6 5",
+            "0"
+          ],
+          "player2": "J. Kym",
+          "player2FullName": "Jerome Kym",
+          "player2Id": "K0EP",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Jerome Kym",
+          "formattedScore": "7-6(5) 6-0"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Gigante",
+          "player1FullName": "Matteo Gigante",
+          "player1Id": "G0GD",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "6 10",
+            "3"
+          ],
+          "player2": "M. Trungelliti",
+          "player2FullName": "Marco Trungelliti",
+          "player2Id": "TA29",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "6"
+          ],
+          "winnerName": "Marco Trungelliti",
+          "formattedScore": "4-6 7-6(10) 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Landaluce",
+          "player1FullName": "Martin Landaluce",
+          "player1Id": "L0IL",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "3",
+            "7",
+            "4"
+          ],
+          "player2": "T. Barrios Vera",
+          "player2FullName": "Tomas Barrios Vera",
+          "player2Id": "BS86",
+          "player2Country": "CHI",
+          "player2ScoreTokens": [
+            "6",
+            "5",
+            "6"
+          ],
+          "winnerName": "Tomas Barrios Vera",
+          "formattedScore": "6-3 5-7 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "C. Garin",
+          "player1FullName": "Cristian Garin",
+          "player1Id": "GD64",
+          "player1Country": "CHI",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "player2": "V. Gaubas",
+          "player2FullName": "Vilius Gaubas",
+          "player2Id": "G0FW",
+          "player2Country": "LTU",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "4"
+          ],
+          "winnerName": "Cristian Garin",
+          "formattedScore": "3-6 6-3 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Schwaerzler",
+          "player1FullName": "Joel Schwaerzler",
+          "player1Id": "S0WT",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "4",
+            "6 2"
+          ],
+          "player2": "N. Oberleitner",
+          "player2FullName": "Neil Oberleitner",
+          "player2Id": "O0AD",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Neil Oberleitner",
+          "formattedScore": "6-4 7-6(2)"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "T. Tirante",
+          "player1FullName": "Thiago Agustin Tirante",
+          "player1Id": "T0A1",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "F. Misolic",
+          "player2FullName": "Filip Misolic",
+          "player2Id": "M0JZ",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "6 3",
+            "3"
+          ],
+          "winnerName": "Thiago Agustin Tirante",
+          "formattedScore": "7-6(3) 6-3"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Burruchaga",
+          "player1FullName": "Roman Andres Burruchaga",
+          "player1Id": "B0FV",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Mochizuki",
+          "player2FullName": "Shintaro Mochizuki",
+          "player2Id": "M0HU",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "winnerName": "Roman Andres Burruchaga",
+          "formattedScore": "6-4 6-2"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "N. Fatic",
+          "player1FullName": "Nerman Fatic",
+          "player1Id": "F840",
+          "player1Country": "BIH",
+          "player1ScoreTokens": [
+            "5",
+            "5"
+          ],
+          "player2": "A. Blockx",
+          "player2FullName": "Alexander Blockx",
+          "player2Id": "B0PG",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Alexander Blockx",
+          "formattedScore": "7-5 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Moro Canas",
+          "player1FullName": "Alejandro Moro Canas",
+          "player1Id": "M0HT",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "2",
+            "6 7"
+          ],
+          "player2": "T. Seyboth Wild",
+          "player2FullName": "Thiago Seyboth Wild",
+          "player2Id": "SX91",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Thiago Seyboth Wild",
+          "formattedScore": "6-2 7-6(7)"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "N. Budkov Kjaer",
+          "player1FullName": "Nicolai Budkov Kjaer",
+          "player1Id": "B0U4",
+          "player1Country": "NOR",
+          "player1ScoreTokens": [
+            "5",
+            "5"
+          ],
+          "player2": "L. Neumayer",
+          "player2FullName": "Lukas Neumayer",
+          "player2Id": "N0CS",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Lukas Neumayer",
+          "formattedScore": "7-5 7-5"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Pichler",
+          "player1FullName": "David Pichler",
+          "player1Id": "PI95",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "player2": "J. Kym",
+          "player2FullName": "Jerome Kym",
+          "player2Id": "K0EP",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Jerome Kym",
+          "formattedScore": "6-1 6-3"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Cilic",
+          "player1FullName": "Marin Cilic",
+          "player1Id": "C977",
+          "player1Country": "CRO",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "6 4"
+          ],
+          "player2": "M. Gigante",
+          "player2FullName": "Matteo Gigante",
+          "player2Id": "G0GD",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "7"
+          ],
+          "winnerName": "Matteo Gigante",
+          "formattedScore": "4-6 6-1 7-6(4)"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Trungelliti",
+          "player1FullName": "Marco Trungelliti",
+          "player1Id": "TA29",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "T. Skatov",
+          "player2FullName": "Timofey Skatov",
+          "player2Id": "S0GR",
+          "player2Country": "KAZ",
+          "player2ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "winnerName": "Marco Trungelliti",
+          "formattedScore": "7-5 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Hassan",
+          "player1FullName": "Benjamin Hassan",
+          "player1Id": "HG94",
+          "player1Country": "LBN",
+          "player1ScoreTokens": [
+            "5",
+            "7",
+            "6 1"
+          ],
+          "player2": "M. Landaluce",
+          "player2FullName": "Martin Landaluce",
+          "player2Id": "L0IL",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "7",
+            "5",
+            "7"
+          ],
+          "winnerName": "Martin Landaluce",
+          "formattedScore": "7-5 5-7 7-6(1)"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Rodionov",
+          "player1FullName": "Jurij Rodionov",
+          "player1Id": "R09X",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "3"
+          ],
+          "player2": "T. Barrios Vera",
+          "player2FullName": "Tomas Barrios Vera",
+          "player2Id": "BS86",
+          "player2Country": "CHI",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "winnerName": "Tomas Barrios Vera",
+          "formattedScore": "6-3 3-6 6-3"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Daniel",
+          "player1FullName": "Taro Daniel",
+          "player1Id": "DA81",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "0",
+            "1"
+          ],
+          "player2": "C. Garin",
+          "player2FullName": "Cristian Garin",
+          "player2Id": "GD64",
+          "player2Country": "CHI",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Cristian Garin",
+          "formattedScore": "6-0 6-1"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Paul",
+          "player1FullName": "Jakub Paul",
+          "player1Id": "P0D0",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "4"
+          ],
+          "player2": "V. Gaubas",
+          "player2FullName": "Vilius Gaubas",
+          "player2Id": "G0FW",
+          "player2Country": "LTU",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "winnerName": "Vilius Gaubas",
+          "formattedScore": "3-6 6-4 6-4"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Paroulek",
+          "player1FullName": "Tadeas Paroulek",
+          "player1Id": "P0BM",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "player2": "J. Schwaerzler",
+          "player2FullName": "Joel Schwaerzler",
+          "player2Id": "S0WT",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Joel Schwaerzler",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "N. Oberleitner",
+          "player1FullName": "Neil Oberleitner",
+          "player1Id": "O0AD",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "6"
+          ],
+          "player2": "F. Fognini",
+          "player2FullName": "Fabio Fognini",
+          "player2Id": "F510",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "7",
+            "3",
+            "2"
+          ],
+          "winnerName": "Neil Oberleitner",
+          "formattedScore": "5-7 6-3 6-2"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Tirante",
+          "player1FullName": "Thiago Agustin Tirante",
+          "player1Id": "T0A1",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "M. Brunold",
+          "player2FullName": "Mika Brunold",
+          "player2Id": "B0LW",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "winnerName": "Thiago Agustin Tirante",
+          "formattedScore": "7-5 6-4"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "N. Basilashvili",
+          "player1FullName": "Nikoloz Basilashvili",
+          "player1Id": "BG23",
+          "player1Country": "GEO",
+          "player1ScoreTokens": [
+            "6 5",
+            "7",
+            "4"
+          ],
+          "player2": "F. Misolic",
+          "player2FullName": "Filip Misolic",
+          "player2Id": "M0JZ",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "7",
+            "6 5",
+            "6"
+          ],
+          "winnerName": "Filip Misolic",
+          "formattedScore": "7-6(5) 6-7(5) 6-4"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Burruchaga",
+          "player1FullName": "Roman Andres Burruchaga",
+          "player1Id": "B0FV",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "D. Kuzmanov",
+          "player2FullName": "Dimitar Kuzmanov",
+          "player2Id": "KC33",
+          "player2Country": "BUL",
+          "player2ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "winnerName": "Roman Andres Burruchaga",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Mochizuki",
+          "player1FullName": "Shintaro Mochizuki",
+          "player1Id": "M0HU",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "T. Monteiro",
+          "player2FullName": "Thiago Monteiro",
+          "player2Id": "MJ08",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "winnerName": "Shintaro Mochizuki",
+          "formattedScore": "6-3 6-3"
+        }
+      ]
+    }
+  ]
+}

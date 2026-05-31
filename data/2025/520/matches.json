@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "source": "https://www.atptour.com/en/scores/archive/roland-garros/520/2025/results",
   "tournament": {
     "id": "520",
@@ -24,6 +24,8 @@
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_grandslam.png",
     "prizeMoney": "€28,900,000",
     "totalFinancialCommitment": "€28,900,000",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
     "syntheticHistoricalFallback": true,
     "syntheticSourceYear": "2026",
     "dateSource": "results_header_or_calendar",

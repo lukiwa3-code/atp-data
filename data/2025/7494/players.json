@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/barletta/7494/2025/results",
+  "tournament": {
+    "id": "7494",
+    "year": "2025",
+    "name": "Barletta",
+    "location": "",
+    "date": "31 Mar - 6 Apr, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/barletta/7494/2025/results",
+    "drawsUrl": "/en/scores/archive/barletta/7494/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/barletta/7494/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "31 March - 6 April, 2025",
+    "tournamentStartDate": "2025-03-31",
+    "tournamentEndDate": "2025-04-06",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-03-31",
+    "endDate": "2025-04-06"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "(3/SE)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Alessandro Pecci"
+    },
+    {
+      "id": "",
+      "name": "Andrea Pellegrino"
+    },
+    {
+      "id": "",
+      "name": "Andrea Picchione"
+    },
+    {
+      "id": "",
+      "name": "Andrej Martin"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Daniel Evans"
+    },
+    {
+      "id": "",
+      "name": "Dino Prizmic"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Federico Iannaccone"
+    },
+    {
+      "id": "",
+      "name": "Filippo Romano"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Pennaforti"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Cadenasso"
+    },
+    {
+      "id": "",
+      "name": "Gianluca Mager"
+    },
+    {
+      "id": "",
+      "name": "Giuseppe Tresca"
+    },
+    {
+      "id": "",
+      "name": "Gregoire Barrere"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Vasami"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Khumoyun Sultanov"
+    },
+    {
+      "id": "",
+      "name": "Lilian Marmousez"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Giustino"
+    },
+    {
+      "id": "",
+      "name": "Manolo Baldini"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Matthew Dellavedova"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Mees Rottgering"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Oleksandr Ovcharenko"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Pierluigi Basile"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Samuel Vincent Ruggeri"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    }
+  ]
+}

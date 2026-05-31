@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/seville/784/2025/results",
+  "tournament": {
+    "id": "784",
+    "year": "2025",
+    "name": "Seville",
+    "location": "",
+    "date": "1-7 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/seville/784/2025/results",
+    "drawsUrl": "/en/scores/archive/seville/784/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/seville/784/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "1 - 7 September, 2025",
+    "tournamentStartDate": "2025-09-01",
+    "tournamentEndDate": "2025-09-07",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-01",
+    "endDate": "2025-09-07"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Albert Ramos-Vinolas"
+    },
+    {
+      "id": "",
+      "name": "Alberto Barroso Campos"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Turriziani Alvarez"
+    },
+    {
+      "id": "",
+      "name": "Alex Martinez"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Winter Lopez"
+    },
+    {
+      "id": "",
+      "name": "Bernabe Zapata Miralles"
+    },
+    {
+      "id": "",
+      "name": "Carlos Lopez Montagud"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Charlie Robertson"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "David Jorda Sanchis"
+    },
+    {
+      "id": "",
+      "name": "Dominik Kellovsky"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Facundo Diaz Acosta"
+    },
+    {
+      "id": "",
+      "name": "Federico Iannaccone"
+    },
+    {
+      "id": "",
+      "name": "Filip Pieczonka"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Guy Den Ouden"
+    },
+    {
+      "id": "",
+      "name": "Henrique Rocha"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Inaki Montes-De La Torre"
+    },
+    {
+      "id": "",
+      "name": "Ivan Marrero Curbelo"
+    },
+    {
+      "id": "",
+      "name": "Jaime Faria"
+    },
+    {
+      "id": "",
+      "name": "Javier Barranco Cosano"
+    },
+    {
+      "id": "",
+      "name": "John Sperle"
+    },
+    {
+      "id": "",
+      "name": "Jonas Forejtek"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Giustino"
+    },
+    {
+      "id": "",
+      "name": "Mario Mansilla Diez"
+    },
+    {
+      "id": "",
+      "name": "Max Alcala Gurri"
+    },
+    {
+      "id": "",
+      "name": "Miguel Damas"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Alvarez Varona"
+    },
+    {
+      "id": "",
+      "name": "Pablo Carreno Busta"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Pablo Perez Navarro"
+    },
+    {
+      "id": "",
+      "name": "Pedro Vives Marcos"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Raul Brancaccio"
+    },
+    {
+      "id": "",
+      "name": "Robert Strombachs"
+    },
+    {
+      "id": "",
+      "name": "Sergi Perez Contri"
+    },
+    {
+      "id": "",
+      "name": "Szymon Kielan"
+    },
+    {
+      "id": "",
+      "name": "Tomas Barrios Vera"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    }
+  ]
+}

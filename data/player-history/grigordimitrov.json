@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "G. Dimitrov",
     "playerId": "D875"
   },
-  "count": 33,
+  "count": 35,
   "matches": [
     {
       "date": "Tue, 19 May, 2026",
@@ -33,6 +33,56 @@
       "playerRank": 170,
       "opponentRank": 117,
       "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Wed, 13 May, 2026",
+      "dateIso": "2026-05-13",
+      "tournamentId": "3824",
+      "tournamentYear": "2026",
+      "tournamentName": "BNP Paribas Primrose Bordeaux",
+      "tournamentType": "CH",
+      "tournamentDate": "12-17 May, 2026",
+      "tournamentStartDate": "2026-05-12",
+      "tournamentEndDate": "2026-05-17",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(3) 7-6(7)",
+      "matchId": "RES-F656681D56",
+      "reason": null,
+      "playerName": "Grigor Dimitrov",
+      "opponentName": "Martin Damm",
+      "opponentKey": "martindamm",
+      "result": "L",
+      "playerRank": 168,
+      "opponentRank": 116,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Wed, 29 April, 2026",
+      "dateIso": "2026-04-29",
+      "tournamentId": "7009",
+      "tournamentYear": "2026",
+      "tournamentName": "Open Aix Provence Crédit Agricole",
+      "tournamentType": "CH",
+      "tournamentDate": "28 Apr - 3 May, 2026",
+      "tournamentStartDate": "2026-04-28",
+      "tournamentEndDate": "2026-05-03",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-4",
+      "matchId": "RES-B45F9D0488",
+      "reason": null,
+      "playerName": "Grigor Dimitrov",
+      "opponentName": "Pol Martin Tiffon",
+      "opponentKey": "polmartintiffon",
+      "result": "L",
+      "playerRank": 168,
+      "opponentRank": 222,
+      "rankingDate": "2026-04-27",
       "rankingNote": "historical_week"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "source": "https://www.atptour.com/en/scores/archive/chengdu/7581/2025/results",
   "tournament": {
     "id": "7581",
@@ -24,6 +24,8 @@
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
     "prizeMoney": "$1,210,115",
     "totalFinancialCommitment": "$1,298,420",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
     "syntheticHistoricalFallback": true,
     "syntheticSourceYear": "2026",
     "dateSource": "results_header_or_calendar",
@@ -40,7 +42,7 @@
     },
     {
       "id": "",
-      "name": "Aleksandr Shevchenko"
+      "name": "Alexander Shevchenko"
     },
     {
       "id": "",

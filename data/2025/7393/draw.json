@@ -1,0 +1,804 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/canberra/7393/2025/draws",
+  "tournament": {
+    "id": "7393",
+    "year": "2025",
+    "name": "Canberra",
+    "location": "",
+    "date": "30 Dec - 4 Jan, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/canberra/7393/2025/results",
+    "drawsUrl": "/en/scores/archive/canberra/7393/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/canberra/7393/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "30 December, 2024 - 4 January, 2025",
+    "tournamentStartDate": "2024-12-30",
+    "tournamentEndDate": "2025-01-04",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2024-12-30",
+    "endDate": "2025-01-04"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "E. Quinn",
+          "player1FullName": "Ethan Quinn",
+          "player1Id": "Q02L",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "J. Fonseca",
+          "player2FullName": "Joao Fonseca",
+          "player2Id": "F0FV",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Joao Fonseca",
+          "formattedScore": "6-4 6-4"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "M. Landaluce",
+          "player1FullName": "Martin Landaluce",
+          "player1Id": "L0IL",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "E. Quinn",
+          "player2FullName": "Ethan Quinn",
+          "player2Id": "Q02L",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Ethan Quinn",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "J. Fearnley",
+          "player1FullName": "Jacob Fearnley",
+          "player1Id": "F0BY",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "J. Fonseca",
+          "player2FullName": "Joao Fonseca",
+          "player2Id": "F0FV",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Joao Fonseca",
+          "formattedScore": "6-3 6-3"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "Y. Watanuki",
+          "player1FullName": "Yosuke Watanuki",
+          "player1Id": "WB08",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [],
+          "player2": "M. Landaluce",
+          "player2FullName": "Martin Landaluce",
+          "player2Id": "L0IL",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [],
+          "winnerName": "Martin Landaluce",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "V. Kopriva",
+          "player1FullName": "Vit Kopriva",
+          "player1Id": "KI82",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "player2": "E. Quinn",
+          "player2FullName": "Ethan Quinn",
+          "player2Id": "Q02L",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Ethan Quinn",
+          "formattedScore": "6-4 7-5"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "J. Fearnley",
+          "player1FullName": "Jacob Fearnley",
+          "player1Id": "F0BY",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "7"
+          ],
+          "player2": "C. Eubanks",
+          "player2FullName": "Christopher Eubanks",
+          "player2Id": "E865",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "2",
+            "6 3"
+          ],
+          "winnerName": "Jacob Fearnley",
+          "formattedScore": "4-6 6-2 7-6(3)"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "H. Mayot",
+          "player1FullName": "Harold Mayot",
+          "player1Id": "M0G4",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "player2": "J. Fonseca",
+          "player2FullName": "Joao Fonseca",
+          "player2Id": "F0FV",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Joao Fonseca",
+          "formattedScore": "6-2 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "Y. Watanuki",
+          "player1FullName": "Yosuke Watanuki",
+          "player1Id": "WB08",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "7"
+          ],
+          "player2": "R. Burruchaga",
+          "player2FullName": "Roman Andres Burruchaga",
+          "player2Id": "B0FV",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "6 5"
+          ],
+          "winnerName": "Yosuke Watanuki",
+          "formattedScore": "6-3 3-6 7-6(5)"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Sweeny",
+          "player1FullName": "Dane Sweeny",
+          "player1Id": "S0IA",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "1",
+            "2"
+          ],
+          "player2": "M. Landaluce",
+          "player2FullName": "Martin Landaluce",
+          "player2Id": "L0IL",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Martin Landaluce",
+          "formattedScore": "6-1 6-2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Dzumhur",
+          "player1FullName": "Damir Dzumhur",
+          "player1Id": "D923",
+          "player1Country": "BIH",
+          "player1ScoreTokens": [
+            "5",
+            "5"
+          ],
+          "player2": "V. Kopriva",
+          "player2FullName": "Vit Kopriva",
+          "player2Id": "KI82",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Vit Kopriva",
+          "formattedScore": "7-5 7-5"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "E. Quinn",
+          "player1FullName": "Ethan Quinn",
+          "player1Id": "Q02L",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "7",
+            "6"
+          ],
+          "player2": "P. Kypson",
+          "player2FullName": "Patrick Kypson",
+          "player2Id": "K0A3",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6 5",
+            "4"
+          ],
+          "winnerName": "Ethan Quinn",
+          "formattedScore": "3-6 7-6(5) 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Fearnley",
+          "player1FullName": "Jacob Fearnley",
+          "player1Id": "F0BY",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "J. Trotter",
+          "player2FullName": "James Trotter",
+          "player2Id": "T0BW",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "winnerName": "Jacob Fearnley",
+          "formattedScore": "6-2 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "C. Eubanks",
+          "player1FullName": "Christopher Eubanks",
+          "player1Id": "E865",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Galarneau",
+          "player2FullName": "Alexis Galarneau",
+          "player2Id": "GK06",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Christopher Eubanks",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "H. Mayot",
+          "player1FullName": "Harold Mayot",
+          "player1Id": "M0G4",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "D. Galan",
+          "player2FullName": "Daniel Elahi Galan",
+          "player2Id": "GE33",
+          "player2Country": "COL",
+          "player2ScoreTokens": [
+            "6 5",
+            "4"
+          ],
+          "winnerName": "Harold Mayot",
+          "formattedScore": "7-6(5) 6-4"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Fonseca",
+          "player1FullName": "Joao Fonseca",
+          "player1Id": "F0FV",
+          "player1Country": "BRA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "D. Ajdukovic",
+          "player2FullName": "Duje Ajdukovic",
+          "player2Id": "A0CJ",
+          "player2Country": "CRO",
+          "player2ScoreTokens": [
+            "1",
+            "5"
+          ],
+          "winnerName": "Joao Fonseca",
+          "formattedScore": "6-1 7-5"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Gaston",
+          "player1FullName": "Hugo Gaston",
+          "player1Id": "G09O",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "player2": "Y. Watanuki",
+          "player2FullName": "Yosuke Watanuki",
+          "player2Id": "WB08",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Yosuke Watanuki",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Burruchaga",
+          "player1FullName": "Roman Andres Burruchaga",
+          "player1Id": "B0FV",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "J. Faria",
+          "player2FullName": "Jaime Faria",
+          "player2Id": "F0F2",
+          "player2Country": "POR",
+          "player2ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "winnerName": "Roman Andres Burruchaga",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Van Assche",
+          "player1FullName": "Luca Van Assche",
+          "player1Id": "V0DZ",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "D. Sweeny",
+          "player2FullName": "Dane Sweeny",
+          "player2Id": "S0IA",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Dane Sweeny",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Landaluce",
+          "player1FullName": "Martin Landaluce",
+          "player1Id": "L0IL",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Bellucci",
+          "player2FullName": "Mattia Bellucci",
+          "player2Id": "B0GG",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "winnerName": "Martin Landaluce",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Dzumhur",
+          "player1FullName": "Damir Dzumhur",
+          "player1Id": "D923",
+          "player1Country": "BIH",
+          "player1ScoreTokens": [
+            "7",
+            "6 5",
+            "6"
+          ],
+          "player2": "H. Habib",
+          "player2FullName": "Hady Habib",
+          "player2Id": "HF80",
+          "player2Country": "LBN",
+          "player2ScoreTokens": [
+            "6 5",
+            "7",
+            "2"
+          ],
+          "winnerName": "Damir Dzumhur",
+          "formattedScore": "7-6(5) 6-7(5) 6-2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "V. Kopriva",
+          "player1FullName": "Vit Kopriva",
+          "player1Id": "KI82",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "6"
+          ],
+          "player2": "M. Krueger",
+          "player2FullName": "Mitchell Krueger",
+          "player2Id": "KC12",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6 5",
+            "6",
+            "3"
+          ],
+          "winnerName": "Vit Kopriva",
+          "formattedScore": "7-6(5) 3-6 6-3"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Ellis",
+          "player1FullName": "Blake Ellis",
+          "player1Id": "EA27",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6 4",
+            "6 5"
+          ],
+          "player2": "E. Quinn",
+          "player2FullName": "Ethan Quinn",
+          "player2Id": "Q02L",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Ethan Quinn",
+          "formattedScore": "7-6(4) 7-6(5)"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Kypson",
+          "player1FullName": "Patrick Kypson",
+          "player1Id": "K0A3",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "player2": "S. Nagal",
+          "player2FullName": "Sumit Nagal",
+          "player2Id": "N897",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "1"
+          ],
+          "winnerName": "Patrick Kypson",
+          "formattedScore": "6-2 4-6 6-1"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Fearnley",
+          "player1FullName": "Jacob Fearnley",
+          "player1Id": "F0BY",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "7"
+          ],
+          "player2": "M. Dellavedova",
+          "player2FullName": "Matthew Dellavedova",
+          "player2Id": "D0A2",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "5"
+          ],
+          "winnerName": "Jacob Fearnley",
+          "formattedScore": "3-6 6-4 7-5"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Kym",
+          "player1FullName": "Jerome Kym",
+          "player1Id": "K0EP",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6 6",
+            "6 4"
+          ],
+          "player2": "J. Trotter",
+          "player2FullName": "James Trotter",
+          "player2Id": "T0BW",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "James Trotter",
+          "formattedScore": "7-6(6) 7-6(4)"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Eubanks",
+          "player1FullName": "Christopher Eubanks",
+          "player1Id": "E865",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "A. Kovacevic",
+          "player2FullName": "Aleksandar Kovacevic",
+          "player2Id": "K0AZ",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "3",
+            "6 5"
+          ],
+          "winnerName": "Christopher Eubanks",
+          "formattedScore": "6-3 7-6(5)"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Galarneau",
+          "player1FullName": "Alexis Galarneau",
+          "player1Id": "GK06",
+          "player1Country": "CAN",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "T. Daniel",
+          "player2FullName": "Taro Daniel",
+          "player2Id": "DA81",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6 2",
+            "2"
+          ],
+          "winnerName": "Alexis Galarneau",
+          "formattedScore": "7-6(2) 6-2"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Koepfer",
+          "player1FullName": "Dominik Koepfer",
+          "player1Id": "KE73",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "H. Mayot",
+          "player2FullName": "Harold Mayot",
+          "player2Id": "M0G4",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Harold Mayot",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Galan",
+          "player1FullName": "Daniel Elahi Galan",
+          "player1Id": "GE33",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "R. Collignon",
+          "player2FullName": "Raphael Collignon",
+          "player2Id": "C0JP",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "2"
+          ],
+          "winnerName": "Daniel Elahi Galan",
+          "formattedScore": "6-2 3-6 6-2"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. McDonald",
+          "player1FullName": "Mackenzie Mcdonald",
+          "player1Id": "MK66",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "player2": "J. Fonseca",
+          "player2FullName": "Joao Fonseca",
+          "player2Id": "F0FV",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Joao Fonseca",
+          "formattedScore": "6-1 6-3"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Ajdukovic",
+          "player1FullName": "Duje Ajdukovic",
+          "player1Id": "A0CJ",
+          "player1Country": "CRO",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "F. Diaz Acosta",
+          "player2FullName": "Facundo Diaz Acosta",
+          "player2Id": "D0CG",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Duje Ajdukovic",
+          "formattedScore": "6-4 6-4"
+        }
+      ]
+    }
+  ]
+}

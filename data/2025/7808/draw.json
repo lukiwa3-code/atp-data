@@ -1,0 +1,824 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/bengaluru/7808/2025/draws",
+  "tournament": {
+    "id": "7808",
+    "year": "2025",
+    "name": "Bengaluru",
+    "location": "",
+    "date": "24 Feb - 2 Mar, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/bengaluru/7808/2025/results",
+    "drawsUrl": "/en/scores/archive/bengaluru/7808/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/bengaluru/7808/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "24 February - 2 March, 2025",
+    "tournamentStartDate": "2025-02-24",
+    "tournamentEndDate": "2025-03-02",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-24",
+    "endDate": "2025-03-02"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "S. Mochizuki",
+          "player1FullName": "Shintaro Mochizuki",
+          "player1Id": "M0HU",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "B. Holt",
+          "player2FullName": "Brandon Holt",
+          "player2Id": "H09P",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Brandon Holt",
+          "formattedScore": "6-3 6-3"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "S. Mochizuki",
+          "player1FullName": "Shintaro Mochizuki",
+          "player1Id": "M0HU",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "J. McCabe",
+          "player2FullName": "James Mccabe",
+          "player2Id": "M0OQ",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "1",
+            "6",
+            "4"
+          ],
+          "winnerName": "Shintaro Mochizuki",
+          "formattedScore": "6-1 3-6 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "B. Holt",
+          "player1FullName": "Brandon Holt",
+          "player1Id": "H09P",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "B. Harris",
+          "player2FullName": "Billy Harris",
+          "player2Id": "HD68",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "2",
+            "6 4"
+          ],
+          "winnerName": "Brandon Holt",
+          "formattedScore": "6-2 7-6(4)"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "H. Barton",
+          "player1FullName": "Hynek Barton",
+          "player1Id": "B0OU",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6 5",
+            "3"
+          ],
+          "player2": "S. Mochizuki",
+          "player2FullName": "Shintaro Mochizuki",
+          "player2Id": "M0HU",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Shintaro Mochizuki",
+          "formattedScore": "7-6(5) 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "N. Mejia",
+          "player1FullName": "Nicolas Mejia",
+          "player1Id": "M0AW",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "player2": "J. McCabe",
+          "player2FullName": "James Mccabe",
+          "player2Id": "M0OQ",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "winnerName": "James Mccabe",
+          "formattedScore": "4-6 6-4 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "P. Bar Biryukov",
+          "player1FullName": "Petr Bar Biryukov",
+          "player1Id": "B0LQ",
+          "player1Country": "RUS",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "B. Holt",
+          "player2FullName": "Brandon Holt",
+          "player2Id": "H09P",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Brandon Holt",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "B. Harris",
+          "player1FullName": "Billy Harris",
+          "player1Id": "HD68",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "7"
+          ],
+          "player2": "T. Schoolkate",
+          "player2FullName": "Tristan Schoolkate",
+          "player2Id": "S0N0",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "5"
+          ],
+          "winnerName": "Billy Harris",
+          "formattedScore": "6-2 1-6 7-5"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "H. Barton",
+          "player1FullName": "Hynek Barton",
+          "player1Id": "B0OU",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "A. Holmgren",
+          "player2FullName": "August Holmgren",
+          "player2Id": "H09N",
+          "player2Country": "DEN",
+          "player2ScoreTokens": [
+            "6 5",
+            "3"
+          ],
+          "winnerName": "Hynek Barton",
+          "formattedScore": "7-6(5) 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Clarke",
+          "player1FullName": "Jay Clarke",
+          "player1Id": "CI14",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "7",
+            "1",
+            "2"
+          ],
+          "player2": "S. Mochizuki",
+          "player2FullName": "Shintaro Mochizuki",
+          "player2Id": "M0HU",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "6"
+          ],
+          "winnerName": "Shintaro Mochizuki",
+          "formattedScore": "5-7 6-1 6-2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "N. Mejia",
+          "player1FullName": "Nicolas Mejia",
+          "player1Id": "M0AW",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "B. Ellis",
+          "player2FullName": "Blake Ellis",
+          "player2Id": "EA27",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "1",
+            "5"
+          ],
+          "winnerName": "Nicolas Mejia",
+          "formattedScore": "6-1 7-5"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Noguchi",
+          "player1FullName": "Rio Noguchi",
+          "player1Id": "N09U",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "5",
+            "7",
+            "6 5"
+          ],
+          "player2": "J. McCabe",
+          "player2FullName": "James Mccabe",
+          "player2Id": "M0OQ",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "5",
+            "7"
+          ],
+          "winnerName": "James Mccabe",
+          "formattedScore": "7-5 5-7 7-6(5)"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "N. Alvarez Varona",
+          "player1FullName": "Nicolas Alvarez Varona",
+          "player1Id": "A09U",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "4",
+            "6 5"
+          ],
+          "player2": "P. Bar Biryukov",
+          "player2FullName": "Petr Bar Biryukov",
+          "player2Id": "B0LQ",
+          "player2Country": "RUS",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Petr Bar Biryukov",
+          "formattedScore": "6-4 7-6(5)"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "B. Tomic",
+          "player1FullName": "Bernard Tomic",
+          "player1Id": "TA46",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "4"
+          ],
+          "player2": "B. Holt",
+          "player2FullName": "Brandon Holt",
+          "player2Id": "H09P",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "6"
+          ],
+          "winnerName": "Brandon Holt",
+          "formattedScore": "5-7 6-4 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "B. Harris",
+          "player1FullName": "Billy Harris",
+          "player1Id": "HD68",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Gengel",
+          "player2FullName": "Marek Gengel",
+          "player2Id": "G09C",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "winnerName": "Billy Harris",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Rodionov",
+          "player1FullName": "Jurij Rodionov",
+          "player1Id": "R09X",
+          "player1Country": "AUT",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "2"
+          ],
+          "player2": "T. Schoolkate",
+          "player2FullName": "Tristan Schoolkate",
+          "player2Id": "S0N0",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "winnerName": "Tristan Schoolkate",
+          "formattedScore": "6-3 3-6 6-2"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "V. Kopriva",
+          "player1FullName": "Vit Kopriva",
+          "player1Id": "KI82",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "player2": "H. Barton",
+          "player2FullName": "Hynek Barton",
+          "player2Id": "B0OU",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "winnerName": "Hynek Barton",
+          "formattedScore": "4-6 6-4 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "E. Dalla Valle",
+          "player1FullName": "Enrico Dalla Valle",
+          "player1Id": "DG80",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "A. Holmgren",
+          "player2FullName": "August Holmgren",
+          "player2Id": "H09N",
+          "player2Country": "DEN",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "August Holmgren",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Samrej",
+          "player1FullName": "Kasidit Samrej",
+          "player1Id": "S0HR",
+          "player1Country": "THA",
+          "player1ScoreTokens": [
+            "1",
+            "0"
+          ],
+          "player2": "J. Clarke",
+          "player2FullName": "Jay Clarke",
+          "player2Id": "CI14",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Jay Clarke",
+          "formattedScore": "6-1 6-0"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Ramanathan",
+          "player1FullName": "Ramkumar Ramanathan",
+          "player1Id": "RB56",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "6 3",
+            "5"
+          ],
+          "player2": "S. Mochizuki",
+          "player2FullName": "Shintaro Mochizuki",
+          "player2Id": "M0HU",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Shintaro Mochizuki",
+          "formattedScore": "7-6(3) 7-5"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "E. Moller",
+          "player1FullName": "Elmer Moller",
+          "player1Id": "M0K4",
+          "player1Country": "DEN",
+          "player1ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "player2": "N. Mejia",
+          "player2FullName": "Nicolas Mejia",
+          "player2Id": "M0AW",
+          "player2Country": "COL",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Nicolas Mejia",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Geerts",
+          "player1FullName": "Michael Geerts",
+          "player1Id": "GG65",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "6 6"
+          ],
+          "player2": "B. Ellis",
+          "player2FullName": "Blake Ellis",
+          "player2Id": "EA27",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6 2",
+            "6",
+            "7"
+          ],
+          "winnerName": "Blake Ellis",
+          "formattedScore": "6-7(2) 6-4 7-6(6)"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Engel",
+          "player1FullName": "Justin Engel",
+          "player1Id": "E0DD",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "5",
+            "2"
+          ],
+          "player2": "R. Noguchi",
+          "player2FullName": "Rio Noguchi",
+          "player2Id": "N09U",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Rio Noguchi",
+          "formattedScore": "7-5 6-2"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. McCabe",
+          "player1FullName": "James Mccabe",
+          "player1Id": "M0OQ",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6 8",
+            "6",
+            "6"
+          ],
+          "player2": "K. Jacquet",
+          "player2FullName": "Kyrian Jacquet",
+          "player2Id": "J0AZ",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "7",
+            "1",
+            "2"
+          ],
+          "winnerName": "James Mccabe",
+          "formattedScore": "6-7(8) 6-1 6-2"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "U. Blanchet",
+          "player1FullName": "Ugo Blanchet",
+          "player1Id": "BV16",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "player2": "N. Alvarez Varona",
+          "player2FullName": "Nicolas Alvarez Varona",
+          "player2Id": "A09U",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "6",
+            "4"
+          ],
+          "winnerName": "Nicolas Alvarez Varona",
+          "formattedScore": "6 4"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Dhamne",
+          "player1FullName": "Manas Dhamne",
+          "player1Id": "D0JI",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6 3"
+          ],
+          "player2": "P. Bar Biryukov",
+          "player2FullName": "Petr Bar Biryukov",
+          "player2Id": "B0LQ",
+          "player2Country": "RUS",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "7"
+          ],
+          "winnerName": "Petr Bar Biryukov",
+          "formattedScore": "6-3 3-6 7-6(3)"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "I. Simakin",
+          "player1FullName": "Ilia Simakin",
+          "player1Id": "S0O6",
+          "player1Country": "RUS",
+          "player1ScoreTokens": [
+            "6",
+            "6 4",
+            "4"
+          ],
+          "player2": "B. Tomic",
+          "player2FullName": "Bernard Tomic",
+          "player2Id": "TA46",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "3",
+            "7",
+            "6"
+          ],
+          "winnerName": "Bernard Tomic",
+          "formattedScore": "3-6 7-6(4) 6-4"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "V. Vacherot",
+          "player1FullName": "Valentin Vacherot",
+          "player1Id": "VA25",
+          "player1Country": "MON",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "B. Holt",
+          "player2FullName": "Brandon Holt",
+          "player2Id": "H09P",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Brandon Holt",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Harris",
+          "player1FullName": "Billy Harris",
+          "player1Id": "HD68",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "1"
+          ],
+          "player2": "E. Couacaud",
+          "player2FullName": "Enzo Couacaud",
+          "player2Id": "CG94",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "1",
+            "0"
+          ],
+          "winnerName": "Billy Harris",
+          "formattedScore": "6 1"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Gengel",
+          "player1FullName": "Marek Gengel",
+          "player1Id": "G09C",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6 2",
+            "6",
+            "6"
+          ],
+          "player2": "S. Dev",
+          "player2FullName": "S D Prajwal Dev",
+          "player2Id": "DH23",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "7",
+            "3",
+            "3"
+          ],
+          "winnerName": "Marek Gengel",
+          "formattedScore": "6-7(2) 6-3 6-3"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Singh",
+          "player1FullName": "Karan Singh",
+          "player1Id": "S0RI",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "6 3"
+          ],
+          "player2": "J. Rodionov",
+          "player2FullName": "Jurij Rodionov",
+          "player2Id": "R09X",
+          "player2Country": "AUT",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "7"
+          ],
+          "winnerName": "Jurij Rodionov",
+          "formattedScore": "6-4 4-6 7-6(3)"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Sultanov",
+          "player1FullName": "Khumoyun Sultanov",
+          "player1Id": "SR81",
+          "player1Country": "UZB",
+          "player1ScoreTokens": [
+            "5",
+            "7",
+            "3"
+          ],
+          "player2": "T. Schoolkate",
+          "player2FullName": "Tristan Schoolkate",
+          "player2Id": "S0N0",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "6 5",
+            "6"
+          ],
+          "winnerName": "Tristan Schoolkate",
+          "formattedScore": "7-5 6-7(5) 6-3"
+        }
+      ]
+    }
+  ]
+}

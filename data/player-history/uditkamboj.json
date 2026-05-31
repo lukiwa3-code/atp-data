@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "uditkamboj",
+    "name": "Udit Kamboj",
+    "displayName": "Udit Kamboj",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 15 February, 2026",
+      "dateIso": "2026-02-15",
+      "tournamentId": "6961",
+      "tournamentYear": "2026",
+      "tournamentName": "New Delhi, India |",
+      "tournamentType": "CH",
+      "tournamentDate": "16-22 Feb, 2026",
+      "tournamentStartDate": "2026-02-16",
+      "tournamentEndDate": "2026-02-22",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 7-5",
+      "matchId": "RES-9D8E970C78",
+      "reason": null,
+      "playerName": "Udit Kamboj",
+      "opponentName": "Alexander Binda",
+      "opponentKey": "alexanderbinda",
+      "result": "L",
+      "playerRank": 1466,
+      "opponentRank": 464,
+      "rankingDate": "2026-02-09",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

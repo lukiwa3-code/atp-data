@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "alexeyaleshchev",
+    "name": "Alexey Aleshchev",
+    "displayName": "A. Aleshchev",
+    "playerId": "A0AV"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 24 November, 2025",
+      "dateIso": "2025-11-24",
+      "tournamentId": "3051",
+      "tournamentYear": "2025",
+      "tournamentName": "Islamabad",
+      "tournamentType": "CH",
+      "tournamentDate": "24-30 Nov, 2025",
+      "tournamentStartDate": "2025-11-24",
+      "tournamentEndDate": "2025-11-30",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-1 6-3",
+      "matchId": "RES-26DD74F8CB",
+      "reason": null,
+      "playerName": "Alexey Aleshchev",
+      "opponentName": "Gian Luca Tanner",
+      "opponentKey": "gianlucatanner",
+      "result": "L",
+      "playerRank": 1410,
+      "opponentRank": 859,
+      "rankingDate": "2025-11-24",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

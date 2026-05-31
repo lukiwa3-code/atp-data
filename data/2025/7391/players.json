@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/guayaquil/7391/2025/results",
+  "tournament": {
+    "id": "7391",
+    "year": "2025",
+    "name": "Guayaquil",
+    "location": "",
+    "date": "17-23 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/guayaquil/7391/2025/results",
+    "drawsUrl": "/en/scores/archive/guayaquil/7391/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/guayaquil/7391/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "17 - 23 November, 2025",
+    "tournamentStartDate": "2025-11-17",
+    "tournamentEndDate": "2025-11-23",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-17",
+    "endDate": "2025-11-23"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/AL)"
+    },
+    {
+      "id": "",
+      "name": "(9/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adolfo Daniel Vallejo"
+    },
+    {
+      "id": "",
+      "name": "Alex Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "Arklon Huertas Del Pino Cordova"
+    },
+    {
+      "id": "",
+      "name": "Dakotah Bobo"
+    },
+    {
+      "id": "",
+      "name": "David Jorda Sanchis"
+    },
+    {
+      "id": "",
+      "name": "Drew Van Orderlain"
+    },
+    {
+      "id": "",
+      "name": "Emilio Camacho"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Federico Aguilar Cardozo"
+    },
+    {
+      "id": "",
+      "name": "Federico Agustin Gomez"
+    },
+    {
+      "id": "",
+      "name": "Felipe Rivadeneira"
+    },
+    {
+      "id": "",
+      "name": "Felipe Wright"
+    },
+    {
+      "id": "",
+      "name": "Francisco Castro"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Schenekenberg"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Hady Habib"
+    },
+    {
+      "id": "",
+      "name": "Hernan Casanova"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Carou"
+    },
+    {
+      "id": "",
+      "name": "Joaquin Aguilar Cardozo"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Aguilar"
+    },
+    {
+      "id": "",
+      "name": "Juan Estevez"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Varillas"
+    },
+    {
+      "id": "",
+      "name": "Justin Roberts"
+    },
+    {
+      "id": "",
+      "name": "Lawrence Bataljin"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Joaquin Rodriguez"
+    },
+    {
+      "id": "",
+      "name": "Lucas Yunez"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Lucio Ratti"
+    },
+    {
+      "id": "",
+      "name": "Luis David Martinez"
+    },
+    {
+      "id": "",
+      "name": "Martin Maldonado"
+    },
+    {
+      "id": "",
+      "name": "Miles Clark"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Garcia Longo"
+    },
+    {
+      "id": "",
+      "name": "Patricio Alvarado"
+    },
+    {
+      "id": "",
+      "name": "Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Ryan Dickerson"
+    },
+    {
+      "id": "",
+      "name": "Salvador Price"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Sergio Castro"
+    },
+    {
+      "id": "",
+      "name": "Tobias Sonne"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martinez"
+    },
+    {
+      "id": "",
+      "name": "Tristan McCormick"
+    },
+    {
+      "id": "",
+      "name": "Victor Hugo Remondy Pagotto"
+    }
+  ]
+}

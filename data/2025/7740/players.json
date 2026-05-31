@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/nottingham/7740/2025/results",
+  "tournament": {
+    "id": "7740",
+    "year": "2025",
+    "name": "Nottingham 2",
+    "location": "",
+    "date": "16-21 Jun, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/nottingham/7740/2025/results",
+    "drawsUrl": "/en/scores/archive/nottingham/7740/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/nottingham/7740/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "16 - 21 June, 2025",
+    "tournamentStartDate": "2025-06-16",
+    "tournamentEndDate": "2025-06-21",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-16",
+    "endDate": "2025-06-21"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "(5/AL)"
+    },
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Alexander Blockx"
+    },
+    {
+      "id": "",
+      "name": "Alibek Kachmazov"
+    },
+    {
+      "id": "",
+      "name": "Arthur Cazaux"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Chris Rodesch"
+    },
+    {
+      "id": "",
+      "name": "Coleman Wong"
+    },
+    {
+      "id": "",
+      "name": "Colton Smith"
+    },
+    {
+      "id": "",
+      "name": "Constant Lestienne"
+    },
+    {
+      "id": "",
+      "name": "Daniel Elahi Galan"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Emilio Nava"
+    },
+    {
+      "id": "",
+      "name": "Fabio Fognini"
+    },
+    {
+      "id": "",
+      "name": "George Loffhagen"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "Jaime Faria"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "James Trotter"
+    },
+    {
+      "id": "",
+      "name": "Jan Choinski"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Lloyd Harris"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Marco Trungelliti"
+    },
+    {
+      "id": "",
+      "name": "Marin Cilic"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Matteo Gigante"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Oliver Bonding"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Ryan Peniston"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Tomas Barrios Vera"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Yosuke Watanuki"
+    }
+  ]
+}

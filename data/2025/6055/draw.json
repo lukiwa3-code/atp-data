@@ -1,0 +1,812 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/charlottesville/6055/2025/draws",
+  "tournament": {
+    "id": "6055",
+    "year": "2025",
+    "name": "Charlottesville",
+    "location": "",
+    "date": "27 Oct - 2 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/charlottesville/6055/2025/results",
+    "drawsUrl": "/en/scores/archive/charlottesville/6055/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/charlottesville/6055/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "27 October - 2 November, 2025",
+    "tournamentStartDate": "2025-10-27",
+    "tournamentEndDate": "2025-11-02",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-27",
+    "endDate": "2025-11-02"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "M. Damm",
+          "player1FullName": "Martin Damm",
+          "player1Id": "D0DT",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "6 2"
+          ],
+          "player2": "R. Jodar",
+          "player2FullName": "Rafael Jodar",
+          "player2Id": "J0DZ",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Rafael Jodar",
+          "formattedScore": "6-3 7-6(2)"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "M. Rosenkranz",
+          "player1FullName": "Mats Rosenkranz",
+          "player1Id": "RH62",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "6 3",
+            "4"
+          ],
+          "player2": "M. Damm",
+          "player2FullName": "Martin Damm",
+          "player2Id": "D0DT",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Martin Damm",
+          "formattedScore": "7-6(3) 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "R. Jodar",
+          "player1FullName": "Rafael Jodar",
+          "player1Id": "J0DZ",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "6",
+            "4"
+          ],
+          "player2": "J. Monday",
+          "player2FullName": "Johannus Monday",
+          "player2Id": "M0ON",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "winnerName": "Rafael Jodar",
+          "formattedScore": "6 4"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Rosenkranz",
+          "player1FullName": "Mats Rosenkranz",
+          "player1Id": "RH62",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "O. Tarvet",
+          "player2FullName": "Oliver Tarvet",
+          "player2Id": "T0GR",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "1",
+            "0"
+          ],
+          "winnerName": "Mats Rosenkranz",
+          "formattedScore": "6-1 6-0"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "D. Glinka",
+          "player1FullName": "Daniil Glinka",
+          "player1Id": "G0BY",
+          "player1Country": "EST",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "4"
+          ],
+          "player2": "M. Damm",
+          "player2FullName": "Martin Damm",
+          "player2Id": "D0DT",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6 3",
+            "6",
+            "6"
+          ],
+          "winnerName": "Martin Damm",
+          "formattedScore": "6-7(3) 6-4 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "R. Jodar",
+          "player1FullName": "Rafael Jodar",
+          "player1Id": "J0DZ",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "D. Dietrich",
+          "player2FullName": "Dylan Dietrich",
+          "player2Id": "D0HX",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "winnerName": "Rafael Jodar",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "J. Monday",
+          "player1FullName": "Johannus Monday",
+          "player1Id": "M0ON",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Krueger",
+          "player2FullName": "Mitchell Krueger",
+          "player2Id": "KC12",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Johannus Monday",
+          "formattedScore": "6-4 6-4"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Hijikata",
+          "player1FullName": "Rinky Hijikata",
+          "player1Id": "H0BH",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "player2": "M. Rosenkranz",
+          "player2FullName": "Mats Rosenkranz",
+          "player2Id": "RH62",
+          "player2Country": "GER",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Mats Rosenkranz",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "I. Montes-De La Torre",
+          "player1FullName": "Inaki Montes De La Torre",
+          "player1Id": "M0NL",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "6 3"
+          ],
+          "player2": "O. Tarvet",
+          "player2FullName": "Oliver Tarvet",
+          "player2Id": "T0GR",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "7"
+          ],
+          "winnerName": "Oliver Tarvet",
+          "formattedScore": "5-7 6-4 7-6(3)"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Glinka",
+          "player1FullName": "Daniil Glinka",
+          "player1Id": "G0BY",
+          "player1Country": "EST",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "P. Zahraj",
+          "player2FullName": "Patrick Zahraj",
+          "player2Id": "Z09F",
+          "player2Country": "GER",
+          "player2ScoreTokens": [
+            "6 4",
+            "2"
+          ],
+          "winnerName": "Daniil Glinka",
+          "formattedScore": "7-6(4) 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "K. Smith",
+          "player1FullName": "Keegan Smith",
+          "player1Id": "S0DQ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "1",
+            "5"
+          ],
+          "player2": "M. Damm",
+          "player2FullName": "Martin Damm",
+          "player2Id": "D0DT",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Martin Damm",
+          "formattedScore": "6-1 7-5"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Jodar",
+          "player1FullName": "Rafael Jodar",
+          "player1Id": "J0DZ",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Purtseladze",
+          "player2FullName": "Saba Purtseladze",
+          "player2Id": "P0EA",
+          "player2Country": "GEO",
+          "player2ScoreTokens": [
+            "4",
+            "0"
+          ],
+          "winnerName": "Rafael Jodar",
+          "formattedScore": "6-4 6-0"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Dietrich",
+          "player1FullName": "Dylan Dietrich",
+          "player1Id": "D0HX",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "J. Clarke",
+          "player2FullName": "Jay Clarke",
+          "player2Id": "CI14",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6 6",
+            "2"
+          ],
+          "winnerName": "Dylan Dietrich",
+          "formattedScore": "7-6(6) 6-2"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Monday",
+          "player1FullName": "Johannus Monday",
+          "player1Id": "M0ON",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "6 1",
+            "6"
+          ],
+          "player2": "C. Kingsley",
+          "player2FullName": "Cannon Kingsley",
+          "player2Id": "K0DB",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "1"
+          ],
+          "winnerName": "Johannus Monday",
+          "formattedScore": "6-4 6-7(1) 6-1"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Krueger",
+          "player1FullName": "Mitchell Krueger",
+          "player1Id": "KC12",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "6"
+          ],
+          "player2": "D. Suresh",
+          "player2FullName": "Dhakshineswar Suresh",
+          "player2Id": "S0DE",
+          "player2Country": "IND",
+          "player2ScoreTokens": [
+            "6 5",
+            "6",
+            "3"
+          ],
+          "winnerName": "Mitchell Krueger",
+          "formattedScore": "7-6(5) 4-6 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Hijikata",
+          "player1FullName": "Rinky Hijikata",
+          "player1Id": "H0BH",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "6"
+          ],
+          "player2": "M. Soto",
+          "player2FullName": "Matias Soto",
+          "player2Id": "S0EK",
+          "player2Country": "CHI",
+          "player2ScoreTokens": [
+            "6",
+            "5",
+            "3"
+          ],
+          "winnerName": "Rinky Hijikata",
+          "formattedScore": "4-6 7-5 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Martin",
+          "player1FullName": "Andres Martin",
+          "player1Id": "M0NP",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "3"
+          ],
+          "player2": "M. Rosenkranz",
+          "player2FullName": "Mats Rosenkranz",
+          "player2Id": "RH62",
+          "player2Country": "GER",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "winnerName": "Mats Rosenkranz",
+          "formattedScore": "6-4 4-6 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "I. Montes-De La Torre",
+          "player1FullName": "Inaki Montes De La Torre",
+          "player1Id": "M0NL",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "5",
+            "7",
+            "6"
+          ],
+          "player2": "A. Ilagan",
+          "player2FullName": "Andre Ilagan",
+          "player2Id": "I0B0",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "7",
+            "6 1",
+            "4"
+          ],
+          "winnerName": "Inaki Montes De La Torre",
+          "formattedScore": "5-7 7-6(1) 6-4"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "O. Tarvet",
+          "player1FullName": "Oliver Tarvet",
+          "player1Id": "T0GR",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "N. Mejia",
+          "player2FullName": "Nicolas Mejia",
+          "player2Id": "M0AW",
+          "player2Country": "COL",
+          "player2ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "winnerName": "Oliver Tarvet",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Kypson",
+          "player1FullName": "Patrick Kypson",
+          "player1Id": "K0A3",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "D. Glinka",
+          "player2FullName": "Daniil Glinka",
+          "player2Id": "G0BY",
+          "player2Country": "EST",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Daniil Glinka",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Kwiatkowski",
+          "player1FullName": "Thai Son Kwiatkowski",
+          "player1Id": "KD35",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "player2": "P. Zahraj",
+          "player2FullName": "Patrick Zahraj",
+          "player2Id": "Z09F",
+          "player2Country": "GER",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Patrick Zahraj",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Blanch",
+          "player1FullName": "Darwin Blanch",
+          "player1Id": "B0NO",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "2"
+          ],
+          "player2": "K. Smith",
+          "player2FullName": "Keegan Smith",
+          "player2Id": "S0DQ",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "winnerName": "Keegan Smith",
+          "formattedScore": "4-6 6-3 6-2"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Broom",
+          "player1FullName": "Charles Broom",
+          "player1Id": "BV21",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "M. Damm",
+          "player2FullName": "Martin Damm",
+          "player2Id": "D0DT",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Martin Damm",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Jodar",
+          "player1FullName": "Rafael Jodar",
+          "player1Id": "J0DZ",
+          "player1Country": "ESP",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "M. Cassone",
+          "player2FullName": "Murphy Cassone",
+          "player2Id": "C0HT",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "winnerName": "Rafael Jodar",
+          "formattedScore": "6-4 7-5"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Wiskandt",
+          "player1FullName": "Max Wiskandt",
+          "player1Id": "W0BB",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "5",
+            "6 4"
+          ],
+          "player2": "S. Purtseladze",
+          "player2FullName": "Saba Purtseladze",
+          "player2Id": "P0EA",
+          "player2Country": "GEO",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Saba Purtseladze",
+          "formattedScore": "7-5 7-6(4)"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Dietrich",
+          "player1FullName": "Dylan Dietrich",
+          "player1Id": "D0HX",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Perez",
+          "player2FullName": "Alfredo Perez",
+          "player2Id": "PL39",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "winnerName": "Dylan Dietrich",
+          "formattedScore": "6-3 6-4"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Zink",
+          "player1FullName": "Tyler Zink",
+          "player1Id": "Z0AK",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "player2": "J. Clarke",
+          "player2FullName": "Jay Clarke",
+          "player2Id": "CI14",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Jay Clarke",
+          "formattedScore": "6-2 6-4"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Monday",
+          "player1FullName": "Johannus Monday",
+          "player1Id": "M0ON",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "R. Karki",
+          "player2FullName": "Ronit Karki",
+          "player2Id": "K0OY",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "winnerName": "Johannus Monday",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Kingsley",
+          "player1FullName": "Cannon Kingsley",
+          "player1Id": "K0DB",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "J. Boulais",
+          "player2FullName": "Justin Boulais",
+          "player2Id": "B0F8",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "winnerName": "Cannon Kingsley",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Kasnikowski",
+          "player1FullName": "Maks Kasnikowski",
+          "player1Id": "K0HC",
+          "player1Country": "POL",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "6 5"
+          ],
+          "player2": "M. Krueger",
+          "player2FullName": "Mitchell Krueger",
+          "player2Id": "KC12",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6 5",
+            "7"
+          ],
+          "winnerName": "Mitchell Krueger",
+          "formattedScore": "6-4 6-7(5) 7-6(5)"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Suresh",
+          "player1FullName": "Dhakshineswar Suresh",
+          "player1Id": "S0DE",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "L. Draxl",
+          "player2FullName": "Liam Draxl",
+          "player2Id": "D0DP",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "winnerName": "Dhakshineswar Suresh",
+          "formattedScore": "6-3 6-3"
+        }
+      ]
+    }
+  ]
+}

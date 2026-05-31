@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "sergioplanellahernandez",
+    "name": "Sergio Planella Hernandez",
+    "displayName": "Sergio Planella Hernandez",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "2823",
+      "tournamentYear": "2025",
+      "tournamentName": "Valencia",
+      "tournamentType": "CH",
+      "tournamentDate": "6-12 Oct, 2025",
+      "tournamentStartDate": "2025-10-06",
+      "tournamentEndDate": "2025-10-12",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-3",
+      "matchId": "RES-C70B3281E1",
+      "reason": null,
+      "playerName": "Sergio Planella Hernandez",
+      "opponentName": "Carlos Sanchez Jover",
+      "opponentKey": "carlossanchezjover",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

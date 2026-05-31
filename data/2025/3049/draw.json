@@ -1,0 +1,814 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/lima/3049/2025/draws",
+  "tournament": {
+    "id": "3049",
+    "year": "2025",
+    "name": "Lima - Los Inkas",
+    "location": "",
+    "date": "27 Oct - 2 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/lima/3049/2025/results",
+    "drawsUrl": "/en/scores/archive/lima/3049/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/lima/3049/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "27 October - 2 November, 2025",
+    "tournamentStartDate": "2025-10-27",
+    "tournamentEndDate": "2025-11-02",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-27",
+    "endDate": "2025-11-02"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "M. Navone",
+          "player1FullName": "Mariano Navone",
+          "player1Id": "N0BS",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "5",
+            "6"
+          ],
+          "player2": "M. Cecchinato",
+          "player2FullName": "Marco Cecchinato",
+          "player2Id": "CF01",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "4"
+          ],
+          "winnerName": "Mariano Navone",
+          "formattedScore": "6-4 5-7 6-4"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "M. Navone",
+          "player1FullName": "Mariano Navone",
+          "player1Id": "N0BS",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Guillen Meza",
+          "player2FullName": "Alvaro Guillen Meza",
+          "player2Id": "G0DH",
+          "player2Country": "ECU",
+          "player2ScoreTokens": [
+            "4",
+            "1"
+          ],
+          "winnerName": "Mariano Navone",
+          "formattedScore": "6-4 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "T. Boyer",
+          "player1FullName": "Tristan Boyer",
+          "player1Id": "B0EJ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6 7",
+            "6",
+            "3"
+          ],
+          "player2": "M. Cecchinato",
+          "player2FullName": "Marco Cecchinato",
+          "player2Id": "CF01",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "7",
+            "3",
+            "6"
+          ],
+          "winnerName": "Marco Cecchinato",
+          "formattedScore": "7-6(7) 3-6 6-3"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Navone",
+          "player1FullName": "Mariano Navone",
+          "player1Id": "N0BS",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Barrena",
+          "player2FullName": "Alex Barrena",
+          "player2Id": "B0GY",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "0",
+            "3"
+          ],
+          "winnerName": "Mariano Navone",
+          "formattedScore": "6-0 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "I. Buse",
+          "player1FullName": "Ignacio Buse",
+          "player1Id": "B0ID",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "2",
+            "6",
+            "3"
+          ],
+          "player2": "A. Guillen Meza",
+          "player2FullName": "Alvaro Guillen Meza",
+          "player2Id": "G0DH",
+          "player2Country": "ECU",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "winnerName": "Alvaro Guillen Meza",
+          "formattedScore": "6-2 4-6 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "T. Boyer",
+          "player1FullName": "Tristan Boyer",
+          "player1Id": "B0EJ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "2",
+            "6"
+          ],
+          "player2": "Z. Kolar",
+          "player2FullName": "Zdenek Kolar",
+          "player2Id": "KH56",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "3"
+          ],
+          "winnerName": "Tristan Boyer",
+          "formattedScore": "6-4 2-6 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Cecchinato",
+          "player1FullName": "Marco Cecchinato",
+          "player1Id": "CF01",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "A. Huertas Del Pino Cordova",
+          "player2FullName": "Arklon Huertas Del Pino Cordova",
+          "player2Id": "H0C9",
+          "player2Country": "PER",
+          "player2ScoreTokens": [
+            "4",
+            "6 5"
+          ],
+          "winnerName": "Marco Cecchinato",
+          "formattedScore": "6-4 7-6(5)"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Navone",
+          "player1FullName": "Mariano Navone",
+          "player1Id": "N0BS",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "D. Jorda Sanchis",
+          "player2FullName": "David Jorda Sanchis",
+          "player2Id": "J476",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "4",
+            "0"
+          ],
+          "winnerName": "Mariano Navone",
+          "formattedScore": "6-4 6-0"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Villanueva",
+          "player1FullName": "Gonzalo Villanueva",
+          "player1Id": "V821",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "A. Barrena",
+          "player2FullName": "Alex Barrena",
+          "player2Id": "B0GY",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Alex Barrena",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "I. Buse",
+          "player1FullName": "Ignacio Buse",
+          "player1Id": "B0ID",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "J. Torres",
+          "player2FullName": "Juan Bautista Torres",
+          "player2Id": "T0DM",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "winnerName": "Ignacio Buse",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Guillen Meza",
+          "player1FullName": "Alvaro Guillen Meza",
+          "player1Id": "G0DH",
+          "player1Country": "ECU",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Andrade",
+          "player2FullName": "Andy Andrade",
+          "player2Id": "AG08",
+          "player2Country": "ECU",
+          "player2ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "winnerName": "Alvaro Guillen Meza",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "T. Boyer",
+          "player1FullName": "Tristan Boyer",
+          "player1Id": "B0EJ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "player2": "N. Kicker",
+          "player2FullName": "Nicolas Kicker",
+          "player2Id": "KC29",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "2",
+            "4"
+          ],
+          "winnerName": "Tristan Boyer",
+          "formattedScore": "3-6 6-2 6-4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "Z. Kolar",
+          "player1FullName": "Zdenek Kolar",
+          "player1Id": "KH56",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "L. Midon",
+          "player2FullName": "Lautaro Midon",
+          "player2Id": "M0OH",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "winnerName": "Zdenek Kolar",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Burruchaga",
+          "player1FullName": "Roman Andres Burruchaga",
+          "player1Id": "B0FV",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6 4",
+            "6 5"
+          ],
+          "player2": "M. Cecchinato",
+          "player2FullName": "Marco Cecchinato",
+          "player2Id": "CF01",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Marco Cecchinato",
+          "formattedScore": "7-6(4) 7-6(5)"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Huertas Del Pino Cordova",
+          "player1FullName": "Arklon Huertas Del Pino Cordova",
+          "player1Id": "H0C9",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "C. Zarate",
+          "player2FullName": "Carlos Maria Zarate",
+          "player2Id": "Z0DA",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Arklon Huertas Del Pino Cordova",
+          "formattedScore": "6-4 6-4"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Navone",
+          "player1FullName": "Mariano Navone",
+          "player1Id": "N0BS",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "G. Olivieri",
+          "player2FullName": "Genaro Alberto Olivieri",
+          "player2Id": "O660",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "winnerName": "Mariano Navone",
+          "formattedScore": "6-3 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Kestelboim",
+          "player1FullName": "Mariano Kestelboim",
+          "player1Id": "KE69",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "player2": "D. Jorda Sanchis",
+          "player2FullName": "David Jorda Sanchis",
+          "player2Id": "J476",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "David Jorda Sanchis",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Skatov",
+          "player1FullName": "Timofey Skatov",
+          "player1Id": "S0GR",
+          "player1Country": "KAZ",
+          "player1ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "player2": "G. Villanueva",
+          "player2FullName": "Gonzalo Villanueva",
+          "player2Id": "V821",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Gonzalo Villanueva",
+          "formattedScore": "6-3 6-1"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Collarini",
+          "player1FullName": "Andrea Collarini",
+          "player1Id": "CC66",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6 4",
+            "4"
+          ],
+          "player2": "A. Barrena",
+          "player2FullName": "Alex Barrena",
+          "player2Id": "B0GY",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Alex Barrena",
+          "formattedScore": "7-6(4) 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "I. Buse",
+          "player1FullName": "Ignacio Buse",
+          "player1Id": "B0ID",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "F. Roncadelli",
+          "player2FullName": "Franco Roncadelli",
+          "player2Id": "R0BT",
+          "player2Country": "URU",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "2"
+          ],
+          "winnerName": "Ignacio Buse",
+          "formattedScore": "6-3 3-6 6-2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Tobon",
+          "player1FullName": "Miguel Tobon",
+          "player1Id": "T0I3",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "1",
+            "2"
+          ],
+          "player2": "J. Torres",
+          "player2FullName": "Juan Bautista Torres",
+          "player2Id": "T0DM",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Juan Bautista Torres",
+          "formattedScore": "6-1 6-2"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "G. Bueno",
+          "player1FullName": "Gonzalo Bueno",
+          "player1Id": "B0GR",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "6 6",
+            "1"
+          ],
+          "player2": "A. Guillen Meza",
+          "player2FullName": "Alvaro Guillen Meza",
+          "player2Id": "G0DH",
+          "player2Country": "ECU",
+          "player2ScoreTokens": [
+            "7",
+            "3"
+          ],
+          "winnerName": "Alvaro Guillen Meza",
+          "formattedScore": "7 3"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Andrade",
+          "player1FullName": "Andy Andrade",
+          "player1Id": "AG08",
+          "player1Country": "ECU",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "H. Habib",
+          "player2FullName": "Hady Habib",
+          "player2Id": "HF80",
+          "player2Country": "LBN",
+          "player2ScoreTokens": [
+            "6 4",
+            "6 2"
+          ],
+          "winnerName": "Andy Andrade",
+          "formattedScore": "7-6(4) 7-6(2)"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Boyer",
+          "player1FullName": "Tristan Boyer",
+          "player1Id": "B0EJ",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "D. Dutra da Silva",
+          "player2FullName": "Daniel Dutra Da Silva",
+          "player2Id": "SG56",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6 2",
+            "6 4"
+          ],
+          "winnerName": "Tristan Boyer",
+          "formattedScore": "7-6(2) 7-6(4)"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Ingildsen",
+          "player1FullName": "Johannes Ingildsen",
+          "player1Id": "I411",
+          "player1Country": "DEN",
+          "player1ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "player2": "N. Kicker",
+          "player2FullName": "Nicolas Kicker",
+          "player2Id": "KC29",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Nicolas Kicker",
+          "formattedScore": "6-3 6-1"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Z. Kolar",
+          "player1FullName": "Zdenek Kolar",
+          "player1Id": "KH56",
+          "player1Country": "CZE",
+          "player1ScoreTokens": [
+            "7",
+            "6 5",
+            "7"
+          ],
+          "player2": "J. Varillas",
+          "player2FullName": "Juan Pablo Varillas",
+          "player2Id": "V836",
+          "player2Country": "PER",
+          "player2ScoreTokens": [
+            "6 4",
+            "7",
+            "6 3"
+          ],
+          "winnerName": "Zdenek Kolar",
+          "formattedScore": "7-6(4) 6-7(5) 7-6(3)"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Midon",
+          "player1FullName": "Lautaro Midon",
+          "player1Id": "M0OH",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "6"
+          ],
+          "player2": "F. Gomez",
+          "player2FullName": "Federico Agustin Gomez",
+          "player2Id": "GJ16",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "6 4",
+            "4"
+          ],
+          "winnerName": "Lautaro Midon",
+          "formattedScore": "4-6 7-6(4) 6-4"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Burruchaga",
+          "player1FullName": "Roman Andres Burruchaga",
+          "player1Id": "B0FV",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Rubini",
+          "player2FullName": "Alessandro Rubini",
+          "player2Id": "R0MW",
+          "player2Country": "PER",
+          "player2ScoreTokens": [
+            "0",
+            "3"
+          ],
+          "winnerName": "Roman Andres Burruchaga",
+          "formattedScore": "6-0 6-3"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Cecchinato",
+          "player1FullName": "Marco Cecchinato",
+          "player1Id": "CF01",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "6",
+            "6 5",
+            "6"
+          ],
+          "player2": "G. Justo",
+          "player2FullName": "Guido Ivan Justo",
+          "player2Id": "J0AW",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "7",
+            "1"
+          ],
+          "winnerName": "Marco Cecchinato",
+          "formattedScore": "6-3 6-7(5) 6-1"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Huertas Del Pino Cordova",
+          "player1FullName": "Arklon Huertas Del Pino Cordova",
+          "player1Id": "H0C9",
+          "player1Country": "PER",
+          "player1ScoreTokens": [
+            "6",
+            "6 6",
+            "6"
+          ],
+          "player2": "F. Cavallo",
+          "player2FullName": "Fernando Cavallo",
+          "player2Id": "C0O4",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "7",
+            "2"
+          ],
+          "winnerName": "Arklon Huertas Del Pino Cordova",
+          "formattedScore": "6-3 6-7(6) 6-2"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Zarate",
+          "player1FullName": "Carlos Maria Zarate",
+          "player1Id": "Z0DA",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "1",
+            "4"
+          ],
+          "player2": "J. Cerundolo",
+          "player2FullName": "Juan Manuel Cerundolo",
+          "player2Id": "C0C8",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "1"
+          ],
+          "winnerName": "Carlos Maria Zarate",
+          "formattedScore": "1 4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "takayaishii",
+    "name": "Takaya Ishii",
+    "displayName": "Takaya Ishii",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 29 March, 2026",
+      "dateIso": "2026-03-29",
+      "tournamentId": "3073",
+      "tournamentYear": "2026",
+      "tournamentName": "Koyushokucho Miyazaki Challenger",
+      "tournamentType": "CH",
+      "tournamentDate": "30 Mar - 5 Apr, 2026",
+      "tournamentStartDate": "2026-03-30",
+      "tournamentEndDate": "2026-04-05",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-0 6-0",
+      "matchId": "RES-172F8C1947",
+      "reason": null,
+      "playerName": "Takaya Ishii",
+      "opponentName": "Justin Boulais",
+      "opponentKey": "justinboulais",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 423,
+      "rankingDate": "2026-03-23",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

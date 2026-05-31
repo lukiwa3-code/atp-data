@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/shymkent/9192/2026/results",
+  "tournament": {
+    "id": "9192",
+    "year": "2026",
+    "name": "Shymkent Challenger 2",
+    "location": "",
+    "date": "27 Apr - 3 May, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/shymkent/9192/2026/results",
+    "drawsUrl": "/en/scores/archive/shymkent/9192/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/shymkent/9192/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "27 April - 3 May, 2026",
+    "tournamentStartDate": "2026-04-27",
+    "tournamentEndDate": "2026-05-03",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-04-27",
+    "endDate": "2026-05-03"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Alexander Binda"
+    },
+    {
+      "id": "",
+      "name": "Amir Omarkhanov"
+    },
+    {
+      "id": "",
+      "name": "Andrej Nedic"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Anton Chekhov"
+    },
+    {
+      "id": "",
+      "name": "Arseniy Trebukhin"
+    },
+    {
+      "id": "",
+      "name": "Bekkhan Atlangeriev"
+    },
+    {
+      "id": "",
+      "name": "Buvaysar Gadamauri"
+    },
+    {
+      "id": "",
+      "name": "Dali Blanch"
+    },
+    {
+      "id": "",
+      "name": "Damir Zhalgasbay"
+    },
+    {
+      "id": "",
+      "name": "Daniil Ostapenkov"
+    },
+    {
+      "id": "",
+      "name": "Denis Klok"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Edas Butvilas"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Gerard Campana Lee"
+    },
+    {
+      "id": "",
+      "name": "Gijs Brouwer"
+    },
+    {
+      "id": "",
+      "name": "Giuseppe La Vela"
+    },
+    {
+      "id": "",
+      "name": "Grigoriy Lomakin"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Kai Wehnelt"
+    },
+    {
+      "id": "",
+      "name": "Leo Vithoontien"
+    },
+    {
+      "id": "",
+      "name": "Luca Staeheli"
+    },
+    {
+      "id": "",
+      "name": "Manas Dhamne"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Max Hans Rehberg"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maxim Shin"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Nikita Belozertsev"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Oleksii Krutykh"
+    },
+    {
+      "id": "",
+      "name": "Petr Bar Biryukov"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Ruslan Tiukaev"
+    },
+    {
+      "id": "",
+      "name": "Samuele Pieri"
+    },
+    {
+      "id": "",
+      "name": "Sean Cuenin"
+    },
+    {
+      "id": "",
+      "name": "Sergey Fomin"
+    },
+    {
+      "id": "",
+      "name": "Sora Fukuda"
+    },
+    {
+      "id": "",
+      "name": "Svyatoslav Gulin"
+    },
+    {
+      "id": "",
+      "name": "Timur Saulenko"
+    },
+    {
+      "id": "",
+      "name": "Tomasz Berkieta"
+    },
+    {
+      "id": "",
+      "name": "Tomohiro Masabayashi"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Vladyslav Orlov"
+    },
+    {
+      "id": "",
+      "name": "Yannik Kelm"
+    },
+    {
+      "id": "",
+      "name": "Yuki Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Zangar Nurlanuly"
+    }
+  ]
+}

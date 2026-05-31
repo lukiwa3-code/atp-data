@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -24,6 +24,8 @@
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_grandslam.png",
     "prizeMoney": "€28,900,000",
     "totalFinancialCommitment": "€28,900,000",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
     "dateSource": "results_header_or_calendar",
     "startDate": "2026-05-24",
     "tournamentStartDate": "2026-05-24",
@@ -161,15 +163,15 @@
           "bracketOrder": 4,
           "round": "QF",
           "roundLong": "Quarterfinals",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "R. Jodar",
+          "player1FullName": "Rafael Jodar",
+          "player1Id": "J0DZ",
+          "player1Country": "ESP",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "A. Zverev",
+          "player2FullName": "Alexander Zverev",
+          "player2Id": "Z355",
+          "player2Country": "GER",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -292,14 +294,26 @@
           "player1FullName": "Rafael Jodar",
           "player1Id": "J0DZ",
           "player1Country": "ESP",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "4",
+            "6",
+            "6",
+            "6"
+          ],
           "player2": "P. Carreno Busta",
           "player2FullName": "Pablo Carreno Busta",
           "player2Id": "CD85",
           "player2Country": "ESP",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6",
+            "1",
+            "2",
+            "2"
+          ],
+          "winnerName": "Rafael Jodar",
+          "formattedScore": "4-6 4-6 6-1 6-2 6-2"
         },
         {
           "bracketOrder": 8,
@@ -309,14 +323,22 @@
           "player1FullName": "Jesper De Jong",
           "player1Id": "D0C1",
           "player1Country": "NED",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6 3",
+            "4",
+            "1"
+          ],
           "player2": "A. Zverev",
           "player2FullName": "Alexander Zverev",
           "player2Id": "Z355",
           "player2Country": "GER",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "6",
+            "6"
+          ],
+          "winnerName": "Alexander Zverev",
+          "formattedScore": "7-6(3) 6-4 6-1"
         }
       ]
     },

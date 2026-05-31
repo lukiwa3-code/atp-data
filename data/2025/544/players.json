@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/montevideo/544/2025/results",
+  "tournament": {
+    "id": "544",
+    "year": "2025",
+    "name": "Montevideo",
+    "location": "",
+    "date": "10-16 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/montevideo/544/2025/results",
+    "drawsUrl": "/en/scores/archive/montevideo/544/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/montevideo/544/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "10 - 16 November, 2025",
+    "tournamentStartDate": "2025-11-10",
+    "tournamentEndDate": "2025-11-16",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-10",
+    "endDate": "2025-11-16"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/WC)"
+    },
+    {
+      "id": "",
+      "name": "Adolfo Daniel Vallejo"
+    },
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alexander Merino"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrea Collarini"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Kittay"
+    },
+    {
+      "id": "",
+      "name": "Boris Arias"
+    },
+    {
+      "id": "",
+      "name": "Carlos Taberner"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Cristian Garin"
+    },
+    {
+      "id": "",
+      "name": "Daniel Dutra da Silva"
+    },
+    {
+      "id": "",
+      "name": "David Jorda Sanchis"
+    },
+    {
+      "id": "",
+      "name": "Emilio Nava"
+    },
+    {
+      "id": "",
+      "name": "Facundo Diaz Acosta"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Federico Aguilar Cardozo"
+    },
+    {
+      "id": "",
+      "name": "Federico Agustin Gomez"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Villanueva"
+    },
+    {
+      "id": "",
+      "name": "Guido Ivan Justo"
+    },
+    {
+      "id": "",
+      "name": "Gustavo Heide"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Carou"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Joao Lucas Reis Da Silva"
+    },
+    {
+      "id": "",
+      "name": "Joaquin Aguilar Cardozo"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Prado Angelo"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Irigoin"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Mariano Kestelboim"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Miguel Tobon"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Barrientos"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Kicker"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Roman Andres Burruchaga"
+    },
+    {
+      "id": "",
+      "name": "Santiago De La Fuente"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Tomas Barrios Vera"
+    },
+    {
+      "id": "",
+      "name": "Tomas Zurmendi"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Vilius Gaubas"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/sarasota/5069/2026/draws",
+  "tournament": {
+    "id": "5069",
+    "year": "2026",
+    "name": "Elizabeth Moore Sarasota Open",
+    "location": "",
+    "date": "6-12 Apr, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/sarasota/5069/2026/results",
+    "drawsUrl": "/en/scores/archive/sarasota/5069/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/sarasota/5069/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "6 - 12 April, 2026",
+    "tournamentStartDate": "2026-04-06",
+    "tournamentEndDate": "2026-04-12",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-12"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Final",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "Y. Wu",
+          "player1FullName": "Yibing Wu",
+          "player1Id": "WB32",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "player2": "S. Dostanic",
+          "player2FullName": "Stefan Dostanic",
+          "player2Id": "D0D4",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "1",
+            "6",
+            "3"
+          ],
+          "winnerName": "Yibing Wu",
+          "formattedScore": "6-1 4-6 6-3"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semifinals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "Y. Wu",
+          "player1FullName": "Yibing Wu",
+          "player1Id": "WB32",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "D. Blanch",
+          "player2FullName": "Darwin Blanch",
+          "player2Id": "B0NO",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "winnerName": "Yibing Wu",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "A. Andrade",
+          "player1FullName": "Andy Andrade",
+          "player1Id": "AG08",
+          "player1Country": "ECU",
+          "player1ScoreTokens": [
+            "3",
+            "4"
+          ],
+          "player2": "S. Dostanic",
+          "player2FullName": "Stefan Dostanic",
+          "player2Id": "D0D4",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Stefan Dostanic",
+          "formattedScore": "6-3 6-4"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarterfinals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "Y. Wu",
+          "player1FullName": "Yibing Wu",
+          "player1Id": "WB32",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "D. Dutra da Silva",
+          "player2FullName": "Daniel Dutra Da Silva",
+          "player2Id": "SG56",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "4",
+            "6 4"
+          ],
+          "winnerName": "Yibing Wu",
+          "formattedScore": "6-4 7-6(4)"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "H. Dellien",
+          "player1FullName": "Hugo Dellien",
+          "player1Id": "DA31",
+          "player1Country": "BOL",
+          "player1ScoreTokens": [
+            "1",
+            "5"
+          ],
+          "player2": "D. Blanch",
+          "player2FullName": "Darwin Blanch",
+          "player2Id": "B0NO",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Darwin Blanch",
+          "formattedScore": "6-1 7-5"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "D. Glinka",
+          "player1FullName": "Daniil Glinka",
+          "player1Id": "G0BY",
+          "player1Country": "EST",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "A. Andrade",
+          "player2FullName": "Andy Andrade",
+          "player2Id": "AG08",
+          "player2Country": "ECU",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Andy Andrade",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "N. Basavareddy",
+          "player1FullName": "Nishesh Basavareddy",
+          "player1Id": "B0NN",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "2",
+            "0"
+          ],
+          "player2": "S. Dostanic",
+          "player2FullName": "Stefan Dostanic",
+          "player2Id": "D0D4",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "0"
+          ],
+          "winnerName": "Stefan Dostanic",
+          "formattedScore": "5 6 0"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "Y. Wu",
+          "player1FullName": "Yibing Wu",
+          "player1Id": "WB32",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "K. Nishikori",
+          "player2FullName": "Kei Nishikori",
+          "player2Id": "N552",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "1"
+          ],
+          "winnerName": "Yibing Wu",
+          "formattedScore": "6-3 3-6 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Johns",
+          "player1FullName": "Garrett Johns",
+          "player1Id": "J0B5",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "player2": "D. Dutra da Silva",
+          "player2FullName": "Daniel Dutra Da Silva",
+          "player2Id": "SG56",
+          "player2Country": "BRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Daniel Dutra Da Silva",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "H. Dellien",
+          "player1FullName": "Hugo Dellien",
+          "player1Id": "DA31",
+          "player1Country": "BOL",
+          "player1ScoreTokens": [
+            "6",
+            "5",
+            "6"
+          ],
+          "player2": "K. Feldbausch",
+          "player2FullName": "Kilian Feldbausch",
+          "player2Id": "F0F4",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "1",
+            "7",
+            "3"
+          ],
+          "winnerName": "Hugo Dellien",
+          "formattedScore": "6-1 5-7 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Ajdukovic",
+          "player1FullName": "Duje Ajdukovic",
+          "player1Id": "A0CJ",
+          "player1Country": "CRO",
+          "player1ScoreTokens": [
+            "1",
+            "2"
+          ],
+          "player2": "D. Blanch",
+          "player2FullName": "Darwin Blanch",
+          "player2Id": "B0NO",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Darwin Blanch",
+          "formattedScore": "6-1 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Glinka",
+          "player1FullName": "Daniil Glinka",
+          "player1Id": "G0BY",
+          "player1Country": "EST",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Kirchheimer",
+          "player2FullName": "Strong Kirchheimer",
+          "player2Id": "KG27",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "winnerName": "Daniil Glinka",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Andrade",
+          "player1FullName": "Andy Andrade",
+          "player1Id": "AG08",
+          "player1Country": "ECU",
+          "player1ScoreTokens": [
+            "2",
+            "6",
+            "7"
+          ],
+          "player2": "T. Zink",
+          "player2FullName": "Tyler Zink",
+          "player2Id": "Z0AK",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "5"
+          ],
+          "winnerName": "Andy Andrade",
+          "formattedScore": "2-6 6-4 7-5"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "N. Basavareddy",
+          "player1FullName": "Nishesh Basavareddy",
+          "player1Id": "B0NN",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "H. Barton",
+          "player2FullName": "Hynek Barton",
+          "player2Id": "B0OU",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "1",
+            "6 6"
+          ],
+          "winnerName": "Nishesh Basavareddy",
+          "formattedScore": "6-1 7-6(6)"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "S. Dostanic",
+          "player1FullName": "Stefan Dostanic",
+          "player1Id": "D0D4",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "player2": "A. Rybakov",
+          "player2FullName": "Alex Rybakov",
+          "player2Id": "RG42",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "4"
+          ],
+          "winnerName": "Stefan Dostanic",
+          "formattedScore": "6-2 4-6 6-4"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Y. Wu",
+          "player1FullName": "Yibing Wu",
+          "player1Id": "WB32",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "R. Bennani",
+          "player2FullName": "Reda Bennani",
+          "player2Id": "B0PU",
+          "player2Country": "MAR",
+          "player2ScoreTokens": [
+            "1",
+            "4"
+          ],
+          "winnerName": "Yibing Wu",
+          "formattedScore": "6-1 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Nishikori",
+          "player1FullName": "Kei Nishikori",
+          "player1Id": "N552",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "N. Kicker",
+          "player2FullName": "Nicolas Kicker",
+          "player2Id": "KC29",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "winnerName": "Kei Nishikori",
+          "formattedScore": "6-3 6-2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Galan",
+          "player1FullName": "Daniel Elahi Galan",
+          "player1Id": "GE33",
+          "player1Country": "COL",
+          "player1ScoreTokens": [
+            "2",
+            "6 2"
+          ],
+          "player2": "G. Johns",
+          "player2FullName": "Garrett Johns",
+          "player2Id": "J0B5",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Garrett Johns",
+          "formattedScore": "6-2 7-6(2)"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Dutra da Silva",
+          "player1FullName": "Daniel Dutra Da Silva",
+          "player1Id": "SG56",
+          "player1Country": "BRA",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "C. Tabur",
+          "player2FullName": "Clement Tabur",
+          "player2Id": "T09X",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "5",
+            "6 4"
+          ],
+          "winnerName": "Daniel Dutra Da Silva",
+          "formattedScore": "7-5 7-6(4)"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Dellien",
+          "player1FullName": "Hugo Dellien",
+          "player1Id": "DA31",
+          "player1Country": "BOL",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "G. Olivieri",
+          "player2FullName": "Genaro Alberto Olivieri",
+          "player2Id": "O660",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "2",
+            "5"
+          ],
+          "winnerName": "Hugo Dellien",
+          "formattedScore": "6-2 7-5"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Feldbausch",
+          "player1FullName": "Kilian Feldbausch",
+          "player1Id": "F0F4",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "C. Kingsley",
+          "player2FullName": "Cannon Kingsley",
+          "player2Id": "K0DB",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "winnerName": "Kilian Feldbausch",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Ajdukovic",
+          "player1FullName": "Duje Ajdukovic",
+          "player1Id": "A0CJ",
+          "player1Country": "CRO",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Gueymard Wayenburg",
+          "player2FullName": "Sascha Gueymard Wayenburg",
+          "player2Id": "G0GW",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "winnerName": "Duje Ajdukovic",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Blanch",
+          "player1FullName": "Darwin Blanch",
+          "player1Id": "B0NO",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "1"
+          ],
+          "player2": "F. Gomez",
+          "player2FullName": "Federico Agustin Gomez",
+          "player2Id": "GJ16",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "winnerName": "Darwin Blanch",
+          "formattedScore": "6 1"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Glinka",
+          "player1FullName": "Daniil Glinka",
+          "player1Id": "G0BY",
+          "player1Country": "EST",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "J. Wolf",
+          "player2FullName": "J.j. Wolf",
+          "player2Id": "W09G",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "3",
+            "6 4"
+          ],
+          "winnerName": "Daniil Glinka",
+          "formattedScore": "6-3 7-6(4)"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Kirchheimer",
+          "player1FullName": "Strong Kirchheimer",
+          "player1Id": "KG27",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "7",
+            "7"
+          ],
+          "player2": "T. Faurel",
+          "player2FullName": "Thomas Faurel",
+          "player2Id": "F0HO",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "5",
+            "6 2"
+          ],
+          "winnerName": "Strong Kirchheimer",
+          "formattedScore": "4-6 7-5 7-6(2)"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Kuzuhara",
+          "player1FullName": "Bruno Kuzuhara",
+          "player1Id": "K0HN",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6 8",
+            "6",
+            "3"
+          ],
+          "player2": "A. Andrade",
+          "player2FullName": "Andy Andrade",
+          "player2Id": "AG08",
+          "player2Country": "ECU",
+          "player2ScoreTokens": [
+            "7",
+            "4",
+            "6"
+          ],
+          "winnerName": "Andy Andrade",
+          "formattedScore": "7-6(8) 4-6 6-3"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Zink",
+          "player1FullName": "Tyler Zink",
+          "player1Id": "Z0AK",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "6"
+          ],
+          "player2": "C. Smith",
+          "player2FullName": "Colton Smith",
+          "player2Id": "S0ZE",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "1",
+            "6",
+            "2"
+          ],
+          "winnerName": "Tyler Zink",
+          "formattedScore": "6-1 1-6 6-2"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "N. Basavareddy",
+          "player1FullName": "Nishesh Basavareddy",
+          "player1Id": "B0NN",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "L. Draxl",
+          "player2FullName": "Liam Draxl",
+          "player2Id": "D0DP",
+          "player2Country": "CAN",
+          "player2ScoreTokens": [
+            "3",
+            "6 5"
+          ],
+          "winnerName": "Nishesh Basavareddy",
+          "formattedScore": "6-3 7-6(5)"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Krueger",
+          "player1FullName": "Mitchell Krueger",
+          "player1Id": "KC12",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "H. Barton",
+          "player2FullName": "Hynek Barton",
+          "player2Id": "B0OU",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Hynek Barton",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Dostanic",
+          "player1FullName": "Stefan Dostanic",
+          "player1Id": "D0D4",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "S. Purtseladze",
+          "player2FullName": "Saba Purtseladze",
+          "player2Id": "P0EA",
+          "player2Country": "GEO",
+          "player2ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "winnerName": "Stefan Dostanic",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Rybakov",
+          "player1FullName": "Alex Rybakov",
+          "player1Id": "RG42",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "3",
+            "7",
+            "6"
+          ],
+          "player2": "M. Damm",
+          "player2FullName": "Martin Damm",
+          "player2Id": "D0DT",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "6 3",
+            "3"
+          ],
+          "winnerName": "Alex Rybakov",
+          "formattedScore": "3-6 7-6(3) 6-3"
+        }
+      ]
+    }
+  ]
+}

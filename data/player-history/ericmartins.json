@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "ericmartins",
+    "name": "Eric Martins",
+    "displayName": "Eric Martins",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 22 March, 2026",
+      "dateIso": "2026-03-22",
+      "tournamentId": "3071",
+      "tournamentYear": "2026",
+      "tournamentName": "LA OPEN",
+      "tournamentType": "CH",
+      "tournamentDate": "23-29 Mar, 2026",
+      "tournamentStartDate": "2026-03-23",
+      "tournamentEndDate": "2026-03-29",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 6-3",
+      "matchId": "RES-3A10169CB9",
+      "reason": null,
+      "playerName": "Eric Martins",
+      "opponentName": "Conner Huertas del Pino",
+      "opponentKey": "connerhuertasdelpino",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 733,
+      "rankingDate": "2026-03-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/tenerife/9623/2026/results",
+  "tournament": {
+    "id": "9623",
+    "year": "2026",
+    "name": "Tenerife Challenger 1",
+    "location": "",
+    "date": "2-8 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/tenerife/9623/2026/results",
+    "drawsUrl": "/en/scores/archive/tenerife/9623/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/tenerife/9623/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "2 - 8 February, 2026",
+    "tournamentStartDate": "2026-02-02",
+    "tournamentEndDate": "2026-02-08",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-02",
+    "endDate": "2026-02-08"
+  },
+  "count": 46,
+  "players": [
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Adrien Burdet"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alejo Sanchez Quilez"
+    },
+    {
+      "id": "",
+      "name": "Alibek Kachmazov"
+    },
+    {
+      "id": "",
+      "name": "Andrea Colombo"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Willwerth"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Winter Lopez"
+    },
+    {
+      "id": "",
+      "name": "Bruno Pujol Navarro"
+    },
+    {
+      "id": "",
+      "name": "Dali Blanch"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Daniel Rincon"
+    },
+    {
+      "id": "",
+      "name": "Daniil Golubev"
+    },
+    {
+      "id": "",
+      "name": "Filip Peliwo"
+    },
+    {
+      "id": "",
+      "name": "Filip Pieczonka"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Gabriele Piraino"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "George Loffhagen"
+    },
+    {
+      "id": "",
+      "name": "Iiro Vasa"
+    },
+    {
+      "id": "",
+      "name": "Izan Almazan Valiente"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Vasami"
+    },
+    {
+      "id": "",
+      "name": "Javier Barranco Cosano"
+    },
+    {
+      "id": "",
+      "name": "Kimmer Coppejans"
+    },
+    {
+      "id": "",
+      "name": "Kyle Overmyer"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Giustino"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Mario Mansilla Diez"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Miguel Damas"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Oscar Weightman"
+    },
+    {
+      "id": "",
+      "name": "Pablo Llamas Ruiz"
+    },
+    {
+      "id": "",
+      "name": "Petros Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Ledesma Sosa"
+    },
+    {
+      "id": "",
+      "name": "Samuel Garcia Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Saul Pacheco"
+    },
+    {
+      "id": "",
+      "name": "Sergey Fomin"
+    },
+    {
+      "id": "",
+      "name": "Sergio Callejon Hernando"
+    },
+    {
+      "id": "",
+      "name": "Stefano Travaglia"
+    },
+    {
+      "id": "",
+      "name": "Szymon Kielan"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Toby Samuel"
+    }
+  ]
+}

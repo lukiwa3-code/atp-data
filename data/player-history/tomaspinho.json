@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "tomaspinho",
+    "name": "Tomas Pinho",
+    "displayName": "Tomas Pinho",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 28 July, 2025",
+      "dateIso": "2025-07-28",
+      "tournamentId": "9526",
+      "tournamentYear": "2025",
+      "tournamentName": "Porto",
+      "tournamentType": "CH",
+      "tournamentDate": "28 Jul - 3 Aug, 2025",
+      "tournamentStartDate": "2025-07-28",
+      "tournamentEndDate": "2025-08-03",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-1",
+      "matchId": "RES-5FD4B743FD",
+      "reason": null,
+      "playerName": "Tomas Pinho",
+      "opponentName": "(8/AL)",
+      "opponentKey": "8al",
+      "result": "L",
+      "playerRank": 1874,
+      "opponentRank": null,
+      "rankingDate": "2025-07-28",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

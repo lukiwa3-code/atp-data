@@ -1,0 +1,816 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/brisbane/2969/2026/draws",
+  "tournament": {
+    "id": "2969",
+    "year": "2026",
+    "name": "Brisbane Tennis International #2",
+    "location": "",
+    "date": "9-15 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/brisbane/2969/2026/results",
+    "drawsUrl": "/en/scores/archive/brisbane/2969/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/brisbane/2969/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "9 - 15 February, 2026",
+    "tournamentStartDate": "2026-02-09",
+    "tournamentEndDate": "2026-02-15",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-09",
+    "endDate": "2026-02-15"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Final",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "Z. Zhang",
+          "player1FullName": "Zhizhen Zhang",
+          "player1Id": "Z371",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Bolt",
+          "player2FullName": "Alex Bolt",
+          "player2Id": "BI81",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "winnerName": "Zhizhen Zhang",
+          "formattedScore": "6-2 6-4"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semifinals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "Z. Zhang",
+          "player1FullName": "Zhizhen Zhang",
+          "player1Id": "Z371",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "R. Sakamoto",
+          "player2FullName": "Rei Sakamoto",
+          "player2Id": "S0UV",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "1",
+            "4"
+          ],
+          "winnerName": "Zhizhen Zhang",
+          "formattedScore": "6-1 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "A. Bolt",
+          "player1FullName": "Alex Bolt",
+          "player1Id": "BI81",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "H. Moriya",
+          "player2FullName": "Hiroki Moriya",
+          "player2Id": "MI01",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "3"
+          ],
+          "winnerName": "Alex Bolt",
+          "formattedScore": "6-3 3-6 6-3"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarterfinals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "H. Matsuoka",
+          "player1FullName": "Hayato Matsuoka",
+          "player1Id": "M0SC",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "player2": "Z. Zhang",
+          "player2FullName": "Zhizhen Zhang",
+          "player2Id": "Z371",
+          "player2Country": "CHN",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Zhizhen Zhang",
+          "formattedScore": "6-3 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "R. Sakamoto",
+          "player1FullName": "Rei Sakamoto",
+          "player1Id": "S0UV",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "L. Tu",
+          "player2FullName": "Li Tu",
+          "player2Id": "TC01",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6 3",
+            "4"
+          ],
+          "winnerName": "Rei Sakamoto",
+          "formattedScore": "7-6(3) 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "D. Blanch",
+          "player1FullName": "Darwin Blanch",
+          "player1Id": "B0NO",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "player2": "A. Bolt",
+          "player2FullName": "Alex Bolt",
+          "player2Id": "BI81",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Alex Bolt",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "H. Moriya",
+          "player1FullName": "Hiroki Moriya",
+          "player1Id": "MI01",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "D. Sweeny",
+          "player2FullName": "Dane Sweeny",
+          "player2Id": "S0IA",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "5",
+            "6 3"
+          ],
+          "winnerName": "Hiroki Moriya",
+          "formattedScore": "7-5 7-6(3)"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Polmans",
+          "player1FullName": "Marc Polmans",
+          "player1Id": "PG94",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6 2",
+            "3"
+          ],
+          "player2": "H. Matsuoka",
+          "player2FullName": "Hayato Matsuoka",
+          "player2Id": "M0SC",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "6"
+          ],
+          "winnerName": "Hayato Matsuoka",
+          "formattedScore": "4-6 7-6(2) 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "Z. Zhang",
+          "player1FullName": "Zhizhen Zhang",
+          "player1Id": "Z371",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "Y. Uchiyama",
+          "player2FullName": "Yasutaka Uchiyama",
+          "player2Id": "U134",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "6 7"
+          ],
+          "winnerName": "Zhizhen Zhang",
+          "formattedScore": "6-4 7-6(7)"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Sakamoto",
+          "player1FullName": "Rei Sakamoto",
+          "player1Id": "S0UV",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "C. Sinclair",
+          "player2FullName": "Colin Sinclair",
+          "player2Id": "SQ79",
+          "player2Country": "NMI",
+          "player2ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "winnerName": "Rei Sakamoto",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "L. Tu",
+          "player1FullName": "Li Tu",
+          "player1Id": "TC01",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "B. Ellis",
+          "player2FullName": "Blake Ellis",
+          "player2Id": "EA27",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Li Tu",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Blanch",
+          "player1FullName": "Darwin Blanch",
+          "player1Id": "B0NO",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Weber",
+          "player2FullName": "Arthur Weber",
+          "player2Id": "W0A4",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "winnerName": "Darwin Blanch",
+          "formattedScore": "6-1 6-3"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "O. Jasika",
+          "player1FullName": "Omar Jasika",
+          "player1Id": "J553",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "2",
+            "1"
+          ],
+          "player2": "A. Bolt",
+          "player2FullName": "Alex Bolt",
+          "player2Id": "BI81",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "4"
+          ],
+          "winnerName": "Alex Bolt",
+          "formattedScore": "6 4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "T. Sach",
+          "player1FullName": "Tai Sach",
+          "player1Id": "S0U5",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "0",
+            "4"
+          ],
+          "player2": "H. Moriya",
+          "player2FullName": "Hiroki Moriya",
+          "player2Id": "MI01",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6 6",
+            "6",
+            "6"
+          ],
+          "winnerName": "Hiroki Moriya",
+          "formattedScore": "6-7(6) 6-0 6-4"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Imamura",
+          "player1FullName": "Masamichi Imamura",
+          "player1Id": "I426",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "player2": "D. Sweeny",
+          "player2FullName": "Dane Sweeny",
+          "player2Id": "S0IA",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Dane Sweeny",
+          "formattedScore": "6-3 6-2"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Mackenzie",
+          "player1FullName": "Jamie Mackenzie",
+          "player1Id": "M19T",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "1"
+          ],
+          "player2": "M. Polmans",
+          "player2FullName": "Marc Polmans",
+          "player2Id": "PG94",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "2",
+            "6"
+          ],
+          "winnerName": "Marc Polmans",
+          "formattedScore": "7-5 2-6 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Matsuoka",
+          "player1FullName": "Hayato Matsuoka",
+          "player1Id": "M0SC",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "J. Delaney",
+          "player2FullName": "Jake Delaney",
+          "player2Id": "DC38",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Hayato Matsuoka",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Marinkov",
+          "player1FullName": "Pavle Marinkov",
+          "player1Id": "M0TE",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6 4",
+            "3"
+          ],
+          "player2": "Z. Zhang",
+          "player2FullName": "Zhizhen Zhang",
+          "player2Id": "Z371",
+          "player2Country": "CHN",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Zhizhen Zhang",
+          "formattedScore": "7-6(4) 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Hewitt",
+          "player1FullName": "Cruz Hewitt",
+          "player1Id": "H0K0",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "5",
+            "5"
+          ],
+          "player2": "Y. Uchiyama",
+          "player2FullName": "Yasutaka Uchiyama",
+          "player2Id": "U134",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Yasutaka Uchiyama",
+          "formattedScore": "7-5 7-5"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Sakamoto",
+          "player1FullName": "Rei Sakamoto",
+          "player1Id": "S0UV",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "Y. Mochizuki",
+          "player2FullName": "Yuki Mochizuki",
+          "player2Id": "M0B2",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "0",
+            "1"
+          ],
+          "winnerName": "Rei Sakamoto",
+          "formattedScore": "6-0 6-1"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Sinclair",
+          "player1FullName": "Colin Sinclair",
+          "player1Id": "SQ79",
+          "player1Country": "NMI",
+          "player1ScoreTokens": [
+            "5",
+            "7",
+            "6"
+          ],
+          "player2": "M. Hulme",
+          "player2FullName": "Matt Hulme",
+          "player2Id": "H0HS",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "6 4",
+            "4"
+          ],
+          "winnerName": "Colin Sinclair",
+          "formattedScore": "5-7 7-6(4) 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Tu",
+          "player1FullName": "Li Tu",
+          "player1Id": "TC01",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6 6",
+            "6",
+            "7"
+          ],
+          "player2": "N. Nakagawa",
+          "player2FullName": "Naoki Nakagawa",
+          "player2Id": "N707",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "4",
+            "6 2"
+          ],
+          "winnerName": "Li Tu",
+          "formattedScore": "6-7(6) 6-4 7-6(2)"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. Ellis",
+          "player1FullName": "Blake Ellis",
+          "player1Id": "EA27",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "7"
+          ],
+          "player2": "F. Sun",
+          "player2FullName": "Fajing Sun",
+          "player2Id": "SX90",
+          "player2Country": "CHN",
+          "player2ScoreTokens": [
+            "6 2",
+            "6",
+            "5"
+          ],
+          "winnerName": "Blake Ellis",
+          "formattedScore": "7-6(2) 3-6 7-5"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Blanch",
+          "player1FullName": "Darwin Blanch",
+          "player1Id": "B0NO",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "C. Denolly",
+          "player2FullName": "Corentin Denolly",
+          "player2Id": "DF92",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "4",
+            "5"
+          ],
+          "winnerName": "Darwin Blanch",
+          "formattedScore": "6-4 7-5"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Weber",
+          "player1FullName": "Arthur Weber",
+          "player1Id": "W0A4",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6",
+            "2",
+            "7"
+          ],
+          "player2": "D. Jorda Sanchis",
+          "player2FullName": "David Jorda Sanchis",
+          "player2Id": "J476",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "5"
+          ],
+          "winnerName": "Arthur Weber",
+          "formattedScore": "6-3 2-6 7-5"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "O. Jasika",
+          "player1FullName": "Omar Jasika",
+          "player1Id": "J553",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "7"
+          ],
+          "player2": "H. Shiraishi",
+          "player2FullName": "Hikaru Shiraishi",
+          "player2Id": "S0C2",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6",
+            "2",
+            "6 5"
+          ],
+          "winnerName": "Omar Jasika",
+          "formattedScore": "4-6 6-2 7-6(5)"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Isomura",
+          "player1FullName": "Kokoro Isomura",
+          "player1Id": "I0AX",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "5",
+            "3"
+          ],
+          "player2": "A. Bolt",
+          "player2FullName": "Alex Bolt",
+          "player2Id": "BI81",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Alex Bolt",
+          "formattedScore": "7-5 6-3"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Y. Zhou",
+          "player1FullName": "Yi Zhou",
+          "player1Id": "Z0CQ",
+          "player1Country": "CHN",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "2"
+          ],
+          "player2": "T. Sach",
+          "player2FullName": "Tai Sach",
+          "player2Id": "S0U5",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "2",
+            "6"
+          ],
+          "winnerName": "Tai Sach",
+          "formattedScore": "6-4 2-6 6-2"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Bouzige",
+          "player1FullName": "Moerani Bouzige",
+          "player1Id": "B0EK",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "H. Moriya",
+          "player2FullName": "Hiroki Moriya",
+          "player2Id": "MI01",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Hiroki Moriya",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Dellavedova",
+          "player1FullName": "Matthew Dellavedova",
+          "player1Id": "D0A2",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "player2": "M. Imamura",
+          "player2FullName": "Masamichi Imamura",
+          "player2Id": "I426",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "winnerName": "Masamichi Imamura",
+          "formattedScore": "3-6 6-4 6-3"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Daniel",
+          "player1FullName": "Taro Daniel",
+          "player1Id": "DA81",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "player2": "D. Sweeny",
+          "player2FullName": "Dane Sweeny",
+          "player2Id": "S0IA",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Dane Sweeny",
+          "formattedScore": "7-5 6-4"
+        }
+      ]
+    }
+  ]
+}

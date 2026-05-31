@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "juanignaciogallego",
+    "name": "Juan Ignacio Gallego",
+    "displayName": "J. Gallego",
+    "playerId": "G0ON"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 11 May, 2026",
+      "dateIso": "2026-05-11",
+      "tournamentId": "2981",
+      "tournamentYear": "2026",
+      "tournamentName": "AAT Challenger IEB+ Edicion Córdoba",
+      "tournamentType": "CH",
+      "tournamentDate": "11-16 May, 2026",
+      "tournamentStartDate": "2026-05-11",
+      "tournamentEndDate": "2026-05-16",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(4) 6-0",
+      "matchId": "RES-91A4FCD3E0",
+      "reason": null,
+      "playerName": "Juan Ignacio Gallego",
+      "opponentName": "Ryan Dickerson",
+      "opponentKey": "ryandickerson",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 590,
+      "rankingDate": "2026-05-11",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

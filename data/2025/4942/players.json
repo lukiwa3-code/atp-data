@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/royan/4942/2025/results",
+  "tournament": {
+    "id": "4942",
+    "year": "2025",
+    "name": "Royan",
+    "location": "",
+    "date": "16-21 Jun, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/royan/4942/2025/results",
+    "drawsUrl": "/en/scores/archive/royan/4942/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/royan/4942/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "16 - 21 June, 2025",
+    "tournamentStartDate": "2025-06-16",
+    "tournamentEndDate": "2025-06-21",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-06-16",
+    "endDate": "2025-06-21"
+  },
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(2/AL)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Adrian Boitan"
+    },
+    {
+      "id": "",
+      "name": "Adrien Gobat"
+    },
+    {
+      "id": "",
+      "name": "Aleksandre Bakshi"
+    },
+    {
+      "id": "",
+      "name": "Alex Marti Pujolras"
+    },
+    {
+      "id": "",
+      "name": "Andres Santamarta Roig"
+    },
+    {
+      "id": "",
+      "name": "Arthur Gea"
+    },
+    {
+      "id": "",
+      "name": "Arthur Weber"
+    },
+    {
+      "id": "",
+      "name": "Benoit Paire"
+    },
+    {
+      "id": "",
+      "name": "Buvaysar Gadamauri"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Cedrik-Marcel Stebe"
+    },
+    {
+      "id": "",
+      "name": "Clement Tabur"
+    },
+    {
+      "id": "",
+      "name": "Daniel Jade"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Egor Agafonov"
+    },
+    {
+      "id": "",
+      "name": "Enzo Couacaud"
+    },
+    {
+      "id": "",
+      "name": "Etienne Donnet"
+    },
+    {
+      "id": "",
+      "name": "Florent Bax"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Ivan Gakhov"
+    },
+    {
+      "id": "",
+      "name": "Javier Barranco Cosano"
+    },
+    {
+      "id": "",
+      "name": "Kalin Ivanovski"
+    },
+    {
+      "id": "",
+      "name": "Kenny De Schepper"
+    },
+    {
+      "id": "",
+      "name": "Kilian Feldbausch"
+    },
+    {
+      "id": "",
+      "name": "Loann Massard"
+    },
+    {
+      "id": "",
+      "name": "Louis Dussin"
+    },
+    {
+      "id": "",
+      "name": "Lucas Bouquet"
+    },
+    {
+      "id": "",
+      "name": "Lucas Marionneau"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Luka Mikrut"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Max Alcala Gurri"
+    },
+    {
+      "id": "",
+      "name": "Maxence Beauge"
+    },
+    {
+      "id": "",
+      "name": "Maxim Zhukov"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Sanchez Izquierdo"
+    },
+    {
+      "id": "",
+      "name": "Nikolay Vylegzhanin"
+    },
+    {
+      "id": "",
+      "name": "Norbert Gombos"
+    },
+    {
+      "id": "",
+      "name": "Pierre Delage"
+    },
+    {
+      "id": "",
+      "name": "Raphael Perot"
+    },
+    {
+      "id": "",
+      "name": "Robert Strombachs"
+    },
+    {
+      "id": "",
+      "name": "Theo Papamalamis"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    }
+  ]
+}

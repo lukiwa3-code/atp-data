@@ -1,0 +1,212 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/abidjan/2995/2026/results",
+  "tournament": {
+    "id": "2995",
+    "year": "2026",
+    "name": "Cote d'Ivoire Open 1",
+    "location": "",
+    "date": "20-26 Apr, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/abidjan/2995/2026/results",
+    "drawsUrl": "/en/scores/archive/abidjan/2995/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/abidjan/2995/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "20 - 26 April, 2026",
+    "tournamentStartDate": "2026-04-20",
+    "tournamentEndDate": "2026-04-26",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-04-20",
+    "endDate": "2026-04-26"
+  },
+  "count": 43,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(5/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Adil Kalyanpur"
+    },
+    {
+      "id": "",
+      "name": "Aditya Vishal Balsekar"
+    },
+    {
+      "id": "",
+      "name": "Andrew Fenty"
+    },
+    {
+      "id": "",
+      "name": "Aziz Dougaz"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Brandon Perez"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Cesar Bouchelaghem"
+    },
+    {
+      "id": "",
+      "name": "Constantin Bittoun Kouzmine"
+    },
+    {
+      "id": "",
+      "name": "Daniel Adeleye"
+    },
+    {
+      "id": "",
+      "name": "Digvijaypratap Singh"
+    },
+    {
+      "id": "",
+      "name": "Eliakim Coulibaly"
+    },
+    {
+      "id": "",
+      "name": "Elijah Sanogo"
+    },
+    {
+      "id": "",
+      "name": "Florent Bax"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Hamish Stewart"
+    },
+    {
+      "id": "",
+      "name": "Jean-Paul Kadangah Kili"
+    },
+    {
+      "id": "",
+      "name": "Jeremy Schifris"
+    },
+    {
+      "id": "",
+      "name": "Jody Maginley"
+    },
+    {
+      "id": "",
+      "name": "Karan Singh"
+    },
+    {
+      "id": "",
+      "name": "Karim Bennani"
+    },
+    {
+      "id": "",
+      "name": "Maks Kasnikowski"
+    },
+    {
+      "id": "",
+      "name": "Massimo Giunta"
+    },
+    {
+      "id": "",
+      "name": "Matt Kuhar"
+    },
+    {
+      "id": "",
+      "name": "Matteo Fondriest"
+    },
+    {
+      "id": "",
+      "name": "Maxime Chazal"
+    },
+    {
+      "id": "",
+      "name": "Maximilian Neuchrist"
+    },
+    {
+      "id": "",
+      "name": "Mert Alkaya"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Millen Hurrion"
+    },
+    {
+      "id": "",
+      "name": "Moyé Lucas Nadal Koffi"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Niels Visker"
+    },
+    {
+      "id": "",
+      "name": "Oscar Weightman"
+    },
+    {
+      "id": "",
+      "name": "Oskar Brostrom Poulsen"
+    },
+    {
+      "id": "",
+      "name": "Paul Jubb"
+    },
+    {
+      "id": "",
+      "name": "Robert Strombachs"
+    },
+    {
+      "id": "",
+      "name": "Samir Hamza Reguig"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Gima"
+    },
+    {
+      "id": "",
+      "name": "Yanki Erel"
+    },
+    {
+      "id": "",
+      "name": "Younes Lalami"
+    }
+  ]
+}

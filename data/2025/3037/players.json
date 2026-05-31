@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/brisbane/3037/2025/results",
+  "tournament": {
+    "id": "3037",
+    "year": "2025",
+    "name": "Brisbane 3",
+    "location": "",
+    "date": "10-16 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/brisbane/3037/2025/results",
+    "drawsUrl": "/en/scores/archive/brisbane/3037/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/brisbane/3037/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "10 - 16 November, 2025",
+    "tournamentStartDate": "2025-11-10",
+    "tournamentEndDate": "2025-11-16",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-10",
+    "endDate": "2025-11-16"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Ajeet Rai"
+    },
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Alexander Klintcharov"
+    },
+    {
+      "id": "",
+      "name": "Aryan Shah"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Blake Ellis"
+    },
+    {
+      "id": "",
+      "name": "Carl Emil Overbeck"
+    },
+    {
+      "id": "",
+      "name": "Christian Langmo"
+    },
+    {
+      "id": "",
+      "name": "Colin Sinclair"
+    },
+    {
+      "id": "",
+      "name": "Cruz Hewitt"
+    },
+    {
+      "id": "",
+      "name": "Daisuke Sumizawa"
+    },
+    {
+      "id": "",
+      "name": "Dane Sweeny"
+    },
+    {
+      "id": "",
+      "name": "Daniel Jovanovski"
+    },
+    {
+      "id": "",
+      "name": "Duje Markovina"
+    },
+    {
+      "id": "",
+      "name": "Emile Hudd"
+    },
+    {
+      "id": "",
+      "name": "Filip Peliwo"
+    },
+    {
+      "id": "",
+      "name": "Finn Bass"
+    },
+    {
+      "id": "",
+      "name": "Hayato Matsuoka"
+    },
+    {
+      "id": "",
+      "name": "Hayden Jones"
+    },
+    {
+      "id": "",
+      "name": "Hiroki Moriya"
+    },
+    {
+      "id": "",
+      "name": "Jake Delaney"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "Jason Kubler"
+    },
+    {
+      "id": "",
+      "name": "Jesse Delaney"
+    },
+    {
+      "id": "",
+      "name": "Joshua Charlton"
+    },
+    {
+      "id": "",
+      "name": "Karan Singh"
+    },
+    {
+      "id": "",
+      "name": "Kosuke Ogura"
+    },
+    {
+      "id": "",
+      "name": "Leo Vithoontien"
+    },
+    {
+      "id": "",
+      "name": "Li Tu"
+    },
+    {
+      "id": "",
+      "name": "Marc Polmans"
+    },
+    {
+      "id": "",
+      "name": "Marek Gengel"
+    },
+    {
+      "id": "",
+      "name": "Matt Hulme"
+    },
+    {
+      "id": "",
+      "name": "Matthew Dellavedova"
+    },
+    {
+      "id": "",
+      "name": "Mees Rottgering"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Noah Brownrigg"
+    },
+    {
+      "id": "",
+      "name": "Pavle Marinkov"
+    },
+    {
+      "id": "",
+      "name": "Philip Sekulic"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Scott Jones"
+    },
+    {
+      "id": "",
+      "name": "Tai Sach"
+    },
+    {
+      "id": "",
+      "name": "Taiyo Yamanaka"
+    },
+    {
+      "id": "",
+      "name": "Takuya Kumasaka"
+    },
+    {
+      "id": "",
+      "name": "Tung-Lin Wu"
+    },
+    {
+      "id": "",
+      "name": "Zane Stevens"
+    }
+  ]
+}

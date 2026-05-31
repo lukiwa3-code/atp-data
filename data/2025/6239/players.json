@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/quimper/6239/2025/results",
+  "tournament": {
+    "id": "6239",
+    "year": "2025",
+    "name": "Quimper",
+    "location": "",
+    "date": "21-26 Jan, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/quimper/6239/2025/results",
+    "drawsUrl": "/en/scores/archive/quimper/6239/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/quimper/6239/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "21 - 26 January, 2025",
+    "tournamentStartDate": "2025-01-21",
+    "tournamentEndDate": "2025-01-26",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-01-21",
+    "endDate": "2025-01-26"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/WC)"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Alexey Vatutin"
+    },
+    {
+      "id": "",
+      "name": "Alibek Kachmazov"
+    },
+    {
+      "id": "",
+      "name": "Arthur Gea"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Benoit Paire"
+    },
+    {
+      "id": "",
+      "name": "Borna Coric"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Constant Lestienne"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Elmer Moller"
+    },
+    {
+      "id": "",
+      "name": "Filip Misolic"
+    },
+    {
+      "id": "",
+      "name": "Florent Bax"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Gijs Brouwer"
+    },
+    {
+      "id": "",
+      "name": "Gregoire Barrere"
+    },
+    {
+      "id": "",
+      "name": "Harold Mayot"
+    },
+    {
+      "id": "",
+      "name": "Jerome Kym"
+    },
+    {
+      "id": "",
+      "name": "Jozef Kovalik"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Laslo Djere"
+    },
+    {
+      "id": "",
+      "name": "Loann Massard"
+    },
+    {
+      "id": "",
+      "name": "Loic Namigandet Tenguere"
+    },
+    {
+      "id": "",
+      "name": "Luca Sanchez"
+    },
+    {
+      "id": "",
+      "name": "Mackenzie McDonald"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Manuel Guinard"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Maxence Beauge"
+    },
+    {
+      "id": "",
+      "name": "Mika Brunold"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Mili Poljicak"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Oleksandr Ovcharenko"
+    },
+    {
+      "id": "",
+      "name": "Otto Virtanen"
+    },
+    {
+      "id": "",
+      "name": "Petr Bar Biryukov"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Ricardas Berankis"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Samuel Vincent Ruggeri"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Stefan Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Thiago Seyboth Wild"
+    },
+    {
+      "id": "",
+      "name": "Titouan Droguet"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    }
+  ]
+}

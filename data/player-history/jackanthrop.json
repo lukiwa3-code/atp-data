@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "jackanthrop",
+    "name": "Jack Anthrop",
+    "displayName": "J. Anthrop",
+    "playerId": "A0IH"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 15 September, 2025",
+      "dateIso": "2025-09-15",
+      "tournamentId": "8281",
+      "tournamentYear": "2025",
+      "tournamentName": "Columbus",
+      "tournamentType": "CH",
+      "tournamentDate": "15-21 Sep, 2025",
+      "tournamentStartDate": "2025-09-15",
+      "tournamentEndDate": "2025-09-21",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "3-6 6-1 7-6(4)",
+      "matchId": "RES-301DE2642D",
+      "reason": null,
+      "playerName": "Jack Anthrop",
+      "opponentName": "Antoine Ghibaudo",
+      "opponentKey": "antoineghibaudo",
+      "result": "L",
+      "playerRank": 840,
+      "opponentRank": 431,
+      "rankingDate": "2025-09-15",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

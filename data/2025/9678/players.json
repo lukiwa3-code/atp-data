@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/tigre/9678/2025/results",
+  "tournament": {
+    "id": "9678",
+    "year": "2025",
+    "name": "Buenos Aires Nautico Hacoaj",
+    "location": "",
+    "date": "13-19 Jan, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/tigre/9678/2025/results",
+    "drawsUrl": "/en/scores/archive/tigre/9678/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/tigre/9678/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "13 - 19 January, 2025",
+    "tournamentStartDate": "2025-01-13",
+    "tournamentEndDate": "2025-01-19",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-01-13",
+    "endDate": "2025-01-19"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Adolfo Daniel Vallejo"
+    },
+    {
+      "id": "",
+      "name": "Alejo Lorenzo Lingua Lavallen"
+    },
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alex Marti Pujolras"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrea Pellegrino"
+    },
+    {
+      "id": "",
+      "name": "Andy Andrade"
+    },
+    {
+      "id": "",
+      "name": "Arklon Huertas Del Pino Cordova"
+    },
+    {
+      "id": "",
+      "name": "Bautista Vilicich"
+    },
+    {
+      "id": "",
+      "name": "Bruno Kuzuhara"
+    },
+    {
+      "id": "",
+      "name": "Conner Huertas del Pino"
+    },
+    {
+      "id": "",
+      "name": "Daniel Dutra da Silva"
+    },
+    {
+      "id": "",
+      "name": "Emilio Nava"
+    },
+    {
+      "id": "",
+      "name": "Ezequiel Monferrer"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Debru"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Ariel Karakachian"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Villanueva"
+    },
+    {
+      "id": "",
+      "name": "Joao Lucas Reis Da Silva"
+    },
+    {
+      "id": "",
+      "name": "Joel Schwaerzler"
+    },
+    {
+      "id": "",
+      "name": "Juan Bautista Torres"
+    },
+    {
+      "id": "",
+      "name": "Juan Carlos Prado Angelo"
+    },
+    {
+      "id": "",
+      "name": "Juan Ignacio Centurion Delvalle"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Paz"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Varillas"
+    },
+    {
+      "id": "",
+      "name": "Lautaro Agustin Falabella"
+    },
+    {
+      "id": "",
+      "name": "Lautaro Midon"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Mariano Kestelboim"
+    },
+    {
+      "id": "",
+      "name": "Mateus Alves"
+    },
+    {
+      "id": "",
+      "name": "Max Houkes"
+    },
+    {
+      "id": "",
+      "name": "Maxime Chazal"
+    },
+    {
+      "id": "",
+      "name": "Maximo Zeitune"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Kicker"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Sanchez Izquierdo"
+    },
+    {
+      "id": "",
+      "name": "Pedro Boscardin Dias"
+    },
+    {
+      "id": "",
+      "name": "Renzo Olivo"
+    },
+    {
+      "id": "",
+      "name": "Roman Andres Burruchaga"
+    },
+    {
+      "id": "",
+      "name": "Romeo Arcuschin"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Tadeo Meneo"
+    },
+    {
+      "id": "",
+      "name": "Tomas Farjat"
+    },
+    {
+      "id": "",
+      "name": "Valerio Aboian"
+    }
+  ]
+}

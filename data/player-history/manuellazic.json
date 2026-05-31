@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "manuellazic",
+    "name": "Manuel Lazic",
+    "displayName": "Manuel Lazic",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9697",
+      "tournamentYear": "2025",
+      "tournamentName": "Mauthausen",
+      "tournamentType": "CH",
+      "tournamentDate": "28 Apr - 4 May, 2025",
+      "tournamentStartDate": "2025-04-28",
+      "tournamentEndDate": "2025-05-04",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-2",
+      "matchId": "RES-82750302FF",
+      "reason": null,
+      "playerName": "Manuel Lazic",
+      "opponentName": "Stefano Napolitano",
+      "opponentKey": "stefanonapolitano",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

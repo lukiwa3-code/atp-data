@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Georgi Georgiev",
     "playerId": ""
   },
-  "count": 3,
+  "count": 5,
   "matches": [
     {
       "date": "Sat, 07 February, 2026",
@@ -33,6 +33,56 @@
       "playerRank": 952,
       "opponentRank": 109,
       "rankingDate": "2026-02-02",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 18 August, 2025",
+      "dateIso": "2025-08-18",
+      "tournamentId": "2945",
+      "tournamentYear": "2025",
+      "tournamentName": "Sofia 2",
+      "tournamentType": "CH",
+      "tournamentDate": "18-23 Aug, 2025",
+      "tournamentStartDate": "2025-08-18",
+      "tournamentEndDate": "2025-08-23",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "2-6 6-2 6-4",
+      "matchId": "RES-1F412B8E8C",
+      "reason": null,
+      "playerName": "Georgi Georgiev",
+      "opponentName": "Svyatoslav Gulin",
+      "opponentKey": "svyatoslavgulin",
+      "result": "L",
+      "playerRank": 889,
+      "opponentRank": 381,
+      "rankingDate": "2025-08-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 11 August, 2025",
+      "dateIso": "2025-08-11",
+      "tournamentId": "2043",
+      "tournamentYear": "2025",
+      "tournamentName": "Sofia 1",
+      "tournamentType": "CH",
+      "tournamentDate": "11-16 Aug, 2025",
+      "tournamentStartDate": "2025-08-11",
+      "tournamentEndDate": "2025-08-16",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "2-6 6-4 7-6(4)",
+      "matchId": "RES-F14CC9E87E",
+      "reason": null,
+      "playerName": "Georgi Georgiev",
+      "opponentName": "Tadeas Paroulek",
+      "opponentKey": "tadeasparoulek",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 694,
+      "rankingDate": "2025-08-11",
       "rankingNote": "historical_week"
     },
     {

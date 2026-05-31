@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/san-miguel-de-tucuman/2927/2025/results",
+  "tournament": {
+    "id": "2927",
+    "year": "2025",
+    "name": "San Miguel de Tucuman",
+    "location": "",
+    "date": "21-27 Apr, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/san-miguel-de-tucuman/2927/2025/results",
+    "drawsUrl": "/en/scores/archive/san-miguel-de-tucuman/2927/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/san-miguel-de-tucuman/2927/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "21 - 27 April, 2025",
+    "tournamentStartDate": "2025-04-21",
+    "tournamentEndDate": "2025-04-27",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-21",
+    "endDate": "2025-04-27"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Alejo Lorenzo Lingua Lavallen"
+    },
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrea Collarini"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Torrealba"
+    },
+    {
+      "id": "",
+      "name": "Conner Huertas del Pino"
+    },
+    {
+      "id": "",
+      "name": "Ezequiel Monferrer"
+    },
+    {
+      "id": "",
+      "name": "Facundo Bagnis"
+    },
+    {
+      "id": "",
+      "name": "Fermin Tenti"
+    },
+    {
+      "id": "",
+      "name": "Franco Ribero"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Villanueva"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Zeitune"
+    },
+    {
+      "id": "",
+      "name": "Guido Ivan Justo"
+    },
+    {
+      "id": "",
+      "name": "Hernan Casanova"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Carou"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Monzon"
+    },
+    {
+      "id": "",
+      "name": "Igor Gimenez"
+    },
+    {
+      "id": "",
+      "name": "Joao Eduardo Schiessl"
+    },
+    {
+      "id": "",
+      "name": "Joaquin Aguilar Cardozo"
+    },
+    {
+      "id": "",
+      "name": "Jose Pereira"
+    },
+    {
+      "id": "",
+      "name": "Juan Bautista Torres"
+    },
+    {
+      "id": "",
+      "name": "Juan Estevez"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel La Serna"
+    },
+    {
+      "id": "",
+      "name": "Juan Sebastian Osorio"
+    },
+    {
+      "id": "",
+      "name": "Lautaro Midon"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Joaquin Rodriguez"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Lucio Ratti"
+    },
+    {
+      "id": "",
+      "name": "Mariano Kestelboim"
+    },
+    {
+      "id": "",
+      "name": "Mateo Barreiros Reyes"
+    },
+    {
+      "id": "",
+      "name": "Maximo Zeitune"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Kicker"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Villalon"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Zanellato"
+    },
+    {
+      "id": "",
+      "name": "Noah Schachter"
+    },
+    {
+      "id": "",
+      "name": "Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Pedro Boscardin Dias"
+    },
+    {
+      "id": "",
+      "name": "Renzo Olivo"
+    },
+    {
+      "id": "",
+      "name": "Santiago De La Fuente"
+    },
+    {
+      "id": "",
+      "name": "Santiago Rodriguez Taverna"
+    },
+    {
+      "id": "",
+      "name": "Tadeo Meneo"
+    },
+    {
+      "id": "",
+      "name": "Thiago Cigarran"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martinez"
+    },
+    {
+      "id": "",
+      "name": "Valentin Basel"
+    },
+    {
+      "id": "",
+      "name": "Valerio Aboian"
+    },
+    {
+      "id": "",
+      "name": "Vladyslav Orlov"
+    },
+    {
+      "id": "",
+      "name": "Wilson Leite"
+    }
+  ]
+}

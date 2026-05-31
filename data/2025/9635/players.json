@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/manama/9635/2025/results",
+  "tournament": {
+    "id": "9635",
+    "year": "2025",
+    "name": "Manama",
+    "location": "",
+    "date": "10-15 Feb, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/manama/9635/2025/results",
+    "drawsUrl": "/en/scores/archive/manama/9635/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/manama/9635/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "10 - 15 February, 2025",
+    "tournamentStartDate": "2025-02-10",
+    "tournamentEndDate": "2025-02-15",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-10",
+    "endDate": "2025-02-15"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alberto Bronzetti"
+    },
+    {
+      "id": "",
+      "name": "Aleksandre Bakshi"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Ali Habib"
+    },
+    {
+      "id": "",
+      "name": "Andrea Vavassori"
+    },
+    {
+      "id": "",
+      "name": "Aslan Karatsev"
+    },
+    {
+      "id": "",
+      "name": "Aziz Dougaz"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Benoit Paire"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Charles Broom"
+    },
+    {
+      "id": "",
+      "name": "Coleman Wong"
+    },
+    {
+      "id": "",
+      "name": "Colin Sinclair"
+    },
+    {
+      "id": "",
+      "name": "Constant Lestienne"
+    },
+    {
+      "id": "",
+      "name": "Daniel Evans"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Elyas Abdulnabi"
+    },
+    {
+      "id": "",
+      "name": "Evgeny Karlovskiy"
+    },
+    {
+      "id": "",
+      "name": "Fajing Sun"
+    },
+    {
+      "id": "",
+      "name": "Fares Zakaria"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Ilia Simakin"
+    },
+    {
+      "id": "",
+      "name": "Ivan Liutarevich"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Jesper de Jong"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Karim-Mohamed Maamoun"
+    },
+    {
+      "id": "",
+      "name": "Lucas Gerch"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Nikoloz Basilashvili"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Peter Buldorini"
+    },
+    {
+      "id": "",
+      "name": "Petr Bar Biryukov"
+    },
+    {
+      "id": "",
+      "name": "Ryan Nijboer"
+    },
+    {
+      "id": "",
+      "name": "Samir Hamza Reguig"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Vitaliy Sachko"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yusuf Qaed"
+    }
+  ]
+}

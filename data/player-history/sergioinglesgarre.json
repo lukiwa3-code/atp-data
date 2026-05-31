@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "sergioinglesgarre",
+    "name": "Sergio Ingles Garre",
+    "displayName": "Sergio Ingles Garre",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9171",
+      "tournamentYear": "2025",
+      "tournamentName": "Murcia",
+      "tournamentType": "CH",
+      "tournamentDate": "17-23 Mar, 2025",
+      "tournamentStartDate": "2025-03-17",
+      "tournamentEndDate": "2025-03-23",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-4",
+      "matchId": "RES-060F4571AF",
+      "reason": null,
+      "playerName": "Sergio Ingles Garre",
+      "opponentName": "Miguel Damas",
+      "opponentKey": "migueldamas",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

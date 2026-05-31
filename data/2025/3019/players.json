@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/hersonissos/3019/2025/results",
+  "tournament": {
+    "id": "3019",
+    "year": "2025",
+    "name": "Hersonissos 4",
+    "location": "",
+    "date": "18-23 Aug, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/hersonissos/3019/2025/results",
+    "drawsUrl": "/en/scores/archive/hersonissos/3019/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/hersonissos/3019/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "18 - 23 August, 2025",
+    "tournamentStartDate": "2025-08-18",
+    "tournamentEndDate": "2025-08-23",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-08-18",
+    "endDate": "2025-08-23"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Amit Vales"
+    },
+    {
+      "id": "",
+      "name": "Aristotelis Thanos"
+    },
+    {
+      "id": "",
+      "name": "Arthur Reymond"
+    },
+    {
+      "id": "",
+      "name": "Axel Nefve"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Christian Langmo"
+    },
+    {
+      "id": "",
+      "name": "Connor Thomson"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Dimitris Azoidis"
+    },
+    {
+      "id": "",
+      "name": "Enzo Wallart"
+    },
+    {
+      "id": "",
+      "name": "Fabrizio Andaloro"
+    },
+    {
+      "id": "",
+      "name": "Filippo Moroni"
+    },
+    {
+      "id": "",
+      "name": "Georgios Nouchakis"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Hayato Matsuoka"
+    },
+    {
+      "id": "",
+      "name": "Henry Searle"
+    },
+    {
+      "id": "",
+      "name": "Ioannis Kountourakis"
+    },
+    {
+      "id": "",
+      "name": "Ioannis Xilas"
+    },
+    {
+      "id": "",
+      "name": "Ivan Nedelko"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jay Friend"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Leo Raquillet"
+    },
+    {
+      "id": "",
+      "name": "Liam Broady"
+    },
+    {
+      "id": "",
+      "name": "Luca Castagnola"
+    },
+    {
+      "id": "",
+      "name": "Luca Potenza"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Marek Gengel"
+    },
+    {
+      "id": "",
+      "name": "Massimo Giunta"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Michalis Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Mitsuki Wei Kang Leong"
+    },
+    {
+      "id": "",
+      "name": "Moez Echargui"
+    },
+    {
+      "id": "",
+      "name": "Nikita Belozertsev"
+    },
+    {
+      "id": "",
+      "name": "Orel Kimhi"
+    },
+    {
+      "id": "",
+      "name": "Pavlos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Peter Makk"
+    },
+    {
+      "id": "",
+      "name": "Pietro Fellin"
+    },
+    {
+      "id": "",
+      "name": "Rafael Jodar"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Saveliy Ivanov"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Stuart Parker"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    },
+    {
+      "id": "",
+      "name": "Vladimir Holban"
+    }
+  ]
+}

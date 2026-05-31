@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/grodzisk-mazowiecki/2789/2025/results",
+  "tournament": {
+    "id": "2789",
+    "year": "2025",
+    "name": "Grodzisk Mazowiecki",
+    "location": "",
+    "date": "4-10 Aug, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/grodzisk-mazowiecki/2789/2025/results",
+    "drawsUrl": "/en/scores/archive/grodzisk-mazowiecki/2789/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/grodzisk-mazowiecki/2789/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "4 - 10 August, 2025",
+    "tournamentStartDate": "2025-08-04",
+    "tournamentEndDate": "2025-08-10",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-08-04",
+    "endDate": "2025-08-10"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Adam Majchrzak"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Alexander Binda"
+    },
+    {
+      "id": "",
+      "name": "Amit Vales"
+    },
+    {
+      "id": "",
+      "name": "Aslan Karatsev"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "David Poljak"
+    },
+    {
+      "id": "",
+      "name": "Dino Prizmic"
+    },
+    {
+      "id": "",
+      "name": "Fabrizio Andaloro"
+    },
+    {
+      "id": "",
+      "name": "Federico Cina"
+    },
+    {
+      "id": "",
+      "name": "Filip Pieczonka"
+    },
+    {
+      "id": "",
+      "name": "Francesco Maestrelli"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Harold Mayot"
+    },
+    {
+      "id": "",
+      "name": "Hayato Matsuoka"
+    },
+    {
+      "id": "",
+      "name": "Hubert Jakub Plenkiewicz"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Igor Piasek"
+    },
+    {
+      "id": "",
+      "name": "Ilya Ivashka"
+    },
+    {
+      "id": "",
+      "name": "JiSung Nam"
+    },
+    {
+      "id": "",
+      "name": "Jie Cui"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Kacper Knitter"
+    },
+    {
+      "id": "",
+      "name": "Kamil Majchrzak"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Leonardo Rossi"
+    },
+    {
+      "id": "",
+      "name": "Luca Potenza"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Maks Kasnikowski"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Olaf Pieczkowski"
+    },
+    {
+      "id": "",
+      "name": "Pawel Juszczak"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Rafael Jodar"
+    },
+    {
+      "id": "",
+      "name": "Ricardas Berankis"
+    },
+    {
+      "id": "",
+      "name": "Stefan Latinovic"
+    },
+    {
+      "id": "",
+      "name": "Tadeas Paroulek"
+    },
+    {
+      "id": "",
+      "name": "Toby Kodat"
+    },
+    {
+      "id": "",
+      "name": "Tomasz Berkieta"
+    },
+    {
+      "id": "",
+      "name": "Ugo Blanchet"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    }
+  ]
+}

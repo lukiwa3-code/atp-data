@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "salvadorrallin",
+    "name": "Salvador Rallin",
+    "displayName": "Salvador Rallin",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 12 April, 2026",
+      "dateIso": "2026-04-12",
+      "tournamentId": "9479",
+      "tournamentYear": "2026",
+      "tournamentName": "Bolivia Open",
+      "tournamentType": "CH",
+      "tournamentDate": "13-18 Apr, 2026",
+      "tournamentStartDate": "2026-04-13",
+      "tournamentEndDate": "2026-04-18",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-0 6-1",
+      "matchId": "RES-7D41792C26",
+      "reason": null,
+      "playerName": "Salvador Rallin",
+      "opponentName": "Ryan Dickerson",
+      "opponentKey": "ryandickerson",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 672,
+      "rankingDate": "2026-04-06",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

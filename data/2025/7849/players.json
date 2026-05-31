@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/chennai/7849/2025/results",
+  "tournament": {
+    "id": "7849",
+    "year": "2025",
+    "name": "Chennai",
+    "location": "",
+    "date": "3-9 Feb, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/chennai/7849/2025/results",
+    "drawsUrl": "/en/scores/archive/chennai/7849/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/chennai/7849/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "3 - 9 February, 2025",
+    "tournamentStartDate": "2025-02-03",
+    "tournamentEndDate": "2025-02-09",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-03",
+    "endDate": "2025-02-09"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Alexey Zakharov"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "Aslan Karatsev"
+    },
+    {
+      "id": "",
+      "name": "Bharath Nishok Kumaran"
+    },
+    {
+      "id": "",
+      "name": "Billy Harris"
+    },
+    {
+      "id": "",
+      "name": "Chirag Duhan"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Dev Javia"
+    },
+    {
+      "id": "",
+      "name": "Dominik Palan"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Egor Agafonov"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Ergi Kirkin"
+    },
+    {
+      "id": "",
+      "name": "Eric Vanshelboim"
+    },
+    {
+      "id": "",
+      "name": "Evgenii Tiurnev"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Jiri Vesely"
+    },
+    {
+      "id": "",
+      "name": "Kaito Uesugi"
+    },
+    {
+      "id": "",
+      "name": "Karan Singh"
+    },
+    {
+      "id": "",
+      "name": "Keerthivassan Suresh"
+    },
+    {
+      "id": "",
+      "name": "Kimmer Coppejans"
+    },
+    {
+      "id": "",
+      "name": "Kyrian Jacquet"
+    },
+    {
+      "id": "",
+      "name": "Lloyd Harris"
+    },
+    {
+      "id": "",
+      "name": "Luca Castelnuovo"
+    },
+    {
+      "id": "",
+      "name": "Manish Sureshkumar"
+    },
+    {
+      "id": "",
+      "name": "Maxim Zhukov"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Olaf Pieczkowski"
+    },
+    {
+      "id": "",
+      "name": "Oleksandr Ovcharenko"
+    },
+    {
+      "id": "",
+      "name": "Ramkumar Ramanathan"
+    },
+    {
+      "id": "",
+      "name": "Ray Ho"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Rishab Agarwal"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Siddhant Banthia"
+    },
+    {
+      "id": "",
+      "name": "Siddharth Vishwakarma"
+    },
+    {
+      "id": "",
+      "name": "Sidharth Rawat"
+    },
+    {
+      "id": "",
+      "name": "Timofey Skatov"
+    },
+    {
+      "id": "",
+      "name": "Varun Verma"
+    },
+    {
+      "id": "",
+      "name": "Yurii Dzhavakian"
+    },
+    {
+      "id": "",
+      "name": "Zsombor Piros"
+    }
+  ]
+}

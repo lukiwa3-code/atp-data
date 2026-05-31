@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/hamburg/8297/2025/results",
+  "tournament": {
+    "id": "8297",
+    "year": "2025",
+    "name": "Hamburg",
+    "location": "",
+    "date": "20-26 Oct, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/hamburg/8297/2025/results",
+    "drawsUrl": "/en/scores/archive/hamburg/8297/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/hamburg/8297/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "20 - 26 October, 2025",
+    "tournamentStartDate": "2025-10-20",
+    "tournamentEndDate": "2025-10-26",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-20",
+    "endDate": "2025-10-26"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Adrian Andreev"
+    },
+    {
+      "id": "",
+      "name": "Alastair Gray"
+    },
+    {
+      "id": "",
+      "name": "Alberto Barroso Campos"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Moro Canas"
+    },
+    {
+      "id": "",
+      "name": "Buvaysar Gadamauri"
+    },
+    {
+      "id": "",
+      "name": "Cedrik-Marcel Stebe"
+    },
+    {
+      "id": "",
+      "name": "Charlie Robertson"
+    },
+    {
+      "id": "",
+      "name": "Chris Rodesch"
+    },
+    {
+      "id": "",
+      "name": "Christian Sigsgaard"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Daniel Masur"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "Denis Yevseyev"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Eero Vasa"
+    },
+    {
+      "id": "",
+      "name": "Eliakim Coulibaly"
+    },
+    {
+      "id": "",
+      "name": "Federico Cina"
+    },
+    {
+      "id": "",
+      "name": "Florian Broska"
+    },
+    {
+      "id": "",
+      "name": "Francesco Forti"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "George Loffhagen"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Jacopo Berrettini"
+    },
+    {
+      "id": "",
+      "name": "Jamie Mackenzie"
+    },
+    {
+      "id": "",
+      "name": "Jannik Opitz"
+    },
+    {
+      "id": "",
+      "name": "Justin Engel"
+    },
+    {
+      "id": "",
+      "name": "Marko Topo"
+    },
+    {
+      "id": "",
+      "name": "Marvin Moeller"
+    },
+    {
+      "id": "",
+      "name": "Matej Dodig"
+    },
+    {
+      "id": "",
+      "name": "Mathys Erhard"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Maxim Mrva"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Michael Agwi"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Miguel Damas"
+    },
+    {
+      "id": "",
+      "name": "Mika Petkovic"
+    },
+    {
+      "id": "",
+      "name": "Milos Karol"
+    },
+    {
+      "id": "",
+      "name": "Niels McDonald"
+    },
+    {
+      "id": "",
+      "name": "Niklas Guttau"
+    },
+    {
+      "id": "",
+      "name": "Nikolai Barsukov"
+    },
+    {
+      "id": "",
+      "name": "Nino Ehrenschneider"
+    },
+    {
+      "id": "",
+      "name": "Pedro Vives Marcos"
+    },
+    {
+      "id": "",
+      "name": "Petr Brunclik"
+    },
+    {
+      "id": "",
+      "name": "Radu Albot"
+    },
+    {
+      "id": "",
+      "name": "Rudolf Molleker"
+    },
+    {
+      "id": "",
+      "name": "Sander Jong"
+    },
+    {
+      "id": "",
+      "name": "Sergio Callejon Hernando"
+    },
+    {
+      "id": "",
+      "name": "Tom Gentzsch"
+    }
+  ]
+}

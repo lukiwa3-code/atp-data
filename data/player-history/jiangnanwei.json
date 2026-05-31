@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "jiangnanwei",
+    "name": "Jiangnan Wei",
+    "displayName": "Jiangnan Wei",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 26 April, 2026",
+      "dateIso": "2026-04-26",
+      "tournamentId": "3083",
+      "tournamentYear": "2026",
+      "tournamentName": "Jiangxi Open",
+      "tournamentType": "CH",
+      "tournamentDate": "27 Apr - 3 May, 2026",
+      "tournamentStartDate": "2026-04-27",
+      "tournamentEndDate": "2026-05-03",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-0 6-0",
+      "matchId": "RES-1D4238E457",
+      "reason": null,
+      "playerName": "Jiangnan Wei",
+      "opponentName": "Tung-Lin Wu",
+      "opponentKey": "tunglinwu",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 326,
+      "rankingDate": "2026-04-20",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

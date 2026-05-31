@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/taipei/2278/2025/results",
+  "tournament": {
+    "id": "2278",
+    "year": "2025",
+    "name": "Taipei",
+    "location": "",
+    "date": "3-9 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/taipei/2278/2025/results",
+    "drawsUrl": "/en/scores/archive/taipei/2278/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/taipei/2278/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "3 - 9 November, 2025",
+    "tournamentStartDate": "2025-11-03",
+    "tournamentEndDate": "2025-11-09",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-09"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "Akira Santillan"
+    },
+    {
+      "id": "",
+      "name": "Arthur Weber"
+    },
+    {
+      "id": "",
+      "name": "Chun-Chien Hou"
+    },
+    {
+      "id": "",
+      "name": "Cing-Yang Meng"
+    },
+    {
+      "id": "",
+      "name": "Coleman Wong"
+    },
+    {
+      "id": "",
+      "name": "Daiki Yoshimura"
+    },
+    {
+      "id": "",
+      "name": "Daisuke Sumizawa"
+    },
+    {
+      "id": "",
+      "name": "Digvijaypratap Singh"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Evan Zhu"
+    },
+    {
+      "id": "",
+      "name": "Grigoriy Lomakin"
+    },
+    {
+      "id": "",
+      "name": "Hong-Lin Fu"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "Jason Jung"
+    },
+    {
+      "id": "",
+      "name": "JiSung Nam"
+    },
+    {
+      "id": "",
+      "name": "Julien De Cuyper"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Kai-I Wang"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Kaito Uesugi"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Kristjan Tamm"
+    },
+    {
+      "id": "",
+      "name": "Kuan-Shou Chen"
+    },
+    {
+      "id": "",
+      "name": "Kuan-Yi Lee"
+    },
+    {
+      "id": "",
+      "name": "Leo Vithoontien"
+    },
+    {
+      "id": "",
+      "name": "Luca Castelnuovo"
+    },
+    {
+      "id": "",
+      "name": "Marek Gengel"
+    },
+    {
+      "id": "",
+      "name": "Masamichi Imamura"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Michael Zhu"
+    },
+    {
+      "id": "",
+      "name": "Mukund Sasikumar"
+    },
+    {
+      "id": "",
+      "name": "Neil Oberleitner"
+    },
+    {
+      "id": "",
+      "name": "Nitin Kumar Sinha"
+    },
+    {
+      "id": "",
+      "name": "Ren Nakamura"
+    },
+    {
+      "id": "",
+      "name": "S D Prajwal Dev"
+    },
+    {
+      "id": "",
+      "name": "Shinji Hazawa"
+    },
+    {
+      "id": "",
+      "name": "Sidharth Rawat"
+    },
+    {
+      "id": "",
+      "name": "Taisei Ichikawa"
+    },
+    {
+      "id": "",
+      "name": "Takeru Yuzuki"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Tsung-Hao Huang"
+    },
+    {
+      "id": "",
+      "name": "Tung-Lin Wu"
+    },
+    {
+      "id": "",
+      "name": "Uisung Park"
+    },
+    {
+      "id": "",
+      "name": "Wishaya Trongcharoenchaikul"
+    },
+    {
+      "id": "",
+      "name": "Yan Cheng Chen"
+    },
+    {
+      "id": "",
+      "name": "Yoshihito Nishioka"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    }
+  ]
+}

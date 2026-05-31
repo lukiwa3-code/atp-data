@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/winston-salem/3011/2025/results",
+  "tournament": {
+    "id": "3011",
+    "year": "2025",
+    "name": "Winston Salem",
+    "location": "",
+    "date": "8-14 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/winston-salem/3011/2025/results",
+    "drawsUrl": "/en/scores/archive/winston-salem/3011/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/winston-salem/3011/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "8 - 14 September, 2025",
+    "tournamentStartDate": "2025-09-08",
+    "tournamentEndDate": "2025-09-14",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-08",
+    "endDate": "2025-09-14"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(2/AL)"
+    },
+    {
+      "id": "",
+      "name": "(8/WC)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Aidan Kim"
+    },
+    {
+      "id": "",
+      "name": "Albert Pedrico Kravtsov"
+    },
+    {
+      "id": "",
+      "name": "Alex Rybakov"
+    },
+    {
+      "id": "",
+      "name": "Alfredo Perez"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Andrew Delgado"
+    },
+    {
+      "id": "",
+      "name": "Andrew Fenty"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Christian Langmo"
+    },
+    {
+      "id": "",
+      "name": "Cooper Williams"
+    },
+    {
+      "id": "",
+      "name": "Corey Craig"
+    },
+    {
+      "id": "",
+      "name": "Daniel Milavsky"
+    },
+    {
+      "id": "",
+      "name": "Darwin Blanch"
+    },
+    {
+      "id": "",
+      "name": "Dominick Mosejczuk"
+    },
+    {
+      "id": "",
+      "name": "Edward Winter"
+    },
+    {
+      "id": "",
+      "name": "Emon Van Loben Sels"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Gavin Goode"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "James Trotter"
+    },
+    {
+      "id": "",
+      "name": "Jangjun Kim"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Joshua Sheehy"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Justin Boulais"
+    },
+    {
+      "id": "",
+      "name": "Kacper Szymkowiak"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Luca Pow"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Pablo Martinez Gomez"
+    },
+    {
+      "id": "",
+      "name": "Philip Sekulic"
+    },
+    {
+      "id": "",
+      "name": "Quinn Vandecasteele"
+    },
+    {
+      "id": "",
+      "name": "Rafael Jodar"
+    },
+    {
+      "id": "",
+      "name": "Raphael Perot"
+    },
+    {
+      "id": "",
+      "name": "Roger Pascual Ferra"
+    },
+    {
+      "id": "",
+      "name": "Rudy Quan"
+    },
+    {
+      "id": "",
+      "name": "Ryuki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    },
+    {
+      "id": "",
+      "name": "Thai-Son Kwiatkowski"
+    },
+    {
+      "id": "",
+      "name": "Theo Papamalamis"
+    },
+    {
+      "id": "",
+      "name": "Trevor Svajda"
+    },
+    {
+      "id": "",
+      "name": "Tyler Zink"
+    },
+    {
+      "id": "",
+      "name": "William Grant"
+    }
+  ]
+}

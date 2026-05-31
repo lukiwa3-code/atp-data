@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
   "source": "https://www.atptour.com/en/scores/archive/buenos-aires/506/2026/draws",
   "tournament": {
     "id": "506",
@@ -24,6 +24,8 @@
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
     "prizeMoney": "$675,310",
     "totalFinancialCommitment": "$763,614",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
     "dateSource": "results_header_or_calendar",
     "startDate": "2026-02-09",
     "tournamentStartDate": "2026-02-09",

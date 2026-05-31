@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "rodrigoledesmasosa",
+    "name": "Rodrigo Ledesma Sosa",
+    "displayName": "Rodrigo Ledesma Sosa",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 01 February, 2026",
+      "dateIso": "2026-02-01",
+      "tournamentId": "9623",
+      "tournamentYear": "2026",
+      "tournamentName": "Tenerife Challenger 1",
+      "tournamentType": "CH",
+      "tournamentDate": "2-8 Feb, 2026",
+      "tournamentStartDate": "2026-02-02",
+      "tournamentEndDate": "2026-02-08",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-0 6-2",
+      "matchId": "RES-6F83D3E18C",
+      "reason": null,
+      "playerName": "Rodrigo Ledesma Sosa",
+      "opponentName": "Oscar Weightman",
+      "opponentKey": "oscarweightman",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 718,
+      "rankingDate": "2026-01-26",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

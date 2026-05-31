@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "thantubsuksumrarn",
+    "name": "Thantub Suksumrarn",
+    "displayName": "Thantub Suksumrarn",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 04 January, 2026",
+      "dateIso": "2026-01-04",
+      "tournamentId": "2791",
+      "tournamentYear": "2026",
+      "tournamentName": "Bangkok Open 1",
+      "tournamentType": "CH",
+      "tournamentDate": "5-10 Jan, 2026",
+      "tournamentStartDate": "2026-01-05",
+      "tournamentEndDate": "2026-01-10",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-1",
+      "matchId": "RES-BC8F135F8D",
+      "reason": null,
+      "playerName": "Thantub Suksumrarn",
+      "opponentName": "Arthur Weber",
+      "opponentKey": "arthurweber",
+      "result": "L",
+      "playerRank": 963,
+      "opponentRank": 418,
+      "rankingDate": "2025-12-29",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

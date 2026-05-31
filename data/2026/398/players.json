@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/cherbourg/398/2026/results",
+  "tournament": {
+    "id": "398",
+    "year": "2026",
+    "name": "Challenger Cherbourg La Manche",
+    "location": "",
+    "date": "9-15 Mar, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/cherbourg/398/2026/results",
+    "drawsUrl": "/en/scores/archive/cherbourg/398/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/cherbourg/398/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "9 - 15 March, 2026",
+    "tournamentStartDate": "2026-03-09",
+    "tournamentEndDate": "2026-03-15",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-03-09",
+    "endDate": "2026-03-15"
+  },
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(1/Alt)"
+    },
+    {
+      "id": "",
+      "name": "(2/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Alex Knaff"
+    },
+    {
+      "id": "",
+      "name": "Alexandre Reco"
+    },
+    {
+      "id": "",
+      "name": "Alexis Gautier"
+    },
+    {
+      "id": "",
+      "name": "Antoine Ghibaudo"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Ben Jones"
+    },
+    {
+      "id": "",
+      "name": "Borna Gojo"
+    },
+    {
+      "id": "",
+      "name": "Cleeve Harper"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Clement Tabur"
+    },
+    {
+      "id": "",
+      "name": "Cyril Vandermeersch"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "David Poljak"
+    },
+    {
+      "id": "",
+      "name": "Filippo Romano"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Gilles Arnaud Bailly"
+    },
+    {
+      "id": "",
+      "name": "Jarno Jans"
+    },
+    {
+      "id": "",
+      "name": "Jelle Sels"
+    },
+    {
+      "id": "",
+      "name": "Jurij Rodionov"
+    },
+    {
+      "id": "",
+      "name": "Keegan Smith"
+    },
+    {
+      "id": "",
+      "name": "Kei Nishikori"
+    },
+    {
+      "id": "",
+      "name": "Kenny De Schepper"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Rottoli"
+    },
+    {
+      "id": "",
+      "name": "Luc Fomba"
+    },
+    {
+      "id": "",
+      "name": "Lucas Poullain"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Matisse Bobichon"
+    },
+    {
+      "id": "",
+      "name": "Matt Ponchet"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Maxence Beauge"
+    },
+    {
+      "id": "",
+      "name": "Maxime Janvier"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Nicolai Budkov Kjaer"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Ifi"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Parizzia"
+    },
+    {
+      "id": "",
+      "name": "Niels Visker"
+    },
+    {
+      "id": "",
+      "name": "Patrick Brady"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Pierre Antoine Faut"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Raphael Perot"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Yanis Ghazouani Durand"
+    }
+  ]
+}

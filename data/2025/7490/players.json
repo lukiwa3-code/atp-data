@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/gwangju/7490/2025/results",
+  "tournament": {
+    "id": "7490",
+    "year": "2025",
+    "name": "Gwangju",
+    "location": "",
+    "date": "21-27 Apr, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/gwangju/7490/2025/results",
+    "drawsUrl": "/en/scores/archive/gwangju/7490/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/gwangju/7490/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "21 - 27 April, 2025",
+    "tournamentStartDate": "2025-04-21",
+    "tournamentEndDate": "2025-04-27",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-04-21",
+    "endDate": "2025-04-27"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Alibek Kachmazov"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Antoine Escoffier"
+    },
+    {
+      "id": "",
+      "name": "Brandon Holt"
+    },
+    {
+      "id": "",
+      "name": "Christian Langmo"
+    },
+    {
+      "id": "",
+      "name": "Christopher Eubanks"
+    },
+    {
+      "id": "",
+      "name": "Constant Lestienne"
+    },
+    {
+      "id": "",
+      "name": "Duckhee Lee"
+    },
+    {
+      "id": "",
+      "name": "Emil Ruusuvuori"
+    },
+    {
+      "id": "",
+      "name": "Fajing Sun"
+    },
+    {
+      "id": "",
+      "name": "Gerard Campana Lee"
+    },
+    {
+      "id": "",
+      "name": "Hayden Jones"
+    },
+    {
+      "id": "",
+      "name": "Hoyoung Roh"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Hyeon Chung"
+    },
+    {
+      "id": "",
+      "name": "Ilia Simakin"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "James Trotter"
+    },
+    {
+      "id": "",
+      "name": "Jason Kubler"
+    },
+    {
+      "id": "",
+      "name": "Jie Cui"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Li Tu"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Naoki Nakagawa"
+    },
+    {
+      "id": "",
+      "name": "Omar Jasika"
+    },
+    {
+      "id": "",
+      "name": "Petr Bar Biryukov"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Soonwoo Kwon"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Uisung Park"
+    },
+    {
+      "id": "",
+      "name": "Viktor Durasovic"
+    },
+    {
+      "id": "",
+      "name": "Woobin Shin"
+    },
+    {
+      "id": "",
+      "name": "Yan Bai"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yi Zhou"
+    },
+    {
+      "id": "",
+      "name": "Yosuke Watanuki"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    },
+    {
+      "id": "",
+      "name": "Yun seong Chung"
+    },
+    {
+      "id": "",
+      "name": "Zachary Svajda"
+    }
+  ]
+}

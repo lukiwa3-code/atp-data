@@ -1,0 +1,788 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/bordeaux/3824/2026/draws",
+  "tournament": {
+    "id": "3824",
+    "year": "2026",
+    "name": "BNP Paribas Primrose Bordeaux",
+    "location": "",
+    "date": "12-17 May, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/bordeaux/3824/2026/results",
+    "drawsUrl": "/en/scores/archive/bordeaux/3824/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/bordeaux/3824/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "12 - 17 May, 2026",
+    "tournamentStartDate": "2026-05-12",
+    "tournamentEndDate": "2026-05-17",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-17"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Final",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "J. Cerundolo",
+          "player1FullName": "Juan Manuel Cerundolo",
+          "player1Id": "C0C8",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "7"
+          ],
+          "player2": "R. Collignon",
+          "player2FullName": "Raphael Collignon",
+          "player2Id": "C0JP",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "7",
+            "1",
+            "6 4"
+          ],
+          "winnerName": "Juan Manuel Cerundolo",
+          "formattedScore": "5-7 6-1 7-6(4)"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semifinals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "J. Cerundolo",
+          "player1FullName": "Juan Manuel Cerundolo",
+          "player1Id": "C0C8",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "Q. Halys",
+          "player2FullName": "Quentin Halys",
+          "player2Id": "HB64",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "winnerName": "Juan Manuel Cerundolo",
+          "formattedScore": "6-2 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "T. Griekspoor",
+          "player2FullName": "Tallon Griekspoor",
+          "player2Id": "GJ37",
+          "player2Country": "NED",
+          "player2ScoreTokens": [
+            "5",
+            "1"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "7-5 6-1"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarterfinals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "M. Damm",
+          "player1FullName": "Martin Damm",
+          "player1Id": "D0DT",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "player2": "J. Cerundolo",
+          "player2FullName": "Juan Manuel Cerundolo",
+          "player2Id": "C0C8",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Juan Manuel Cerundolo",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "Q. Halys",
+          "player1FullName": "Quentin Halys",
+          "player1Id": "HB64",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "G. Mpetshi Perricard",
+          "player2FullName": "Giovanni Mpetshi Perricard",
+          "player2Id": "M0GZ",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "3",
+            "6 3"
+          ],
+          "winnerName": "Quentin Halys",
+          "formattedScore": "6-3 7-6(3)"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "T. Droguet",
+          "player2FullName": "Titouan Droguet",
+          "player2Id": "D0DW",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "2",
+            "6 6"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "6-2 7-6(6)"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "A. Molcan",
+          "player1FullName": "Alex Molcan",
+          "player1Id": "MV14",
+          "player1Country": "SVK",
+          "player1ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "player2": "T. Griekspoor",
+          "player2FullName": "Tallon Griekspoor",
+          "player2Id": "GJ37",
+          "player2Country": "NED",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Tallon Griekspoor",
+          "formattedScore": "6-2 6-4"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Rinderknech",
+          "player1FullName": "Arthur Rinderknech",
+          "player1Id": "RC91",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "4",
+            "6 13"
+          ],
+          "player2": "M. Damm",
+          "player2FullName": "Martin Damm",
+          "player2Id": "D0DT",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Martin Damm",
+          "formattedScore": "6-4 7-6(13)"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "J. Cerundolo",
+          "player1FullName": "Juan Manuel Cerundolo",
+          "player1Id": "C0C8",
+          "player1Country": "ARG",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "R. Burruchaga",
+          "player2FullName": "Roman Andres Burruchaga",
+          "player2Id": "B0FV",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Juan Manuel Cerundolo",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "B. van de Zandschulp",
+          "player1FullName": "Botic Van De Zandschulp",
+          "player1Id": "V812",
+          "player1Country": "NED",
+          "player1ScoreTokens": [
+            "1",
+            "0"
+          ],
+          "player2": "Q. Halys",
+          "player2FullName": "Quentin Halys",
+          "player2Id": "HB64",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "2"
+          ],
+          "winnerName": "Quentin Halys",
+          "formattedScore": "6 2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Vukic",
+          "player1FullName": "Aleksandar Vukic",
+          "player1Id": "V832",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "0",
+            "3"
+          ],
+          "player2": "G. Mpetshi Perricard",
+          "player2FullName": "Giovanni Mpetshi Perricard",
+          "player2Id": "M0GZ",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Giovanni Mpetshi Perricard",
+          "formattedScore": "6-0 6-3"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "7",
+            "4"
+          ],
+          "player2": "A. Shevchenko",
+          "player2FullName": "Aleksandr Shevchenko",
+          "player2Id": "S0H2",
+          "player2Country": "KAZ",
+          "player2ScoreTokens": [
+            "6 5",
+            "0"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "7 4"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "T. Droguet",
+          "player1FullName": "Titouan Droguet",
+          "player1Id": "D0DW",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6 13",
+            "6",
+            "6"
+          ],
+          "player2": "T. Atmane",
+          "player2FullName": "Terence Atmane",
+          "player2Id": "A0GC",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "7",
+            "1",
+            "4"
+          ],
+          "winnerName": "Titouan Droguet",
+          "formattedScore": "6-7(13) 6-1 6-4"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Molcan",
+          "player1FullName": "Alex Molcan",
+          "player1Id": "MV14",
+          "player1Country": "SVK",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "R. Sakamoto",
+          "player2FullName": "Rei Sakamoto",
+          "player2Id": "S0UV",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "0"
+          ],
+          "winnerName": "Alex Molcan",
+          "formattedScore": "6-4 6-0"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "B. Bonzi",
+          "player1FullName": "Benjamin Bonzi",
+          "player1Id": "BM95",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "player2": "T. Griekspoor",
+          "player2FullName": "Tallon Griekspoor",
+          "player2Id": "GJ37",
+          "player2Country": "NED",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Tallon Griekspoor",
+          "formattedScore": "6-4 6-3"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Rinderknech",
+          "player1FullName": "Arthur Rinderknech",
+          "player1Id": "RC91",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [],
+          "player2": "Bye",
+          "player2FullName": "Bye",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [],
+          "winnerName": "Arthur Rinderknech",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Damm",
+          "player1FullName": "Martin Damm",
+          "player1Id": "D0DT",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "G. Dimitrov",
+          "player2FullName": "Grigor Dimitrov",
+          "player2Id": "D875",
+          "player2Country": "BUL",
+          "player2ScoreTokens": [
+            "6 3",
+            "6 7"
+          ],
+          "winnerName": "Martin Damm",
+          "formattedScore": "7-6(3) 7-6(7)"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Van Assche",
+          "player1FullName": "Luca Van Assche",
+          "player1Id": "V0DZ",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6 2",
+            "4"
+          ],
+          "player2": "J. Cerundolo",
+          "player2FullName": "Juan Manuel Cerundolo",
+          "player2Id": "C0C8",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Juan Manuel Cerundolo",
+          "formattedScore": "7-6(2) 6-4"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Delage",
+          "player1FullName": "Pierre Delage",
+          "player1Id": "D0DB",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "4"
+          ],
+          "player2": "R. Burruchaga",
+          "player2FullName": "Roman Andres Burruchaga",
+          "player2Id": "B0FV",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "winnerName": "Roman Andres Burruchaga",
+          "formattedScore": "6-3 4-6 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "B. van de Zandschulp",
+          "player1FullName": "Botic Van De Zandschulp",
+          "player1Id": "V812",
+          "player1Country": "NED",
+          "player1ScoreTokens": [],
+          "player2": "Bye",
+          "player2FullName": "Bye",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [],
+          "winnerName": "Botic Van De Zandschulp",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Shimabukuro",
+          "player1FullName": "Sho Shimabukuro",
+          "player1Id": "SY67",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "Q. Halys",
+          "player2FullName": "Quentin Halys",
+          "player2Id": "HB64",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Quentin Halys",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Hijikata",
+          "player1FullName": "Rinky Hijikata",
+          "player1Id": "H0BH",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "1",
+            "7",
+            "3"
+          ],
+          "player2": "A. Vukic",
+          "player2FullName": "Aleksandar Vukic",
+          "player2Id": "V832",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6 3",
+            "6"
+          ],
+          "winnerName": "Aleksandar Vukic",
+          "formattedScore": "6-1 6-7(3) 6-3"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "O. Virtanen",
+          "player1FullName": "Otto Virtanen",
+          "player1Id": "V0AM",
+          "player1Country": "FIN",
+          "player1ScoreTokens": [
+            "6",
+            "5",
+            "4"
+          ],
+          "player2": "G. Mpetshi Perricard",
+          "player2FullName": "Giovanni Mpetshi Perricard",
+          "player2Id": "M0GZ",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "2",
+            "7",
+            "6"
+          ],
+          "winnerName": "Giovanni Mpetshi Perricard",
+          "formattedScore": "2-6 7-5 6-4"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "G. Blancaneaux",
+          "player2FullName": "Geoffrey Blancaneaux",
+          "player2Id": "BU54",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "2",
+            "1"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "6-2 6-1"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Shevchenko",
+          "player1FullName": "Aleksandr Shevchenko",
+          "player1Id": "S0H2",
+          "player1Country": "KAZ",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "H. Gaston",
+          "player2FullName": "Hugo Gaston",
+          "player2Id": "G09O",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "1",
+            "6",
+            "1"
+          ],
+          "winnerName": "Aleksandr Shevchenko",
+          "formattedScore": "6-1 3-6 6-1"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Droguet",
+          "player1FullName": "Titouan Droguet",
+          "player1Id": "D0DW",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6",
+            "6 2",
+            "6"
+          ],
+          "player2": "J. Fearnley",
+          "player2FullName": "Jacob Fearnley",
+          "player2Id": "F0BY",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "2",
+            "7",
+            "2"
+          ],
+          "winnerName": "Titouan Droguet",
+          "formattedScore": "6-2 6-7(2) 6-2"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Bye",
+          "player1FullName": "Bye",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [],
+          "player2": "T. Atmane",
+          "player2FullName": "Terence Atmane",
+          "player2Id": "A0GC",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [],
+          "winnerName": "Terence Atmane",
+          "formattedScore": ""
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "J. Brooksby",
+          "player1FullName": "Jenson Brooksby",
+          "player1Id": "B0CD",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2",
+            "5"
+          ],
+          "player2": "A. Molcan",
+          "player2FullName": "Alex Molcan",
+          "player2Id": "MV14",
+          "player2Country": "SVK",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Alex Molcan",
+          "formattedScore": "6-2 7-5"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Sakamoto",
+          "player1FullName": "Rei Sakamoto",
+          "player1Id": "S0UV",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "A. Muller",
+          "player2FullName": "Alexandre Muller",
+          "player2Id": "MP20",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "3"
+          ],
+          "winnerName": "Rei Sakamoto",
+          "formattedScore": "6-4 3-6 6-3"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Kouame",
+          "player1FullName": "Moise Kouame",
+          "player1Id": "K0O4",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "0"
+          ],
+          "player2": "B. Bonzi",
+          "player2FullName": "Benjamin Bonzi",
+          "player2Id": "BM95",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "6"
+          ],
+          "winnerName": "Benjamin Bonzi",
+          "formattedScore": "2-6 6-4 6-0"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Bye",
+          "player1FullName": "Bye",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [],
+          "player2": "T. Griekspoor",
+          "player2FullName": "Tallon Griekspoor",
+          "player2Id": "GJ37",
+          "player2Country": "NED",
+          "player2ScoreTokens": [],
+          "winnerName": "Tallon Griekspoor",
+          "formattedScore": ""
+        }
+      ]
+    }
+  ]
+}

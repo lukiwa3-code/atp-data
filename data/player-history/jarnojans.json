@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "jarnojans",
+    "name": "Jarno Jans",
+    "displayName": "Jarno Jans",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 08 March, 2026",
+      "dateIso": "2026-03-08",
+      "tournamentId": "398",
+      "tournamentYear": "2026",
+      "tournamentName": "Challenger Cherbourg La Manche",
+      "tournamentType": "CH",
+      "tournamentDate": "9-15 Mar, 2026",
+      "tournamentStartDate": "2026-03-09",
+      "tournamentEndDate": "2026-03-15",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "5-2 RET",
+      "matchId": "RES-36F3040555",
+      "reason": null,
+      "playerName": "Jarno Jans",
+      "opponentName": "Ben Jones",
+      "opponentKey": "benjones",
+      "result": "L",
+      "playerRank": 1329,
+      "opponentRank": 689,
+      "rankingDate": "2026-03-02",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

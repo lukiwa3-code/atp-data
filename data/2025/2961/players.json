@@ -1,0 +1,164 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/brazzaville/2961/2025/results",
+  "tournament": {
+    "id": "2961",
+    "year": "2025",
+    "name": "Brazzaville",
+    "location": "",
+    "date": "17-23 Feb, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/brazzaville/2961/2025/results",
+    "drawsUrl": "/en/scores/archive/brazzaville/2961/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/brazzaville/2961/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "17 - 23 February, 2025",
+    "tournamentStartDate": "2025-02-17",
+    "tournamentEndDate": "2025-02-23",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-02-17",
+    "endDate": "2025-02-23"
+  },
+  "count": 31,
+  "players": [
+    {
+      "id": "",
+      "name": "Alec Beckley"
+    },
+    {
+      "id": "",
+      "name": "Andrej Martin"
+    },
+    {
+      "id": "",
+      "name": "Calvin Hemery"
+    },
+    {
+      "id": "",
+      "name": "Credit Chaiyarin"
+    },
+    {
+      "id": "",
+      "name": "Dillon Beckles"
+    },
+    {
+      "id": "",
+      "name": "Dinko Dinev"
+    },
+    {
+      "id": "",
+      "name": "Dominik Kellovsky"
+    },
+    {
+      "id": "",
+      "name": "Eliakim Coulibaly"
+    },
+    {
+      "id": "",
+      "name": "Ezequiel Monferrer"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Guelfo Borghini Baldovinetti"
+    },
+    {
+      "id": "",
+      "name": "Guy Den Ouden"
+    },
+    {
+      "id": "",
+      "name": "Ivan Denisov"
+    },
+    {
+      "id": "",
+      "name": "Jasza Szajrych"
+    },
+    {
+      "id": "",
+      "name": "Julien De Cuyper"
+    },
+    {
+      "id": "",
+      "name": "Kryce-Didier Momo-Kassa"
+    },
+    {
+      "id": "",
+      "name": "Maik Steiner"
+    },
+    {
+      "id": "",
+      "name": "Mateo Barreiros Reyes"
+    },
+    {
+      "id": "",
+      "name": "Matteo Covato"
+    },
+    {
+      "id": "",
+      "name": "Max Houkes"
+    },
+    {
+      "id": "",
+      "name": "Maxime Chazal"
+    },
+    {
+      "id": "",
+      "name": "Maximilian Neuchrist"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Mikael Ymer"
+    },
+    {
+      "id": "",
+      "name": "Nicholas Alan Van Aken"
+    },
+    {
+      "id": "",
+      "name": "Paterne Mamata"
+    },
+    {
+      "id": "",
+      "name": "Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Alujas"
+    },
+    {
+      "id": "",
+      "name": "Samir Hamza Reguig"
+    },
+    {
+      "id": "",
+      "name": "Yassine Smiej"
+    }
+  ]
+}

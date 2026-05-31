@@ -1,0 +1,212 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/athens/3043/2025/results",
+  "tournament": {
+    "id": "3043",
+    "year": "2025",
+    "name": "Athens",
+    "location": "",
+    "date": "24-30 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/athens/3043/2025/results",
+    "drawsUrl": "/en/scores/archive/athens/3043/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/athens/3043/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "24 - 30 November, 2025",
+    "tournamentStartDate": "2025-11-24",
+    "tournamentEndDate": "2025-11-30",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-24",
+    "endDate": "2025-11-30"
+  },
+  "count": 43,
+  "players": [
+    {
+      "id": "",
+      "name": "(9/AL)"
+    },
+    {
+      "id": "",
+      "name": "Alberto Barroso Campos"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Braynin"
+    },
+    {
+      "id": "",
+      "name": "Alex Knaff"
+    },
+    {
+      "id": "",
+      "name": "Aristotelis Thanos"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "Bernabe Zapata Miralles"
+    },
+    {
+      "id": "",
+      "name": "Carlo Alberto Caniato"
+    },
+    {
+      "id": "",
+      "name": "Charlie Robertson"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Dimitris Azoidis"
+    },
+    {
+      "id": "",
+      "name": "Dimitris Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Eliakim Coulibaly"
+    },
+    {
+      "id": "",
+      "name": "Enrico Dalla Valle"
+    },
+    {
+      "id": "",
+      "name": "Filippos Astreinidis"
+    },
+    {
+      "id": "",
+      "name": "Giles Hussey"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Henri Haupt"
+    },
+    {
+      "id": "",
+      "name": "James Story"
+    },
+    {
+      "id": "",
+      "name": "Jan Jermar"
+    },
+    {
+      "id": "",
+      "name": "Jan Kumstat"
+    },
+    {
+      "id": "",
+      "name": "Jeffrey Chuan En Hsu"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Angelini"
+    },
+    {
+      "id": "",
+      "name": "Luca Potenza"
+    },
+    {
+      "id": "",
+      "name": "Maks Kasnikowski"
+    },
+    {
+      "id": "",
+      "name": "Markos Kalovelonis"
+    },
+    {
+      "id": "",
+      "name": "Melios Efstathiou"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Michele Ribecai"
+    },
+    {
+      "id": "",
+      "name": "Millen Hurrion"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Parizzia"
+    },
+    {
+      "id": "",
+      "name": "Nikolay Vylegzhanin"
+    },
+    {
+      "id": "",
+      "name": "Oleg Prihodko"
+    },
+    {
+      "id": "",
+      "name": "Olle Wallin"
+    },
+    {
+      "id": "",
+      "name": "Oscar Jose Gutierrez"
+    },
+    {
+      "id": "",
+      "name": "Pavlos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Peter Fajta"
+    },
+    {
+      "id": "",
+      "name": "Philip Henning"
+    },
+    {
+      "id": "",
+      "name": "Pierluigi Basile"
+    },
+    {
+      "id": "",
+      "name": "Rudolf Molleker"
+    },
+    {
+      "id": "",
+      "name": "Sandro Kopp"
+    },
+    {
+      "id": "",
+      "name": "Sergio Callejon Hernando"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Schinas"
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/mexico-city/8375/2026/results",
+  "tournament": {
+    "id": "8375",
+    "year": "2026",
+    "name": "Mexico City Open presentado por Banco BX+",
+    "location": "",
+    "date": "6-12 Apr, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/mexico-city/8375/2026/results",
+    "drawsUrl": "/en/scores/archive/mexico-city/8375/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/mexico-city/8375/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "6 - 12 April, 2026",
+    "tournamentStartDate": "2026-04-06",
+    "tournamentEndDate": "2026-04-12",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-12"
+  },
+  "count": 51,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Aidan Mayo"
+    },
+    {
+      "id": "",
+      "name": "Alafia Ayeni"
+    },
+    {
+      "id": "",
+      "name": "Alan Fernando Rubio Fierros"
+    },
+    {
+      "id": "",
+      "name": "Alan Magadan"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Hayen"
+    },
+    {
+      "id": "",
+      "name": "Alex Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Andres Martin"
+    },
+    {
+      "id": "",
+      "name": "Andrew Fenty"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Blaise Bicknell"
+    },
+    {
+      "id": "",
+      "name": "Bor Artnak"
+    },
+    {
+      "id": "",
+      "name": "Carlo Arena Fava"
+    },
+    {
+      "id": "",
+      "name": "Corentin Denolly"
+    },
+    {
+      "id": "",
+      "name": "Dan Martin"
+    },
+    {
+      "id": "",
+      "name": "Daniel Milavsky"
+    },
+    {
+      "id": "",
+      "name": "Facundo Mena"
+    },
+    {
+      "id": "",
+      "name": "Guillaume Dalmasso"
+    },
+    {
+      "id": "",
+      "name": "Ivan Marrero Curbelo"
+    },
+    {
+      "id": "",
+      "name": "Jake Delaney"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "Jay Clarke"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Karl Poling"
+    },
+    {
+      "id": "",
+      "name": "Luka Pavlovic"
+    },
+    {
+      "id": "",
+      "name": "Mackenzie McDonald"
+    },
+    {
+      "id": "",
+      "name": "Marc Polmans"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Mateus Alves"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Matteo Covato"
+    },
+    {
+      "id": "",
+      "name": "Mauricio Schtulmann Gasca"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maxwell Mckennon"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Miguel Tobon"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Quinn Vandecasteele"
+    },
+    {
+      "id": "",
+      "name": "Rafael De Alba"
+    },
+    {
+      "id": "",
+      "name": "Raphael Perot"
+    },
+    {
+      "id": "",
+      "name": "Robin Catry"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Alujas"
+    },
+    {
+      "id": "",
+      "name": "Rodrigo Pacheco Mendez"
+    },
+    {
+      "id": "",
+      "name": "Samuel Alejandro Linde Palacios"
+    },
+    {
+      "id": "",
+      "name": "Samuel Heredia"
+    },
+    {
+      "id": "",
+      "name": "Stefan Kozlov"
+    },
+    {
+      "id": "",
+      "name": "Stefano Napolitano"
+    },
+    {
+      "id": "",
+      "name": "Tibo Colson"
+    },
+    {
+      "id": "",
+      "name": "Tristan Schoolkate"
+    },
+    {
+      "id": "",
+      "name": "Vladyslav Orlov"
+    }
+  ]
+}

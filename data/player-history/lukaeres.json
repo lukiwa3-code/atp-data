@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "lukaeres",
+    "name": "Luka Eres",
+    "displayName": "Luka Eres",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 22 March, 2026",
+      "dateIso": "2026-03-22",
+      "tournamentId": "8388",
+      "tournamentYear": "2026",
+      "tournamentName": "Memorijal Mile Moralic - Split Open Jolly Autoline",
+      "tournamentType": "CH",
+      "tournamentDate": "23-29 Mar, 2026",
+      "tournamentStartDate": "2026-03-23",
+      "tournamentEndDate": "2026-03-29",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-0",
+      "matchId": "RES-FF637172E1",
+      "reason": null,
+      "playerName": "Luka Eres",
+      "opponentName": "Gerard Campana Lee",
+      "opponentKey": "gerardcampanalee",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 604,
+      "rankingDate": "2026-03-16",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

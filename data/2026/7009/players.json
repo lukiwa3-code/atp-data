@@ -1,0 +1,196 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/aix-en-provence/7009/2026/results",
+  "tournament": {
+    "id": "7009",
+    "year": "2026",
+    "name": "Open Aix Provence Crédit Agricole",
+    "location": "",
+    "date": "28 Apr - 3 May, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/aix-en-provence/7009/2026/results",
+    "drawsUrl": "/en/scores/archive/aix-en-provence/7009/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/aix-en-provence/7009/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "28 April - 3 May, 2026",
+    "tournamentStartDate": "2026-04-28",
+    "tournamentEndDate": "2026-05-03",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-04-28",
+    "endDate": "2026-05-03"
+  },
+  "count": 39,
+  "players": [
+    {
+      "id": "",
+      "name": "(7/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Tabilo"
+    },
+    {
+      "id": "",
+      "name": "Aleksandr Shevchenko"
+    },
+    {
+      "id": "",
+      "name": "Alex Michelsen"
+    },
+    {
+      "id": "",
+      "name": "Alexandre Muller"
+    },
+    {
+      "id": "",
+      "name": "Antoine Escoffier"
+    },
+    {
+      "id": "",
+      "name": "Arthur Nagel"
+    },
+    {
+      "id": "",
+      "name": "Arthur Weber"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Daniel Jade"
+    },
+    {
+      "id": "",
+      "name": "David Goffin"
+    },
+    {
+      "id": "",
+      "name": "Dusan Lajovic"
+    },
+    {
+      "id": "",
+      "name": "Ethan Quinn"
+    },
+    {
+      "id": "",
+      "name": "Felix Balshaw"
+    },
+    {
+      "id": "",
+      "name": "Francisco Comesana"
+    },
+    {
+      "id": "",
+      "name": "Grigor Dimitrov"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Kimmer Coppejans"
+    },
+    {
+      "id": "",
+      "name": "Laurent Lokoli"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Matteo Martineau"
+    },
+    {
+      "id": "",
+      "name": "Paulo Andre Saraiva Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Pedro Martinez"
+    },
+    {
+      "id": "",
+      "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Pol Martin Tiffon"
+    },
+    {
+      "id": "",
+      "name": "Remy Bertola"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Robin Bertrand"
+    },
+    {
+      "id": "",
+      "name": "Sascha Gueymard Wayenburg"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Ofner"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Thomas Faurel"
+    },
+    {
+      "id": "",
+      "name": "Tom Paris"
+    },
+    {
+      "id": "",
+      "name": "Tommaso Compagnucci"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Yibing Wu"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
+}

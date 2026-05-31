@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/busan/1741/2026/results",
+  "tournament": {
+    "id": "1741",
+    "year": "2026",
+    "name": "Renault Busan Open Tennis Championships",
+    "location": "",
+    "date": "13-19 Apr, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/busan/1741/2026/results",
+    "drawsUrl": "/en/scores/archive/busan/1741/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/busan/1741/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "13 - 19 April, 2026",
+    "tournamentStartDate": "2026-04-13",
+    "tournamentEndDate": "2026-04-19",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-19"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
+    {
+      "id": "",
+      "name": "August Holmgren"
+    },
+    {
+      "id": "",
+      "name": "Beibit Zhukayev"
+    },
+    {
+      "id": "",
+      "name": "Ben Jones"
+    },
+    {
+      "id": "",
+      "name": "Clement Chidekh"
+    },
+    {
+      "id": "",
+      "name": "Coleman Wong"
+    },
+    {
+      "id": "",
+      "name": "Dane Sweeny"
+    },
+    {
+      "id": "",
+      "name": "Daniel Masur"
+    },
+    {
+      "id": "",
+      "name": "Dong Geon Kim"
+    },
+    {
+      "id": "",
+      "name": "Dong Ju Kim"
+    },
+    {
+      "id": "",
+      "name": "Duckhee Lee"
+    },
+    {
+      "id": "",
+      "name": "Hikaru Shiraishi"
+    },
+    {
+      "id": "",
+      "name": "Ilia Simakin"
+    },
+    {
+      "id": "",
+      "name": "Ilya Ivashka"
+    },
+    {
+      "id": "",
+      "name": "Jake Delaney"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "James Trotter"
+    },
+    {
+      "id": "",
+      "name": "JiSung Nam"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Ku Keon Kang"
+    },
+    {
+      "id": "",
+      "name": "Leandro Riedi"
+    },
+    {
+      "id": "",
+      "name": "Liam Broady"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Matisse Bobichon"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Pawit Sornlaksup"
+    },
+    {
+      "id": "",
+      "name": "Renta Tokuda"
+    },
+    {
+      "id": "",
+      "name": "Rio Noguchi"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Soonwoo Kwon"
+    },
+    {
+      "id": "",
+      "name": "Suk Ann"
+    },
+    {
+      "id": "",
+      "name": "Sungbeen Sim"
+    },
+    {
+      "id": "",
+      "name": "Takuya Kumasaka"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Tomohiro Masabayashi"
+    },
+    {
+      "id": "",
+      "name": "Tung-Lin Wu"
+    },
+    {
+      "id": "",
+      "name": "Uisung Park"
+    },
+    {
+      "id": "",
+      "name": "Woobin Shin"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yi Zhou"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    },
+    {
+      "id": "",
+      "name": "Yun seong Chung"
+    },
+    {
+      "id": "",
+      "name": "Yunchaokete Bu"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/koblenz/3077/2026/results",
+  "tournament": {
+    "id": "3077",
+    "year": "2026",
+    "name": "Koblenz Tennis Open",
+    "location": "",
+    "date": "2-8 Feb, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/koblenz/3077/2026/results",
+    "drawsUrl": "/en/scores/archive/koblenz/3077/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/koblenz/3077/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "2 - 8 February, 2026",
+    "tournamentStartDate": "2026-02-02",
+    "tournamentEndDate": "2026-02-08",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-02-02",
+    "endDate": "2026-02-08"
+  },
+  "count": 50,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/Alt)"
+    },
+    {
+      "id": "",
+      "name": "Adrian Oetzbach"
+    },
+    {
+      "id": "",
+      "name": "Alberto Barroso Campos"
+    },
+    {
+      "id": "",
+      "name": "Alec Deckers"
+    },
+    {
+      "id": "",
+      "name": "Buvaysar Gadamauri"
+    },
+    {
+      "id": "",
+      "name": "Carlos Sanchez Jover"
+    },
+    {
+      "id": "",
+      "name": "Christoph Negritu"
+    },
+    {
+      "id": "",
+      "name": "Dan Added"
+    },
+    {
+      "id": "",
+      "name": "Daniel Masur"
+    },
+    {
+      "id": "",
+      "name": "David Eichenseher"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Felix Einig"
+    },
+    {
+      "id": "",
+      "name": "Florian Broska"
+    },
+    {
+      "id": "",
+      "name": "Henri Squire"
+    },
+    {
+      "id": "",
+      "name": "Johan Nikles"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "John Sperle"
+    },
+    {
+      "id": "",
+      "name": "Jonas Forejtek"
+    },
+    {
+      "id": "",
+      "name": "Jonathan Dazert"
+    },
+    {
+      "id": "",
+      "name": "Kai Wehnelt"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Kenny De Schepper"
+    },
+    {
+      "id": "",
+      "name": "Liam Gavrielides"
+    },
+    {
+      "id": "",
+      "name": "Loann Massard"
+    },
+    {
+      "id": "",
+      "name": "Louis Wessels"
+    },
+    {
+      "id": "",
+      "name": "Mae Malige"
+    },
+    {
+      "id": "",
+      "name": "Maik Steiner"
+    },
+    {
+      "id": "",
+      "name": "Martin Krumich"
+    },
+    {
+      "id": "",
+      "name": "Marvin Moeller"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Matthew William Donald"
+    },
+    {
+      "id": "",
+      "name": "Matyas Cerny"
+    },
+    {
+      "id": "",
+      "name": "Max Hans Rehberg"
+    },
+    {
+      "id": "",
+      "name": "Max Schoenhaus"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Michael Geerts"
+    },
+    {
+      "id": "",
+      "name": "Mika Petkovic"
+    },
+    {
+      "id": "",
+      "name": "Niels McDonald"
+    },
+    {
+      "id": "",
+      "name": "Niklas Schell"
+    },
+    {
+      "id": "",
+      "name": "Oskari Paldanius"
+    },
+    {
+      "id": "",
+      "name": "Patrick Zahraj"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Robin Catry"
+    },
+    {
+      "id": "",
+      "name": "Rudolf Molleker"
+    },
+    {
+      "id": "",
+      "name": "Tibo Colson"
+    },
+    {
+      "id": "",
+      "name": "Tim Handel"
+    },
+    {
+      "id": "",
+      "name": "Tom Gentzsch"
+    },
+    {
+      "id": "",
+      "name": "Vadym Ursu"
+    },
+    {
+      "id": "",
+      "name": "Yannik Kelm"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}

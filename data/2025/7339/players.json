@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/fairfield/7339/2025/results",
+  "tournament": {
+    "id": "7339",
+    "year": "2025",
+    "name": "Fairfield",
+    "location": "",
+    "date": "6-12 Oct, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/fairfield/7339/2025/results",
+    "drawsUrl": "/en/scores/archive/fairfield/7339/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/fairfield/7339/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "6 - 12 October, 2025",
+    "tournamentStartDate": "2025-10-06",
+    "tournamentEndDate": "2025-10-12",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-10-06",
+    "endDate": "2025-10-12"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(11/AL)"
+    },
+    {
+      "id": "",
+      "name": "Abdullah Shelbayh"
+    },
+    {
+      "id": "",
+      "name": "Alex Chang"
+    },
+    {
+      "id": "",
+      "name": "Andre Ilagan"
+    },
+    {
+      "id": "",
+      "name": "Andrew Fenty"
+    },
+    {
+      "id": "",
+      "name": "Arda Azkara"
+    },
+    {
+      "id": "",
+      "name": "Aryan Shah"
+    },
+    {
+      "id": "",
+      "name": "Axel Nefve"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Hassan"
+    },
+    {
+      "id": "",
+      "name": "Bor Artnak"
+    },
+    {
+      "id": "",
+      "name": "Cannon Kingsley"
+    },
+    {
+      "id": "",
+      "name": "Daniel Milavsky"
+    },
+    {
+      "id": "",
+      "name": "Darian King"
+    },
+    {
+      "id": "",
+      "name": "Dmitry Popko"
+    },
+    {
+      "id": "",
+      "name": "Dominique Rolland"
+    },
+    {
+      "id": "",
+      "name": "Edward Winter"
+    },
+    {
+      "id": "",
+      "name": "Emon Van Loben Sels"
+    },
+    {
+      "id": "",
+      "name": "Evan Bynoe"
+    },
+    {
+      "id": "",
+      "name": "Fryderyk Lechno-Wasiutynski"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Gus Grumet"
+    },
+    {
+      "id": "",
+      "name": "Jacob Brumm"
+    },
+    {
+      "id": "",
+      "name": "Jay Friend"
+    },
+    {
+      "id": "",
+      "name": "Justin Boulais"
+    },
+    {
+      "id": "",
+      "name": "Kaylan Bigun"
+    },
+    {
+      "id": "",
+      "name": "Kenta Miyoshi"
+    },
+    {
+      "id": "",
+      "name": "Kody Pearson"
+    },
+    {
+      "id": "",
+      "name": "Marek Gengel"
+    },
+    {
+      "id": "",
+      "name": "Mats Rosenkranz"
+    },
+    {
+      "id": "",
+      "name": "Matt Kuhar"
+    },
+    {
+      "id": "",
+      "name": "Max Wiskandt"
+    },
+    {
+      "id": "",
+      "name": "Maxwell Mckennon"
+    },
+    {
+      "id": "",
+      "name": "Micah Braswell"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Moerani Bouzige"
+    },
+    {
+      "id": "",
+      "name": "Nicholas Godsick"
+    },
+    {
+      "id": "",
+      "name": "Oliver Tarvet"
+    },
+    {
+      "id": "",
+      "name": "Olle Wallin"
+    },
+    {
+      "id": "",
+      "name": "Ozan Baris"
+    },
+    {
+      "id": "",
+      "name": "Philip Sekulic"
+    },
+    {
+      "id": "",
+      "name": "Quinn Vandecasteele"
+    },
+    {
+      "id": "",
+      "name": "Ramkumar Ramanathan"
+    },
+    {
+      "id": "",
+      "name": "Roger Pascual Ferra"
+    },
+    {
+      "id": "",
+      "name": "Spencer Johnson"
+    },
+    {
+      "id": "",
+      "name": "Strong Kirchheimer"
+    },
+    {
+      "id": "",
+      "name": "Tibo Colson"
+    },
+    {
+      "id": "",
+      "name": "Tristan McCormick"
+    },
+    {
+      "id": "",
+      "name": "Tyler Zink"
+    },
+    {
+      "id": "",
+      "name": "Zachary Fuchs"
+    }
+  ]
+}

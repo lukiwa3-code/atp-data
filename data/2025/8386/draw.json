@@ -1,0 +1,820 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/matsuyama/8386/2025/draws",
+  "tournament": {
+    "id": "8386",
+    "year": "2025",
+    "name": "Matsuyama",
+    "location": "",
+    "date": "3-9 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/matsuyama/8386/2025/results",
+    "drawsUrl": "/en/scores/archive/matsuyama/8386/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/matsuyama/8386/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "3 - 9 November, 2025",
+    "tournamentStartDate": "2025-11-03",
+    "tournamentEndDate": "2025-11-09",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-03",
+    "endDate": "2025-11-09"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "H. Rocha",
+          "player1FullName": "Henrique Rocha",
+          "player1Id": "R0GO",
+          "player1Country": "POR",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "6"
+          ],
+          "player2": "S. Shimabukuro",
+          "player2FullName": "Sho Shimabukuro",
+          "player2Id": "SY67",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "2"
+          ],
+          "winnerName": "Henrique Rocha",
+          "formattedScore": "7-5 3-6 6-2"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "H. Rocha",
+          "player1FullName": "Henrique Rocha",
+          "player1Id": "R0GO",
+          "player1Country": "POR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "F. Ferreira Silva",
+          "player2FullName": "Frederico Ferreira Silva",
+          "player2Id": "SN54",
+          "player2Country": "POR",
+          "player2ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "winnerName": "Henrique Rocha",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "R. Peniston",
+          "player1FullName": "Ryan Peniston",
+          "player1Id": "PH78",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
+          "player2": "S. Shimabukuro",
+          "player2FullName": "Sho Shimabukuro",
+          "player2Id": "SY67",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Sho Shimabukuro",
+          "formattedScore": "6-3 6-2"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "H. Rocha",
+          "player1FullName": "Henrique Rocha",
+          "player1Id": "R0GO",
+          "player1Country": "POR",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "6"
+          ],
+          "player2": "R. Noguchi",
+          "player2FullName": "Rio Noguchi",
+          "player2Id": "N09U",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "3"
+          ],
+          "winnerName": "Henrique Rocha",
+          "formattedScore": "7-5 4-6 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "O. Crawford",
+          "player1FullName": "Oliver Crawford",
+          "player1Id": "C0AK",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "5"
+          ],
+          "player2": "F. Ferreira Silva",
+          "player2FullName": "Frederico Ferreira Silva",
+          "player2Id": "SN54",
+          "player2Country": "POR",
+          "player2ScoreTokens": [
+            "6 3",
+            "6",
+            "7"
+          ],
+          "winnerName": "Frederico Ferreira Silva",
+          "formattedScore": "6-7(3) 6-4 7-5"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "D. Ajdukovic",
+          "player1FullName": "Duje Ajdukovic",
+          "player1Id": "A0CJ",
+          "player1Country": "CRO",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "2"
+          ],
+          "player2": "R. Peniston",
+          "player2FullName": "Ryan Peniston",
+          "player2Id": "PH78",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "7",
+            "3",
+            "6"
+          ],
+          "winnerName": "Ryan Peniston",
+          "formattedScore": "7-5 3-6 6-2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "S. Shimabukuro",
+          "player1FullName": "Sho Shimabukuro",
+          "player1Id": "SY67",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "player2": "H. Grenier",
+          "player2FullName": "Hugo Grenier",
+          "player2Id": "GF95",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "2"
+          ],
+          "winnerName": "Sho Shimabukuro",
+          "formattedScore": "4-6 6-3 6-2"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "H. Rocha",
+          "player1FullName": "Henrique Rocha",
+          "player1Id": "R0GO",
+          "player1Country": "POR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "R. Tokuda",
+          "player2FullName": "Renta Tokuda",
+          "player2Id": "TD55",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "winnerName": "Henrique Rocha",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "P. Sekulic",
+          "player1FullName": "Philip Sekulic",
+          "player1Id": "S0TI",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "2",
+            "6 5"
+          ],
+          "player2": "R. Noguchi",
+          "player2FullName": "Rio Noguchi",
+          "player2Id": "N09U",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Rio Noguchi",
+          "formattedScore": "6-2 7-6(5)"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "O. Crawford",
+          "player1FullName": "Oliver Crawford",
+          "player1Id": "C0AK",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "M. Huesler",
+          "player2FullName": "Marc Andrea Huesler",
+          "player2Id": "HH06",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "6 6",
+            "4"
+          ],
+          "winnerName": "Oliver Crawford",
+          "formattedScore": "7-6(6) 6-4"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "M. Basing",
+          "player1FullName": "Max Basing",
+          "player1Id": "B0JE",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "player2": "F. Ferreira Silva",
+          "player2FullName": "Frederico Ferreira Silva",
+          "player2Id": "SN54",
+          "player2Country": "POR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Frederico Ferreira Silva",
+          "formattedScore": "6-1 6-3"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "D. Ajdukovic",
+          "player1FullName": "Duje Ajdukovic",
+          "player1Id": "A0CJ",
+          "player1Country": "CRO",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "player2": "K. Matsuda",
+          "player2FullName": "Koki Matsuda",
+          "player2Id": "M0SB",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "3"
+          ],
+          "winnerName": "Duje Ajdukovic",
+          "formattedScore": "6-4 3-6 6-3"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "S. Nakagawa",
+          "player1FullName": "Shunsuke Nakagawa",
+          "player1Id": "N0CT",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "2",
+            "7",
+            "3"
+          ],
+          "player2": "R. Peniston",
+          "player2FullName": "Ryan Peniston",
+          "player2Id": "PH78",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6 5",
+            "6"
+          ],
+          "winnerName": "Ryan Peniston",
+          "formattedScore": "6-2 6-7(5) 6-3"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "S. Shimabukuro",
+          "player1FullName": "Sho Shimabukuro",
+          "player1Id": "SY67",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "G. Johns",
+          "player2FullName": "Garrett Johns",
+          "player2Id": "J0B5",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "winnerName": "Sho Shimabukuro",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "Y. Uchiyama",
+          "player1FullName": "Yasutaka Uchiyama",
+          "player1Id": "U134",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "1"
+          ],
+          "player2": "H. Grenier",
+          "player2FullName": "Hugo Grenier",
+          "player2Id": "GF95",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6 8",
+            "6",
+            "6"
+          ],
+          "winnerName": "Hugo Grenier",
+          "formattedScore": "6-7(8) 6-3 6-1"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Rocha",
+          "player1FullName": "Henrique Rocha",
+          "player1Id": "R0GO",
+          "player1Country": "POR",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "6"
+          ],
+          "player2": "K. Isomura",
+          "player2FullName": "Kokoro Isomura",
+          "player2Id": "I0AX",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "4",
+            "1"
+          ],
+          "winnerName": "Henrique Rocha",
+          "formattedScore": "5-7 6-4 6-1"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Bouzige",
+          "player1FullName": "Moerani Bouzige",
+          "player1Id": "B0EK",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "2"
+          ],
+          "player2": "R. Tokuda",
+          "player2FullName": "Renta Tokuda",
+          "player2Id": "TD55",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "3"
+          ],
+          "winnerName": "Renta Tokuda",
+          "formattedScore": "3"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Sekulic",
+          "player1FullName": "Philip Sekulic",
+          "player1Id": "S0TI",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "H. Chung",
+          "player2FullName": "Hyeon Chung",
+          "player2Id": "CH27",
+          "player2Country": "KOR",
+          "player2ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "winnerName": "Philip Sekulic",
+          "formattedScore": "6-4 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Y. Takahashi",
+          "player1FullName": "Yusuke Takahashi",
+          "player1Id": "TF58",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "player2": "R. Noguchi",
+          "player2FullName": "Rio Noguchi",
+          "player2Id": "N09U",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Rio Noguchi",
+          "formattedScore": "7-5 6-4"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "O. Crawford",
+          "player1FullName": "Oliver Crawford",
+          "player1Id": "C0AK",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "7",
+            "1",
+            "7"
+          ],
+          "player2": "H. Barton",
+          "player2FullName": "Hynek Barton",
+          "player2Id": "B0OU",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "6 7",
+            "6",
+            "6 3"
+          ],
+          "winnerName": "Oliver Crawford",
+          "formattedScore": "7-6(7) 1-6 7-6(3)"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Huesler",
+          "player1FullName": "Marc Andrea Huesler",
+          "player1Id": "HH06",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "S. Katayama",
+          "player2FullName": "Sho Katayama",
+          "player2Id": "K907",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "6 6"
+          ],
+          "winnerName": "Marc Andrea Huesler",
+          "formattedScore": "6-4 7-6(6)"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Basing",
+          "player1FullName": "Max Basing",
+          "player1Id": "B0JE",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "6"
+          ],
+          "player2": "R. Matsuda",
+          "player2FullName": "Ryuki Matsuda",
+          "player2Id": "M0G0",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "2"
+          ],
+          "winnerName": "Max Basing",
+          "formattedScore": "6-3 1-6 6-2"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "Y. Kusuhara",
+          "player1FullName": "Yusuke Kusuhara",
+          "player1Id": "K0ES",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6 4",
+            "7",
+            "3"
+          ],
+          "player2": "F. Ferreira Silva",
+          "player2FullName": "Frederico Ferreira Silva",
+          "player2Id": "SN54",
+          "player2Country": "POR",
+          "player2ScoreTokens": [
+            "7",
+            "6 3",
+            "6"
+          ],
+          "winnerName": "Frederico Ferreira Silva",
+          "formattedScore": "7-6(4) 6-7(3) 6-3"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Kuzmanov",
+          "player1FullName": "Dimitar Kuzmanov",
+          "player1Id": "KC33",
+          "player1Country": "BUL",
+          "player1ScoreTokens": [
+            "1",
+            "3"
+          ],
+          "player2": "D. Ajdukovic",
+          "player2FullName": "Duje Ajdukovic",
+          "player2Id": "A0CJ",
+          "player2Country": "CRO",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Duje Ajdukovic",
+          "formattedScore": "6-1 6-3"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Matsuda",
+          "player1FullName": "Koki Matsuda",
+          "player1Id": "M0SB",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "player2": "A. Shelbayh",
+          "player2FullName": "Abdullah Shelbayh",
+          "player2Id": "S0NV",
+          "player2Country": "JOR",
+          "player2ScoreTokens": [
+            "6 4",
+            "2"
+          ],
+          "winnerName": "Koki Matsuda",
+          "formattedScore": "7-6(4) 6-2"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Shin",
+          "player1FullName": "Sanhui Shin",
+          "player1Id": "S09P",
+          "player1Country": "KOR",
+          "player1ScoreTokens": [
+            "6",
+            "5",
+            "3"
+          ],
+          "player2": "S. Nakagawa",
+          "player2FullName": "Shunsuke Nakagawa",
+          "player2Id": "N0CT",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "2",
+            "7",
+            "6"
+          ],
+          "winnerName": "Shunsuke Nakagawa",
+          "formattedScore": "2-6 7-5 6-3"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "T. Kumasaka",
+          "player1FullName": "Takuya Kumasaka",
+          "player1Id": "K0DE",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "0",
+            "1"
+          ],
+          "player2": "R. Peniston",
+          "player2FullName": "Ryan Peniston",
+          "player2Id": "PH78",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Ryan Peniston",
+          "formattedScore": "6-0 6-1"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Shimabukuro",
+          "player1FullName": "Sho Shimabukuro",
+          "player1Id": "SY67",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "Y. Mochizuki",
+          "player2FullName": "Yuki Mochizuki",
+          "player2Id": "M0B2",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "winnerName": "Sho Shimabukuro",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Jones",
+          "player1FullName": "Maximus Jones",
+          "player1Id": "J0D2",
+          "player1Country": "THA",
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "1"
+          ],
+          "player2": "G. Johns",
+          "player2FullName": "Garrett Johns",
+          "player2Id": "J0B5",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
+          "winnerName": "Garrett Johns",
+          "formattedScore": "6-4 4-6 6-1"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Bigun",
+          "player1FullName": "Kaylan Bigun",
+          "player1Id": "B0PW",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "Y. Uchiyama",
+          "player2FullName": "Yasutaka Uchiyama",
+          "player2Id": "U134",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Yasutaka Uchiyama",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Shiraishi",
+          "player1FullName": "Hikaru Shiraishi",
+          "player1Id": "S0C2",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "player2": "H. Grenier",
+          "player2FullName": "Hugo Grenier",
+          "player2Id": "GF95",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Hugo Grenier",
+          "formattedScore": "6-4 6-4"
+        }
+      ]
+    }
+  ]
+}

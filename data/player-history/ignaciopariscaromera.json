@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "ignaciopariscaromera",
+    "name": "Ignacio Parisca Romera",
+    "displayName": "Ignacio Parisca Romera",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "2823",
+      "tournamentYear": "2025",
+      "tournamentName": "Valencia",
+      "tournamentType": "CH",
+      "tournamentDate": "6-12 Oct, 2025",
+      "tournamentStartDate": "2025-10-06",
+      "tournamentEndDate": "2025-10-12",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 7-5",
+      "matchId": "RES-A170506FF0",
+      "reason": null,
+      "playerName": "Ignacio Parisca Romera",
+      "opponentName": "Miguel Damas",
+      "opponentKey": "migueldamas",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

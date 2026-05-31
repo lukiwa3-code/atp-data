@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/kobe/7397/2025/results",
+  "tournament": {
+    "id": "7397",
+    "year": "2025",
+    "name": "Kobe",
+    "location": "",
+    "date": "10-16 Nov, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/kobe/7397/2025/results",
+    "drawsUrl": "/en/scores/archive/kobe/7397/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/kobe/7397/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "10 - 16 November, 2025",
+    "tournamentStartDate": "2025-11-10",
+    "tournamentEndDate": "2025-11-16",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-11-10",
+    "endDate": "2025-11-16"
+  },
+  "count": 48,
+  "players": [
+    {
+      "id": "",
+      "name": "Akira Santillan"
+    },
+    {
+      "id": "",
+      "name": "Chun-Hsin Tseng"
+    },
+    {
+      "id": "",
+      "name": "Dimitar Kuzmanov"
+    },
+    {
+      "id": "",
+      "name": "Duckhee Lee"
+    },
+    {
+      "id": "",
+      "name": "Duje Ajdukovic"
+    },
+    {
+      "id": "",
+      "name": "Eito Komada"
+    },
+    {
+      "id": "",
+      "name": "Frederico Ferreira Silva"
+    },
+    {
+      "id": "",
+      "name": "Garrett Johns"
+    },
+    {
+      "id": "",
+      "name": "Hikaru Shiraishi"
+    },
+    {
+      "id": "",
+      "name": "Hugo Grenier"
+    },
+    {
+      "id": "",
+      "name": "Hyeon Chung"
+    },
+    {
+      "id": "",
+      "name": "Hynek Barton"
+    },
+    {
+      "id": "",
+      "name": "Igor Marcondes"
+    },
+    {
+      "id": "",
+      "name": "Jason Jung"
+    },
+    {
+      "id": "",
+      "name": "JiSung Nam"
+    },
+    {
+      "id": "",
+      "name": "Kaichi Uchida"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Kaylan Bigun"
+    },
+    {
+      "id": "",
+      "name": "Koki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Kokoro Isomura"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Masamichi Imamura"
+    },
+    {
+      "id": "",
+      "name": "Max Basing"
+    },
+    {
+      "id": "",
+      "name": "Maxim Zhukov"
+    },
+    {
+      "id": "",
+      "name": "Maximus Jones"
+    },
+    {
+      "id": "",
+      "name": "Michael Vrbensky"
+    },
+    {
+      "id": "",
+      "name": "Mitsuki Wei Kang Leong"
+    },
+    {
+      "id": "",
+      "name": "Nathan Trouve"
+    },
+    {
+      "id": "",
+      "name": "Neil Oberleitner"
+    },
+    {
+      "id": "",
+      "name": "Oliver Crawford"
+    },
+    {
+      "id": "",
+      "name": "Rei Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Renta Tokuda"
+    },
+    {
+      "id": "",
+      "name": "Ryo Tabata"
+    },
+    {
+      "id": "",
+      "name": "Ryotaro Taguchi"
+    },
+    {
+      "id": "",
+      "name": "Ryuki Matsuda"
+    },
+    {
+      "id": "",
+      "name": "Sanhui Shin"
+    },
+    {
+      "id": "",
+      "name": "Shinji Hazawa"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Taisei Ichikawa"
+    },
+    {
+      "id": "",
+      "name": "Tsung-Hao Huang"
+    },
+    {
+      "id": "",
+      "name": "Yasutaka Uchiyama"
+    },
+    {
+      "id": "",
+      "name": "Yoshihito Nishioka"
+    },
+    {
+      "id": "",
+      "name": "Yosuke Watanuki"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    },
+    {
+      "id": "",
+      "name": "Yuki Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Yusuke Kusuhara"
+    },
+    {
+      "id": "",
+      "name": "Yusuke Takahashi"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    }
+  ]
+}

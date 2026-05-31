@@ -1,0 +1,220 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/guangzhou/2937/2025/results",
+  "tournament": {
+    "id": "2937",
+    "year": "2025",
+    "name": "Guangzhou (Huangpu)",
+    "location": "",
+    "date": "8-14 Sep, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/guangzhou/2937/2025/results",
+    "drawsUrl": "/en/scores/archive/guangzhou/2937/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/guangzhou/2937/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "8 - 14 September, 2025",
+    "tournamentStartDate": "2025-09-08",
+    "tournamentEndDate": "2025-09-14",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-09-08",
+    "endDate": "2025-09-14"
+  },
+  "count": 45,
+  "players": [
+    {
+      "id": "",
+      "name": "Alejandro Tabilo"
+    },
+    {
+      "id": "",
+      "name": "Alexander Binda"
+    },
+    {
+      "id": "",
+      "name": "Aoran Wang"
+    },
+    {
+      "id": "",
+      "name": "Arthur Gea"
+    },
+    {
+      "id": "",
+      "name": "Billy Harris"
+    },
+    {
+      "id": "",
+      "name": "Charles Chen"
+    },
+    {
+      "id": "",
+      "name": "Christopher Eubanks"
+    },
+    {
+      "id": "",
+      "name": "Christopher O'Connell"
+    },
+    {
+      "id": "",
+      "name": "Daniel Evans"
+    },
+    {
+      "id": "",
+      "name": "Duan Hao"
+    },
+    {
+      "id": "",
+      "name": "Evan Zhu"
+    },
+    {
+      "id": "",
+      "name": "Gauthier Onclin"
+    },
+    {
+      "id": "",
+      "name": "Giulio Zeppieri"
+    },
+    {
+      "id": "",
+      "name": "Hanyi Liu"
+    },
+    {
+      "id": "",
+      "name": "Ilia Simakin"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Kaito Uesugi"
+    },
+    {
+      "id": "",
+      "name": "Kasidit Samrej"
+    },
+    {
+      "id": "",
+      "name": "Linang Xiao"
+    },
+    {
+      "id": "",
+      "name": "Linghao Zhang"
+    },
+    {
+      "id": "",
+      "name": "Luca Castelnuovo"
+    },
+    {
+      "id": "",
+      "name": "Marat Sharipov"
+    },
+    {
+      "id": "",
+      "name": "Nikoloz Basilashvili"
+    },
+    {
+      "id": "",
+      "name": "Nishesh Basavareddy"
+    },
+    {
+      "id": "",
+      "name": "Oliver Crawford"
+    },
+    {
+      "id": "",
+      "name": "Omar Jasika"
+    },
+    {
+      "id": "",
+      "name": "Pavel Kotov"
+    },
+    {
+      "id": "",
+      "name": "Petr Bar Biryukov"
+    },
+    {
+      "id": "",
+      "name": "Qian Sun"
+    },
+    {
+      "id": "",
+      "name": "Ramkumar Ramanathan"
+    },
+    {
+      "id": "",
+      "name": "Rigele Te"
+    },
+    {
+      "id": "",
+      "name": "Seita Watanabe"
+    },
+    {
+      "id": "",
+      "name": "Siddhant Banthia"
+    },
+    {
+      "id": "",
+      "name": "Taro Daniel"
+    },
+    {
+      "id": "",
+      "name": "Tianhui Zhang"
+    },
+    {
+      "id": "",
+      "name": "Tomohiro Masabayashi"
+    },
+    {
+      "id": "",
+      "name": "Wishaya Trongcharoenchaikul"
+    },
+    {
+      "id": "",
+      "name": "Xing Dao Chen"
+    },
+    {
+      "id": "",
+      "name": "Yaojie Zeng"
+    },
+    {
+      "id": "",
+      "name": "Ye Cong Mo"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
+    },
+    {
+      "id": "",
+      "name": "Yuichiro Inui"
+    },
+    {
+      "id": "",
+      "name": "Yuta Kikuchi"
+    },
+    {
+      "id": "",
+      "name": "Yuta Shimizu"
+    }
+  ]
+}

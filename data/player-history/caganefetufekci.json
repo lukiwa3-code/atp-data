@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "caganefetufekci",
+    "name": "Cagan Efe Tufekci",
+    "displayName": "Cagan Efe Tufekci",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 01 September, 2025",
+      "dateIso": "2025-09-01",
+      "tournamentId": "7083",
+      "tournamentYear": "2025",
+      "tournamentName": "Istanbul",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Sep, 2025",
+      "tournamentStartDate": "2025-09-01",
+      "tournamentEndDate": "2025-09-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-2",
+      "matchId": "RES-0FA01C7448",
+      "reason": null,
+      "playerName": "Cagan Efe Tufekci",
+      "opponentName": "Ivan Nedelko",
+      "opponentKey": "ivannedelko",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 904,
+      "rankingDate": "2025-09-01",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

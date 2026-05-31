@@ -1,0 +1,228 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/itajai/3053/2026/results",
+  "tournament": {
+    "id": "3053",
+    "year": "2026",
+    "name": "Itajai Open",
+    "location": "",
+    "date": "19-25 Jan, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/itajai/3053/2026/results",
+    "drawsUrl": "/en/scores/archive/itajai/3053/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/itajai/3053/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "19 - 25 January, 2026",
+    "tournamentStartDate": "2026-01-19",
+    "tournamentEndDate": "2026-01-25",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-01-19",
+    "endDate": "2026-01-25"
+  },
+  "count": 47,
+  "players": [
+    {
+      "id": "",
+      "name": "Adolfo Daniel Vallejo"
+    },
+    {
+      "id": "",
+      "name": "Adrian Boitan"
+    },
+    {
+      "id": "",
+      "name": "Alex Barrena"
+    },
+    {
+      "id": "",
+      "name": "Alvaro Guillen Meza"
+    },
+    {
+      "id": "",
+      "name": "Andrea Collarini"
+    },
+    {
+      "id": "",
+      "name": "Arklon Huertas Del Pino Cordova"
+    },
+    {
+      "id": "",
+      "name": "Boris Arias"
+    },
+    {
+      "id": "",
+      "name": "Brandon Perez"
+    },
+    {
+      "id": "",
+      "name": "Bruno Kuzuhara"
+    },
+    {
+      "id": "",
+      "name": "Carlos Eduardo Lino"
+    },
+    {
+      "id": "",
+      "name": "Daniel Dutra da Silva"
+    },
+    {
+      "id": "",
+      "name": "Eduardo Ribeiro"
+    },
+    {
+      "id": "",
+      "name": "Enzo Camargo Lima"
+    },
+    {
+      "id": "",
+      "name": "Federico Zeballos"
+    },
+    {
+      "id": "",
+      "name": "Felipe Meligeni Alves"
+    },
+    {
+      "id": "",
+      "name": "Franco Agamenone"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Schenekenberg"
+    },
+    {
+      "id": "",
+      "name": "Genaro Alberto Olivieri"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Bueno"
+    },
+    {
+      "id": "",
+      "name": "Gonzalo Villanueva"
+    },
+    {
+      "id": "",
+      "name": "Guido Ivan Justo"
+    },
+    {
+      "id": "",
+      "name": "Gustavo Albieri"
+    },
+    {
+      "id": "",
+      "name": "Hugo Dellien"
+    },
+    {
+      "id": "",
+      "name": "Igor Marcondes"
+    },
+    {
+      "id": "",
+      "name": "Joao Eduardo Schiessl"
+    },
+    {
+      "id": "",
+      "name": "Joao Lucas Reis Da Silva"
+    },
+    {
+      "id": "",
+      "name": "Juan Bautista Torres"
+    },
+    {
+      "id": "",
+      "name": "Juan Estevez"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel La Serna"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Varillas"
+    },
+    {
+      "id": "",
+      "name": "Kaue Noatto"
+    },
+    {
+      "id": "",
+      "name": "Lautaro Midon"
+    },
+    {
+      "id": "",
+      "name": "Lucio Ratti"
+    },
+    {
+      "id": "",
+      "name": "Marco Cecchinato"
+    },
+    {
+      "id": "",
+      "name": "Mateus Alves"
+    },
+    {
+      "id": "",
+      "name": "Matheus Pucinelli De Almeida"
+    },
+    {
+      "id": "",
+      "name": "Murkel Dellien"
+    },
+    {
+      "id": "",
+      "name": "Natan Rodrigues"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Kicker"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Zanellato"
+    },
+    {
+      "id": "",
+      "name": "Nikolas Sanchez Izquierdo"
+    },
+    {
+      "id": "",
+      "name": "Pedro Boscardin Dias"
+    },
+    {
+      "id": "",
+      "name": "Ryan Augusto Dos Santos"
+    },
+    {
+      "id": "",
+      "name": "Stefan Palosi"
+    },
+    {
+      "id": "",
+      "name": "Thiago Monteiro"
+    },
+    {
+      "id": "",
+      "name": "Thiago Seyboth Wild"
+    },
+    {
+      "id": "",
+      "name": "Tsz Fu Wong"
+    }
+  ]
+}

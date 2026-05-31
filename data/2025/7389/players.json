@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/bogota/7389/2025/results",
+  "tournament": {
+    "id": "7389",
+    "year": "2025",
+    "name": "Bogota",
+    "location": "",
+    "date": "12-17 May, 2025",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/bogota/7389/2025/results",
+    "drawsUrl": "/en/scores/archive/bogota/7389/2025/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/bogota/7389/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "12 - 17 May, 2025",
+    "tournamentStartDate": "2025-05-12",
+    "tournamentEndDate": "2025-05-17",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2025-05-12",
+    "endDate": "2025-05-17"
+  },
+  "count": 49,
+  "players": [
+    {
+      "id": "",
+      "name": "(12/PR)"
+    },
+    {
+      "id": "",
+      "name": "Adria Soriano Barrera"
+    },
+    {
+      "id": "",
+      "name": "Alexander Klintcharov"
+    },
+    {
+      "id": "",
+      "name": "Arklon Huertas Del Pino Cordova"
+    },
+    {
+      "id": "",
+      "name": "Bautista Vilicich"
+    },
+    {
+      "id": "",
+      "name": "Bruno Kuzuhara"
+    },
+    {
+      "id": "",
+      "name": "Daniel Antonio Nunez"
+    },
+    {
+      "id": "",
+      "name": "Daniel Milavsky"
+    },
+    {
+      "id": "",
+      "name": "Elmar Ejupovic"
+    },
+    {
+      "id": "",
+      "name": "Franco Roncadelli"
+    },
+    {
+      "id": "",
+      "name": "Hernan Casanova"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Carou"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Monzon"
+    },
+    {
+      "id": "",
+      "name": "Igor Gimenez"
+    },
+    {
+      "id": "",
+      "name": "Johan Alexander Rodriguez"
+    },
+    {
+      "id": "",
+      "name": "Juan Esteban Trujillo Hernandez"
+    },
+    {
+      "id": "",
+      "name": "Juan Jose Neira Rodriguez"
+    },
+    {
+      "id": "",
+      "name": "Juan Sebastian Gomez"
+    },
+    {
+      "id": "",
+      "name": "Juan Sebastian Osorio"
+    },
+    {
+      "id": "",
+      "name": "Karue Sell"
+    },
+    {
+      "id": "",
+      "name": "Kiranpal Pannu"
+    },
+    {
+      "id": "",
+      "name": "Leonardo Aboian"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Joaquin Rodriguez"
+    },
+    {
+      "id": "",
+      "name": "Luciano Emanuel Ambrogi"
+    },
+    {
+      "id": "",
+      "name": "Mateo Barreiros Reyes"
+    },
+    {
+      "id": "",
+      "name": "Mateo Castañeda"
+    },
+    {
+      "id": "",
+      "name": "Mateus Alves"
+    },
+    {
+      "id": "",
+      "name": "Matias Soto"
+    },
+    {
+      "id": "",
+      "name": "Michael Alejandro Beltran Rubio"
+    },
+    {
+      "id": "",
+      "name": "Miguel Tobon"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Alvarez Varona"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Buitrago"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Mejia"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Villalon"
+    },
+    {
+      "id": "",
+      "name": "Nicolas Zanellato"
+    },
+    {
+      "id": "",
+      "name": "Pablo Robledo"
+    },
+    {
+      "id": "",
+      "name": "Patrick Kypson"
+    },
+    {
+      "id": "",
+      "name": "Pedro Boscardin Dias"
+    },
+    {
+      "id": "",
+      "name": "Pedro Rodrigues"
+    },
+    {
+      "id": "",
+      "name": "Pedro Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Peter Bertran"
+    },
+    {
+      "id": "",
+      "name": "Renzo Olivo"
+    },
+    {
+      "id": "",
+      "name": "Roberto Cid Subervi"
+    },
+    {
+      "id": "",
+      "name": "Salvador Price"
+    },
+    {
+      "id": "",
+      "name": "Samuel Alejandro Linde Palacios"
+    },
+    {
+      "id": "",
+      "name": "Samuel Heredia"
+    },
+    {
+      "id": "",
+      "name": "Tristan McCormick"
+    },
+    {
+      "id": "",
+      "name": "Victor Hugo Remondy Pagotto"
+    },
+    {
+      "id": "",
+      "name": "Zdenek Kolar"
+    }
+  ]
+}
