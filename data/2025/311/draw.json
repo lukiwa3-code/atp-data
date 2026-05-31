@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/london---queen's-club/311/2025/draws",
   "tournament": {
     "id": "311",
@@ -7,7 +7,7 @@
     "name": "HSBC Championships",
     "location": "London, Great Britain",
     "date": "16-22 Jun, 2025",
-    "month": "June, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "500",

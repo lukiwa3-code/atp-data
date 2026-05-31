@@ -4,7 +4,7 @@
   "name": "Roland Garros",
   "location": "Paris, France",
   "date": "25 May - 8 Jun, 2025",
-  "month": "May, 2026",
+  "month": "",
   "isLive": false,
   "isPastEvent": true,
   "type": "GS",

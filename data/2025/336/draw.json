@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hong-kong/336/2025/draws",
   "tournament": {
     "id": "336",
@@ -7,7 +7,7 @@
     "name": "Bank of China Hong Kong Tennis Open",
     "location": "Hong Kong, Hong Kong",
     "date": "30 Dec - 5 Jan, 2025",
-    "month": "January, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "250",
@@ -27,10 +27,10 @@
     "syntheticHistoricalFallback": true,
     "syntheticSourceYear": "2026",
     "dateSource": "results_header_or_calendar",
-    "startDate": "2025-12-30",
-    "tournamentStartDate": "2025-12-30",
-    "endDate": "2026-01-05",
-    "tournamentEndDate": "2026-01-05"
+    "startDate": "2024-12-30",
+    "tournamentStartDate": "2024-12-30",
+    "endDate": "2025-01-05",
+    "tournamentEndDate": "2025-01-05"
   },
   "countRounds": 5,
   "countMatches": 31,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/us-open/560/2025/draws",
   "tournament": {
     "id": "560",
@@ -7,7 +7,7 @@
     "name": "US Open",
     "location": "New York, United States",
     "date": "24 Aug - 7 Sep, 2025",
-    "month": "August, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "GS",

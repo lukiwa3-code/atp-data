@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/winston-salem/6242/2025/results",
   "tournament": {
     "id": "6242",
@@ -7,7 +7,7 @@
     "name": "Winston-Salem Open",
     "location": "Winston-Salem, United States",
     "date": "17-23 Aug, 2025",
-    "month": "August, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "250",

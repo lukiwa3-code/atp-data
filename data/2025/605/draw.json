@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/nitto-atp-finals/605/2025/draws",
   "tournament": {
     "id": "605",
@@ -7,7 +7,7 @@
     "name": "Nitto ATP Finals",
     "location": "Turin, Italy",
     "date": "9-16 Nov, 2025",
-    "month": "November, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "WC",

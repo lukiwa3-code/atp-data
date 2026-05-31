@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/laver-cup/9210/2025/draws",
   "tournament": {
     "id": "9210",
@@ -7,7 +7,7 @@
     "name": "Laver Cup",
     "location": "London, Great Britain",
     "date": "19-21 Sep, 2025",
-    "month": "September, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "LVR",

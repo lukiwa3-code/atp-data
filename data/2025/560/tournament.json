@@ -4,7 +4,7 @@
   "name": "US Open",
   "location": "New York, United States",
   "date": "24 Aug - 7 Sep, 2025",
-  "month": "August, 2026",
+  "month": "",
   "isLive": false,
   "isPastEvent": true,
   "type": "GS",

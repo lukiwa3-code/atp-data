@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -1293,8 +1293,8 @@
       "tournamentName": "Bank of China Hong Kong Tennis Open",
       "tournamentType": "250",
       "tournamentDate": "30 Dec - 5 Jan, 2025",
-      "tournamentStartDate": "2025-12-30",
-      "tournamentEndDate": "2026-01-05",
+      "tournamentStartDate": "2024-12-30",
+      "tournamentEndDate": "2025-01-05",
       "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",

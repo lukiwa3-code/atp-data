@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2025/draws",
   "tournament": {
     "id": "580",
@@ -7,7 +7,7 @@
     "name": "Australian Open",
     "location": "Melbourne, Australia",
     "date": "12-26 Jan, 2025",
-    "month": "January, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "GS",

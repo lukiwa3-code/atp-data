@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/santiago/8996/2025/draws",
   "tournament": {
     "id": "8996",
@@ -7,7 +7,7 @@
     "name": "BCI Seguros Chile Open",
     "location": "Santiago, Chile",
     "date": "24 Feb - 2 Mar, 2025",
-    "month": "February, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "250",

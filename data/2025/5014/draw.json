@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/atp-masters-1000-shanghai/5014/2025/draws",
   "tournament": {
     "id": "5014",
@@ -7,7 +7,7 @@
     "name": "Rolex Shanghai Masters",
     "location": "Shanghai, China",
     "date": "1-12 Oct, 2025",
-    "month": "October, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "1000",

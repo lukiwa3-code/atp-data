@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T14:31:39.416894+00:00",
+  "generatedAt": "2026-05-31T14:48:52.307746+00:00",
   "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2025/results",
   "tournament": {
     "id": "9900",
@@ -7,7 +7,7 @@
     "name": "United Cup",
     "location": "Perth-Sydney, Australia",
     "date": "27 Dec - 5 Jan, 2025",
-    "month": "January, 2026",
+    "month": "",
     "isLive": false,
     "isPastEvent": true,
     "type": "UC",
@@ -27,10 +27,10 @@
     "syntheticHistoricalFallback": true,
     "syntheticSourceYear": "2026",
     "dateSource": "results_header_or_calendar",
-    "startDate": "2025-12-27",
-    "tournamentStartDate": "2025-12-27",
-    "endDate": "2026-01-05",
-    "tournamentEndDate": "2026-01-05"
+    "startDate": "2024-12-27",
+    "tournamentStartDate": "2024-12-27",
+    "endDate": "2025-01-05",
+    "tournamentEndDate": "2025-01-05"
   },
   "count": 1,
   "matches": [
