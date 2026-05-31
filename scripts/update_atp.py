@@ -1277,6 +1277,114 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
     print(f"WARN no draw parsed for {tournament.get('name')}: {last_error}")
     return [], None
 
+def month_to_number(month_name: str) -> int:
+    month = normalize_space(month_name or "").lower()
+    month_map = {
+        "jan": 1, "january": 1,
+        "feb": 2, "february": 2,
+        "mar": 3, "march": 3,
+        "apr": 4, "april": 4,
+        "may": 5,
+        "jun": 6, "june": 6,
+        "jul": 7, "july": 7,
+        "aug": 8, "august": 8,
+        "sep": 9, "sept": 9, "september": 9,
+        "oct": 10, "october": 10,
+        "nov": 11, "november": 11,
+        "dec": 12, "december": 12,
+    }
+    return month_map.get(month[:3], month_map.get(month, 0))
+
+
+def parse_tournament_date_range(date_text: str, fallback_year: Optional[int] = None) -> Tuple[str, str]:
+    """Zwraca start/end turnieju z oryginalnego zakresu ATP.
+
+    To NIE jest data meczu. Używamy tego tylko do sortowania turniejów w historii.
+    """
+    text = normalize_space(date_text or "")
+    if not text:
+        return "", ""
+
+    match = re.search(
+        r"(\d{1,2})\s*([A-Za-z]+)?\s*[-–]\s*(\d{1,2})\s*([A-Za-z]+)\s*,?\s*(20\d{2})",
+        text,
+        flags=re.IGNORECASE,
+    )
+    if not match:
+        return "", ""
+
+    start_day = int(match.group(1))
+    start_month_name = match.group(2) or match.group(4)
+    end_day = int(match.group(3))
+    end_month_name = match.group(4)
+    year = int(match.group(5) or fallback_year or 0)
+
+    start_month = month_to_number(start_month_name)
+    end_month = month_to_number(end_month_name)
+
+    if not start_month or not end_month or not year:
+        return "", ""
+
+    try:
+        start_date = datetime(year, start_month, start_day).date()
+        end_date = datetime(year, end_month, end_day).date()
+
+        if end_date < start_date:
+            end_date = datetime(year + 1, end_month, end_day).date()
+
+        return start_date.isoformat(), end_date.isoformat()
+    except Exception:
+        return "", ""
+
+
+def extract_tournament_date_from_results_html(html_text: str) -> str:
+    soup = BeautifulSoup(html_text, "html.parser")
+    page_text = normalize_space(soup.get_text(" ", strip=True))
+
+    # Przykład nagłówka ATP:
+    # London, Great Britain | 30 Jun - 13 Jul, 2025
+    match = re.search(
+        r"\|\s*(\d{1,2}\s*[A-Za-z]*\s*[-–]\s*\d{1,2}\s+[A-Za-z]+,?\s*20\d{2})",
+        page_text,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        return normalize_space(match.group(1))
+
+    match = re.search(
+        r"(\d{1,2}\s*[A-Za-z]*\s*[-–]\s*\d{1,2}\s+[A-Za-z]+,?\s*20\d{2})",
+        page_text,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        return normalize_space(match.group(1))
+
+    return ""
+
+
+def update_tournament_original_date_from_results(tournament: Dict[str, Any], html_text: str) -> None:
+    date_from_page = extract_tournament_date_from_results_html(html_text)
+
+    if not date_from_page:
+        date_from_page = str(tournament.get("date") or "")
+
+    year_value = str(tournament.get("year") or "")
+    fallback_year = int(year_value) if year_value.isdigit() else None
+    start_date, end_date = parse_tournament_date_range(date_from_page, fallback_year)
+
+    if date_from_page:
+        tournament["date"] = date_from_page
+        tournament["dateSource"] = "results_header_or_calendar"
+
+    if start_date:
+        tournament["startDate"] = start_date
+        tournament["tournamentStartDate"] = start_date
+
+    if end_date:
+        tournament["endDate"] = end_date
+        tournament["tournamentEndDate"] = end_date
+
+
 def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]], Optional[str]]:
     scores_url_raw = tournament.get("scoresUrl")
     current_url = current_results_url_from_archive(scores_url_raw)
@@ -1313,6 +1421,7 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
             continue
         try:
             html_text = fetch_text(full_url, referer="https://www.atptour.com/en/tournaments")
+            update_tournament_original_date_from_results(tournament, html_text)
             players, matches = parse_results_html(html_text, tournament)
             return players, matches, full_url
         except Exception as exc:
@@ -1723,6 +1832,9 @@ def build_player_histories_from_matches(
                 "tournamentYear": tournament.get("year") or "",
                 "tournamentName": tournament.get("name") or "",
                 "tournamentType": tournament.get("type") or "",
+                "tournamentDate": tournament.get("date") or "",
+                "tournamentStartDate": tournament.get("tournamentStartDate") or tournament.get("startDate") or "",
+                "tournamentEndDate": tournament.get("tournamentEndDate") or tournament.get("endDate") or "",
                 "surface": tournament.get("surface") or "",
                 "round": match.get("round") or "",
                 "roundLong": match.get("roundLong") or "",

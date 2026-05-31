@@ -1,15 +1,15 @@
-# ATP data updater v21 - tylko oryginalne daty
+# ATP data updater v22 - oryginalne daty turniejów
 
-To jest wersja bez wyliczania dat.
+Poprawka:
+- nie zgaduje dat meczów,
+- jeśli ATP nie podaje dat przy meczach 2025, `date` i `dateIso` zostają puste,
+- skrypt czyta jednak oryginalny zakres dat turnieju z nagłówka ATP,
+  np. `30 Jun - 13 Jul, 2025`,
+- zapisuje w historii zawodnika:
+  - `tournamentDate`
+  - `tournamentStartDate`
+  - `tournamentEndDate`
 
-Zasada:
-- data meczu jest zapisywana tylko wtedy, gdy ATP poda ją w wynikach jako oryginalny nagłówek dnia,
-- skrypt nie wylicza daty po rundzie,
-- skrypt nie zgaduje daty po końcu turnieju,
-- jeśli ATP archive nie podaje dat przy meczach 2025, `date` i `dateIso` zostają puste,
-- wtedy ranking z dnia meczu też zostaje pusty, bo bez oryginalnej daty nie da się uczciwie dobrać tygodnia rankingu.
-
-Nadal działa:
-- historia 2025 + 2026,
-- rankingi z `data/rankings/singles/YYYY-MM-DD.json`,
-- ale tylko dla meczów, które mają prawdziwe `dateIso`.
+Po co:
+- aplikacja może sortować turnieje w historii po prawdziwej dacie turnieju,
+  bez udawania dat pojedynczych meczów.
