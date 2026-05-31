@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T12:05:57.252325+00:00",
+  "generatedAt": "2026-05-31T14:00:46.468468+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rio-de-janeiro/6932/2026/results",
   "tournament": {
     "id": "6932",
@@ -801,7 +801,5 @@
       "sourceText": "Game Set and Match Jaime Faria. Jaime Faria wins the match 7-6(6) 6-7(4) 6-3 .",
       "bracketOrder": 8
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-05-31T12:38:52.893751+00:00"
+  ]
 }
