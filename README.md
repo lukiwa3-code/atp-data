@@ -1,15 +1,12 @@
-# ATP data updater v22 - oryginalne daty turniejów
+# ATP data updater v23 - poprawka turniejów na granicy roku
 
-Poprawka:
-- nie zgaduje dat meczów,
-- jeśli ATP nie podaje dat przy meczach 2025, `date` i `dateIso` zostają puste,
-- skrypt czyta jednak oryginalny zakres dat turnieju z nagłówka ATP,
-  np. `30 Jun - 13 Jul, 2025`,
-- zapisuje w historii zawodnika:
-  - `tournamentDate`
-  - `tournamentStartDate`
-  - `tournamentEndDate`
+Poprawka względem v22:
+- poprawiono parsowanie zakresów typu `30 Dec - 5 Jan, 2025`,
+- wcześniej mogło wyjść błędnie:
+  `2025-12-30` → `2026-01-05`,
+- teraz wychodzi poprawnie:
+  `2024-12-30` → `2025-01-05`,
+- dzięki temu turnieje typu Bank of China Hong Kong nie wskakują na górę historii jako turnieje z 2026,
+- dla syntetycznych turniejów historycznych wyczyszczono skopiowaną datę/miesiąc z roku referencyjnego, żeby nie dziedziczyć złego roku.
 
-Po co:
-- aplikacja może sortować turnieje w historii po prawdziwej dacie turnieju,
-  bez udawania dat pojedynczych meczów.
+Nie zgadujemy dat pojedynczych meczów. Zmieniamy tylko oryginalny zakres dat turnieju używany do sortowania.

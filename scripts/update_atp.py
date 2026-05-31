@@ -1326,11 +1326,22 @@ def parse_tournament_date_range(date_text: str, fallback_year: Optional[int] = N
         return "", ""
 
     try:
-        start_date = datetime(year, start_month, start_day).date()
-        end_date = datetime(year, end_month, end_day).date()
+        # ATP zapisuje turnieje na granicy roku zwykle jako:
+        # 30 Dec - 5 Jan, 2025
+        # Rok przy końcu zakresu oznacza wtedy rok daty końcowej,
+        # więc start jest w roku poprzednim: 2024-12-30, koniec 2025-01-05.
+        start_year = year
+        end_year = year
 
+        if start_month > end_month:
+            start_year = year - 1
+
+        start_date = datetime(start_year, start_month, start_day).date()
+        end_date = datetime(end_year, end_month, end_day).date()
+
+        # Awaryjnie dla nietypowych zakresów zapisanych odwrotnie.
         if end_date < start_date:
-            end_date = datetime(year + 1, end_month, end_day).date()
+            end_date = datetime(end_year + 1, end_month, end_day).date()
 
         return start_date.isoformat(), end_date.isoformat()
     except Exception:
@@ -1998,6 +2009,8 @@ def synthesize_year_from_reference(reference_tournaments: List[Dict[str, Any]], 
 
         item = dict(tournament)
         item["year"] = str(target_year)
+        item["date"] = ""
+        item["month"] = ""
         item["isLive"] = False
         item["isPastEvent"] = True
         item["scoresUrl"] = build_archive_url(slug, event_id, target_year, "results")
