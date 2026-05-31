@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T04:38:08.427617+00:00",
+  "generatedAt": "2026-05-31T08:56:13.674083+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "A. Shevchenko",
     "playerId": "S0H2"
   },
-  "count": 8,
+  "count": 6,
   "matches": [
     {
       "date": "Sat, 11 April, 2026",
@@ -140,50 +140,6 @@
       "playerRank": null,
       "opponentRank": 175,
       "rankingDate": "2026-01-19",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "319",
-      "tournamentYear": "2025",
-      "tournamentName": "Generali Open",
-      "tournamentType": "250",
-      "surface": "Clay",
-      "round": "R16",
-      "roundLong": "Round of 16",
-      "score": "7-5 6-4",
-      "matchId": "RES-F4A96AEA66",
-      "reason": null,
-      "playerName": "Alexander Shevchenko",
-      "opponentName": "Marton Fucsovics",
-      "opponentKey": "martonfucsovics",
-      "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "319",
-      "tournamentYear": "2025",
-      "tournamentName": "Generali Open",
-      "tournamentType": "250",
-      "surface": "Clay",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "2-6 6-3 6-4",
-      "matchId": "RES-DD6552992F",
-      "reason": null,
-      "playerName": "Alexander Shevchenko",
-      "opponentName": "Daniel Elahi Galan",
-      "opponentKey": "danielelahigalan",
-      "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]
