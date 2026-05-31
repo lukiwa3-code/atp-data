@@ -1529,31 +1529,101 @@ def fetch_historical_rankings_for_week(ranking_date: str) -> Dict[str, Dict[str,
     return {}
 
 
+def normalize_ranking_players_payload(players_payload: Any) -> Dict[str, Dict[str, Any]]:
+    """Obsługuje oba formaty rankingów:
+    1) stary/nowy updater: {"players": {"janniksinner": {...}}}
+    2) osobny ranking workflow: {"players": [{"nameKey": "janniksinner", ...}, ...]}
+    """
+    normalized: Dict[str, Dict[str, Any]] = {}
+
+    if isinstance(players_payload, dict):
+        for key, value in players_payload.items():
+            if not isinstance(value, dict):
+                continue
+
+            normalized_key = (
+                str(value.get("nameKey") or "")
+                or str(value.get("displayNameKey") or "")
+                or str(value.get("key") or "")
+                or str(key or "")
+            )
+
+            if not normalized_key:
+                normalized_key = player_key(value.get("name") or value.get("displayName") or "")
+
+            if normalized_key:
+                normalized[normalized_key] = value
+
+        return normalized
+
+    if isinstance(players_payload, list):
+        for value in players_payload:
+            if not isinstance(value, dict):
+                continue
+
+            normalized_key = (
+                str(value.get("nameKey") or "")
+                or str(value.get("displayNameKey") or "")
+                or str(value.get("key") or "")
+                or player_key(value.get("name") or value.get("displayName") or "")
+            )
+
+            if normalized_key:
+                normalized[normalized_key] = {
+                    **value,
+                    "key": normalized_key,
+                }
+
+    return normalized
+
+
+def ranking_file_candidates(ranking_date: str) -> List[Path]:
+    return [
+        DATA_DIR / "rankings" / "singles" / f"{ranking_date}.json",
+        DATA_DIR / "rankings" / f"{ranking_date}.json",
+    ]
+
+
 def load_or_fetch_historical_rankings(ranking_dates: List[str], generated_at: str) -> Dict[str, Dict[str, Dict[str, Any]]]:
     rankings_by_date: Dict[str, Dict[str, Dict[str, Any]]] = {}
-    rankings_dir = DATA_DIR / "rankings"
+    rankings_dir = DATA_DIR / "rankings" / "singles"
     rankings_dir.mkdir(parents=True, exist_ok=True)
 
     unique_dates = sorted({date for date in ranking_dates if date})
 
     for ranking_date in unique_dates:
-        path = rankings_dir / f"{ranking_date}.json"
-        existing = load_existing_json(path)
+        existing_players: Dict[str, Dict[str, Any]] = {}
 
-        if isinstance(existing, dict) and isinstance(existing.get("players"), dict) and existing.get("players"):
-            rankings_by_date[ranking_date] = existing.get("players") or {}
+        # Najpierw czytamy istniejące rankingi z data/rankings/singles.
+        # To jest miejsce, gdzie masz już komplet rankingów 2025/2026.
+        for candidate_path in ranking_file_candidates(ranking_date):
+            existing = load_existing_json(candidate_path)
+
+            if not isinstance(existing, dict):
+                continue
+
+            normalized = normalize_ranking_players_payload(existing.get("players"))
+
+            if normalized:
+                existing_players = normalized
+                break
+
+        if existing_players:
+            rankings_by_date[ranking_date] = existing_players
             continue
 
+        # Jeśli pliku nie było, pobieramy ranking i zapisujemy już do data/rankings/singles.
         players = fetch_historical_rankings_for_week(ranking_date)
         rankings_by_date[ranking_date] = players
 
         save_json(
-            path,
+            rankings_dir / f"{ranking_date}.json",
             {
                 "generatedAt": generated_at,
+                "source": ranking_candidate_urls(ranking_date)[0],
                 "rankingDate": ranking_date,
                 "count": len(players),
-                "players": players,
+                "players": list(players.values()),
             },
         )
 
@@ -1563,12 +1633,13 @@ def load_or_fetch_historical_rankings(ranking_dates: List[str], generated_at: st
         DATA_DIR / "rankings_index.json",
         {
             "generatedAt": generated_at,
+            "source": "data/rankings/singles/*.json",
             "count": len(unique_dates),
             "items": [
                 {
                     "rankingDate": date,
                     "count": len(rankings_by_date.get(date, {})),
-                    "path": f"data/rankings/{date}.json",
+                    "path": f"data/rankings/singles/{date}.json",
                 }
                 for date in unique_dates
             ],
@@ -1576,6 +1647,7 @@ def load_or_fetch_historical_rankings(ranking_dates: List[str], generated_at: st
     )
 
     return rankings_by_date
+
 
 
 def rank_for_player_on_date(rankings_by_date: Dict[str, Dict[str, Dict[str, Any]]], player_key_value: str, date_iso: str) -> Tuple[Optional[int], str]:
