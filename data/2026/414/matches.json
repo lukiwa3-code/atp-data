@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
+  "generatedAt": "2026-06-01T11:49:36.459132+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/results",
   "tournament": {
     "id": "414",
@@ -49,7 +49,7 @@
       "matchState": "F",
       "reason": null,
       "formattedScore": "7-6(6) 4-6 6-3",
-      "sourceText": "Parsed from displayed score numbers",
+      "sourceText": "Game Set and Match Ignacio Buse. Ignacio Buse wins the match 7-6(6) 4-6 6-3 .",
       "bracketOrder": 1
     },
     {
@@ -808,7 +808,5 @@
       "sourceText": "Game Set and Match Henri Squire. Henri Squire wins the match 1-6 6-4 6-3 .",
       "bracketOrder": 8
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-06-01T04:59:33.302336+00:00"
+  ]
 }

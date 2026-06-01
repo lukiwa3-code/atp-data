@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T04:59:33.302336+00:00",
+  "generatedAt": "2026-06-01T11:49:36.459132+00:00",
   "count": 1930,
   "items": [
     {
@@ -1025,7 +1025,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 74,
+      "count": 69,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -1376,7 +1376,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 5,
+      "count": 10,
       "path": "data/player-history/alexandershevchenko.json"
     },
     {
