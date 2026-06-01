@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
+  "generatedAt": "2026-06-01T04:59:33.302336+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -1174,11 +1174,11 @@
       "round": "R16",
       "roundLong": "Round of 16",
       "score": "6-7(2) 7-6(5) 6-4",
-      "matchId": "RES-DFFB00461E",
+      "matchId": "RES-539A5CD760",
       "reason": null,
       "playerName": "Giovanni Mpetshi Perricard",
-      "opponentName": "Aleksandr Shevchenko",
-      "opponentKey": "aleksandrshevchenko",
+      "opponentName": "Alexander Shevchenko",
+      "opponentKey": "alexandershevchenko",
       "result": "L",
       "playerRank": null,
       "opponentRank": null,

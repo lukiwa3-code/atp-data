@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
+  "generatedAt": "2026-06-01T04:59:33.302336+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -74,14 +74,14 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-2 6-1",
-      "matchId": "RES-77C015E0C0",
+      "matchId": "RES-9608CF8860",
       "reason": null,
       "playerName": "Duje Markovina",
-      "opponentName": "Nikita Belozertsev",
-      "opponentKey": "nikitabelozertsev",
+      "opponentName": "Nikita Bilozertsev",
+      "opponentKey": "nikitabilozertsev",
       "result": "L",
       "playerRank": 1178,
-      "opponentRank": 786,
+      "opponentRank": null,
       "rankingDate": "2026-01-26",
       "rankingNote": "historical_week"
     },

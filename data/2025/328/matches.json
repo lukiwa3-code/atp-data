@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "generatedAt": "2026-06-01T04:59:33.302336+00:00",
   "source": "https://www.atptour.com/en/scores/archive/basel/328/2025/results",
   "tournament": {
     "id": "328",
@@ -684,7 +684,5 @@
       "sourceText": "Parsed from displayed score numbers",
       "bracketOrder": 8
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-05-31T19:26:34.400075+00:00"
+  ]
 }

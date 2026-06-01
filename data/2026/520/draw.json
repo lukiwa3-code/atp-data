@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
+  "generatedAt": "2026-06-01T04:59:33.302336+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -146,15 +146,15 @@
           "bracketOrder": 3,
           "round": "QF",
           "roundLong": "Quarterfinals",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "J. Mensik",
+          "player1FullName": "Jakub Mensik",
+          "player1Id": "M0NI",
+          "player1Country": "CZE",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "J. Fonseca",
+          "player2FullName": "Joao Fonseca",
+          "player2Id": "F0FV",
+          "player2Country": "BRA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -260,14 +260,26 @@
           "player1FullName": "Jakub Mensik",
           "player1Id": "M0NI",
           "player1Country": "CZE",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "7",
+            "4",
+            "2",
+            "6"
+          ],
           "player2": "A. Rublev",
           "player2FullName": "Andrey Rublev",
           "player2Id": "RE44",
           "player2Country": "RUS",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "3",
+            "6 6",
+            "6",
+            "6",
+            "3"
+          ],
+          "winnerName": "Jakub Mensik",
+          "formattedScore": "6-3 7-6(6) 4-6 2-6 6-3"
         },
         {
           "bracketOrder": 6,
@@ -277,14 +289,24 @@
           "player1FullName": "Casper Ruud",
           "player1Id": "RH16",
           "player1Country": "NOR",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "5",
+            "6 8",
+            "7",
+            "2"
+          ],
           "player2": "J. Fonseca",
           "player2FullName": "Joao Fonseca",
           "player2Id": "F0FV",
           "player2Country": "BRA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "7",
+            "5",
+            "6"
+          ],
+          "winnerName": "Joao Fonseca",
+          "formattedScore": "7-5 7-6(8) 5-7 6-2"
         },
         {
           "bracketOrder": 7,

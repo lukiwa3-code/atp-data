@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
+  "generatedAt": "2026-06-01T04:59:33.302336+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "A. Rublev",
     "playerId": "RE44"
   },
-  "count": 77,
+  "count": 78,
   "matches": [
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "tournamentDate": "24 May - 7 Jun, 2026",
+      "tournamentStartDate": "2026-05-24",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "Clay",
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "score": "6-3 7-6(6) 4-6 2-6 6-3",
+      "matchId": "RES-340FD5E0D4",
+      "reason": null,
+      "playerName": "Andrey Rublev",
+      "opponentName": "Jakub Mensik",
+      "opponentKey": "jakubmensik",
+      "result": "L",
+      "playerRank": 13,
+      "opponentRank": 27,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Fri, 29 May, 2026",
       "dateIso": "2026-05-29",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T17:59:13.540200+00:00",
+  "generatedAt": "2026-06-01T04:59:33.302336+00:00",
   "source": "https://www.atptour.com/en/scores/archive/aix-en-provence/7009/2026/results",
   "tournament": {
     "id": "7009",
@@ -738,7 +738,5 @@
       "sourceText": "Game Set and Match Inaki Montes-De La Torre. Inaki Montes-De La Torre wins the match 6-4 6-1 .",
       "bracketOrder": 8
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-05-31T19:26:34.400075+00:00"
+  ]
 }

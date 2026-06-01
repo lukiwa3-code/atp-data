@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-31T19:26:34.400075+00:00",
-  "count": 1928,
+  "generatedAt": "2026-06-01T04:59:33.302336+00:00",
+  "count": 1930,
   "items": [
     {
       "key": "1al",
@@ -1025,7 +1025,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 73,
+      "count": 74,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -1376,7 +1376,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 6,
+      "count": 5,
       "path": "data/player-history/alexandershevchenko.json"
     },
     {
@@ -1952,7 +1952,7 @@
       "displayName": "A. Rublev",
       "playerId": "RE44",
       "rank": null,
-      "count": 77,
+      "count": 78,
       "path": "data/player-history/andreyrublev.json"
     },
     {
@@ -3221,7 +3221,7 @@
       "displayName": "C. Ruud",
       "playerId": "RH16",
       "rank": null,
-      "count": 68,
+      "count": 69,
       "path": "data/player-history/casperruud.json"
     },
     {
@@ -7793,7 +7793,7 @@
       "displayName": "J. Mensik",
       "playerId": "M0NI",
       "rank": null,
-      "count": 70,
+      "count": 71,
       "path": "data/player-history/jakubmensik.json"
     },
     {
@@ -8315,7 +8315,7 @@
       "displayName": "J. Fonseca",
       "playerId": "F0FV",
       "rank": null,
-      "count": 66,
+      "count": 67,
       "path": "data/player-history/joaofonseca.json"
     },
     {
@@ -12572,8 +12572,17 @@
       "displayName": "N. Belozertsev",
       "playerId": "B0V0",
       "rank": 882,
-      "count": 6,
+      "count": 4,
       "path": "data/player-history/nikitabelozertsev.json"
+    },
+    {
+      "key": "nikitabilozertsev",
+      "name": "Nikita Bilozertsev",
+      "displayName": "Nikita Bilozertsev",
+      "playerId": "",
+      "rank": null,
+      "count": 2,
+      "path": "data/player-history/nikitabilozertsev.json"
     },
     {
       "key": "nikitamashtakov",
@@ -15155,7 +15164,7 @@
       "displayName": "Simone Rossolino",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 1,
       "path": "data/player-history/simonerossolino.json"
     },
     {
@@ -16795,6 +16804,15 @@
       "rank": null,
       "count": 2,
       "path": "data/player-history/xxxxxxxchelia.json"
+    },
+    {
+      "key": "xxxxxxxrossolino",
+      "name": "XXXXXXX Rossolino",
+      "displayName": "XXXXXXX Rossolino",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/xxxxxxxrossolino.json"
     },
     {
       "key": "xxxxxxxtran",
