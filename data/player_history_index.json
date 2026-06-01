@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-01T11:49:36.459132+00:00",
-  "count": 1930,
+  "generatedAt": "2026-06-01T17:55:30.365730+00:00",
+  "count": 1929,
   "items": [
     {
       "key": "1al",
@@ -953,7 +953,7 @@
       "displayName": "A. Tabilo",
       "playerId": "TE30",
       "rank": null,
-      "count": 81,
+      "count": 82,
       "path": "data/player-history/alejandrotabilo.json"
     },
     {
@@ -1025,7 +1025,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 69,
+      "count": 71,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -1376,7 +1376,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 10,
+      "count": 8,
       "path": "data/player-history/alexandershevchenko.json"
     },
     {
@@ -1753,7 +1753,7 @@
       "name": "Andrea De Marchi",
       "displayName": "Andrea De Marchi",
       "playerId": "",
-      "rank": null,
+      "rank": 1046,
       "count": 2,
       "path": "data/player-history/andreademarchi.json"
     },
@@ -5624,7 +5624,7 @@
       "displayName": "F. Auger-Aliassime",
       "playerId": "AG37",
       "rank": null,
-      "count": 70,
+      "count": 71,
       "path": "data/player-history/felixaugeraliassime.json"
     },
     {
@@ -5813,7 +5813,7 @@
       "displayName": "F. Cobolli",
       "playerId": "C0E9",
       "rank": null,
-      "count": 75,
+      "count": 76,
       "path": "data/player-history/flaviocobolli.json"
     },
     {
@@ -6109,7 +6109,7 @@
       "name": "Gabriele Bosio",
       "displayName": "Gabriele Bosio",
       "playerId": "",
-      "rank": null,
+      "rank": 828,
       "count": 3,
       "path": "data/player-history/gabrielebosio.json"
     },
@@ -6379,7 +6379,7 @@
       "name": "Gianmarco Ferrari",
       "displayName": "G. Ferrari",
       "playerId": "F0CJ",
-      "rank": null,
+      "rank": 468,
       "count": 11,
       "path": "data/player-history/gianmarcoferrari.json"
     },
@@ -6442,7 +6442,7 @@
       "name": "Giorgio Tabacco",
       "displayName": "Giorgio Tabacco",
       "playerId": "",
-      "rank": null,
+      "rank": 815,
       "count": 4,
       "path": "data/player-history/giorgiotabacco.json"
     },
@@ -8765,7 +8765,7 @@
       "displayName": "J. Cerundolo",
       "playerId": "C0C8",
       "rank": null,
-      "count": 96,
+      "count": 97,
       "path": "data/player-history/juanmanuelcerundolo.json"
     },
     {
@@ -9889,7 +9889,7 @@
       "name": "Lorenzo Angelini",
       "displayName": "L. Angelini",
       "playerId": "A0HZ",
-      "rank": null,
+      "rank": 777,
       "count": 7,
       "path": "data/player-history/lorenzoangelini.json"
     },
@@ -11213,7 +11213,7 @@
       "displayName": "M. Berrettini",
       "playerId": "BK40",
       "rank": null,
-      "count": 53,
+      "count": 54,
       "path": "data/player-history/matteoberrettini.json"
     },
     {
@@ -12572,17 +12572,8 @@
       "displayName": "N. Belozertsev",
       "playerId": "B0V0",
       "rank": 882,
-      "count": 4,
+      "count": 6,
       "path": "data/player-history/nikitabelozertsev.json"
-    },
-    {
-      "key": "nikitabilozertsev",
-      "name": "Nikita Bilozertsev",
-      "displayName": "Nikita Bilozertsev",
-      "playerId": "",
-      "rank": null,
-      "count": 2,
-      "path": "data/player-history/nikitabilozertsev.json"
     },
     {
       "key": "nikitamashtakov",
@@ -15326,7 +15317,7 @@
       "displayName": "S. Travaglia",
       "playerId": "TA12",
       "rank": null,
-      "count": 75,
+      "count": 74,
       "path": "data/player-history/stefanotravaglia.json"
     },
     {
@@ -15929,7 +15920,7 @@
       "displayName": "T. Skatov",
       "playerId": "S0GR",
       "rank": null,
-      "count": 79,
+      "count": 78,
       "path": "data/player-history/timofeyskatov.json"
     },
     {
@@ -17225,7 +17216,7 @@
       "displayName": "Z. Svajda",
       "playerId": "S0K7",
       "rank": null,
-      "count": 73,
+      "count": 74,
       "path": "data/player-history/zacharysvajda.json"
     },
     {

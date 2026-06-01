@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T11:49:36.459132+00:00",
+  "generatedAt": "2026-06-01T17:55:30.365730+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "A. Tabilo",
     "playerId": "TE30"
   },
-  "count": 81,
+  "count": 82,
   "matches": [
+    {
+      "date": "Mon, 01 June, 2026",
+      "dateIso": "2026-06-01",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "tournamentDate": "24 May - 7 Jun, 2026",
+      "tournamentStartDate": "2026-05-24",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "Clay",
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "score": "6-3 7-5 6-1",
+      "matchId": "RES-01C6372B22",
+      "reason": null,
+      "playerName": "Alejandro Tabilo",
+      "opponentName": "Felix Auger-Aliassime",
+      "opponentKey": "felixaugeraliassime",
+      "result": "L",
+      "playerRank": 36,
+      "opponentRank": 6,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sat, 30 May, 2026",
       "dateIso": "2026-05-30",

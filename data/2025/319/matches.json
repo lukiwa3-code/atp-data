@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T11:49:36.459132+00:00",
+  "generatedAt": "2026-06-01T17:55:30.365730+00:00",
   "source": "https://www.atptour.com/en/scores/archive/kitzbuhel/319/2025/results",
   "tournament": {
     "id": "319",
@@ -163,16 +163,16 @@
       "bracketOrder": 6
     },
     {
-      "matchId": "RES-22E66FF9A7",
+      "matchId": "RES-F4A96AEA66",
       "date": "",
       "round": "R16",
       "roundLong": "Round of 16",
       "playerId": "",
-      "playerName": "Aleksandr Shevchenko",
+      "playerName": "Alexander Shevchenko",
       "opponentId": "",
       "opponentName": "Marton Fucsovics",
       "winnerPlayerId": "",
-      "winnerName": "Aleksandr Shevchenko",
+      "winnerName": "Alexander Shevchenko",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
@@ -343,16 +343,16 @@
       "bracketOrder": 8
     },
     {
-      "matchId": "RES-254045B2A6",
+      "matchId": "RES-DD6552992F",
       "date": "",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
-      "playerName": "Aleksandr Shevchenko",
+      "playerName": "Alexander Shevchenko",
       "opponentId": "",
       "opponentName": "Daniel Elahi Galan",
       "winnerPlayerId": "",
-      "winnerName": "Aleksandr Shevchenko",
+      "winnerName": "Alexander Shevchenko",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
