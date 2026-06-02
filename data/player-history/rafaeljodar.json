@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:48:28.616281+00:00",
+  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "R. Jodar",
     "playerId": "J0DZ"
   },
-  "count": 72,
+  "count": 73,
   "matches": [
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "tournamentDate": "24 May - 7 Jun, 2026",
+      "tournamentStartDate": "2026-05-24",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "Clay",
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "score": "7-6(3) 6-1 6-3",
+      "matchId": "RES-F9F9AA0860",
+      "reason": null,
+      "playerName": "Rafael Jodar",
+      "opponentName": "Alexander Zverev",
+      "opponentKey": "alexanderzverev",
+      "result": "L",
+      "playerRank": 29,
+      "opponentRank": 3,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 31 May, 2026",
       "dateIso": "2026-05-31",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:48:28.616281+00:00",
+  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -92,10 +92,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "A. Zverev",
+          "player2FullName": "Alexander Zverev",
+          "player2Id": "Z355",
+          "player2Country": "GER",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -167,14 +167,22 @@
           "player1FullName": "Rafael Jodar",
           "player1Id": "J0DZ",
           "player1Country": "ESP",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6 3",
+            "1",
+            "3"
+          ],
           "player2": "A. Zverev",
           "player2FullName": "Alexander Zverev",
           "player2Id": "Z355",
           "player2Country": "GER",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "6",
+            "6"
+          ],
+          "winnerName": "Alexander Zverev",
+          "formattedScore": "7-6(3) 6-1 6-3"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:48:28.616281+00:00",
+  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
   "count": 404,
   "items": [
     {
@@ -68,14 +68,14 @@
       "name": "EFG Swiss Open Gstaad",
       "players": 39,
       "matches": 33,
-      "drawRounds": 5,
-      "drawMatches": 31,
+      "drawRounds": 0,
+      "drawMatches": 0,
       "circuit": "tour",
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2025/314/matches.json",
       "drawPath": "data/2025/314/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/gstaad/314/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/gstaad/314/2025/draws"
+      "drawSource": null
     },
     {
       "year": "2025",
@@ -141,7 +141,7 @@
       "year": "2025",
       "id": "328",
       "name": "Swiss Indoors Basel",
-      "players": 40,
+      "players": 0,
       "matches": 36,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -1056,7 +1056,7 @@
       "year": "2026",
       "id": "6932",
       "name": "Rio Open presented by Claro",
-      "players": 0,
+      "players": 40,
       "matches": 43,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -1387,7 +1387,7 @@
       "id": "520",
       "name": "Roland Garros",
       "players": 233,
-      "matches": 207,
+      "matches": 208,
       "drawRounds": 7,
       "drawMatches": 127,
       "circuit": "tour",
@@ -2692,7 +2692,7 @@
       "id": "8392",
       "name": "Todi",
       "players": 49,
-      "matches": 40,
+      "matches": 41,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "challenger",
@@ -4806,7 +4806,7 @@
       "year": "2026",
       "id": "7009",
       "name": "Open Aix Provence Crédit Agricole",
-      "players": 39,
+      "players": 0,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -5423,14 +5423,14 @@
       "name": "Arizona Tennis Classic",
       "players": 40,
       "matches": 39,
-      "drawRounds": 0,
-      "drawMatches": 0,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "circuit": "challenger",
       "circuitLabel": "ATP Challenger",
       "matchesPath": "data/2026/9167/matches.json",
       "drawPath": "data/2026/9167/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/phoenix/9167/2026/results",
-      "drawSource": null
+      "drawSource": "https://www.atptour.com/en/scores/archive/phoenix/9167/2026/draws"
     },
     {
       "year": "2026",
@@ -5655,7 +5655,7 @@
       "matchesPath": "data/2026/2839/matches.json",
       "drawPath": "data/2026/2839/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/tenerife/2839/2026/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/tenerife/2839/2026/draws"
+      "drawSource": "https://www.atptour.com/en/scores/current/tenerife/2839/draws"
     },
     {
       "year": "2026",

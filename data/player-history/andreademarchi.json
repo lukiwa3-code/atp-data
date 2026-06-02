@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T10:48:28.616281+00:00",
+  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -11,8 +11,8 @@
   "count": 2,
   "matches": [
     {
-      "date": "Mon, 11 August, 2025",
-      "dateIso": "2025-08-11",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "8392",
       "tournamentYear": "2025",
       "tournamentName": "Todi",
@@ -24,20 +24,20 @@
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "score": "5-7 6-3 6-1",
-      "matchId": "RES-F72C99F195",
+      "matchId": "RES-00EE3F3321",
       "reason": null,
       "playerName": "Andrea De Marchi",
       "opponentName": "Eero Vasa",
       "opponentKey": "eerovasa",
       "result": "L",
-      "playerRank": 1046,
-      "opponentRank": 424,
-      "rankingDate": "2025-08-11",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {
-      "date": "Mon, 11 August, 2025",
-      "dateIso": "2025-08-11",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "8392",
       "tournamentYear": "2025",
       "tournamentName": "Todi",
@@ -49,15 +49,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "0-6 6-2 6-3",
-      "matchId": "RES-A2CB93AECE",
+      "matchId": "RES-5AE5B31FC0",
       "reason": null,
       "playerName": "Andrea De Marchi",
       "opponentName": "Alberto Bronzetti",
       "opponentKey": "albertobronzetti",
       "result": "W",
-      "playerRank": 1046,
+      "playerRank": null,
       "opponentRank": null,
-      "rankingDate": "2025-08-11",
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]
