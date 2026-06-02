@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T21:41:11.121910+00:00",
+  "generatedAt": "2026-06-02T04:46:22.664474+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -117,10 +117,10 @@
           "player1Id": "BK40",
           "player1Country": "ITA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "M. Arnaldi",
+          "player2FullName": "Matteo Arnaldi",
+          "player2Id": "A0FC",
+          "player2Country": "ITA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -217,14 +217,26 @@
           "player1FullName": "Frances Tiafoe",
           "player1Id": "TD51",
           "player1Country": "USA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6 5",
+            "7",
+            "6",
+            "6 3",
+            "4"
+          ],
           "player2": "M. Arnaldi",
           "player2FullName": "Matteo Arnaldi",
           "player2Id": "A0FC",
           "player2Country": "ITA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "6 5",
+            "3",
+            "7",
+            "6"
+          ],
+          "winnerName": "Matteo Arnaldi",
+          "formattedScore": "7-6(5) 6-7(5) 3-6 7-6(3) 6-4"
         },
         {
           "bracketOrder": 3,
