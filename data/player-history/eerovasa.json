@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "E. Vasa",
     "playerId": "V993"
   },
-  "count": 39,
+  "count": 40,
   "matches": [
+    {
+      "date": "Sun, 24 May, 2026",
+      "dateIso": "2026-05-24",
+      "tournamentId": "7015",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali Di Tennis - Citta'Di Vicenza",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(5) 7-5",
+      "matchId": "RES-8F233FFD2C",
+      "reason": null,
+      "playerName": "Eero Vasa",
+      "opponentName": "Giorgio Tabacco",
+      "opponentKey": "giorgiotabacco",
+      "result": "L",
+      "playerRank": 425,
+      "opponentRank": 819,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 13 May, 2026",
       "dateIso": "2026-05-13",

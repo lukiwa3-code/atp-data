@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "M. Gonzalez Fernandez",
     "playerId": "G0G2"
   },
-  "count": 11,
+  "count": 12,
   "matches": [
+    {
+      "date": "Sun, 24 May, 2026",
+      "dateIso": "2026-05-24",
+      "tournamentId": "3087",
+      "tournamentYear": "2026",
+      "tournamentName": "RISE IRENE OPEN",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 7-6(3)",
+      "matchId": "RES-C6518A7F16",
+      "reason": null,
+      "playerName": "Mario Gonzalez Fernandez",
+      "opponentName": "Ofek Shimanov",
+      "opponentKey": "ofekshimanov",
+      "result": "L",
+      "playerRank": 585,
+      "opponentRank": 1243,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 11 May, 2026",
       "dateIso": "2026-05-11",

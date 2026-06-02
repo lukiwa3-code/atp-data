@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "B. Ellis",
     "playerId": "EA27"
   },
-  "count": 36,
+  "count": 37,
   "matches": [
+    {
+      "date": "Tue, 26 May, 2026",
+      "dateIso": "2026-05-26",
+      "tournamentId": "9188",
+      "tournamentYear": "2026",
+      "tournamentName": "UAMS Health Little Rock Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 5-7 6-3",
+      "matchId": "RES-4326D66163",
+      "reason": null,
+      "playerName": "Blake Ellis",
+      "opponentName": "Tyler Zink",
+      "opponentKey": "tylerzink",
+      "result": "L",
+      "playerRank": 495,
+      "opponentRank": 325,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Fri, 17 April, 2026",
       "dateIso": "2026-04-17",

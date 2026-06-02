@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "R. Brancaccio",
     "playerId": "BV24"
   },
-  "count": 64,
+  "count": 65,
   "matches": [
+    {
+      "date": "Mon, 25 May, 2026",
+      "dateIso": "2026-05-25",
+      "tournamentId": "7015",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali Di Tennis - Citta'Di Vicenza",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-0 5-7 6-2",
+      "matchId": "RES-F8F4ED6A2E",
+      "reason": null,
+      "playerName": "Raul Brancaccio",
+      "opponentName": "Diego Dedura",
+      "opponentKey": "diegodedura",
+      "result": "L",
+      "playerRank": 239,
+      "opponentRank": 287,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 18 May, 2026",
       "dateIso": "2026-05-18",

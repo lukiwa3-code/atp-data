@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "S. Callejon Hernando",
     "playerId": "C0P0"
   },
-  "count": 22,
+  "count": 23,
   "matches": [
+    {
+      "date": "Sun, 24 May, 2026",
+      "dateIso": "2026-05-24",
+      "tournamentId": "7015",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali Di Tennis - Citta'Di Vicenza",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-4",
+      "matchId": "RES-756D839E73",
+      "reason": null,
+      "playerName": "Sergio Callejon Hernando",
+      "opponentName": "Federico Arnaboldi",
+      "opponentKey": "federicoarnaboldi",
+      "result": "L",
+      "playerRank": 438,
+      "opponentRank": 481,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 17 May, 2026",
       "dateIso": "2026-05-17",

@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "arjunkadhe",
+    "name": "Arjun Kadhe",
+    "displayName": "Arjun Kadhe",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 24 May, 2026",
+      "dateIso": "2026-05-24",
+      "tournamentId": "2993",
+      "tournamentYear": "2026",
+      "tournamentName": "Moldova Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-2",
+      "matchId": "RES-D9FE2C3B14",
+      "reason": null,
+      "playerName": "Arjun Kadhe",
+      "opponentName": "Maxime Janvier",
+      "opponentKey": "maximejanvier",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 579,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

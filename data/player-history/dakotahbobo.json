@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "dakotahbobo",
     "name": "Dakotah Bobo",
-    "displayName": "Dakotah Bobo",
-    "playerId": ""
+    "displayName": "D. Bobo",
+    "playerId": "B0UZ"
   },
-  "count": 2,
+  "count": 3,
   "matches": [
+    {
+      "date": "Mon, 25 May, 2026",
+      "dateIso": "2026-05-25",
+      "tournamentId": "9188",
+      "tournamentYear": "2026",
+      "tournamentName": "UAMS Health Little Rock Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-2 6-1",
+      "matchId": "RES-3E44BE077A",
+      "reason": null,
+      "playerName": "Dakotah Bobo",
+      "opponentName": "Fajing Sun",
+      "opponentKey": "fajingsun",
+      "result": "L",
+      "playerRank": 1844,
+      "opponentRank": 265,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 17 November, 2025",
       "dateIso": "2025-11-17",

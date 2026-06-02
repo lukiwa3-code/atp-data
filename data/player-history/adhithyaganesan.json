@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "A. Ganesan",
     "playerId": "G0MI"
   },
-  "count": 10,
+  "count": 11,
   "matches": [
+    {
+      "date": "Sun, 24 May, 2026",
+      "dateIso": "2026-05-24",
+      "tournamentId": "9188",
+      "tournamentYear": "2026",
+      "tournamentName": "UAMS Health Little Rock Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "3-6 6-3 6-4",
+      "matchId": "RES-F3478D1CF7",
+      "reason": null,
+      "playerName": "Adhithya Ganesan",
+      "opponentName": "Johannus Monday",
+      "opponentKey": "johannusmonday",
+      "result": "L",
+      "playerRank": 605,
+      "opponentRank": 286,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 24 November, 2025",
       "dateIso": "2025-11-24",

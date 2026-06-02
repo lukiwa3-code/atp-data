@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "A. Paulson",
     "playerId": "P0EV"
   },
-  "count": 16,
+  "count": 17,
   "matches": [
+    {
+      "date": "Sun, 24 May, 2026",
+      "dateIso": "2026-05-24",
+      "tournamentId": "2993",
+      "tournamentYear": "2026",
+      "tournamentName": "Moldova Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-3",
+      "matchId": "RES-A0D143E56B",
+      "reason": null,
+      "playerName": "Andrew Paulson",
+      "opponentName": "Stefan Latinovic",
+      "opponentKey": "stefanlatinovic",
+      "result": "L",
+      "playerRank": 595,
+      "opponentRank": 1391,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 10 May, 2026",
       "dateIso": "2026-05-10",

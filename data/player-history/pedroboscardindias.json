@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "P. Boscardin Dias",
     "playerId": "B0FI"
   },
-  "count": 76,
+  "count": 77,
   "matches": [
+    {
+      "date": "Tue, 26 May, 2026",
+      "dateIso": "2026-05-26",
+      "tournamentId": "7015",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali Di Tennis - Citta'Di Vicenza",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-1 6-4",
+      "matchId": "RES-063615FC36",
+      "reason": null,
+      "playerName": "Pedro Boscardin Dias",
+      "opponentName": "Chun-Hsin Tseng",
+      "opponentKey": "chunhsintseng",
+      "result": "L",
+      "playerRank": 233,
+      "opponentRank": 181,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 20 May, 2026",
       "dateIso": "2026-05-20",

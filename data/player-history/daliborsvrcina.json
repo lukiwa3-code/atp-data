@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -920,7 +920,7 @@
       "tournamentDate": "30 Jun - 13 Jul, 2025",
       "tournamentStartDate": "2025-06-30",
       "tournamentEndDate": "2025-07-13",
-      "surface": "Grass",
+      "surface": "Grass     ",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "score": "7-6(5) 7-5",
@@ -945,7 +945,7 @@
       "tournamentDate": "30 Jun - 13 Jul, 2025",
       "tournamentStartDate": "2025-06-30",
       "tournamentEndDate": "2025-07-13",
-      "surface": "Grass",
+      "surface": "Grass     ",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-2",

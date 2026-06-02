@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "mathysbraun",
+    "name": "Mathys Braun",
+    "displayName": "Mathys Braun",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 24 May, 2026",
+      "dateIso": "2026-05-24",
+      "tournamentId": "2993",
+      "tournamentYear": "2026",
+      "tournamentName": "Moldova Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(5) 6-2",
+      "matchId": "RES-515DB4AE37",
+      "reason": null,
+      "playerName": "Mathys Braun",
+      "opponentName": "Stefan Adrian Andreescu",
+      "opponentKey": "stefanadrianandreescu",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 550,
+      "rankingDate": "2026-05-18",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "H. Matsuoka",
     "playerId": "M0SC"
   },
-  "count": 48,
+  "count": 49,
   "matches": [
+    {
+      "date": "Mon, 25 May, 2026",
+      "dateIso": "2026-05-25",
+      "tournamentId": "9188",
+      "tournamentYear": "2026",
+      "tournamentName": "UAMS Health Little Rock Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "5-7 6-3 6-1",
+      "matchId": "RES-2407D13E52",
+      "reason": null,
+      "playerName": "Hayato Matsuoka",
+      "opponentName": "Michael Mmoh",
+      "opponentKey": "michaelmmoh",
+      "result": "L",
+      "playerRank": 356,
+      "opponentRank": 216,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Tue, 05 May, 2026",
       "dateIso": "2026-05-05",

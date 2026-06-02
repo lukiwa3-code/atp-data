@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "D. Galan",
     "playerId": "GE33"
   },
-  "count": 67,
+  "count": 68,
   "matches": [
+    {
+      "date": "Tue, 26 May, 2026",
+      "dateIso": "2026-05-26",
+      "tournamentId": "2993",
+      "tournamentYear": "2026",
+      "tournamentName": "Moldova Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "3-6 6-3 7-6(1)",
+      "matchId": "RES-3AF03D13B4",
+      "reason": null,
+      "playerName": "Daniel Elahi Galan",
+      "opponentName": "Alex Martinez",
+      "opponentKey": "alexmartinez",
+      "result": "L",
+      "playerRank": 259,
+      "opponentRank": 323,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sat, 16 May, 2026",
       "dateIso": "2026-05-16",
@@ -695,7 +720,7 @@
       "tournamentDate": "30 Jun - 13 Jul, 2025",
       "tournamentStartDate": "2025-06-30",
       "tournamentEndDate": "2025-07-13",
-      "surface": "Grass",
+      "surface": "Grass     ",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-3 6-2",

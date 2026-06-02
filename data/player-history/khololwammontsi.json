@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "khololwammontsi",
+    "name": "Khololwam Montsi",
+    "displayName": "K. Montsi",
+    "playerId": "M0FN"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Tue, 26 May, 2026",
+      "dateIso": "2026-05-26",
+      "tournamentId": "3087",
+      "tournamentYear": "2026",
+      "tournamentName": "RISE IRENE OPEN",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 7-6(2)",
+      "matchId": "RES-ADC2D34AC5",
+      "reason": null,
+      "playerName": "Khololwam Montsi",
+      "opponentName": "Calvin Hemery",
+      "opponentKey": "calvinhemery",
+      "result": "L",
+      "playerRank": 1340,
+      "opponentRank": 283,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

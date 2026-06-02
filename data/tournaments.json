@@ -5,7 +5,7 @@
     2025,
     2026
   ],
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "countSources": 4,
   "sources": [
     {
@@ -1281,14 +1281,14 @@
               {
                 "Id": "540",
                 "Name": "Wimbledon",
-                "Location": "London, Great Britain",
+                "Location": "London",
                 "FormattedDate": "29 June - 12 July, 2026",
                 "IsLive": false,
                 "IsPastEvent": false,
-                "ScoresUrl": "/en/scores/current/wimbledon/540/results",
-                "DrawsUrl": "/en/scores/current/wimbledon/540/draws",
+                "ScoresUrl": "/en/scores/current/wimbledon-----------------------------------------/540/results",
+                "DrawsUrl": "/en/scores/current/wimbledon-----------------------------------------/540/draws",
                 "TournamentSiteUrl": "https://www.wimbledon.com/index.html",
-                "ScheduleUrl": "/en/scores/current/wimbledon/540/daily-schedule",
+                "ScheduleUrl": "/en/scores/current/wimbledon-----------------------------------------/540/daily-schedule",
                 "Type": "GS",
                 "SinglesDrawPrintUrl": "http://www.protennislive.com/posting/2026/540/mds.pdf",
                 "DoublesDrawPrintUrl": "http://www.protennislive.com/posting/2026/540/mdd.pdf",
@@ -1298,14 +1298,14 @@
                 "BadgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_grandslam.png",
                 "TournamentOverviewUrl": "/en/tournaments/wimbledon/540/overview",
                 "TicketHotline": "n/a",
-                "TicketsUrl": "https://www.wimbledon.com/index.html",
+                "TicketsUrl": "https://www.wimbledon.com/en_GB/tickets/index.html",
                 "TicketsPackageUrl": null,
                 "PhoneNumber": "n/a",
                 "Email": null,
                 "EventTypeDetail": 0,
                 "TotalFinancialCommitment": null,
                 "PrizeMoneyDetails": null,
-                "Surface": "Grass",
+                "Surface": "Grass     ",
                 "IndoorOutdoor": "Outdoor",
                 "SglDrawSize": 128,
                 "DblDrawSize": 64,
@@ -2280,12 +2280,12 @@
     {
       "year": 2025,
       "source": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
-      "count": 209
+      "count": 212
     },
     {
       "year": 2026,
       "source": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
-      "count": 101
+      "count": 106
     }
   ]
 }

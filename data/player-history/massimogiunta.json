@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "M. Giunta",
     "playerId": "G0I3"
   },
-  "count": 16,
+  "count": 18,
   "matches": [
+    {
+      "date": "Tue, 26 May, 2026",
+      "dateIso": "2026-05-26",
+      "tournamentId": "7015",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali Di Tennis - Citta'Di Vicenza",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(10) 7-6(4)",
+      "matchId": "RES-E6EB7CB8ED",
+      "reason": null,
+      "playerName": "Massimo Giunta",
+      "opponentName": "Mika Brunold",
+      "opponentKey": "mikabrunold",
+      "result": "L",
+      "playerRank": 506,
+      "opponentRank": 387,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 17 May, 2026",
       "dateIso": "2026-05-17",
@@ -283,6 +308,31 @@
       "playerRank": 820,
       "opponentRank": 1315,
       "rankingDate": "2025-08-18",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "7015",
+      "tournamentYear": "2025",
+      "tournamentName": "Vicenza",
+      "tournamentType": "CH",
+      "tournamentDate": "26 May - 1 Jun, 2025",
+      "tournamentStartDate": "2025-05-26",
+      "tournamentEndDate": "2025-06-01",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "2-6 6-4 6-2",
+      "matchId": "RES-03422D8975",
+      "reason": null,
+      "playerName": "Massimo Giunta",
+      "opponentName": "Nicolai Budkov Kjaer",
+      "opponentKey": "nicolaibudkovkjaer",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {

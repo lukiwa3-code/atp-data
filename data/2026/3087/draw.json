@@ -1,0 +1,812 @@
+{
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/centurion/3087/2026/draws",
+  "tournament": {
+    "id": "3087",
+    "year": "2026",
+    "name": "RISE IRENE OPEN",
+    "location": "",
+    "date": "25-31 May, 2026",
+    "month": "",
+    "isLive": false,
+    "isPastEvent": true,
+    "type": "CH",
+    "eventType": "Challenger",
+    "surface": "",
+    "indoorOutdoor": "",
+    "singlesDrawSize": "",
+    "doublesDrawSize": "",
+    "scoresUrl": "/en/scores/archive/centurion/3087/2026/results",
+    "drawsUrl": "/en/scores/archive/centurion/3087/2026/draws",
+    "scheduleUrl": "",
+    "overviewUrl": "/en/tournaments/centurion/3087/overview",
+    "countryFlagUrl": "",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
+    "prizeMoney": "",
+    "totalFinancialCommitment": "",
+    "tournamentDate": "25 - 31 May, 2026",
+    "tournamentStartDate": "2026-05-25",
+    "tournamentEndDate": "2026-05-31",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-05-25",
+    "endDate": "2026-05-31"
+  },
+  "countRounds": 5,
+  "countMatches": 31,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Final",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "G. Hussey",
+          "player1FullName": "Giles Hussey",
+          "player1Id": "H0DC",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "E. Winter",
+          "player2FullName": "Edward Winter",
+          "player2Id": "W0C4",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "winnerName": "Giles Hussey",
+          "formattedScore": "6-3 6-3"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semifinals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "E. Coulibaly",
+          "player1FullName": "Eliakim Coulibaly",
+          "player1Id": "C0HB",
+          "player1Country": "CIV",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "5"
+          ],
+          "player2": "G. Hussey",
+          "player2FullName": "Giles Hussey",
+          "player2Id": "H0DC",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "2",
+            "6",
+            "7"
+          ],
+          "winnerName": "Giles Hussey",
+          "formattedScore": "2-6 6-4 7-5"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "E. Winter",
+          "player1FullName": "Edward Winter",
+          "player1Id": "W0C4",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "1",
+            "7"
+          ],
+          "player2": "S. Napolitano",
+          "player2FullName": "Stefano Napolitano",
+          "player2Id": "N679",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "1",
+            "6",
+            "5"
+          ],
+          "winnerName": "Edward Winter",
+          "formattedScore": "6-1 1-6 7-5"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarterfinals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "S. Pankin",
+          "player1FullName": "Semen Pankin",
+          "player1Id": "P0KA",
+          "player1Country": "RUS",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "6 2"
+          ],
+          "player2": "E. Coulibaly",
+          "player2FullName": "Eliakim Coulibaly",
+          "player2Id": "C0HB",
+          "player2Country": "CIV",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "7"
+          ],
+          "winnerName": "Eliakim Coulibaly",
+          "formattedScore": "3-6 6-4 7-6(2)"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "O. Kimhi",
+          "player1FullName": "Orel Kimhi",
+          "player1Id": "K0HO",
+          "player1Country": "ISR",
+          "player1ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "player2": "G. Hussey",
+          "player2FullName": "Giles Hussey",
+          "player2Id": "H0DC",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Giles Hussey",
+          "formattedScore": "7-5 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "E. Winter",
+          "player1FullName": "Edward Winter",
+          "player1Id": "W0C4",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "R. Strombachs",
+          "player2FullName": "Robert Strombachs",
+          "player2Id": "S0GV",
+          "player2Country": "LAT",
+          "player2ScoreTokens": [
+            "1",
+            "6 4"
+          ],
+          "winnerName": "Edward Winter",
+          "formattedScore": "6-1 7-6(4)"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "P. Henning",
+          "player1FullName": "Philip Henning",
+          "player1Id": "H0BF",
+          "player1Country": "RSA",
+          "player1ScoreTokens": [
+            "3",
+            "5"
+          ],
+          "player2": "S. Napolitano",
+          "player2FullName": "Stefano Napolitano",
+          "player2Id": "N679",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Stefano Napolitano",
+          "formattedScore": "6-3 7-5"
+        }
+      ]
+    },
+    {
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "sourceHeader": "Round of 16",
+      "count": 8,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "H. Mayot",
+          "player1FullName": "Harold Mayot",
+          "player1Id": "M0G4",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6",
+            "6 3",
+            "3"
+          ],
+          "player2": "S. Pankin",
+          "player2FullName": "Semen Pankin",
+          "player2Id": "P0KA",
+          "player2Country": "RUS",
+          "player2ScoreTokens": [
+            "3",
+            "7",
+            "6"
+          ],
+          "winnerName": "Semen Pankin",
+          "formattedScore": "3-6 7-6(3) 6-3"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Azkara",
+          "player1FullName": "Arda Azkara",
+          "player1Id": "A0DV",
+          "player1Country": "TUR",
+          "player1ScoreTokens": [
+            "6 4",
+            "1"
+          ],
+          "player2": "E. Coulibaly",
+          "player2FullName": "Eliakim Coulibaly",
+          "player2Id": "C0HB",
+          "player2Country": "CIV",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Eliakim Coulibaly",
+          "formattedScore": "7-6(4) 6-1"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "C. Hemery",
+          "player1FullName": "Calvin Hemery",
+          "player1Id": "HB48",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6 5",
+            "1"
+          ],
+          "player2": "O. Kimhi",
+          "player2FullName": "Orel Kimhi",
+          "player2Id": "K0HO",
+          "player2Country": "ISR",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Orel Kimhi",
+          "formattedScore": "7-6(5) 6-1"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Hussey",
+          "player1FullName": "Giles Hussey",
+          "player1Id": "H0DC",
+          "player1Country": "GBR",
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "D. Badenhorst",
+          "player2FullName": "Devin Badenhorst",
+          "player2Id": "B0IZ",
+          "player2Country": "RSA",
+          "player2ScoreTokens": [
+            "6 3",
+            "6 1"
+          ],
+          "winnerName": "Giles Hussey",
+          "formattedScore": "7-6(3) 7-6(1)"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "Y. Takahashi",
+          "player1FullName": "Yusuke Takahashi",
+          "player1Id": "TF58",
+          "player1Country": "JPN",
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "2"
+          ],
+          "player2": "E. Winter",
+          "player2FullName": "Edward Winter",
+          "player2Id": "W0C4",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "winnerName": "Edward Winter",
+          "formattedScore": "4-6 6-3 6-2"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "G. Dalmasso",
+          "player1FullName": "Guillaume Dalmasso",
+          "player1Id": "D0K3",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "2",
+            "3"
+          ],
+          "player2": "R. Strombachs",
+          "player2FullName": "Robert Strombachs",
+          "player2Id": "S0GV",
+          "player2Country": "LAT",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Robert Strombachs",
+          "formattedScore": "6-2 6-3"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "P. Henning",
+          "player1FullName": "Philip Henning",
+          "player1Id": "H0BF",
+          "player1Country": "RSA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "L. Koenig",
+          "player2FullName": "Luc Koenig",
+          "player2Id": "K0GE",
+          "player2Country": "RSA",
+          "player2ScoreTokens": [
+            "2",
+            "2"
+          ],
+          "winnerName": "Philip Henning",
+          "formattedScore": "6-2 6-2"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R16",
+          "roundLong": "Round of 16",
+          "player1": "A. Beckley",
+          "player1FullName": "Alec Beckley",
+          "player1Id": "B0IY",
+          "player1Country": "RSA",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "S. Napolitano",
+          "player2FullName": "Stefano Napolitano",
+          "player2Id": "N679",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Stefano Napolitano",
+          "formattedScore": "6-4 6-2"
+        }
+      ]
+    },
+    {
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "sourceHeader": "Round of 32",
+      "count": 16,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "H. Mayot",
+          "player1FullName": "Harold Mayot",
+          "player1Id": "M0G4",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "M. Hurrion",
+          "player2FullName": "Millen Hurrion",
+          "player2Id": "H0EI",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Harold Mayot",
+          "formattedScore": "6-4 6-4"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Castelnuovo",
+          "player1FullName": "Luca Castelnuovo",
+          "player1Id": "CH80",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "5",
+            "4"
+          ],
+          "player2": "S. Pankin",
+          "player2FullName": "Semen Pankin",
+          "player2Id": "P0KA",
+          "player2Country": "RUS",
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Semen Pankin",
+          "formattedScore": "7-5 6-4"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "F. Peliwo",
+          "player1FullName": "Filip Peliwo",
+          "player1Id": "PF65",
+          "player1Country": "POL",
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "player2": "A. Azkara",
+          "player2FullName": "Arda Azkara",
+          "player2Id": "A0DV",
+          "player2Country": "TUR",
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
+          "winnerName": "Arda Azkara",
+          "formattedScore": "4-6 6-4 6-3"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Brown",
+          "player1FullName": "Preston Brown",
+          "player1Id": "B0G6",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "E. Coulibaly",
+          "player2FullName": "Eliakim Coulibaly",
+          "player2Id": "C0HB",
+          "player2Country": "CIV",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Eliakim Coulibaly",
+          "formattedScore": "6-4 6-2"
+        },
+        {
+          "bracketOrder": 5,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "C. Hemery",
+          "player1FullName": "Calvin Hemery",
+          "player1Id": "HB48",
+          "player1Country": "FRA",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "K. Montsi",
+          "player2FullName": "Khololwam Montsi",
+          "player2Id": "M0FN",
+          "player2Country": "RSA",
+          "player2ScoreTokens": [
+            "4",
+            "6 2"
+          ],
+          "winnerName": "Calvin Hemery",
+          "formattedScore": "6-4 7-6(2)"
+        },
+        {
+          "bracketOrder": 6,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Rawat",
+          "player1FullName": "Sidharth Rawat",
+          "player1Id": "RB86",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "player2": "O. Kimhi",
+          "player2FullName": "Orel Kimhi",
+          "player2Id": "K0HO",
+          "player2Country": "ISR",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Orel Kimhi",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 7,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Zahraj",
+          "player1FullName": "Patrick Zahraj",
+          "player1Id": "Z09F",
+          "player1Country": "GER",
+          "player1ScoreTokens": [
+            "2",
+            "7",
+            "4"
+          ],
+          "player2": "G. Hussey",
+          "player2FullName": "Giles Hussey",
+          "player2Id": "H0DC",
+          "player2Country": "GBR",
+          "player2ScoreTokens": [
+            "6",
+            "5",
+            "6"
+          ],
+          "winnerName": "Giles Hussey",
+          "formattedScore": "6-2 5-7 6-4"
+        },
+        {
+          "bracketOrder": 8,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "D. Badenhorst",
+          "player1FullName": "Devin Badenhorst",
+          "player1Id": "B0IZ",
+          "player1Country": "RSA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "A. Santillan",
+          "player2FullName": "Akira Santillan",
+          "player2Id": "SQ80",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "3",
+            "1"
+          ],
+          "winnerName": "Devin Badenhorst",
+          "formattedScore": "6-3 6-1"
+        },
+        {
+          "bracketOrder": 9,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Alkaya",
+          "player1FullName": "Mert Alkaya",
+          "player1Id": "A09Q",
+          "player1Country": "TUR",
+          "player1ScoreTokens": [
+            "3",
+            "6 5"
+          ],
+          "player2": "Y. Takahashi",
+          "player2FullName": "Yusuke Takahashi",
+          "player2Id": "TF58",
+          "player2Country": "JPN",
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Yusuke Takahashi",
+          "formattedScore": "6-3 7-6(5)"
+        },
+        {
+          "bracketOrder": 10,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "M. Sasikumar",
+          "player1FullName": "Mukund Sasikumar",
+          "player1Id": "MP13",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "4",
+            "0"
+          ],
+          "player2": "E. Winter",
+          "player2FullName": "Edward Winter",
+          "player2Id": "W0C4",
+          "player2Country": "AUS",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Edward Winter",
+          "formattedScore": "6-4 6-0"
+        },
+        {
+          "bracketOrder": 11,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "K. Singh",
+          "player1FullName": "Karan Singh",
+          "player1Id": "S0RI",
+          "player1Country": "IND",
+          "player1ScoreTokens": [
+            "6 4",
+            "1"
+          ],
+          "player2": "G. Dalmasso",
+          "player2FullName": "Guillaume Dalmasso",
+          "player2Id": "D0K3",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "7",
+            "4"
+          ],
+          "winnerName": "Guillaume Dalmasso",
+          "formattedScore": "7 4"
+        },
+        {
+          "bracketOrder": 12,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "R. Strombachs",
+          "player1FullName": "Robert Strombachs",
+          "player1Id": "S0GV",
+          "player1Country": "LAT",
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "player2": "R. Bertrand",
+          "player2FullName": "Robin Bertrand",
+          "player2Id": "B0JJ",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "0",
+            "5"
+          ],
+          "winnerName": "Robert Strombachs",
+          "formattedScore": "6-0 7-5"
+        },
+        {
+          "bracketOrder": 13,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "P. Henning",
+          "player1FullName": "Philip Henning",
+          "player1Id": "H0BF",
+          "player1Country": "RSA",
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "player2": "C. Van Schalkwyk",
+          "player2FullName": "Connor Henry Van Schalkwyk",
+          "player2Id": "V0F7",
+          "player2Country": "NAM",
+          "player2ScoreTokens": [
+            "3",
+            "3"
+          ],
+          "winnerName": "Philip Henning",
+          "formattedScore": "6-3 6-3"
+        },
+        {
+          "bracketOrder": 14,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "L. Koenig",
+          "player1FullName": "Luc Koenig",
+          "player1Id": "K0GE",
+          "player1Country": "RSA",
+          "player1ScoreTokens": [
+            "5",
+            "6",
+            "7"
+          ],
+          "player2": "D. Palan",
+          "player2FullName": "Dominik Palan",
+          "player2Id": "P0E9",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "7",
+            "3",
+            "5"
+          ],
+          "winnerName": "Luc Koenig",
+          "formattedScore": "5-7 6-3 7-5"
+        },
+        {
+          "bracketOrder": 15,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "A. Beckley",
+          "player1FullName": "Alec Beckley",
+          "player1Id": "B0IY",
+          "player1Country": "RSA",
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "6"
+          ],
+          "player2": "C. Bittoun Kouzmine",
+          "player2FullName": "Constantin Bittoun Kouzmine",
+          "player2Id": "BU53",
+          "player2Country": "FRA",
+          "player2ScoreTokens": [
+            "6",
+            "1",
+            "4"
+          ],
+          "winnerName": "Alec Beckley",
+          "formattedScore": "3-6 6-1 6-4"
+        },
+        {
+          "bracketOrder": 16,
+          "round": "R32",
+          "roundLong": "Round of 32",
+          "player1": "S. Vujic",
+          "player1FullName": "Stefan Vujic",
+          "player1Id": "VA31",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "2",
+            "4"
+          ],
+          "player2": "S. Napolitano",
+          "player2FullName": "Stefano Napolitano",
+          "player2Id": "N679",
+          "player2Country": "ITA",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Stefano Napolitano",
+          "formattedScore": "6-2 6-4"
+        }
+      ]
+    }
+  ]
+}

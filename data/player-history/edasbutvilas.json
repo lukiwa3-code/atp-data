@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "E. Butvilas",
     "playerId": "B0MM"
   },
-  "count": 86,
+  "count": 87,
   "matches": [
+    {
+      "date": "Tue, 26 May, 2026",
+      "dateIso": "2026-05-26",
+      "tournamentId": "9188",
+      "tournamentYear": "2026",
+      "tournamentName": "UAMS Health Little Rock Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(3) 7-6(4)",
+      "matchId": "RES-53F3B4A1B5",
+      "reason": null,
+      "playerName": "Edas Butvilas",
+      "opponentName": "Aidan Mayo",
+      "opponentKey": "aidanmayo",
+      "result": "L",
+      "playerRank": 232,
+      "opponentRank": 581,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 20 May, 2026",
       "dateIso": "2026-05-20",
@@ -1270,7 +1295,7 @@
       "tournamentDate": "30 Jun - 13 Jul, 2025",
       "tournamentStartDate": "2025-06-30",
       "tournamentEndDate": "2025-07-13",
-      "surface": "Grass",
+      "surface": "Grass     ",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "7-6(8) 6-3",

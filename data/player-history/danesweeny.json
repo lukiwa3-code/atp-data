@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T16:47:10.672648+00:00",
+  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "D. Sweeny",
     "playerId": "S0IA"
   },
-  "count": 40,
+  "count": 42,
   "matches": [
+    {
+      "date": "Tue, 26 May, 2026",
+      "dateIso": "2026-05-26",
+      "tournamentId": "9188",
+      "tournamentYear": "2026",
+      "tournamentName": "UAMS Health Little Rock Open",
+      "tournamentType": "CH",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-4",
+      "matchId": "RES-BF459E6F99",
+      "reason": null,
+      "playerName": "Dane Sweeny",
+      "opponentName": "Enzo Aguiard",
+      "opponentKey": "enzoaguiard",
+      "result": "L",
+      "playerRank": 131,
+      "opponentRank": 551,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 18 May, 2026",
       "dateIso": "2026-05-18",
@@ -858,6 +883,31 @@
       "playerRank": 577,
       "opponentRank": 475,
       "rankingDate": "2025-05-19",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "",
+      "dateIso": "",
+      "tournamentId": "9188",
+      "tournamentYear": "2025",
+      "tournamentName": "Little Rock",
+      "tournamentType": "CH",
+      "tournamentDate": "26 May - 1 Jun, 2025",
+      "tournamentStartDate": "2025-05-26",
+      "tournamentEndDate": "2025-06-01",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 7-5",
+      "matchId": "RES-2E0A3BDE63",
+      "reason": null,
+      "playerName": "Dane Sweeny",
+      "opponentName": "Patrick Kypson",
+      "opponentKey": "patrickkypson",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {
