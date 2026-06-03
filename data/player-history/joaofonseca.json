@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
+  "generatedAt": "2026-06-03T04:55:51.966190+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "J. Fonseca",
     "playerId": "F0FV"
   },
-  "count": 67,
+  "count": 68,
   "matches": [
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "tournamentDate": "24 May - 7 Jun, 2026",
+      "tournamentStartDate": "2026-05-24",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "Clay",
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "score": "6-4 6-3 7-6(3)",
+      "matchId": "RES-F59CDE6C5C",
+      "reason": null,
+      "playerName": "Joao Fonseca",
+      "opponentName": "Jakub Mensik",
+      "opponentKey": "jakubmensik",
+      "result": "L",
+      "playerRank": 30,
+      "opponentRank": 27,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 31 May, 2026",
       "dateIso": "2026-05-31",

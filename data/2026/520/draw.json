@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T21:17:53.030059+00:00",
+  "generatedAt": "2026-06-03T04:55:51.966190+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -87,10 +87,10 @@
           "bracketOrder": 2,
           "round": "SF",
           "roundLong": "Semifinals",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "J. Mensik",
+          "player1FullName": "Jakub Mensik",
+          "player1Id": "M0NI",
+          "player1Country": "CZE",
           "player1ScoreTokens": [],
           "player2": "A. Zverev",
           "player2FullName": "Alexander Zverev",
@@ -150,14 +150,22 @@
           "player1FullName": "Jakub Mensik",
           "player1Id": "M0NI",
           "player1Country": "CZE",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6",
+            "7"
+          ],
           "player2": "J. Fonseca",
           "player2FullName": "Joao Fonseca",
           "player2Id": "F0FV",
           "player2Country": "BRA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "3",
+            "6 3"
+          ],
+          "winnerName": "Jakub Mensik",
+          "formattedScore": "6-4 6-3 7-6(3)"
         },
         {
           "bracketOrder": 4,
