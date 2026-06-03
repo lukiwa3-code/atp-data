@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:03:29.262213+00:00",
+  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
   "source": "https://www.atptour.com/en/scores/archive/almaty/9410/2025/draws",
   "tournament": {
     "id": "9410",
@@ -264,7 +264,7 @@
           "round": "R16",
           "roundLong": "Round of 16",
           "player1": "A. Shevchenko",
-          "player1FullName": "Alexander Shevchenko",
+          "player1FullName": "Aleksandr Shevchenko",
           "player1Id": "S0H2",
           "player1Country": "KAZ",
           "player1ScoreTokens": [
@@ -485,14 +485,14 @@
             "6 12"
           ],
           "player2": "A. Shevchenko",
-          "player2FullName": "Alexander Shevchenko",
+          "player2FullName": "Aleksandr Shevchenko",
           "player2Id": "S0H2",
           "player2Country": "KAZ",
           "player2ScoreTokens": [
             "7",
             "7"
           ],
-          "winnerName": "Alexander Shevchenko",
+          "winnerName": "Aleksandr Shevchenko",
           "formattedScore": "7-6(1) 7-6(12)"
         },
         {

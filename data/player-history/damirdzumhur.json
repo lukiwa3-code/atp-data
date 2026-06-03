@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:03:29.262213+00:00",
+  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -649,14 +649,14 @@
       "round": "R32",
       "roundLong": "Round of 32",
       "score": "4-6 6-4 7-5",
-      "matchId": "RES-46DF9B958D",
+      "matchId": "RES-0D43B99C62",
       "reason": null,
       "playerName": "Damir Dzumhur",
-      "opponentName": "Aleksandr Shevchenko",
-      "opponentKey": "aleksandrshevchenko",
+      "opponentName": "Alexander Shevchenko",
+      "opponentKey": "alexandershevchenko",
       "result": "L",
       "playerRank": 66,
-      "opponentRank": 104,
+      "opponentRank": null,
       "rankingDate": "2026-01-12",
       "rankingNote": "historical_week"
     },

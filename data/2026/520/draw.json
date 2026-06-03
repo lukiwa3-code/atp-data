@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:03:29.262213+00:00",
+  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -70,15 +70,15 @@
           "bracketOrder": 1,
           "round": "SF",
           "roundLong": "Semifinals",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "M. Arnaldi",
+          "player1FullName": "Matteo Arnaldi",
+          "player1Id": "A0FC",
+          "player1Country": "ITA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "F. Cobolli",
+          "player2FullName": "Flavio Cobolli",
+          "player2Id": "C0E9",
+          "player2Country": "ITA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -116,14 +116,20 @@
           "player1FullName": "Matteo Berrettini",
           "player1Id": "BK40",
           "player1Country": "ITA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "5",
+            "2"
+          ],
           "player2": "M. Arnaldi",
           "player2FullName": "Matteo Arnaldi",
           "player2Id": "A0FC",
           "player2Country": "ITA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "5"
+          ],
+          "winnerName": "Matteo Arnaldi",
+          "formattedScore": "7 5"
         },
         {
           "bracketOrder": 2,
@@ -133,14 +139,24 @@
           "player1FullName": "Felix Auger Aliassime",
           "player1Id": "AG37",
           "player1Country": "CAN",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "4",
+            "4"
+          ],
           "player2": "F. Cobolli",
           "player2FullName": "Flavio Cobolli",
           "player2Id": "C0E9",
           "player2Country": "ITA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "6",
+            "6",
+            "6"
+          ],
+          "winnerName": "Flavio Cobolli",
+          "formattedScore": "4-6 6-4 6-4 6-4"
         },
         {
           "bracketOrder": 3,

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:03:29.262213+00:00",
+  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "F. Auger-Aliassime",
     "playerId": "AG37"
   },
-  "count": 71,
+  "count": 72,
   "matches": [
+    {
+      "date": "Wed, 03 June, 2026",
+      "dateIso": "2026-06-03",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "tournamentDate": "24 May - 7 Jun, 2026",
+      "tournamentStartDate": "2026-05-24",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "Clay",
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "score": "4-6 6-4 6-4 6-4",
+      "matchId": "RES-D1526DEB41",
+      "reason": null,
+      "playerName": "Felix Auger-Aliassime",
+      "opponentName": "Flavio Cobolli",
+      "opponentKey": "flaviocobolli",
+      "result": "L",
+      "playerRank": 6,
+      "opponentRank": 14,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 01 June, 2026",
       "dateIso": "2026-06-01",
