@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T11:14:20.655951+00:00",
+  "generatedAt": "2026-06-03T17:03:29.262213+00:00",
   "source": "https://www.atptour.com/en/scores/archive/australian-open/580/2026/results",
   "tournament": {
     "id": "580",
@@ -755,14 +755,14 @@
       "bracketOrder": 11
     },
     {
-      "matchId": "RES-5E27ED27DC",
+      "matchId": "RES-BEC888DE6B",
       "date": "Wed, 21 January, 2026",
       "round": "R64",
       "roundLong": "Round of 64",
       "playerId": "",
       "playerName": "Learner Tien",
       "opponentId": "",
-      "opponentName": "Alexander Shevchenko",
+      "opponentName": "Aleksandr Shevchenko",
       "winnerPlayerId": "",
       "winnerName": "Learner Tien",
       "isPlayerWinner": true,
@@ -1529,16 +1529,16 @@
       "bracketOrder": 23
     },
     {
-      "matchId": "RES-56795A8EEF",
+      "matchId": "RES-79C2544DDC",
       "date": "Mon, 19 January, 2026",
       "round": "R128",
       "roundLong": "Round of 128",
       "playerId": "",
-      "playerName": "Alexander Shevchenko",
+      "playerName": "Aleksandr Shevchenko",
       "opponentId": "",
       "opponentName": "Elias Ymer",
       "winnerPlayerId": "",
-      "winnerName": "Alexander Shevchenko",
+      "winnerName": "Aleksandr Shevchenko",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,

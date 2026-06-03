@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T11:14:20.655951+00:00",
+  "generatedAt": "2026-06-03T17:03:29.262213+00:00",
   "source": "https://www.atptour.com/en/scores/archive/brisbane/2967/2026/results",
   "tournament": {
     "id": "2967",
@@ -649,14 +649,14 @@
       "bracketOrder": 3
     },
     {
-      "matchId": "RES-3F3DD4A389",
+      "matchId": "RES-D06F3A8A3C",
       "date": "Mon, 02 February, 2026",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
       "playerName": "Pavle Marinkov",
       "opponentId": "",
-      "opponentName": "Nikita Belozertsev",
+      "opponentName": "Nikita Bilozertsev",
       "winnerPlayerId": "",
       "winnerName": "Pavle Marinkov",
       "isPlayerWinner": true,
@@ -829,21 +829,21 @@
       "bracketOrder": 7
     },
     {
-      "matchId": "RES-77C015E0C0",
+      "matchId": "RES-9608CF8860",
       "date": "Sun, 01 February, 2026",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
-      "playerName": "Nikita Belozertsev",
+      "playerName": "Nikita Bilozertsev",
       "opponentId": "",
       "opponentName": "Duje Markovina",
       "winnerPlayerId": "",
-      "winnerName": "Nikita Belozertsev",
+      "winnerName": "Nikita Bilozertsev",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "6-2 6-1",
-      "sourceText": "Game Set and Match Nikita Belozertsev. Nikita Belozertsev wins the match 6-2 6-1 .",
+      "sourceText": "Game Set and Match Nikita Bilozertsev. Nikita Bilozertsev wins the match 6-2 6-1 .",
       "bracketOrder": 8
     },
     {

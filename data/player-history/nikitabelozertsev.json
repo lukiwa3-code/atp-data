@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T11:14:20.655951+00:00",
+  "generatedAt": "2026-06-03T17:03:29.262213+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "N. Belozertsev",
     "playerId": "B0V0"
   },
-  "count": 6,
+  "count": 4,
   "matches": [
     {
       "date": "Mon, 27 April, 2026",
@@ -83,56 +83,6 @@
       "playerRank": 793,
       "opponentRank": 378,
       "rankingDate": "2026-03-16",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Mon, 02 February, 2026",
-      "dateIso": "2026-02-02",
-      "tournamentId": "2967",
-      "tournamentYear": "2026",
-      "tournamentName": "Brisbane Tennis International #1",
-      "tournamentType": "CH",
-      "tournamentDate": "2-8 Feb, 2026",
-      "tournamentStartDate": "2026-02-02",
-      "tournamentEndDate": "2026-02-08",
-      "surface": "",
-      "round": "Q2",
-      "roundLong": "2nd Round Qualifying",
-      "score": "6-3 6-4",
-      "matchId": "RES-3F3DD4A389",
-      "reason": null,
-      "playerName": "Nikita Belozertsev",
-      "opponentName": "Pavle Marinkov",
-      "opponentKey": "pavlemarinkov",
-      "result": "L",
-      "playerRank": 805,
-      "opponentRank": 590,
-      "rankingDate": "2026-02-02",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Sun, 01 February, 2026",
-      "dateIso": "2026-02-01",
-      "tournamentId": "2967",
-      "tournamentYear": "2026",
-      "tournamentName": "Brisbane Tennis International #1",
-      "tournamentType": "CH",
-      "tournamentDate": "2-8 Feb, 2026",
-      "tournamentStartDate": "2026-02-02",
-      "tournamentEndDate": "2026-02-08",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-2 6-1",
-      "matchId": "RES-77C015E0C0",
-      "reason": null,
-      "playerName": "Nikita Belozertsev",
-      "opponentName": "Duje Markovina",
-      "opponentKey": "dujemarkovina",
-      "result": "W",
-      "playerRank": 786,
-      "opponentRank": 1178,
-      "rankingDate": "2026-01-26",
       "rankingNote": "historical_week"
     },
     {
