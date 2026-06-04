@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
-  "count": 1955,
+  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
+  "count": 1953,
   "items": [
     {
       "key": "1al",
@@ -1025,7 +1025,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 69,
+      "count": 75,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -1385,7 +1385,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 10,
+      "count": 4,
       "path": "data/player-history/alexandershevchenko.json"
     },
     {
@@ -12761,17 +12761,8 @@
       "displayName": "N. Belozertsev",
       "playerId": "B0V0",
       "rank": 882,
-      "count": 4,
+      "count": 6,
       "path": "data/player-history/nikitabelozertsev.json"
-    },
-    {
-      "key": "nikitabilozertsev",
-      "name": "Nikita Bilozertsev",
-      "displayName": "Nikita Bilozertsev",
-      "playerId": "",
-      "rank": null,
-      "count": 2,
-      "path": "data/player-history/nikitabilozertsev.json"
     },
     {
       "key": "nikitamashtakov",
@@ -15371,7 +15362,7 @@
       "displayName": "Simone Rossolino",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/simonerossolino.json"
     },
     {
@@ -17029,15 +17020,6 @@
       "rank": null,
       "count": 2,
       "path": "data/player-history/xxxxxxxchelia.json"
-    },
-    {
-      "key": "xxxxxxxrossolino",
-      "name": "XXXXXXX Rossolino",
-      "displayName": "XXXXXXX Rossolino",
-      "playerId": "",
-      "rank": null,
-      "count": 1,
-      "path": "data/player-history/xxxxxxxrossolino.json"
     },
     {
       "key": "xxxxxxxtran",

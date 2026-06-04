@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
+  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -49,14 +49,14 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-3 6-2",
-      "matchId": "RES-EF417AB32F",
+      "matchId": "RES-25A8875C81",
       "reason": null,
       "playerName": "Carlos Taberner",
-      "opponentName": "Alexander Shevchenko",
-      "opponentKey": "alexandershevchenko",
+      "opponentName": "Aleksandr Shevchenko",
+      "opponentKey": "aleksandrshevchenko",
       "result": "L",
       "playerRank": 98,
-      "opponentRank": null,
+      "opponentRank": 104,
       "rankingDate": "2026-01-12",
       "rankingNote": "historical_week"
     },

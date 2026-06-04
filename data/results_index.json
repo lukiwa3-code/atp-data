@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
+  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
   "count": 412,
   "items": [
     {
@@ -141,7 +141,7 @@
       "year": "2025",
       "id": "328",
       "name": "Swiss Indoors Basel",
-      "players": 40,
+      "players": 0,
       "matches": 36,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -4686,7 +4686,7 @@
       "year": "2026",
       "id": "3095",
       "name": "Cervia, Italy |",
-      "players": 0,
+      "players": 49,
       "matches": 49,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -4806,7 +4806,7 @@
       "year": "2026",
       "id": "2981",
       "name": "AAT Challenger IEB+ Edicion Córdoba",
-      "players": 0,
+      "players": 48,
       "matches": 47,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -4926,7 +4926,7 @@
       "year": "2026",
       "id": "7009",
       "name": "Open Aix Provence Crédit Agricole",
-      "players": 39,
+      "players": 0,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -5543,14 +5543,14 @@
       "name": "Arizona Tennis Classic",
       "players": 40,
       "matches": 39,
-      "drawRounds": 0,
-      "drawMatches": 0,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "circuit": "challenger",
       "circuitLabel": "ATP Challenger",
       "matchesPath": "data/2026/9167/matches.json",
       "drawPath": "data/2026/9167/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/phoenix/9167/2026/results",
-      "drawSource": null
+      "drawSource": "https://www.atptour.com/en/scores/archive/phoenix/9167/2026/draws"
     },
     {
       "year": "2026",

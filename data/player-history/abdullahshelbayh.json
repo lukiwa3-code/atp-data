@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
+  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -549,10 +549,10 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "7-6(10) 0-0 RET",
-      "matchId": "RES-671B5E81D9",
+      "matchId": "RES-3B2E395B17",
       "reason": null,
       "playerName": "Abdullah Shelbayh",
-      "opponentName": "Digvijay Pratap Singh",
+      "opponentName": "Digvijaypratap Singh",
       "opponentKey": "digvijaypratapsingh",
       "result": "L",
       "playerRank": 299,

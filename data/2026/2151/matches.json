@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
+  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rome/2151/2026/results",
   "tournament": {
     "id": "2151",
@@ -775,14 +775,14 @@
       "bracketOrder": 4
     },
     {
-      "matchId": "RES-D5FB0452BC",
+      "matchId": "RES-EF31412ACE",
       "date": "Sun, 19 April, 2026",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
       "playerName": "Jonas Forejtek",
       "opponentId": "",
-      "opponentName": "XXXXXXX Rossolino",
+      "opponentName": "Simone Rossolino",
       "winnerPlayerId": "",
       "winnerName": "Jonas Forejtek",
       "isPlayerWinner": true,

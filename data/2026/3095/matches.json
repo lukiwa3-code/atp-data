@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T11:14:20.655951+00:00",
+  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
   "source": "https://www.atptour.com/en/scores/archive/cervia/3095/2026/results",
   "tournament": {
     "id": "3095",
@@ -918,7 +918,5 @@
       "sourceText": "Game Set and Match Manuel Mazza. Manuel Mazza wins the match 3-6 6-2 6-3 .",
       "bracketOrder": 12
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-06-03T21:23:51.154189+00:00"
+  ]
 }

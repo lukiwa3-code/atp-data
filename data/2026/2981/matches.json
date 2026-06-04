@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T11:14:20.655951+00:00",
+  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
   "source": "https://www.atptour.com/en/scores/archive/cordoba/2981/2026/results",
   "tournament": {
     "id": "2981",
@@ -882,7 +882,5 @@
       "sourceText": "Game Set and Match Benjamin Chelía. Benjamin Chelía wins the match 4-6 6-4 7-6(4).",
       "bracketOrder": 10
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-06-03T21:23:51.154189+00:00"
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T21:23:51.154189+00:00",
+  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
   "source": "https://www.atptour.com/en/scores/archive/oeiras/2833/2026/results",
   "tournament": {
     "id": "2833",
@@ -649,14 +649,14 @@
       "bracketOrder": 3
     },
     {
-      "matchId": "RES-2A534F8B5A",
+      "matchId": "RES-2D1FC81539",
       "date": "Mon, 26 January, 2026",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
       "playerName": "Diego Dedura",
       "opponentId": "",
-      "opponentName": "Digvijay Pratap Singh",
+      "opponentName": "Digvijaypratap Singh",
       "winnerPlayerId": "",
       "winnerName": "Diego Dedura",
       "isPlayerWinner": true,
@@ -829,21 +829,21 @@
       "bracketOrder": 7
     },
     {
-      "matchId": "RES-671B5E81D9",
+      "matchId": "RES-3B2E395B17",
       "date": "Sun, 25 January, 2026",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
-      "playerName": "Digvijay Pratap Singh",
+      "playerName": "Digvijaypratap Singh",
       "opponentId": "",
       "opponentName": "Abdullah Shelbayh",
       "winnerPlayerId": "",
-      "winnerName": "Digvijay Pratap Singh",
+      "winnerName": "Digvijaypratap Singh",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "7-6(10) 0-0 RET",
-      "sourceText": "Game Set and Match Digvijay Pratap Singh. Digvijay Pratap Singh wins the match 7-6(10) 0-0 RET.",
+      "sourceText": "Game Set and Match Digvijaypratap Singh. Digvijaypratap Singh wins the match 7-6(10) 0-0 RET.",
       "bracketOrder": 8
     },
     {
