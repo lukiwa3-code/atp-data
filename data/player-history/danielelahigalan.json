@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
+  "generatedAt": "2026-06-04T10:07:05.420099+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -1199,11 +1199,11 @@
       "round": "R32",
       "roundLong": "Round of 32",
       "score": "2-6 6-3 6-4",
-      "matchId": "RES-254045B2A6",
+      "matchId": "RES-DD6552992F",
       "reason": null,
       "playerName": "Daniel Elahi Galan",
-      "opponentName": "Aleksandr Shevchenko",
-      "opponentKey": "aleksandrshevchenko",
+      "opponentName": "Alexander Shevchenko",
+      "opponentKey": "alexandershevchenko",
       "result": "L",
       "playerRank": null,
       "opponentRank": null,

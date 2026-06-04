@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
+  "generatedAt": "2026-06-04T10:07:05.420099+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -374,14 +374,14 @@
       "round": "R128",
       "roundLong": "Round of 128",
       "score": "3-6 7-5 6-4 6-1",
-      "matchId": "RES-79C2544DDC",
+      "matchId": "RES-56795A8EEF",
       "reason": null,
       "playerName": "Elias Ymer",
-      "opponentName": "Aleksandr Shevchenko",
-      "opponentKey": "aleksandrshevchenko",
+      "opponentName": "Alexander Shevchenko",
+      "opponentKey": "alexandershevchenko",
       "result": "L",
       "playerRank": 175,
-      "opponentRank": 97,
+      "opponentRank": null,
       "rankingDate": "2026-01-19",
       "rankingNote": "historical_week"
     },

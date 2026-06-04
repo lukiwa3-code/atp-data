@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
+  "generatedAt": "2026-06-04T10:07:05.420099+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -324,14 +324,14 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-0 0-0 RET",
-      "matchId": "RES-5A3DE900A9",
+      "matchId": "RES-996FE599F6",
       "reason": null,
       "playerName": "Andrea Pellegrino",
-      "opponentName": "Alexander Shevchenko",
-      "opponentKey": "alexandershevchenko",
+      "opponentName": "Aleksandr Shevchenko",
+      "opponentKey": "aleksandrshevchenko",
       "result": "L",
       "playerRank": 130,
-      "opponentRank": null,
+      "opponentRank": 76,
       "rankingDate": "2026-03-30",
       "rankingNote": "historical_week"
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
+  "generatedAt": "2026-06-04T10:07:05.420099+00:00",
   "count": 412,
   "items": [
     {
@@ -68,14 +68,14 @@
       "name": "EFG Swiss Open Gstaad",
       "players": 39,
       "matches": 33,
-      "drawRounds": 5,
-      "drawMatches": 31,
+      "drawRounds": 0,
+      "drawMatches": 0,
       "circuit": "tour",
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2025/314/matches.json",
       "drawPath": "data/2025/314/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/gstaad/314/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/gstaad/314/2025/draws"
+      "drawSource": null
     },
     {
       "year": "2025",
@@ -1056,7 +1056,7 @@
       "year": "2026",
       "id": "6932",
       "name": "Rio Open presented by Claro",
-      "players": 40,
+      "players": 0,
       "matches": 43,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -2692,7 +2692,7 @@
       "id": "8392",
       "name": "Todi",
       "players": 49,
-      "matches": 41,
+      "matches": 40,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "challenger",
@@ -4926,7 +4926,7 @@
       "year": "2026",
       "id": "7009",
       "name": "Open Aix Provence Crédit Agricole",
-      "players": 0,
+      "players": 39,
       "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,

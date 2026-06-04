@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-04T04:49:13.685922+00:00",
-  "count": 1953,
+  "generatedAt": "2026-06-04T10:07:05.420099+00:00",
+  "count": 1954,
   "items": [
     {
       "key": "1al",
@@ -1025,7 +1025,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 75,
+      "count": 74,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -1385,7 +1385,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 4,
+      "count": 5,
       "path": "data/player-history/alexandershevchenko.json"
     },
     {
@@ -1771,7 +1771,7 @@
       "name": "Andrea De Marchi",
       "displayName": "Andrea De Marchi",
       "playerId": "",
-      "rank": null,
+      "rank": 1046,
       "count": 2,
       "path": "data/player-history/andreademarchi.json"
     },
@@ -6190,7 +6190,7 @@
       "name": "Gabriele Bosio",
       "displayName": "Gabriele Bosio",
       "playerId": "",
-      "rank": null,
+      "rank": 828,
       "count": 3,
       "path": "data/player-history/gabrielebosio.json"
     },
@@ -6460,7 +6460,7 @@
       "name": "Gianmarco Ferrari",
       "displayName": "G. Ferrari",
       "playerId": "F0CJ",
-      "rank": null,
+      "rank": 468,
       "count": 11,
       "path": "data/player-history/gianmarcoferrari.json"
     },
@@ -6523,7 +6523,7 @@
       "name": "Giorgio Tabacco",
       "displayName": "G. Tabacco",
       "playerId": "T0FK",
-      "rank": null,
+      "rank": 815,
       "count": 7,
       "path": "data/player-history/giorgiotabacco.json"
     },
@@ -10015,7 +10015,7 @@
       "name": "Lorenzo Angelini",
       "displayName": "L. Angelini",
       "playerId": "A0HZ",
-      "rank": null,
+      "rank": 777,
       "count": 8,
       "path": "data/player-history/lorenzoangelini.json"
     },
@@ -15362,7 +15362,7 @@
       "displayName": "Simone Rossolino",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 1,
       "path": "data/player-history/simonerossolino.json"
     },
     {
@@ -15533,7 +15533,7 @@
       "displayName": "S. Travaglia",
       "playerId": "TA12",
       "rank": null,
-      "count": 80,
+      "count": 79,
       "path": "data/player-history/stefanotravaglia.json"
     },
     {
@@ -16145,7 +16145,7 @@
       "displayName": "T. Skatov",
       "playerId": "S0GR",
       "rank": null,
-      "count": 83,
+      "count": 82,
       "path": "data/player-history/timofeyskatov.json"
     },
     {
@@ -17020,6 +17020,15 @@
       "rank": null,
       "count": 2,
       "path": "data/player-history/xxxxxxxchelia.json"
+    },
+    {
+      "key": "xxxxxxxrossolino",
+      "name": "XXXXXXX Rossolino",
+      "displayName": "XXXXXXX Rossolino",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/xxxxxxxrossolino.json"
     },
     {
       "key": "xxxxxxxtran",
