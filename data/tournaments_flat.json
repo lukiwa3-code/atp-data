@@ -4,7 +4,7 @@
     2025,
     2026
   ],
-  "generatedAt": "2026-06-04T15:31:34.769262+00:00",
+  "generatedAt": "2026-06-04T20:13:06.168180+00:00",
   "count": 446,
   "note": "Turnieje ATP Tour i Challenger są zapisane po wzbogaceniu o oryginalne zakresy dat z ATP, np. tournamentStartDate/tournamentEndDate. Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów mogła zostać utworzona jako archive fallback.",
   "tournaments": [
@@ -2101,7 +2101,7 @@
       "year": "2026",
       "name": "Morelia Open",
       "location": "",
-      "date": "23 - 28 March, 2026",
+      "date": "23-28 Mar, 2026",
       "month": "",
       "isLive": false,
       "isPastEvent": true,
@@ -2918,7 +2918,7 @@
       "year": "2026",
       "name": "Rio Open presented by Claro",
       "location": "Rio de Janeiro, Brazil",
-      "date": "16 - 22 February, 2026",
+      "date": "16-22 Feb, 2026",
       "month": "February, 2026",
       "isLive": false,
       "isPastEvent": true,

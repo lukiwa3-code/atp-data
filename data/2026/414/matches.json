@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T15:31:34.769262+00:00",
+  "generatedAt": "2026-06-04T20:13:06.168180+00:00",
   "source": "https://www.atptour.com/en/scores/archive/hamburg/414/2026/results",
   "tournament": {
     "id": "414",
@@ -49,7 +49,7 @@
       "matchState": "F",
       "reason": null,
       "formattedScore": "7-6(6) 4-6 6-3",
-      "sourceText": "Parsed from displayed score numbers",
+      "sourceText": "Game Set and Match Ignacio Buse. Ignacio Buse wins the match 7-6(6) 4-6 6-3 .",
       "bracketOrder": 1
     },
     {

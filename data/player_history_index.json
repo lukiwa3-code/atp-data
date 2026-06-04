@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-04T15:31:34.769262+00:00",
-  "count": 1954,
+  "generatedAt": "2026-06-04T20:13:06.168180+00:00",
+  "count": 1953,
   "items": [
     {
       "key": "1al",
@@ -1025,7 +1025,7 @@
       "displayName": "A. Shevchenko",
       "playerId": "S0H2",
       "rank": null,
-      "count": 76,
+      "count": 79,
       "path": "data/player-history/aleksandrshevchenko.json"
     },
     {
@@ -1378,15 +1378,6 @@
       "rank": null,
       "count": 3,
       "path": "data/player-history/alexanderrozin.json"
-    },
-    {
-      "key": "alexandershevchenko",
-      "name": "Alexander Shevchenko",
-      "displayName": "A. Shevchenko",
-      "playerId": "S0H2",
-      "rank": null,
-      "count": 3,
-      "path": "data/player-history/alexandershevchenko.json"
     },
     {
       "key": "alexandervasilev",
@@ -1771,7 +1762,7 @@
       "name": "Andrea De Marchi",
       "displayName": "Andrea De Marchi",
       "playerId": "",
-      "rank": 1046,
+      "rank": null,
       "count": 2,
       "path": "data/player-history/andreademarchi.json"
     },
@@ -6190,7 +6181,7 @@
       "name": "Gabriele Bosio",
       "displayName": "Gabriele Bosio",
       "playerId": "",
-      "rank": 828,
+      "rank": null,
       "count": 3,
       "path": "data/player-history/gabrielebosio.json"
     },
@@ -6460,7 +6451,7 @@
       "name": "Gianmarco Ferrari",
       "displayName": "G. Ferrari",
       "playerId": "F0CJ",
-      "rank": 468,
+      "rank": null,
       "count": 11,
       "path": "data/player-history/gianmarcoferrari.json"
     },
@@ -6523,7 +6514,7 @@
       "name": "Giorgio Tabacco",
       "displayName": "G. Tabacco",
       "playerId": "T0FK",
-      "rank": 815,
+      "rank": null,
       "count": 7,
       "path": "data/player-history/giorgiotabacco.json"
     },
@@ -10015,7 +10006,7 @@
       "name": "Lorenzo Angelini",
       "displayName": "L. Angelini",
       "playerId": "A0HZ",
-      "rank": 777,
+      "rank": null,
       "count": 8,
       "path": "data/player-history/lorenzoangelini.json"
     },
@@ -15533,7 +15524,7 @@
       "displayName": "S. Travaglia",
       "playerId": "TA12",
       "rank": null,
-      "count": 79,
+      "count": 80,
       "path": "data/player-history/stefanotravaglia.json"
     },
     {
@@ -16145,7 +16136,7 @@
       "displayName": "T. Skatov",
       "playerId": "S0GR",
       "rank": null,
-      "count": 82,
+      "count": 83,
       "path": "data/player-history/timofeyskatov.json"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T15:31:34.769262+00:00",
+  "generatedAt": "2026-06-04T20:13:06.168180+00:00",
   "source": "https://www.atptour.com/en/scores/archive/munich/308/2026/results",
   "tournament": {
     "id": "308",
@@ -49,7 +49,7 @@
       "matchState": "F",
       "reason": null,
       "formattedScore": "6-2 7-5",
-      "sourceText": "Parsed from displayed score numbers",
+      "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 6-2 7-5 .",
       "bracketOrder": 1
     },
     {
@@ -701,14 +701,14 @@
       "bracketOrder": 2
     },
     {
-      "matchId": "RES-2BB0B0B952",
+      "matchId": "RES-4898FC5BA3",
       "date": "Sat, 11 April, 2026",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
       "playerName": "Diego Dedura",
       "opponentId": "",
-      "opponentName": "Alexander Shevchenko",
+      "opponentName": "Aleksandr Shevchenko",
       "winnerPlayerId": "",
       "winnerName": "Diego Dedura",
       "isPlayerWinner": true,

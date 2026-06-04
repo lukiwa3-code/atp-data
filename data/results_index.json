@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T15:31:34.769262+00:00",
+  "generatedAt": "2026-06-04T20:13:06.168180+00:00",
   "count": 412,
   "items": [
     {
@@ -141,7 +141,7 @@
       "year": "2025",
       "id": "328",
       "name": "Swiss Indoors Basel",
-      "players": 0,
+      "players": 40,
       "matches": 36,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -1056,7 +1056,7 @@
       "year": "2026",
       "id": "6932",
       "name": "Rio Open presented by Claro",
-      "players": 0,
+      "players": 40,
       "matches": 43,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -2692,7 +2692,7 @@
       "id": "8392",
       "name": "Todi",
       "players": 49,
-      "matches": 40,
+      "matches": 41,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "challenger",
@@ -2834,7 +2834,7 @@
       "circuitLabel": "ATP Challenger",
       "matchesPath": "data/2025/6795/matches.json",
       "drawPath": "data/2025/6795/draw.json",
-      "source": "https://www.atptour.com/en/scores/archive/liberec/6795/2025/results",
+      "source": "https://www.atptour.com/en/scores/current/liberec/6795/results",
       "drawSource": "https://www.atptour.com/en/scores/archive/liberec/6795/2025/draws"
     },
     {
@@ -5376,7 +5376,7 @@
       "year": "2026",
       "id": "2991",
       "name": "Morelia Open",
-      "players": 0,
+      "players": 48,
       "matches": 49,
       "drawRounds": 5,
       "drawMatches": 31,
@@ -5543,14 +5543,14 @@
       "name": "Arizona Tennis Classic",
       "players": 40,
       "matches": 39,
-      "drawRounds": 0,
-      "drawMatches": 0,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "circuit": "challenger",
       "circuitLabel": "ATP Challenger",
       "matchesPath": "data/2026/9167/matches.json",
       "drawPath": "data/2026/9167/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/phoenix/9167/2026/results",
-      "drawSource": null
+      "drawSource": "https://www.atptour.com/en/scores/archive/phoenix/9167/2026/draws"
     },
     {
       "year": "2026",
