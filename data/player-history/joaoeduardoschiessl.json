@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
+  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "J. Schiessl",
     "playerId": "S0T1"
   },
-  "count": 34,
+  "count": 33,
   "matches": [
     {
       "date": "Fri, 08 May, 2026",
@@ -780,31 +780,6 @@
       "opponentName": "Pedro Rodrigues Longobardi",
       "opponentKey": "pedrorodrigueslongobardi",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2927",
-      "tournamentYear": "2025",
-      "tournamentName": "San Miguel de Tucuman",
-      "tournamentType": "CH",
-      "tournamentDate": "21-27 Apr, 2025",
-      "tournamentStartDate": "2025-04-21",
-      "tournamentEndDate": "2025-04-27",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-3 6-4",
-      "matchId": "RES-C41DDF1E8C",
-      "reason": null,
-      "playerName": "Joao Eduardo Schiessl",
-      "opponentName": "Lautaro Midon",
-      "opponentKey": "lautaromidon",
-      "result": "L",
       "playerRank": null,
       "opponentRank": null,
       "rankingDate": "",

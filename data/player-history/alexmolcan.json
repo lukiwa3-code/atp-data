@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
+  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "A. Molcan",
     "playerId": "MV14"
   },
-  "count": 49,
+  "count": 48,
   "matches": [
     {
       "date": "Wed, 20 May, 2026",
@@ -1155,31 +1155,6 @@
       "opponentName": "Robert Strombachs",
       "opponentKey": "robertstrombachs",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "9003",
-      "tournamentYear": "2025",
-      "tournamentName": "Bratislava",
-      "tournamentType": "CH",
-      "tournamentDate": "9-15 Jun, 2025",
-      "tournamentStartDate": "2025-06-09",
-      "tournamentEndDate": "2025-06-15",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-3 3-6 6-3",
-      "matchId": "RES-FC2DFEB1DC",
-      "reason": null,
-      "playerName": "Alex Molcan",
-      "opponentName": "Valentin Vacherot",
-      "opponentKey": "valentinvacherot",
-      "result": "L",
       "playerRank": null,
       "opponentRank": null,
       "rankingDate": "",

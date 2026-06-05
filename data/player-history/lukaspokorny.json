@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
+  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "L. Pokorny",
     "playerId": "P0HP"
   },
-  "count": 42,
+  "count": 41,
   "matches": [
     {
       "date": "Wed, 27 May, 2026",
@@ -1030,31 +1030,6 @@
       "opponentName": "Pierre Antoine Faut",
       "opponentKey": "pierreantoinefaut",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "9003",
-      "tournamentYear": "2025",
-      "tournamentName": "Bratislava",
-      "tournamentType": "CH",
-      "tournamentDate": "9-15 Jun, 2025",
-      "tournamentStartDate": "2025-06-09",
-      "tournamentEndDate": "2025-06-15",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-3 4-6 7-6(2)",
-      "matchId": "RES-11358BF50F",
-      "reason": null,
-      "playerName": "Lukas Pokorny",
-      "opponentName": "Toby Kodat",
-      "opponentKey": "tobykodat",
-      "result": "L",
       "playerRank": null,
       "opponentRank": null,
       "rankingDate": "",

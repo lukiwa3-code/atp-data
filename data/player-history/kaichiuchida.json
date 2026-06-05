@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
+  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "K. Uchida",
     "playerId": "U120"
   },
-  "count": 42,
+  "count": 41,
   "matches": [
     {
       "date": "Tue, 19 May, 2026",
@@ -879,31 +879,6 @@
       "playerName": "Kaichi Uchida",
       "opponentName": "Aleksandre Bakshi",
       "opponentKey": "aleksandrebakshi",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "7536",
-      "tournamentYear": "2025",
-      "tournamentName": "Lyon",
-      "tournamentType": "CH",
-      "tournamentDate": "9-15 Jun, 2025",
-      "tournamentStartDate": "2025-06-09",
-      "tournamentEndDate": "2025-06-15",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-1 6-2",
-      "matchId": "RES-FEF2704D16",
-      "reason": null,
-      "playerName": "Kaichi Uchida",
-      "opponentName": "Kilian Feldbausch",
-      "opponentKey": "kilianfeldbausch",
       "result": "L",
       "playerRank": null,
       "opponentRank": null,

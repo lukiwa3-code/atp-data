@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
-  "count": 412,
+  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
+  "count": 410,
   "items": [
     {
       "year": "2025",
@@ -359,8 +359,8 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2025/418/matches.json",
       "drawPath": "data/2025/418/draw.json",
-      "source": "https://www.atptour.com/en/scores/archive/washington/418/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/washington/418/2025/draws"
+      "source": "https://www.atptour.com/en/scores/archive/washington----------------------------------------/418/2025/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/washington----------------------------------------/418/2025/draws"
     },
     {
       "year": "2025",
@@ -629,8 +629,8 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2025/540/matches.json",
       "drawPath": "data/2025/540/draw.json",
-      "source": "https://www.atptour.com/en/scores/archive/wimbledon-----------------------------------------/540/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/wimbledon-----------------------------------------/540/2025/draws"
+      "source": "https://www.atptour.com/en/scores/archive/wimbledon/540/2025/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/wimbledon/540/2025/draws"
     },
     {
       "year": "2025",
@@ -1276,6 +1276,36 @@
       "drawPath": "data/2026/336/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/results",
       "drawSource": "https://www.atptour.com/en/scores/archive/hong-kong/336/2026/draws"
+    },
+    {
+      "year": "2026",
+      "id": "321",
+      "name": "BOSS OPEN",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 0,
+      "drawMatches": 0,
+      "circuit": "tour",
+      "circuitLabel": "ATP Tour",
+      "matchesPath": "data/2026/321/matches.json",
+      "drawPath": "data/2026/321/draw.json",
+      "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
+      "drawSource": null
+    },
+    {
+      "year": "2026",
+      "id": "440",
+      "name": "Libema Open",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 0,
+      "drawMatches": 0,
+      "circuit": "tour",
+      "circuitLabel": "ATP Tour",
+      "matchesPath": "data/2026/440/matches.json",
+      "drawPath": "data/2026/440/draw.json",
+      "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
+      "drawSource": null
     },
     {
       "year": "2026",
@@ -3274,51 +3304,6 @@
     },
     {
       "year": "2025",
-      "id": "7536",
-      "name": "Lyon",
-      "players": 50,
-      "matches": 41,
-      "drawRounds": 5,
-      "drawMatches": 31,
-      "circuit": "challenger",
-      "circuitLabel": "ATP Challenger",
-      "matchesPath": "data/2025/7536/matches.json",
-      "drawPath": "data/2025/7536/draw.json",
-      "source": "https://www.atptour.com/en/scores/archive/lyon/7536/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/lyon/7536/2025/draws"
-    },
-    {
-      "year": "2025",
-      "id": "9005",
-      "name": "Ilkley",
-      "players": 50,
-      "matches": 43,
-      "drawRounds": 5,
-      "drawMatches": 31,
-      "circuit": "challenger",
-      "circuitLabel": "ATP Challenger",
-      "matchesPath": "data/2025/9005/matches.json",
-      "drawPath": "data/2025/9005/draw.json",
-      "source": "https://www.atptour.com/en/scores/archive/ilkley/9005/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/ilkley/9005/2025/draws"
-    },
-    {
-      "year": "2025",
-      "id": "9003",
-      "name": "Bratislava",
-      "players": 48,
-      "matches": 42,
-      "drawRounds": 5,
-      "drawMatches": 31,
-      "circuit": "challenger",
-      "circuitLabel": "ATP Challenger",
-      "matchesPath": "data/2025/9003/matches.json",
-      "drawPath": "data/2025/9003/draw.json",
-      "source": "https://www.atptour.com/en/scores/archive/bratislava/9003/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/bratislava/9003/2025/draws"
-    },
-    {
-      "year": "2025",
       "id": "7015",
       "name": "Vicenza",
       "players": 49,
@@ -3646,21 +3631,6 @@
       "drawPath": "data/2025/5067/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/savannah/5067/2025/results",
       "drawSource": "https://www.atptour.com/en/scores/archive/savannah/5067/2025/draws"
-    },
-    {
-      "year": "2025",
-      "id": "2927",
-      "name": "San Miguel de Tucuman",
-      "players": 49,
-      "matches": 42,
-      "drawRounds": 5,
-      "drawMatches": 31,
-      "circuit": "challenger",
-      "circuitLabel": "ATP Challenger",
-      "matchesPath": "data/2025/2927/matches.json",
-      "drawPath": "data/2025/2927/draw.json",
-      "source": "https://www.atptour.com/en/scores/archive/san-miguel-de-tucuman/2927/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/san-miguel-de-tucuman/2927/2025/draws"
     },
     {
       "year": "2025",

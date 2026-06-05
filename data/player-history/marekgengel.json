@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
+  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "M. Gengel",
     "playerId": "G09C"
   },
-  "count": 52,
+  "count": 51,
   "matches": [
     {
       "date": "Mon, 02 March, 2026",
@@ -970,7 +970,7 @@
       "tournamentDate": "21-27 Jul, 2025",
       "tournamentStartDate": "2025-07-21",
       "tournamentEndDate": "2025-07-27",
-      "surface": "Hard",
+      "surface": "Hard      ",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 7-5",
@@ -1230,31 +1230,6 @@
       "opponentName": "Naoki Nakagawa",
       "opponentKey": "naokinakagawa",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "9003",
-      "tournamentYear": "2025",
-      "tournamentName": "Bratislava",
-      "tournamentType": "CH",
-      "tournamentDate": "9-15 Jun, 2025",
-      "tournamentStartDate": "2025-06-09",
-      "tournamentEndDate": "2025-06-15",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-2 6-2",
-      "matchId": "RES-A922129C58",
-      "reason": null,
-      "playerName": "Marek Gengel",
-      "opponentName": "Facundo Mena",
-      "opponentKey": "facundomena",
-      "result": "L",
       "playerRank": null,
       "opponentRank": null,
       "rankingDate": "",

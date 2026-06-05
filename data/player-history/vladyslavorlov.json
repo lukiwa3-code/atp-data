@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
+  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "V. Orlov",
     "playerId": "O659"
   },
-  "count": 33,
+  "count": 32,
   "matches": [
     {
       "date": "Mon, 18 May, 2026",
@@ -508,31 +508,6 @@
       "playerRank": 457,
       "opponentRank": 448,
       "rankingDate": "2025-11-17",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2927",
-      "tournamentYear": "2025",
-      "tournamentName": "San Miguel de Tucuman",
-      "tournamentType": "CH",
-      "tournamentDate": "21-27 Apr, 2025",
-      "tournamentStartDate": "2025-04-21",
-      "tournamentEndDate": "2025-04-27",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-4 6-4",
-      "matchId": "RES-96F8D0B048",
-      "reason": null,
-      "playerName": "Vladyslav Orlov",
-      "opponentName": "Valerio Aboian",
-      "opponentKey": "valerioaboian",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {

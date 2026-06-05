@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
+  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "F. Ribero",
     "playerId": "R0BF"
   },
-  "count": 33,
+  "count": 32,
   "matches": [
     {
       "date": "Sat, 09 May, 2026",
@@ -758,31 +758,6 @@
       "playerRank": 814,
       "opponentRank": 711,
       "rankingDate": "2025-06-09",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2927",
-      "tournamentYear": "2025",
-      "tournamentName": "San Miguel de Tucuman",
-      "tournamentType": "CH",
-      "tournamentDate": "21-27 Apr, 2025",
-      "tournamentStartDate": "2025-04-21",
-      "tournamentEndDate": "2025-04-27",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "7-6(5) 2-6 6-4",
-      "matchId": "RES-C9CF49B851",
-      "reason": null,
-      "playerName": "Franco Ribero",
-      "opponentName": "Fermin Tenti",
-      "opponentKey": "fermintenti",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {
