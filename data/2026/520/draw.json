@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T15:19:36.583172+00:00",
+  "generatedAt": "2026-06-05T20:06:21.235364+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -45,15 +45,15 @@
           "bracketOrder": 1,
           "round": "F",
           "roundLong": "Final",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "F. Cobolli",
+          "player1FullName": "Flavio Cobolli",
+          "player1Id": "C0E9",
+          "player1Country": "ITA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "A. Zverev",
+          "player2FullName": "Alexander Zverev",
+          "player2Id": "Z355",
+          "player2Country": "GER",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -80,7 +80,7 @@
           "player2Id": "C0E9",
           "player2Country": "ITA",
           "player2ScoreTokens": [],
-          "winnerName": "",
+          "winnerName": "Flavio Cobolli",
           "formattedScore": ""
         },
         {
@@ -91,14 +91,24 @@
           "player1FullName": "Jakub Mensik",
           "player1Id": "M0NI",
           "player1Country": "CZE",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "5",
+            "2",
+            "6",
+            "3"
+          ],
           "player2": "A. Zverev",
           "player2FullName": "Alexander Zverev",
           "player2Id": "Z355",
           "player2Country": "GER",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "6",
+            "3",
+            "6"
+          ],
+          "winnerName": "Alexander Zverev",
+          "formattedScore": "7-5 6-2 3-6 6-3"
         }
       ]
     },
