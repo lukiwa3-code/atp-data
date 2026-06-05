@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T20:13:06.168180+00:00",
+  "generatedAt": "2026-06-05T04:24:20.350599+00:00",
   "count": 1953,
   "items": [
     {
@@ -4730,8 +4730,8 @@
     {
       "key": "dorianjuszczak",
       "name": "Dorian Juszczak",
-      "displayName": "D. Juszczak",
-      "playerId": "J0F9",
+      "displayName": "Dorian Juszczak",
+      "playerId": "",
       "rank": 1815,
       "count": 1,
       "path": "data/player-history/dorianjuszczak.json"
@@ -10022,8 +10022,8 @@
     {
       "key": "lorenzobocchi",
       "name": "Lorenzo Bocchi",
-      "displayName": "L. Bocchi",
-      "playerId": "B0AM",
+      "displayName": "Lorenzo Bocchi",
+      "playerId": "",
       "rank": null,
       "count": 8,
       "path": "data/player-history/lorenzobocchi.json"
@@ -11219,8 +11219,8 @@
     {
       "key": "mateuszlange",
       "name": "Mateusz Lange",
-      "displayName": "M. Lange",
-      "playerId": "L0M5",
+      "displayName": "Mateusz Lange",
+      "playerId": "",
       "rank": null,
       "count": 1,
       "path": "data/player-history/mateuszlange.json"

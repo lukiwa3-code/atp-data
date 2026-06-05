@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T20:13:06.168180+00:00",
+  "generatedAt": "2026-06-05T04:24:20.350599+00:00",
   "count": 412,
   "items": [
     {
@@ -2408,14 +2408,14 @@
       "name": "Szczecin",
       "players": 49,
       "matches": 40,
-      "drawRounds": 5,
-      "drawMatches": 31,
+      "drawRounds": 0,
+      "drawMatches": 0,
       "circuit": "challenger",
       "circuitLabel": "ATP Challenger",
       "matchesPath": "data/2025/448/matches.json",
       "drawPath": "data/2025/448/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/szczecin/448/2025/results",
-      "drawSource": "https://www.atptour.com/en/scores/archive/szczecin/448/2025/draws"
+      "drawSource": null
     },
     {
       "year": "2025",
@@ -2834,7 +2834,7 @@
       "circuitLabel": "ATP Challenger",
       "matchesPath": "data/2025/6795/matches.json",
       "drawPath": "data/2025/6795/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/liberec/6795/results",
+      "source": "https://www.atptour.com/en/scores/archive/liberec/6795/2025/results",
       "drawSource": "https://www.atptour.com/en/scores/archive/liberec/6795/2025/draws"
     },
     {
