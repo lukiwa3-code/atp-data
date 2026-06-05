@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-05T04:24:20.350599+00:00",
+  "generatedAt": "2026-06-05T10:04:06.806610+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "mateuszlange",
     "name": "Mateusz Lange",
-    "displayName": "Mateusz Lange",
-    "playerId": ""
+    "displayName": "M. Lange",
+    "playerId": "L0M5"
   },
   "count": 1,
   "matches": [
