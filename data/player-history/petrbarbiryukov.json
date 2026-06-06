@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T13:59:08.020525+00:00",
+  "generatedAt": "2026-06-06T19:40:58.319834+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "P. Bar Biryukov",
     "playerId": "B0LQ"
   },
-  "count": 61,
+  "count": 62,
   "matches": [
+    {
+      "date": "Sat, 06 June, 2026",
+      "dateIso": "2026-06-06",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-7(8) 7-6(1) 6-3",
+      "matchId": "RES-99DA6F9C1F",
+      "reason": null,
+      "playerName": "Petr Bar Biryukov",
+      "opponentName": "Roman Safiullin",
+      "opponentKey": "romansafiullin",
+      "result": "L",
+      "playerRank": 269,
+      "opponentRank": 141,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sat, 23 May, 2026",
       "dateIso": "2026-05-23",

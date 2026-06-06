@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T13:59:08.020525+00:00",
+  "generatedAt": "2026-06-06T19:40:58.319834+00:00",
   "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
   "tournament": {
     "id": "321",
@@ -32,8 +32,12 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 10,
+  "count": 16,
   "players": [
+    {
+      "id": "",
+      "name": "Alexis Galarneau"
+    },
     {
       "id": "",
       "name": "Daniil Glinka"
@@ -56,6 +60,14 @@
     },
     {
       "id": "",
+      "name": "Mert Alkaya"
+    },
+    {
+      "id": "",
+      "name": "Michalis Sakellaridis"
+    },
+    {
+      "id": "",
       "name": "Nikoloz Basilashvili"
     },
     {
@@ -64,7 +76,15 @@
     },
     {
       "id": "",
+      "name": "Petr Bar Biryukov"
+    },
+    {
+      "id": "",
       "name": "Pierre-Hugues Herbert"
+    },
+    {
+      "id": "",
+      "name": "Roman Safiullin"
     },
     {
       "id": "",
@@ -73,6 +93,10 @@
     {
       "id": "",
       "name": "Stefanos Sakellaridis"
+    },
+    {
+      "id": "",
+      "name": "Yu Hsiou Hsu"
     }
   ]
 }

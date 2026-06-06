@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T13:59:08.020525+00:00",
+  "generatedAt": "2026-06-06T19:40:58.319834+00:00",
   "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
   "tournament": {
     "id": "321",
@@ -32,23 +32,23 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 5,
+  "count": 8,
   "matches": [
     {
-      "matchId": "RES-212C260ED8",
+      "matchId": "RES-99DA6F9C1F",
       "date": "Sat, 06 June, 2026",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
-      "playerName": "Pierre-Hugues Herbert",
+      "playerName": "Roman Safiullin",
       "opponentId": "",
-      "opponentName": "Daniil Glinka",
+      "opponentName": "Petr Bar Biryukov",
       "winnerPlayerId": "",
-      "winnerName": "Pierre-Hugues Herbert",
+      "winnerName": "Roman Safiullin",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
-      "formattedScore": "7-6(3) 6-4",
+      "formattedScore": "6-7(8) 7-6(1) 6-3",
       "sourceText": "Parsed from displayed score numbers",
       "bracketOrder": 1
     },
@@ -107,6 +107,24 @@
       "bracketOrder": 4
     },
     {
+      "matchId": "RES-212C260ED8",
+      "date": "Sat, 06 June, 2026",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "playerId": "",
+      "playerName": "Pierre-Hugues Herbert",
+      "opponentId": "",
+      "opponentName": "Daniil Glinka",
+      "winnerPlayerId": "",
+      "winnerName": "Pierre-Hugues Herbert",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "7-6(3) 6-4",
+      "sourceText": "Game Set and Match Pierre-Hugues Herbert. Pierre-Hugues Herbert wins the match 7-6(3) 6-4 .",
+      "bracketOrder": 5
+    },
+    {
       "matchId": "RES-A8BBC16EC2",
       "date": "Sat, 06 June, 2026",
       "round": "Q1",
@@ -122,7 +140,43 @@
       "reason": null,
       "formattedScore": "6-1 6-3",
       "sourceText": "Game Set and Match Gauthier Onclin. Gauthier Onclin wins the match 6-1 6-3 .",
-      "bracketOrder": 5
+      "bracketOrder": 6
+    },
+    {
+      "matchId": "RES-14DA4C7A3C",
+      "date": "Sat, 06 June, 2026",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "playerId": "",
+      "playerName": "Alexis Galarneau",
+      "opponentId": "",
+      "opponentName": "Yu Hsiou Hsu",
+      "winnerPlayerId": "",
+      "winnerName": "Alexis Galarneau",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "4-6 6-4 6-4",
+      "sourceText": "Game Set and Match Alexis Galarneau. Alexis Galarneau wins the match 4-6 6-4 6-4 .",
+      "bracketOrder": 7
+    },
+    {
+      "matchId": "RES-F3010DB77C",
+      "date": "Sat, 06 June, 2026",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "playerId": "",
+      "playerName": "Mert Alkaya",
+      "opponentId": "",
+      "opponentName": "Michalis Sakellaridis",
+      "winnerPlayerId": "",
+      "winnerName": "Mert Alkaya",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-1 6-1",
+      "sourceText": "Game Set and Match Mert Alkaya. Mert Alkaya wins the match 6-1 6-1 .",
+      "bracketOrder": 8
     }
   ]
 }
