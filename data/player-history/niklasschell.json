@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T20:06:21.235364+00:00",
+  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -61,8 +61,8 @@
       "rankingNote": "historical_week"
     },
     {
-      "date": "Mon, 08 September, 2025",
-      "dateIso": "2025-09-08",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "448",
       "tournamentYear": "2025",
       "tournamentName": "Szczecin",
@@ -74,20 +74,20 @@
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "score": "6-2 6-2",
-      "matchId": "RES-D052A001E3",
+      "matchId": "RES-4D88573DC8",
       "reason": null,
       "playerName": "Niklas Schell",
       "opponentName": "Henri Squire",
       "opponentKey": "henrisquire",
       "result": "L",
-      "playerRank": 886,
-      "opponentRank": 355,
-      "rankingDate": "2025-09-08",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {
-      "date": "Mon, 08 September, 2025",
-      "dateIso": "2025-09-08",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "448",
       "tournamentYear": "2025",
       "tournamentName": "Szczecin",
@@ -99,15 +99,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-2 5-7 7-5",
-      "matchId": "RES-A7178B1760",
+      "matchId": "RES-82E35364AA",
       "reason": null,
       "playerName": "Niklas Schell",
       "opponentName": "(10/AL)",
       "opponentKey": "10al",
       "result": "W",
-      "playerRank": 886,
+      "playerRank": null,
       "opponentRank": null,
-      "rankingDate": "2025-09-08",
+      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {

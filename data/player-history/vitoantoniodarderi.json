@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T20:06:21.235364+00:00",
+  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -36,8 +36,8 @@
       "rankingNote": "historical_week"
     },
     {
-      "date": "Mon, 01 September, 2025",
-      "dateIso": "2025-09-01",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "1763",
       "tournamentYear": "2025",
       "tournamentName": "Genoa",
@@ -49,7 +49,7 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-0 6-1",
-      "matchId": "RES-ACED53DA85",
+      "matchId": "RES-2866164C6F",
       "reason": null,
       "playerName": "Vito Antonio Darderi",
       "opponentName": "(8/AL)",
@@ -57,7 +57,7 @@
       "result": "L",
       "playerRank": null,
       "opponentRank": null,
-      "rankingDate": "2025-09-01",
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

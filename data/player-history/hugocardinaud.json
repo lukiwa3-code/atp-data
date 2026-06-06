@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T20:06:21.235364+00:00",
+  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -11,8 +11,8 @@
   "count": 1,
   "matches": [
     {
-      "date": "",
-      "dateIso": "",
+      "date": "Mon, 01 September, 2025",
+      "dateIso": "2025-09-01",
       "tournamentId": "9120",
       "tournamentYear": "2025",
       "tournamentName": "Cassis",
@@ -24,15 +24,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-3 6-3",
-      "matchId": "RES-AA19397682",
+      "matchId": "RES-524A9AB71C",
       "reason": null,
       "playerName": "Hugo Cardinaud",
       "opponentName": "Felix Corwin",
       "opponentKey": "felixcorwin",
       "result": "L",
       "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
+      "opponentRank": 842,
+      "rankingDate": "2025-09-01",
       "rankingNote": "historical_week"
     }
   ]
