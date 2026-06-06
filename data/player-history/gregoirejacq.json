@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
+  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -11,8 +11,8 @@
   "count": 1,
   "matches": [
     {
-      "date": "",
-      "dateIso": "",
+      "date": "Mon, 01 September, 2025",
+      "dateIso": "2025-09-01",
       "tournamentId": "1763",
       "tournamentYear": "2025",
       "tournamentName": "Genoa",
@@ -24,15 +24,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 7-6(4)",
-      "matchId": "RES-F5C4906CD8",
+      "matchId": "RES-FF53B8F014",
       "reason": null,
       "playerName": "Gregoire Jacq",
       "opponentName": "Tom Gentzsch",
       "opponentKey": "tomgentzsch",
       "result": "L",
       "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
+      "opponentRank": 228,
+      "rankingDate": "2025-09-01",
       "rankingNote": "historical_week"
     }
   ]

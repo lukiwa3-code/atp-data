@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
+  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
   "count": 410,
   "items": [
     {
@@ -2437,7 +2437,7 @@
       "id": "448",
       "name": "Szczecin",
       "players": 49,
-      "matches": 41,
+      "matches": 40,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "challenger",
@@ -2512,7 +2512,7 @@
       "id": "6313",
       "name": "Shanghai",
       "players": 45,
-      "matches": 38,
+      "matches": 37,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "challenger",
@@ -2557,7 +2557,7 @@
       "id": "1763",
       "name": "Genoa",
       "players": 49,
-      "matches": 42,
+      "matches": 41,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "challenger",

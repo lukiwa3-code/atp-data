@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
+  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
   "count": 1951,
   "items": [
     {
@@ -26,7 +26,7 @@
       "displayName": "(1/WC)",
       "playerId": "",
       "rank": null,
-      "count": 43,
+      "count": 42,
       "path": "data/player-history/1wc.json"
     },
     {
@@ -1799,7 +1799,7 @@
       "displayName": "A. Pellegrino",
       "playerId": "PH64",
       "rank": null,
-      "count": 82,
+      "count": 81,
       "path": "data/player-history/andreapellegrino.json"
     },
     {
@@ -4723,7 +4723,7 @@
       "name": "Dorian Juszczak",
       "displayName": "D. Juszczak",
       "playerId": "J0F9",
-      "rank": null,
+      "rank": 1815,
       "count": 1,
       "path": "data/player-history/dorianjuszczak.json"
     },
@@ -6541,7 +6541,7 @@
       "name": "Giovanni Oradini",
       "displayName": "G. Oradini",
       "playerId": "O639",
-      "rank": null,
+      "rank": 602,
       "count": 14,
       "path": "data/player-history/giovannioradini.json"
     },
@@ -6551,7 +6551,7 @@
       "displayName": "G. Zeppieri",
       "playerId": "Z0A1",
       "rank": null,
-      "count": 65,
+      "count": 64,
       "path": "data/player-history/giuliozeppieri.json"
     },
     {
@@ -8548,7 +8548,7 @@
       "name": "Johannes Ingildsen",
       "displayName": "J. Ingildsen",
       "playerId": "I411",
-      "rank": null,
+      "rank": 898,
       "count": 16,
       "path": "data/player-history/johannesingildsen.json"
     },
@@ -12490,7 +12490,7 @@
       "name": "Nicola Rispoli",
       "displayName": "Nicola Rispoli",
       "playerId": "",
-      "rank": null,
+      "rank": 1501,
       "count": 2,
       "path": "data/player-history/nicolarispoli.json"
     },
@@ -13274,7 +13274,7 @@
       "displayName": "P. Llamas Ruiz",
       "playerId": "L0CX",
       "rank": null,
-      "count": 71,
+      "count": 70,
       "path": "data/player-history/pablollamasruiz.json"
     },
     {
@@ -13984,7 +13984,7 @@
       "name": "Radovan Michalik",
       "displayName": "Radovan Michalik",
       "playerId": "",
-      "rank": null,
+      "rank": 1296,
       "count": 3,
       "path": "data/player-history/radovanmichalik.json"
     },
@@ -15938,7 +15938,7 @@
       "displayName": "T. Tirante",
       "playerId": "T0A1",
       "rank": null,
-      "count": 89,
+      "count": 88,
       "path": "data/player-history/thiagoagustintirante.json"
     },
     {
@@ -16054,7 +16054,7 @@
       "name": "Tianhui Zhang",
       "displayName": "T. Zhang",
       "playerId": "Z0D1",
-      "rank": null,
+      "rank": 835,
       "count": 7,
       "path": "data/player-history/tianhuizhang.json"
     },
@@ -17153,7 +17153,7 @@
       "displayName": "Y. Uchiyama",
       "playerId": "U134",
       "rank": null,
-      "count": 59,
+      "count": 58,
       "path": "data/player-history/yasutakauchiyama.json"
     },
     {

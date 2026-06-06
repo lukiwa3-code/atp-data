@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
+  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
   "source": "https://www.atptour.com/en/scores/current/stuttgart/321/draws",
   "tournament": {
     "id": "321",
@@ -206,10 +206,10 @@
           "bracketOrder": 6,
           "round": "Q1",
           "roundLong": "1st Round Qualifying",
-          "player1": "T. Gentzsch",
-          "player1FullName": "Tom Gentzsch",
-          "player1Id": "G0IB",
-          "player1Country": "GER",
+          "player1": "O. Luz",
+          "player1FullName": "Orlando Luz",
+          "player1Id": "LF26",
+          "player1Country": "BRA",
           "player1ScoreTokens": [],
           "player2": "G. Onclin",
           "player2FullName": "Gauthier Onclin",

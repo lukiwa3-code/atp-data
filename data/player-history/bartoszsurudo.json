@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
+  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -11,8 +11,8 @@
   "count": 1,
   "matches": [
     {
-      "date": "",
-      "dateIso": "",
+      "date": "Mon, 08 September, 2025",
+      "dateIso": "2025-09-08",
       "tournamentId": "448",
       "tournamentYear": "2025",
       "tournamentName": "Szczecin",
@@ -24,15 +24,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-2 6-1",
-      "matchId": "RES-BF69C67231",
+      "matchId": "RES-0E97163B56",
       "reason": null,
       "playerName": "Bartosz Surudo",
       "opponentName": "Jozef Kovalik",
       "opponentKey": "jozefkovalik",
       "result": "L",
       "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
+      "opponentRank": 552,
+      "rankingDate": "2025-09-08",
       "rankingNote": "historical_week"
     }
   ]

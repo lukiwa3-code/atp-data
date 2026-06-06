@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T04:06:45.887988+00:00",
+  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -161,8 +161,8 @@
       "rankingNote": "historical_week"
     },
     {
-      "date": "",
-      "dateIso": "",
+      "date": "Mon, 01 September, 2025",
+      "dateIso": "2025-09-01",
       "tournamentId": "6313",
       "tournamentYear": "2025",
       "tournamentName": "Shanghai",
@@ -174,15 +174,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-2 6-0",
-      "matchId": "RES-30AB8864E1",
+      "matchId": "RES-094937B2EA",
       "reason": null,
       "playerName": "Tianhui Zhang",
       "opponentName": "Sergey Fomin",
       "opponentKey": "sergeyfomin",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
+      "playerRank": 835,
+      "opponentRank": 294,
+      "rankingDate": "2025-09-01",
       "rankingNote": "historical_week"
     }
   ]
