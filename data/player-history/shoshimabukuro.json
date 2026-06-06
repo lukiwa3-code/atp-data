@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
+  "generatedAt": "2026-06-06T13:59:08.020525+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "S. Shimabukuro",
     "playerId": "SY67"
   },
-  "count": 72,
+  "count": 73,
   "matches": [
+    {
+      "date": "Sat, 06 June, 2026",
+      "dateIso": "2026-06-06",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 6-4",
+      "matchId": "RES-84FFC69E6C",
+      "reason": null,
+      "playerName": "Sho Shimabukuro",
+      "opponentName": "Stefanos Sakellaridis",
+      "opponentKey": "stefanossakellaridis",
+      "result": "W",
+      "playerRank": 103,
+      "opponentRank": 197,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 18 May, 2026",
       "dateIso": "2026-05-18",

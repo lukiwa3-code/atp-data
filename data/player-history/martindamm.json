@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
+  "generatedAt": "2026-06-06T13:59:08.020525+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "M. Damm",
     "playerId": "D0DT"
   },
-  "count": 54,
+  "count": 55,
   "matches": [
+    {
+      "date": "Sat, 06 June, 2026",
+      "dateIso": "2026-06-06",
+      "tournamentId": "440",
+      "tournamentYear": "2026",
+      "tournamentName": "Libema Open",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "4-6 6-3 7-6(4)",
+      "matchId": "RES-7FA6936738",
+      "reason": null,
+      "playerName": "Martin Damm",
+      "opponentName": "Max Houkes",
+      "opponentKey": "maxhoukes",
+      "result": "W",
+      "playerRank": 116,
+      "opponentRank": 236,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 18 May, 2026",
       "dateIso": "2026-05-18",

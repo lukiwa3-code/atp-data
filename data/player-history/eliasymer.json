@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
+  "generatedAt": "2026-06-06T13:59:08.020525+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "E. Ymer",
     "playerId": "Y218"
   },
-  "count": 63,
+  "count": 64,
   "matches": [
+    {
+      "date": "Sat, 06 June, 2026",
+      "dateIso": "2026-06-06",
+      "tournamentId": "440",
+      "tournamentYear": "2026",
+      "tournamentName": "Libema Open",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-61DA8A7F9E",
+      "reason": null,
+      "playerName": "Elias Ymer",
+      "opponentName": "Mac Visser",
+      "opponentKey": "macvisser",
+      "result": "W",
+      "playerRank": 191,
+      "opponentRank": null,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",

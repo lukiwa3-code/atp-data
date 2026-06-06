@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-06-06T08:42:30.692241+00:00",
+  "generatedAt": "2026-06-06T13:59:08.020525+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "alecdeckers",
     "name": "Alec Deckers",
-    "displayName": "A. Deckers",
-    "playerId": "D0D2"
+    "displayName": "Alec Deckers",
+    "playerId": ""
   },
-  "count": 6,
+  "count": 7,
   "matches": [
+    {
+      "date": "Sat, 06 June, 2026",
+      "dateIso": "2026-06-06",
+      "tournamentId": "440",
+      "tournamentYear": "2026",
+      "tournamentName": "Libema Open",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 6-3",
+      "matchId": "RES-70BA82F9FC",
+      "reason": null,
+      "playerName": "Alec Deckers",
+      "opponentName": "Bernard Tomic",
+      "opponentKey": "bernardtomic",
+      "result": "L",
+      "playerRank": 558,
+      "opponentRank": 194,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 29 March, 2026",
       "dateIso": "2026-03-29",
