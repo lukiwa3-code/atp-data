@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T09:26:51.185709+00:00",
+  "generatedAt": "2026-06-07T14:08:56.257269+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -286,8 +286,8 @@
       "rankingNote": "historical_week"
     },
     {
-      "date": "Mon, 08 September, 2025",
-      "dateIso": "2025-09-08",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "448",
       "tournamentYear": "2025",
       "tournamentName": "Szczecin",
@@ -299,15 +299,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 4-6 6-2",
-      "matchId": "RES-A7091A93E5",
+      "matchId": "RES-E3B86D38A9",
       "reason": null,
       "playerName": "Matyas Cerny",
       "opponentName": "Alexey Vatutin",
       "opponentKey": "alexeyvatutin",
       "result": "L",
-      "playerRank": 856,
-      "opponentRank": 317,
-      "rankingDate": "2025-09-08",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {

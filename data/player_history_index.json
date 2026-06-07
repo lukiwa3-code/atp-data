@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T09:26:51.185709+00:00",
+  "generatedAt": "2026-06-07T14:08:56.257269+00:00",
   "count": 1952,
   "items": [
     {
@@ -26,7 +26,7 @@
       "displayName": "(1/WC)",
       "playerId": "",
       "rank": null,
-      "count": 42,
+      "count": 43,
       "path": "data/player-history/1wc.json"
     },
     {
@@ -1511,7 +1511,7 @@
       "displayName": "A. Galarneau",
       "playerId": "GK06",
       "rank": null,
-      "count": 87,
+      "count": 88,
       "path": "data/player-history/alexisgalarneau.json"
     },
     {
@@ -1799,7 +1799,7 @@
       "displayName": "A. Pellegrino",
       "playerId": "PH64",
       "rank": null,
-      "count": 81,
+      "count": 82,
       "path": "data/player-history/andreapellegrino.json"
     },
     {
@@ -4723,7 +4723,7 @@
       "name": "Dorian Juszczak",
       "displayName": "D. Juszczak",
       "playerId": "J0F9",
-      "rank": 1815,
+      "rank": null,
       "count": 1,
       "path": "data/player-history/dorianjuszczak.json"
     },
@@ -4958,7 +4958,7 @@
       "displayName": "E. Ymer",
       "playerId": "Y218",
       "rank": null,
-      "count": 64,
+      "count": 65,
       "path": "data/player-history/eliasymer.json"
     },
     {
@@ -5209,7 +5209,7 @@
       "name": "Enzo Wallart",
       "displayName": "E. Wallart",
       "playerId": "W749",
-      "rank": 1016,
+      "rank": null,
       "count": 7,
       "path": "data/player-history/enzowallart.json"
     },
@@ -6281,7 +6281,7 @@
       "displayName": "G. Onclin",
       "playerId": "O0A2",
       "rank": null,
-      "count": 56,
+      "count": 57,
       "path": "data/player-history/gauthieronclin.json"
     },
     {
@@ -6541,7 +6541,7 @@
       "name": "Giovanni Oradini",
       "displayName": "G. Oradini",
       "playerId": "O639",
-      "rank": 602,
+      "rank": null,
       "count": 14,
       "path": "data/player-history/giovannioradini.json"
     },
@@ -6551,7 +6551,7 @@
       "displayName": "G. Zeppieri",
       "playerId": "Z0A1",
       "rank": null,
-      "count": 64,
+      "count": 65,
       "path": "data/player-history/giuliozeppieri.json"
     },
     {
@@ -7181,7 +7181,7 @@
       "displayName": "H. Gaston",
       "playerId": "G09O",
       "rank": null,
-      "count": 72,
+      "count": 73,
       "path": "data/player-history/hugogaston.json"
     },
     {
@@ -8548,7 +8548,7 @@
       "name": "Johannes Ingildsen",
       "displayName": "J. Ingildsen",
       "playerId": "I411",
-      "rank": 898,
+      "rank": null,
       "count": 16,
       "path": "data/player-history/johannesingildsen.json"
     },
@@ -8900,7 +8900,7 @@
       "displayName": "J. Ficovich",
       "playerId": "FA43",
       "rank": null,
-      "count": 74,
+      "count": 75,
       "path": "data/player-history/juanpabloficovich.json"
     },
     {
@@ -9026,7 +9026,7 @@
       "displayName": "J. Rodionov",
       "playerId": "R09X",
       "rank": null,
-      "count": 80,
+      "count": 81,
       "path": "data/player-history/jurijrodionov.json"
     },
     {
@@ -10691,7 +10691,7 @@
       "displayName": "M. Huesler",
       "playerId": "HH06",
       "rank": null,
-      "count": 59,
+      "count": 60,
       "path": "data/player-history/marcandreahuesler.json"
     },
     {
@@ -11015,7 +11015,7 @@
       "displayName": "M. Damm",
       "playerId": "D0DT",
       "rank": null,
-      "count": 55,
+      "count": 56,
       "path": "data/player-history/martindamm.json"
     },
     {
@@ -11581,7 +11581,7 @@
       "name": "Maxence Bertimon",
       "displayName": "Maxence Bertimon",
       "playerId": "",
-      "rank": 705,
+      "rank": null,
       "count": 5,
       "path": "data/player-history/maxencebertimon.json"
     },
@@ -11744,7 +11744,7 @@
       "displayName": "M. Alkaya",
       "playerId": "A09Q",
       "rank": 321,
-      "count": 23,
+      "count": 24,
       "path": "data/player-history/mertalkaya.json"
     },
     {
@@ -12499,7 +12499,7 @@
       "name": "Nicola Rispoli",
       "displayName": "Nicola Rispoli",
       "playerId": "",
-      "rank": 1501,
+      "rank": null,
       "count": 2,
       "path": "data/player-history/nicolarispoli.json"
     },
@@ -12688,7 +12688,7 @@
       "name": "Nicolas Tepmahc",
       "displayName": "Nicolas Tepmahc",
       "playerId": "",
-      "rank": 638,
+      "rank": null,
       "count": 3,
       "path": "data/player-history/nicolastepmahc.json"
     },
@@ -12734,7 +12734,7 @@
       "displayName": "N. Visker",
       "playerId": "V0D0",
       "rank": null,
-      "count": 36,
+      "count": 37,
       "path": "data/player-history/nielsvisker.json"
     },
     {
@@ -13283,7 +13283,7 @@
       "displayName": "P. Llamas Ruiz",
       "playerId": "L0CX",
       "rank": null,
-      "count": 70,
+      "count": 71,
       "path": "data/player-history/pablollamasruiz.json"
     },
     {
@@ -13336,7 +13336,7 @@
       "name": "Pablo Trochu",
       "displayName": "Pablo Trochu",
       "playerId": "",
-      "rank": 1202,
+      "rank": null,
       "count": 1,
       "path": "data/player-history/pablotrochu.json"
     },
@@ -13823,7 +13823,7 @@
       "displayName": "P. Herbert",
       "playerId": "H996",
       "rank": null,
-      "count": 73,
+      "count": 74,
       "path": "data/player-history/pierrehuguesherbert.json"
     },
     {
@@ -13993,7 +13993,7 @@
       "name": "Radovan Michalik",
       "displayName": "Radovan Michalik",
       "playerId": "",
-      "rank": 1296,
+      "rank": null,
       "count": 3,
       "path": "data/player-history/radovanmichalik.json"
     },
@@ -14543,7 +14543,7 @@
       "displayName": "R. Safiullin",
       "playerId": "SX50",
       "rank": null,
-      "count": 59,
+      "count": 60,
       "path": "data/player-history/romansafiullin.json"
     },
     {
@@ -14992,7 +14992,7 @@
       "name": "Sean Cuenin",
       "displayName": "S. Cuenin",
       "playerId": "C0JX",
-      "rank": 494,
+      "rank": null,
       "count": 12,
       "path": "data/player-history/seancuenin.json"
     },
@@ -15272,7 +15272,7 @@
       "displayName": "S. Shimabukuro",
       "playerId": "SY67",
       "rank": null,
-      "count": 73,
+      "count": 74,
       "path": "data/player-history/shoshimabukuro.json"
     },
     {
@@ -15416,7 +15416,7 @@
       "displayName": "S. Wawrinka",
       "playerId": "W367",
       "rank": null,
-      "count": 52,
+      "count": 53,
       "path": "data/player-history/stanwawrinka.json"
     },
     {
@@ -15947,7 +15947,7 @@
       "displayName": "T. Tirante",
       "playerId": "T0A1",
       "rank": null,
-      "count": 88,
+      "count": 89,
       "path": "data/player-history/thiagoagustintirante.json"
     },
     {
@@ -16063,7 +16063,7 @@
       "name": "Tianhui Zhang",
       "displayName": "T. Zhang",
       "playerId": "Z0D1",
-      "rank": 835,
+      "rank": null,
       "count": 7,
       "path": "data/player-history/tianhuizhang.json"
     },
@@ -17162,7 +17162,7 @@
       "displayName": "Y. Uchiyama",
       "playerId": "U134",
       "rank": null,
-      "count": 58,
+      "count": 59,
       "path": "data/player-history/yasutakauchiyama.json"
     },
     {
