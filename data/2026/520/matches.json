@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T14:08:56.257269+00:00",
+  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/results",
   "tournament": {
     "id": "520",
@@ -32,8 +32,26 @@
     "endDate": "2026-06-07",
     "tournamentEndDate": "2026-06-07"
   },
-  "count": 211,
+  "count": 212,
   "matches": [
+    {
+      "matchId": "RES-05281205CD",
+      "date": "Sun, 07 June, 2026",
+      "round": "F",
+      "roundLong": "Final",
+      "playerId": "",
+      "playerName": "Alexander Zverev",
+      "opponentId": "",
+      "opponentName": "Flavio Cobolli",
+      "winnerPlayerId": "",
+      "winnerName": "Alexander Zverev",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-1 4-6 6-4 6-7(5) 6-1",
+      "sourceText": "Parsed from displayed score numbers",
+      "bracketOrder": 1
+    },
     {
       "matchId": "RES-37C99F6D21",
       "date": "Fri, 05 June, 2026",

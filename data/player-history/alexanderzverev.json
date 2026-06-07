@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T14:08:56.257269+00:00",
+  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "A. Zverev",
     "playerId": "Z355"
   },
-  "count": 89,
+  "count": 90,
   "matches": [
+    {
+      "date": "Sun, 07 June, 2026",
+      "dateIso": "2026-06-07",
+      "tournamentId": "520",
+      "tournamentYear": "2026",
+      "tournamentName": "Roland Garros",
+      "tournamentType": "GS",
+      "tournamentDate": "24 May - 7 Jun, 2026",
+      "tournamentStartDate": "2026-05-24",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "Clay",
+      "round": "F",
+      "roundLong": "Final",
+      "score": "6-1 4-6 6-4 6-7(5) 6-1",
+      "matchId": "RES-05281205CD",
+      "reason": null,
+      "playerName": "Alexander Zverev",
+      "opponentName": "Flavio Cobolli",
+      "opponentKey": "flaviocobolli",
+      "result": "W",
+      "playerRank": 3,
+      "opponentRank": 14,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Fri, 05 June, 2026",
       "dateIso": "2026-06-05",

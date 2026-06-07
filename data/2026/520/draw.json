@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T14:08:56.257269+00:00",
+  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -49,14 +49,26 @@
           "player1FullName": "Flavio Cobolli",
           "player1Id": "C0E9",
           "player1Country": "ITA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "1",
+            "6",
+            "4",
+            "7",
+            "1"
+          ],
           "player2": "A. Zverev",
           "player2FullName": "Alexander Zverev",
           "player2Id": "Z355",
           "player2Country": "GER",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "6",
+            "6 5",
+            "6"
+          ],
+          "winnerName": "Alexander Zverev",
+          "formattedScore": "6-1 4-6 6-4 6-7(5) 6-1"
         }
       ]
     },
