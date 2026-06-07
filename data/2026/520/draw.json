@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T19:40:58.319834+00:00",
+  "generatedAt": "2026-06-07T09:26:51.185709+00:00",
   "source": "https://www.atptour.com/en/scores/current/roland-garros/520/draws",
   "tournament": {
     "id": "520",
@@ -16,8 +16,8 @@
     "indoorOutdoor": "Outdoor",
     "singlesDrawSize": 128,
     "doublesDrawSize": 64,
-    "scoresUrl": "/en/scores/current/roland-garros/520/results",
-    "drawsUrl": "/en/scores/current/roland-garros/520/draws",
+    "scoresUrl": "/en/scores/archive/roland-garros/520/2026/results",
+    "drawsUrl": "/en/scores/archive/roland-garros/520/2026/draws",
     "scheduleUrl": "/en/scores/current/roland-garros/520/daily-schedule",
     "overviewUrl": "/en/tournaments/roland-garros/520/overview",
     "countryFlagUrl": "/-/media/images/flags/fra.svg",
