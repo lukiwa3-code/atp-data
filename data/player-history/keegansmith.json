@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
+  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -1011,8 +1011,8 @@
       "rankingNote": "historical_week"
     },
     {
-      "date": "Mon, 29 September, 2025",
-      "dateIso": "2025-09-29",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "1768",
       "tournamentYear": "2025",
       "tournamentName": "Tiburon",
@@ -1024,15 +1024,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-3 6-4",
-      "matchId": "RES-963A484B81",
+      "matchId": "RES-A1563C961C",
       "reason": null,
       "playerName": "Keegan Smith",
       "opponentName": "Carlo Alberto Caniato",
       "opponentKey": "carloalbertocaniato",
       "result": "L",
-      "playerRank": 554,
-      "opponentRank": 471,
-      "rankingDate": "2025-09-29",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     },
     {

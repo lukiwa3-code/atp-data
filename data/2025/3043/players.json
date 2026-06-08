@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
+  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
   "source": "https://www.atptour.com/en/scores/archive/athens/3043/2025/results",
   "tournament": {
     "id": "3043",
     "year": "2025",
     "name": "Athens",
     "location": "",
-    "date": "24-30 Nov, 2025",
+    "date": "24 - 30 November, 2025",
     "month": "",
     "isLive": false,
     "isPastEvent": true,
@@ -34,179 +34,6 @@
     "startDate": "2025-11-24",
     "endDate": "2025-11-30"
   },
-  "count": 43,
-  "players": [
-    {
-      "id": "",
-      "name": "(9/AL)"
-    },
-    {
-      "id": "",
-      "name": "Alberto Barroso Campos"
-    },
-    {
-      "id": "",
-      "name": "Aleksandr Braynin"
-    },
-    {
-      "id": "",
-      "name": "Alex Knaff"
-    },
-    {
-      "id": "",
-      "name": "Aristotelis Thanos"
-    },
-    {
-      "id": "",
-      "name": "Arthur Fery"
-    },
-    {
-      "id": "",
-      "name": "Bernabe Zapata Miralles"
-    },
-    {
-      "id": "",
-      "name": "Carlo Alberto Caniato"
-    },
-    {
-      "id": "",
-      "name": "Charlie Robertson"
-    },
-    {
-      "id": "",
-      "name": "Diego Dedura"
-    },
-    {
-      "id": "",
-      "name": "Dimitris Azoidis"
-    },
-    {
-      "id": "",
-      "name": "Dimitris Sakellaridis"
-    },
-    {
-      "id": "",
-      "name": "Eliakim Coulibaly"
-    },
-    {
-      "id": "",
-      "name": "Enrico Dalla Valle"
-    },
-    {
-      "id": "",
-      "name": "Filippos Astreinidis"
-    },
-    {
-      "id": "",
-      "name": "Giles Hussey"
-    },
-    {
-      "id": "",
-      "name": "Harry Wendelken"
-    },
-    {
-      "id": "",
-      "name": "Henri Haupt"
-    },
-    {
-      "id": "",
-      "name": "James Story"
-    },
-    {
-      "id": "",
-      "name": "Jan Jermar"
-    },
-    {
-      "id": "",
-      "name": "Jan Kumstat"
-    },
-    {
-      "id": "",
-      "name": "Jeffrey Chuan En Hsu"
-    },
-    {
-      "id": "",
-      "name": "Lorenzo Angelini"
-    },
-    {
-      "id": "",
-      "name": "Luca Potenza"
-    },
-    {
-      "id": "",
-      "name": "Maks Kasnikowski"
-    },
-    {
-      "id": "",
-      "name": "Markos Kalovelonis"
-    },
-    {
-      "id": "",
-      "name": "Melios Efstathiou"
-    },
-    {
-      "id": "",
-      "name": "Michael Geerts"
-    },
-    {
-      "id": "",
-      "name": "Michele Ribecai"
-    },
-    {
-      "id": "",
-      "name": "Millen Hurrion"
-    },
-    {
-      "id": "",
-      "name": "Nicolas Parizzia"
-    },
-    {
-      "id": "",
-      "name": "Nikolay Vylegzhanin"
-    },
-    {
-      "id": "",
-      "name": "Oleg Prihodko"
-    },
-    {
-      "id": "",
-      "name": "Olle Wallin"
-    },
-    {
-      "id": "",
-      "name": "Oscar Jose Gutierrez"
-    },
-    {
-      "id": "",
-      "name": "Pavlos Tsitsipas"
-    },
-    {
-      "id": "",
-      "name": "Peter Fajta"
-    },
-    {
-      "id": "",
-      "name": "Philip Henning"
-    },
-    {
-      "id": "",
-      "name": "Pierluigi Basile"
-    },
-    {
-      "id": "",
-      "name": "Rudolf Molleker"
-    },
-    {
-      "id": "",
-      "name": "Sandro Kopp"
-    },
-    {
-      "id": "",
-      "name": "Sergio Callejon Hernando"
-    },
-    {
-      "id": "",
-      "name": "Stefanos Schinas"
-    }
-  ]
+  "count": 0,
+  "players": []
 }

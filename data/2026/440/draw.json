@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
+  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/draws",
   "tournament": {
     "id": "440",
@@ -290,10 +290,10 @@
           "bracketOrder": 7,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "U. Humbert",
+          "player1FullName": "Ugo Humbert",
+          "player1Id": "HH26",
+          "player1Country": "FRA",
           "player1ScoreTokens": [],
           "player2": "B. Bonzi",
           "player2FullName": "Benjamin Bonzi",
@@ -554,14 +554,20 @@
           "player1FullName": "Ugo Humbert",
           "player1Id": "HH26",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
           "player2": "E. Ymer",
           "player2FullName": "Elias Ymer",
           "player2Id": "Y218",
           "player2Country": "SWE",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "3"
+          ],
+          "winnerName": "Ugo Humbert",
+          "formattedScore": "6-4 6-3"
         },
         {
           "bracketOrder": 14,

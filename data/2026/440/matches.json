@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
+  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
   "tournament": {
     "id": "440",
@@ -32,8 +32,26 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 15,
+  "count": 16,
   "matches": [
+    {
+      "matchId": "RES-543149BB14",
+      "date": "Mon, 08 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Ugo Humbert",
+      "opponentId": "",
+      "opponentName": "Elias Ymer",
+      "winnerPlayerId": "",
+      "winnerName": "Ugo Humbert",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-4 6-3",
+      "sourceText": "Parsed from displayed score numbers",
+      "bracketOrder": 1
+    },
     {
       "matchId": "RES-817E19FE83",
       "date": "Mon, 08 June, 2026",
@@ -50,7 +68,7 @@
       "reason": null,
       "formattedScore": "6-7(5) 6-4 7-5",
       "sourceText": "Game Set and Match Marin Cilic. Marin Cilic wins the match 6-7(5) 6-4 7-5 .",
-      "bracketOrder": 1
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-A4A2F6ADA2",
@@ -68,7 +86,7 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Benjamin Bonzi. Benjamin Bonzi wins the match 6-4 6-4 .",
-      "bracketOrder": 2
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-2B8848267C",
@@ -86,7 +104,7 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Nuno Borges. Nuno Borges wins the match 6-4 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-2F380512BC",

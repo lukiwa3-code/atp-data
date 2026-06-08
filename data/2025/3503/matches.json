@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
+  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
   "source": "https://www.atptour.com/en/scores/archive/rennes/3503/2025/results",
   "tournament": {
     "id": "3503",
@@ -34,29 +34,11 @@
     "startDate": "2025-09-08",
     "endDate": "2025-09-14"
   },
-  "count": 41,
+  "count": 40,
   "matches": [
     {
-      "matchId": "RES-2B7AC1B42E",
-      "date": "",
-      "round": "F",
-      "roundLong": "Final",
-      "playerId": "",
-      "playerName": "Hugo Gaston",
-      "opponentId": "",
-      "opponentName": "Stan Wawrinka",
-      "winnerPlayerId": "",
-      "winnerName": "Hugo Gaston",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "6-4 6-4",
-      "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 1
-    },
-    {
-      "matchId": "RES-8209EA4DAB",
-      "date": "",
+      "matchId": "RES-699DFB49C4",
+      "date": "Mon, 08 September, 2025",
       "round": "R16",
       "roundLong": "Round of 16",
       "playerId": "",
@@ -73,8 +55,8 @@
       "bracketOrder": 1
     },
     {
-      "matchId": "RES-46FCC86655",
-      "date": "",
+      "matchId": "RES-92CD489592",
+      "date": "Mon, 08 September, 2025",
       "round": "R16",
       "roundLong": "Round of 16",
       "playerId": "",
@@ -91,8 +73,8 @@
       "bracketOrder": 2
     },
     {
-      "matchId": "RES-4E08FB7092",
-      "date": "",
+      "matchId": "RES-E49DCEE786",
+      "date": "Mon, 08 September, 2025",
       "round": "R16",
       "roundLong": "Round of 16",
       "playerId": "",
@@ -109,8 +91,8 @@
       "bracketOrder": 3
     },
     {
-      "matchId": "RES-EF5077640D",
-      "date": "",
+      "matchId": "RES-71E30481E1",
+      "date": "Mon, 08 September, 2025",
       "round": "R16",
       "roundLong": "Round of 16",
       "playerId": "",
@@ -127,8 +109,8 @@
       "bracketOrder": 4
     },
     {
-      "matchId": "RES-B4F636AC7D",
-      "date": "",
+      "matchId": "RES-42BF7040EE",
+      "date": "Mon, 08 September, 2025",
       "round": "R16",
       "roundLong": "Round of 16",
       "playerId": "",
@@ -145,8 +127,8 @@
       "bracketOrder": 5
     },
     {
-      "matchId": "RES-417FFDBEDA",
-      "date": "",
+      "matchId": "RES-958F0301A5",
+      "date": "Mon, 08 September, 2025",
       "round": "R16",
       "roundLong": "Round of 16",
       "playerId": "",
@@ -163,8 +145,8 @@
       "bracketOrder": 6
     },
     {
-      "matchId": "RES-C1647A6F16",
-      "date": "",
+      "matchId": "RES-2994BA2D99",
+      "date": "Mon, 08 September, 2025",
       "round": "R16",
       "roundLong": "Round of 16",
       "playerId": "",
@@ -181,8 +163,8 @@
       "bracketOrder": 7
     },
     {
-      "matchId": "RES-B5494E3FC5",
-      "date": "",
+      "matchId": "RES-4E12C8E77A",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -199,8 +181,8 @@
       "bracketOrder": 1
     },
     {
-      "matchId": "RES-FE2F46E81E",
-      "date": "",
+      "matchId": "RES-E4741EF4F8",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -217,8 +199,8 @@
       "bracketOrder": 2
     },
     {
-      "matchId": "RES-A953379192",
-      "date": "",
+      "matchId": "RES-DE6FBA10AC",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -235,8 +217,8 @@
       "bracketOrder": 3
     },
     {
-      "matchId": "RES-C02BA27163",
-      "date": "",
+      "matchId": "RES-A2F1EB6215",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -253,8 +235,8 @@
       "bracketOrder": 4
     },
     {
-      "matchId": "RES-F13A9E62E4",
-      "date": "",
+      "matchId": "RES-2AE583AB48",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -271,8 +253,8 @@
       "bracketOrder": 5
     },
     {
-      "matchId": "RES-90699F68F8",
-      "date": "",
+      "matchId": "RES-7CEF231981",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -289,8 +271,8 @@
       "bracketOrder": 6
     },
     {
-      "matchId": "RES-C67DC013E2",
-      "date": "",
+      "matchId": "RES-181DF9741F",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -307,8 +289,8 @@
       "bracketOrder": 7
     },
     {
-      "matchId": "RES-60F280F7A9",
-      "date": "",
+      "matchId": "RES-0507342CB5",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -325,8 +307,8 @@
       "bracketOrder": 8
     },
     {
-      "matchId": "RES-5856A77ADA",
-      "date": "",
+      "matchId": "RES-20913D9AC6",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -343,8 +325,8 @@
       "bracketOrder": 9
     },
     {
-      "matchId": "RES-9595982419",
-      "date": "",
+      "matchId": "RES-1DAC8A6D61",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -361,8 +343,8 @@
       "bracketOrder": 10
     },
     {
-      "matchId": "RES-F5173ACEC2",
-      "date": "",
+      "matchId": "RES-74728A8C1B",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -379,8 +361,8 @@
       "bracketOrder": 11
     },
     {
-      "matchId": "RES-E6008B0511",
-      "date": "",
+      "matchId": "RES-09CBED1426",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -397,8 +379,8 @@
       "bracketOrder": 12
     },
     {
-      "matchId": "RES-36DE2545B4",
-      "date": "",
+      "matchId": "RES-BA99F18451",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -415,8 +397,8 @@
       "bracketOrder": 13
     },
     {
-      "matchId": "RES-A20F898AFE",
-      "date": "",
+      "matchId": "RES-EF6B90F63E",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -433,8 +415,8 @@
       "bracketOrder": 14
     },
     {
-      "matchId": "RES-40B5C22CB2",
-      "date": "",
+      "matchId": "RES-4BC5143306",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -451,8 +433,8 @@
       "bracketOrder": 15
     },
     {
-      "matchId": "RES-D40F84A2C8",
-      "date": "",
+      "matchId": "RES-1DA239A60E",
+      "date": "Mon, 08 September, 2025",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
@@ -469,8 +451,8 @@
       "bracketOrder": 16
     },
     {
-      "matchId": "RES-44563E6B45",
-      "date": "",
+      "matchId": "RES-894F6C7FAE",
+      "date": "Mon, 08 September, 2025",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
@@ -487,8 +469,8 @@
       "bracketOrder": 1
     },
     {
-      "matchId": "RES-4873FAFF79",
-      "date": "",
+      "matchId": "RES-A74E888839",
+      "date": "Mon, 08 September, 2025",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
@@ -505,8 +487,8 @@
       "bracketOrder": 2
     },
     {
-      "matchId": "RES-F4F1446999",
-      "date": "",
+      "matchId": "RES-5C297EC8BD",
+      "date": "Mon, 08 September, 2025",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
@@ -523,8 +505,8 @@
       "bracketOrder": 3
     },
     {
-      "matchId": "RES-CA432C57C7",
-      "date": "",
+      "matchId": "RES-215305F733",
+      "date": "Mon, 08 September, 2025",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
@@ -541,8 +523,8 @@
       "bracketOrder": 4
     },
     {
-      "matchId": "RES-D8E680494B",
-      "date": "",
+      "matchId": "RES-2E01D41CF3",
+      "date": "Mon, 08 September, 2025",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
@@ -559,8 +541,8 @@
       "bracketOrder": 5
     },
     {
-      "matchId": "RES-10314EB255",
-      "date": "",
+      "matchId": "RES-76540F09ED",
+      "date": "Mon, 08 September, 2025",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "playerId": "",
@@ -577,8 +559,8 @@
       "bracketOrder": 6
     },
     {
-      "matchId": "RES-268FB460D6",
-      "date": "",
+      "matchId": "RES-5DAA673438",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -595,8 +577,8 @@
       "bracketOrder": 1
     },
     {
-      "matchId": "RES-B1EA0CA3BE",
-      "date": "",
+      "matchId": "RES-0B6507B7D7",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -613,8 +595,8 @@
       "bracketOrder": 2
     },
     {
-      "matchId": "RES-1935F2B926",
-      "date": "",
+      "matchId": "RES-1C96C3086A",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -631,8 +613,8 @@
       "bracketOrder": 3
     },
     {
-      "matchId": "RES-ED8D3948E7",
-      "date": "",
+      "matchId": "RES-A7E85B4ED5",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -649,8 +631,8 @@
       "bracketOrder": 4
     },
     {
-      "matchId": "RES-A0629F397A",
-      "date": "",
+      "matchId": "RES-FB2BC76187",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -667,8 +649,8 @@
       "bracketOrder": 5
     },
     {
-      "matchId": "RES-09A838B90B",
-      "date": "",
+      "matchId": "RES-C87D1F90A7",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -685,8 +667,8 @@
       "bracketOrder": 6
     },
     {
-      "matchId": "RES-A9780D5D31",
-      "date": "",
+      "matchId": "RES-B99BC78C34",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -703,8 +685,8 @@
       "bracketOrder": 7
     },
     {
-      "matchId": "RES-3E52DFDF86",
-      "date": "",
+      "matchId": "RES-9B1D460044",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -721,8 +703,8 @@
       "bracketOrder": 8
     },
     {
-      "matchId": "RES-9A667799BC",
-      "date": "",
+      "matchId": "RES-91D28FDF3C",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -739,8 +721,8 @@
       "bracketOrder": 9
     },
     {
-      "matchId": "RES-43865D9EBD",
-      "date": "",
+      "matchId": "RES-06D6504CA0",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",
@@ -757,8 +739,8 @@
       "bracketOrder": 10
     },
     {
-      "matchId": "RES-53A9368B67",
-      "date": "",
+      "matchId": "RES-349224D82D",
+      "date": "Mon, 08 September, 2025",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "playerId": "",

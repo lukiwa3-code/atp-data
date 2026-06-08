@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
+  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -361,8 +361,8 @@
       "rankingNote": "historical_week"
     },
     {
-      "date": "",
-      "dateIso": "",
+      "date": "Mon, 01 September, 2025",
+      "dateIso": "2025-09-01",
       "tournamentId": "1763",
       "tournamentYear": "2025",
       "tournamentName": "Genoa",
@@ -374,20 +374,20 @@
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "score": "6-3 6-0",
-      "matchId": "RES-52AEDC2DB2",
+      "matchId": "RES-9D213BBF8A",
       "reason": null,
       "playerName": "Johannes Ingildsen",
       "opponentName": "(8/AL)",
       "opponentKey": "8al",
       "result": "L",
-      "playerRank": null,
+      "playerRank": 898,
       "opponentRank": null,
-      "rankingDate": "",
+      "rankingDate": "2025-09-01",
       "rankingNote": "historical_week"
     },
     {
-      "date": "",
-      "dateIso": "",
+      "date": "Mon, 01 September, 2025",
+      "dateIso": "2025-09-01",
       "tournamentId": "1763",
       "tournamentYear": "2025",
       "tournamentName": "Genoa",
@@ -399,15 +399,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "7-5 6-0",
-      "matchId": "RES-53639B297B",
+      "matchId": "RES-52CEBFD1CD",
       "reason": null,
       "playerName": "Johannes Ingildsen",
       "opponentName": "Augusto Virgili",
       "opponentKey": "augustovirgili",
       "result": "W",
-      "playerRank": null,
+      "playerRank": 898,
       "opponentRank": null,
-      "rankingDate": "",
+      "rankingDate": "2025-09-01",
       "rankingNote": "historical_week"
     }
   ]

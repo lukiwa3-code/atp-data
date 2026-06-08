@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
+  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -11,8 +11,8 @@
   "count": 1,
   "matches": [
     {
-      "date": "Mon, 08 September, 2025",
-      "dateIso": "2025-09-08",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "7085",
       "tournamentYear": "2025",
       "tournamentName": "Biella",
@@ -24,15 +24,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-3",
-      "matchId": "RES-B060A6AB18",
+      "matchId": "RES-CDC50583CF",
       "reason": null,
       "playerName": "Lorenzo Beraldo",
       "opponentName": "(10/AL)",
       "opponentKey": "10al",
       "result": "L",
-      "playerRank": 1191,
+      "playerRank": null,
       "opponentRank": null,
-      "rankingDate": "2025-09-08",
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]
