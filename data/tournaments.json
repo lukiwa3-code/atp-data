@@ -5,7 +5,7 @@
     2025,
     2026
   ],
-  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
+  "generatedAt": "2026-06-08T04:47:56.089884+00:00",
   "countSources": 4,
   "sources": [
     {
@@ -1491,15 +1491,15 @@
               },
               {
                 "Id": "418",
-                "Name": "Mubadala Citi DC Open",
+                "Name": "Mubadala DC Open",
                 "Location": "Washington, United States",
                 "FormattedDate": "27 July - 2 August, 2026",
                 "IsLive": false,
                 "IsPastEvent": false,
-                "ScoresUrl": "/en/scores/current/washington----------------------------------------/418/results",
-                "DrawsUrl": "/en/scores/current/washington----------------------------------------/418/draws",
+                "ScoresUrl": "/en/scores/current/washington/418/results",
+                "DrawsUrl": "/en/scores/current/washington/418/draws",
                 "TournamentSiteUrl": "https://www.mubadaladctennis.com/en/",
-                "ScheduleUrl": "/en/scores/current/washington----------------------------------------/418/daily-schedule",
+                "ScheduleUrl": "/en/scores/current/washington/418/daily-schedule",
                 "Type": "500",
                 "SinglesDrawPrintUrl": "http://www.protennislive.com/posting/2026/418/mds.pdf",
                 "DoublesDrawPrintUrl": "http://www.protennislive.com/posting/2026/418/mdd.pdf",
@@ -1516,7 +1516,7 @@
                 "EventTypeDetail": 0,
                 "TotalFinancialCommitment": "$2,486,125",
                 "PrizeMoneyDetails": "$2,469,450",
-                "Surface": "Hard      ",
+                "Surface": "Hard",
                 "IndoorOutdoor": "Outdoor",
                 "SglDrawSize": 32,
                 "DblDrawSize": 16,

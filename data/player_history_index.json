@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
+  "generatedAt": "2026-06-08T04:47:56.089884+00:00",
   "count": 1952,
   "items": [
     {
@@ -26,7 +26,7 @@
       "displayName": "(1/WC)",
       "playerId": "",
       "rank": null,
-      "count": 43,
+      "count": 42,
       "path": "data/player-history/1wc.json"
     },
     {
@@ -1799,7 +1799,7 @@
       "displayName": "A. Pellegrino",
       "playerId": "PH64",
       "rank": null,
-      "count": 82,
+      "count": 81,
       "path": "data/player-history/andreapellegrino.json"
     },
     {
@@ -2762,7 +2762,7 @@
       "displayName": "B. Harris",
       "playerId": "HD68",
       "rank": null,
-      "count": 81,
+      "count": 82,
       "path": "data/player-history/billyharris.json"
     },
     {
@@ -4148,7 +4148,7 @@
       "displayName": "D. Glinka",
       "playerId": "G0BY",
       "rank": null,
-      "count": 68,
+      "count": 69,
       "path": "data/player-history/daniilglinka.json"
     },
     {
@@ -5209,7 +5209,7 @@
       "name": "Enzo Wallart",
       "displayName": "E. Wallart",
       "playerId": "W749",
-      "rank": 1016,
+      "rank": null,
       "count": 7,
       "path": "data/player-history/enzowallart.json"
     },
@@ -6451,7 +6451,7 @@
       "name": "Giannicola Misasi",
       "displayName": "Giannicola Misasi",
       "playerId": "",
-      "rank": 1009,
+      "rank": null,
       "count": 1,
       "path": "data/player-history/giannicolamisasi.json"
     },
@@ -8548,7 +8548,7 @@
       "name": "Johannes Ingildsen",
       "displayName": "J. Ingildsen",
       "playerId": "I411",
-      "rank": null,
+      "rank": 898,
       "count": 16,
       "path": "data/player-history/johannesingildsen.json"
     },
@@ -8791,7 +8791,7 @@
       "name": "Juan Cruz Martin Manzano",
       "displayName": "J. Martin Manzano",
       "playerId": "M0R4",
-      "rank": 757,
+      "rank": null,
       "count": 11,
       "path": "data/player-history/juancruzmartinmanzano.json"
     },
@@ -9440,7 +9440,7 @@
       "displayName": "K. Feldbausch",
       "playerId": "F0F4",
       "rank": null,
-      "count": 46,
+      "count": 47,
       "path": "data/player-history/kilianfeldbausch.json"
     },
     {
@@ -10006,7 +10006,7 @@
       "name": "Lorenzo Beraldo",
       "displayName": "Lorenzo Beraldo",
       "playerId": "",
-      "rank": 1191,
+      "rank": null,
       "count": 1,
       "path": "data/player-history/lorenzoberaldo.json"
     },
@@ -11834,7 +11834,7 @@
       "displayName": "M. Zheng",
       "playerId": "Z0BZ",
       "rank": null,
-      "count": 34,
+      "count": 35,
       "path": "data/player-history/michaelzheng.json"
     },
     {
@@ -12436,7 +12436,7 @@
       "name": "Nicholas Godsick",
       "displayName": "Nicholas Godsick",
       "playerId": "",
-      "rank": 1333,
+      "rank": null,
       "count": 3,
       "path": "data/player-history/nicholasgodsick.json"
     },
@@ -12499,7 +12499,7 @@
       "name": "Nicola Rispoli",
       "displayName": "Nicola Rispoli",
       "playerId": "",
-      "rank": null,
+      "rank": 1501,
       "count": 2,
       "path": "data/player-history/nicolarispoli.json"
     },
@@ -12688,7 +12688,7 @@
       "name": "Nicolas Tepmahc",
       "displayName": "Nicolas Tepmahc",
       "playerId": "",
-      "rank": 638,
+      "rank": null,
       "count": 3,
       "path": "data/player-history/nicolastepmahc.json"
     },
@@ -14857,7 +14857,7 @@
       "name": "Samuele Pieri",
       "displayName": "S. Pieri",
       "playerId": "P0HY",
-      "rank": 682,
+      "rank": null,
       "count": 19,
       "path": "data/player-history/samuelepieri.json"
     },
@@ -15506,7 +15506,7 @@
       "displayName": "S. Napolitano",
       "playerId": "N679",
       "rank": null,
-      "count": 53,
+      "count": 54,
       "path": "data/player-history/stefanonapolitano.json"
     },
     {
@@ -16532,7 +16532,7 @@
       "displayName": "T. Zink",
       "playerId": "Z0AK",
       "rank": null,
-      "count": 63,
+      "count": 64,
       "path": "data/player-history/tylerzink.json"
     },
     {
@@ -16540,7 +16540,7 @@
       "name": "Tymur Bieldiugin",
       "displayName": "Tymur Bieldiugin",
       "playerId": "",
-      "rank": 1004,
+      "rank": null,
       "count": 3,
       "path": "data/player-history/tymurbieldiugin.json"
     },
@@ -17143,7 +17143,7 @@
       "name": "Yaroslav Demin",
       "displayName": "Y. Demin",
       "playerId": "D0I6",
-      "rank": 885,
+      "rank": null,
       "count": 4,
       "path": "data/player-history/yaroslavdemin.json"
     },

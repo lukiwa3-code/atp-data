@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
+  "generatedAt": "2026-06-08T04:47:56.089884+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -86,8 +86,8 @@
       "rankingNote": "historical_week"
     },
     {
-      "date": "Mon, 08 September, 2025",
-      "dateIso": "2025-09-08",
+      "date": "",
+      "dateIso": "",
       "tournamentId": "7085",
       "tournamentYear": "2025",
       "tournamentName": "Biella",
@@ -99,15 +99,15 @@
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-3 6-1",
-      "matchId": "RES-241B7179BE",
+      "matchId": "RES-38F22E3110",
       "reason": null,
       "playerName": "Yaroslav Demin",
       "opponentName": "Massimo Giunta",
       "opponentKey": "massimogiunta",
       "result": "L",
-      "playerRank": 885,
-      "opponentRank": 795,
-      "rankingDate": "2025-09-08",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]
