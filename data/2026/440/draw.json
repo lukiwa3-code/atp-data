@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
+  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/draws",
   "tournament": {
     "id": "440",
@@ -244,10 +244,10 @@
           "player1Id": "BT72",
           "player1Country": "POR",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "M. Cilic",
+          "player2FullName": "Marin Cilic",
+          "player2Id": "C977",
+          "player2Country": "CRO",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -295,10 +295,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "B. Bonzi",
+          "player2FullName": "Benjamin Bonzi",
+          "player2Id": "BM95",
+          "player2Country": "FRA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -461,14 +461,22 @@
           "player1FullName": "Marin Cilic",
           "player1Id": "C977",
           "player1Country": "CRO",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6 5",
+            "6",
+            "7"
+          ],
           "player2": "D. Shapovalov",
           "player2FullName": "Denis Shapovalov",
           "player2Id": "SU55",
           "player2Country": "CAN",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "4",
+            "5"
+          ],
+          "winnerName": "Marin Cilic",
+          "formattedScore": "6-7(5) 6-4 7-5"
         },
         {
           "bracketOrder": 9,
@@ -563,14 +571,20 @@
           "player1FullName": "Benjamin Bonzi",
           "player1Id": "BM95",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
           "player2": "M. Rottgering",
           "player2FullName": "Mees Rottgering",
           "player2Id": "R0KD",
           "player2Country": "NED",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Benjamin Bonzi",
+          "formattedScore": "6-4 6-4"
         },
         {
           "bracketOrder": 15,

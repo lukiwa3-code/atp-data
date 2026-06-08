@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
+  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
   "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
   "tournament": {
     "id": "321",
@@ -32,8 +32,12 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 16,
+  "count": 20,
   "players": [
+    {
+      "id": "",
+      "name": "Alejandro Davidovich Fokina"
+    },
     {
       "id": "",
       "name": "Alexis Galarneau"
@@ -41,6 +45,10 @@
     {
       "id": "",
       "name": "Daniil Glinka"
+    },
+    {
+      "id": "",
+      "name": "Fabian Marozsan"
     },
     {
       "id": "",
@@ -57,6 +65,14 @@
     {
       "id": "",
       "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
     },
     {
       "id": "",

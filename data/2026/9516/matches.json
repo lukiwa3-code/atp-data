@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
+  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
   "source": "https://www.atptour.com/en/scores/archive/lugano/9516/2026/results",
   "tournament": {
     "id": "9516",
@@ -918,7 +918,5 @@
       "sourceText": "Game Set and Match Francesco Forti. Francesco Forti wins the match 3-6 7-6(10) 7-5 .",
       "bracketOrder": 12
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-06-08T11:10:34.702320+00:00"
+  ]
 }

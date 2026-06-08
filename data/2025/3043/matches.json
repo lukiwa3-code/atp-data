@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
+  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
   "source": "https://www.atptour.com/en/scores/archive/athens/3043/2025/results",
   "tournament": {
     "id": "3043",
@@ -630,7 +630,5 @@
       "sourceText": "Parsed from displayed score numbers",
       "bracketOrder": 6
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-06-08T11:10:34.702320+00:00"
+  ]
 }

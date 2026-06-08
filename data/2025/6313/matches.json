@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-07T19:41:52.320972+00:00",
+  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
   "source": "https://www.atptour.com/en/scores/archive/shanghai/6313/2025/results",
   "tournament": {
     "id": "6313",
@@ -720,7 +720,5 @@
       "sourceText": "Parsed from displayed score numbers",
       "bracketOrder": 10
     }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-06-08T11:10:34.702320+00:00"
+  ]
 }

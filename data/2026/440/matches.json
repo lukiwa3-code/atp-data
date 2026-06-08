@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
+  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
   "tournament": {
     "id": "440",
@@ -32,8 +32,44 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 13,
+  "count": 15,
   "matches": [
+    {
+      "matchId": "RES-817E19FE83",
+      "date": "Mon, 08 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Marin Cilic",
+      "opponentId": "",
+      "opponentName": "Denis Shapovalov",
+      "winnerPlayerId": "",
+      "winnerName": "Marin Cilic",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-7(5) 6-4 7-5",
+      "sourceText": "Game Set and Match Marin Cilic. Marin Cilic wins the match 6-7(5) 6-4 7-5 .",
+      "bracketOrder": 1
+    },
+    {
+      "matchId": "RES-A4A2F6ADA2",
+      "date": "Mon, 08 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Benjamin Bonzi",
+      "opponentId": "",
+      "opponentName": "Mees Rottgering",
+      "winnerPlayerId": "",
+      "winnerName": "Benjamin Bonzi",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-4 6-4",
+      "sourceText": "Game Set and Match Benjamin Bonzi. Benjamin Bonzi wins the match 6-4 6-4 .",
+      "bracketOrder": 2
+    },
     {
       "matchId": "RES-2B8848267C",
       "date": "Mon, 08 June, 2026",
@@ -50,7 +86,7 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Nuno Borges. Nuno Borges wins the match 6-4 6-4 .",
-      "bracketOrder": 1
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-2F380512BC",

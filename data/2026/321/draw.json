@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
+  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
   "source": "https://www.atptour.com/en/scores/current/stuttgart/321/draws",
   "tournament": {
     "id": "321",
@@ -261,10 +261,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "G. Onclin",
+          "player2FullName": "Gauthier Onclin",
+          "player2Id": "O0A2",
+          "player2Country": "BEL",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -290,10 +290,10 @@
           "bracketOrder": 7,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "M. Bellucci",
+          "player1FullName": "Mattia Bellucci",
+          "player1Id": "B0GG",
+          "player1Country": "ITA",
           "player1ScoreTokens": [],
           "player2": "TBA",
           "player2FullName": "TBA",
@@ -307,10 +307,10 @@
           "bracketOrder": 8,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "M. Landaluce",
+          "player1FullName": "Martin Landaluce",
+          "player1Id": "L0IL",
+          "player1Country": "ESP",
           "player1ScoreTokens": [],
           "player2": "T. Fritz",
           "player2FullName": "Taylor Fritz",
@@ -468,10 +468,10 @@
           "bracketOrder": 9,
           "round": "R32",
           "roundLong": "Round of 32",
-          "player1": "T. Paul",
-          "player1FullName": "Tommy Paul",
-          "player1Id": "PL56",
-          "player1Country": "USA",
+          "player1": "R. Safiullin",
+          "player1FullName": "Roman Safiullin",
+          "player1Id": "SX50",
+          "player1Country": "RUS",
           "player1ScoreTokens": [],
           "player2": "G. Mpetshi Perricard",
           "player2FullName": "Giovanni Mpetshi Perricard",
@@ -489,14 +489,20 @@
           "player1FullName": "Gauthier Onclin",
           "player1Id": "O0A2",
           "player1Country": "BEL",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
           "player2": "F. Marozsan",
           "player2FullName": "Fabian Marozsan",
           "player2Id": "M0CI",
           "player2Country": "HUN",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 6",
+            "3"
+          ],
+          "winnerName": "Gauthier Onclin",
+          "formattedScore": "7-6(6) 6-3"
         },
         {
           "bracketOrder": 11,
@@ -540,14 +546,22 @@
           "player1FullName": "Alejandro Davidovich Fokina",
           "player1Id": "DH50",
           "player1Country": "ESP",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "2",
+            "7",
+            "1"
+          ],
           "player2": "M. Bellucci",
           "player2FullName": "Mattia Bellucci",
           "player2Id": "B0GG",
           "player2Country": "ITA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6 5",
+            "6"
+          ],
+          "winnerName": "Mattia Bellucci",
+          "formattedScore": "6-2 6-7(5) 6-1"
         },
         {
           "bracketOrder": 14,
@@ -574,14 +588,22 @@
           "player1FullName": "Pierre Hugues Herbert",
           "player1Id": "H996",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "3",
+            "4"
+          ],
           "player2": "M. Landaluce",
           "player2FullName": "Martin Landaluce",
           "player2Id": "L0IL",
           "player2Country": "ESP",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "5",
+            "6",
+            "6"
+          ],
+          "winnerName": "Martin Landaluce",
+          "formattedScore": "5-7 6-3 6-4"
         },
         {
           "bracketOrder": 16,

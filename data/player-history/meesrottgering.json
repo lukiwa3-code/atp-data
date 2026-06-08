@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
+  "generatedAt": "2026-06-08T16:08:14.358199+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "M. Rottgering",
     "playerId": "R0KD"
   },
-  "count": 17,
+  "count": 18,
   "matches": [
+    {
+      "date": "Mon, 08 June, 2026",
+      "dateIso": "2026-06-08",
+      "tournamentId": "440",
+      "tournamentYear": "2026",
+      "tournamentName": "Libema Open",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-4",
+      "matchId": "RES-A4A2F6ADA2",
+      "reason": null,
+      "playerName": "Mees Rottgering",
+      "opponentName": "Benjamin Bonzi",
+      "opponentKey": "benjaminbonzi",
+      "result": "L",
+      "playerRank": 464,
+      "opponentRank": 99,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 11 February, 2026",
       "dateIso": "2026-02-11",
