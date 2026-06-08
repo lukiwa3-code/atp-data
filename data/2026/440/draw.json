@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T04:47:56.089884+00:00",
+  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/draws",
   "tournament": {
     "id": "440",
@@ -239,10 +239,10 @@
           "bracketOrder": 4,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "N. Borges",
+          "player1FullName": "Nuno Borges",
+          "player1Id": "BT72",
+          "player1Country": "POR",
           "player1ScoreTokens": [],
           "player2": "TBA",
           "player2FullName": "TBA",
@@ -438,14 +438,20 @@
           "player1FullName": "Nuno Borges",
           "player1Id": "BT72",
           "player1Country": "POR",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6"
+          ],
           "player2": "T. Atmane",
           "player2FullName": "Terence Atmane",
           "player2Id": "A0GC",
           "player2Country": "FRA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "4"
+          ],
+          "winnerName": "Nuno Borges",
+          "formattedScore": "6-4 6-4"
         },
         {
           "bracketOrder": 8,

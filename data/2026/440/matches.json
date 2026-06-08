@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T04:47:56.089884+00:00",
+  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
   "tournament": {
     "id": "440",
@@ -32,24 +32,24 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 12,
+  "count": 13,
   "matches": [
     {
-      "matchId": "RES-8C16D320BC",
-      "date": "Sun, 07 June, 2026",
-      "round": "Q2",
-      "roundLong": "2nd Round Qualifying",
+      "matchId": "RES-2B8848267C",
+      "date": "Mon, 08 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
       "playerId": "",
-      "playerName": "James McCabe",
+      "playerName": "Nuno Borges",
       "opponentId": "",
-      "opponentName": "Sander Jong",
+      "opponentName": "Terence Atmane",
       "winnerPlayerId": "",
-      "winnerName": "James McCabe",
+      "winnerName": "Nuno Borges",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
-      "formattedScore": "7-6(5) 6-4",
-      "sourceText": "Game Set and Match James McCabe. James McCabe wins the match 7-6(5) 6-4 .",
+      "formattedScore": "6-4 6-4",
+      "sourceText": "Game Set and Match Nuno Borges. Nuno Borges wins the match 6-4 6-4 .",
       "bracketOrder": 1
     },
     {
@@ -68,7 +68,7 @@
       "reason": null,
       "formattedScore": "6-7(5) 6-2 7-5",
       "sourceText": "Game Set and Match Benjamin Bonzi. Benjamin Bonzi wins the match 6-7(5) 6-2 7-5 .",
-      "bracketOrder": 2
+      "bracketOrder": 1
     },
     {
       "matchId": "RES-88BC87A169",
@@ -86,7 +86,7 @@
       "reason": null,
       "formattedScore": "6-2 6-2",
       "sourceText": "Game Set and Match Martin Damm. Martin Damm wins the match 6-2 6-2 .",
-      "bracketOrder": 3
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-F5053C938C",
@@ -104,43 +104,25 @@
       "reason": null,
       "formattedScore": "6-4 7-6(3)",
       "sourceText": "Game Set and Match Elias Ymer. Elias Ymer wins the match 6-4 7-6(3).",
-      "bracketOrder": 4
+      "bracketOrder": 3
     },
     {
-      "matchId": "RES-C499CCB33F",
-      "date": "Sat, 06 June, 2026",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
+      "matchId": "RES-8C16D320BC",
+      "date": "Sun, 07 June, 2026",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
       "playerId": "",
       "playerName": "James McCabe",
       "opponentId": "",
-      "opponentName": "Coleman Wong",
+      "opponentName": "Sander Jong",
       "winnerPlayerId": "",
       "winnerName": "James McCabe",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
-      "formattedScore": "3-6 6-4 6-3",
-      "sourceText": "Game Set and Match James McCabe. James McCabe wins the match 3-6 6-4 6-3 .",
-      "bracketOrder": 1
-    },
-    {
-      "matchId": "RES-E897C56631",
-      "date": "Sat, 06 June, 2026",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "playerId": "",
-      "playerName": "Sander Jong",
-      "opponentId": "",
-      "opponentName": "Shintaro Mochizuki",
-      "winnerPlayerId": "",
-      "winnerName": "Sander Jong",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "4-6 6-3 6-4",
-      "sourceText": "Game Set and Match Sander Jong. Sander Jong wins the match 4-6 6-3 6-4 .",
-      "bracketOrder": 2
+      "formattedScore": "7-6(5) 6-4",
+      "sourceText": "Game Set and Match James McCabe. James McCabe wins the match 7-6(5) 6-4 .",
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-0A0FC09FB9",
@@ -158,7 +140,7 @@
       "reason": null,
       "formattedScore": "6-2 7-6(3)",
       "sourceText": "Game Set and Match Benjamin Bonzi. Benjamin Bonzi wins the match 6-2 7-6(3).",
-      "bracketOrder": 3
+      "bracketOrder": 1
     },
     {
       "matchId": "RES-70BA82F9FC",
@@ -176,7 +158,7 @@
       "reason": null,
       "formattedScore": "6-2 6-3",
       "sourceText": "Game Set and Match Bernard Tomic. Bernard Tomic wins the match 6-2 6-3 .",
-      "bracketOrder": 4
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-7FA6936738",
@@ -194,7 +176,7 @@
       "reason": null,
       "formattedScore": "4-6 6-3 7-6(4)",
       "sourceText": "Game Set and Match Martin Damm. Martin Damm wins the match 4-6 6-3 7-6(4).",
-      "bracketOrder": 5
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-B424A13FA2",
@@ -212,7 +194,7 @@
       "reason": null,
       "formattedScore": "7-6(3) 4-6 6-2",
       "sourceText": "Game Set and Match Juan Pablo Ficovich. Juan Pablo Ficovich wins the match 7-6(3) 4-6 6-2 .",
-      "bracketOrder": 6
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-61DA8A7F9E",
@@ -230,7 +212,7 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Elias Ymer. Elias Ymer wins the match 6-4 6-4 .",
-      "bracketOrder": 7
+      "bracketOrder": 5
     },
     {
       "matchId": "RES-F56BC9F01F",
@@ -248,6 +230,42 @@
       "reason": null,
       "formattedScore": "7-6(7) 7-5",
       "sourceText": "Game Set and Match Niels Visker. Niels Visker wins the match 7-6(7) 7-5 .",
+      "bracketOrder": 6
+    },
+    {
+      "matchId": "RES-C499CCB33F",
+      "date": "Sat, 06 June, 2026",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "playerId": "",
+      "playerName": "James McCabe",
+      "opponentId": "",
+      "opponentName": "Coleman Wong",
+      "winnerPlayerId": "",
+      "winnerName": "James McCabe",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "3-6 6-4 6-3",
+      "sourceText": "Game Set and Match James McCabe. James McCabe wins the match 3-6 6-4 6-3 .",
+      "bracketOrder": 7
+    },
+    {
+      "matchId": "RES-E897C56631",
+      "date": "Sat, 06 June, 2026",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "playerId": "",
+      "playerName": "Sander Jong",
+      "opponentId": "",
+      "opponentName": "Shintaro Mochizuki",
+      "winnerPlayerId": "",
+      "winnerName": "Sander Jong",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "4-6 6-3 6-4",
+      "sourceText": "Game Set and Match Sander Jong. Sander Jong wins the match 4-6 6-3 6-4 .",
       "bracketOrder": 8
     }
   ]

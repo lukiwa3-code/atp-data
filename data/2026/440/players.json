@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T04:47:56.089884+00:00",
+  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
   "tournament": {
     "id": "440",
@@ -32,7 +32,7 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 16,
+  "count": 18,
   "players": [
     {
       "id": "",
@@ -88,11 +88,19 @@
     },
     {
       "id": "",
+      "name": "Nuno Borges"
+    },
+    {
+      "id": "",
       "name": "Sander Jong"
     },
     {
       "id": "",
       "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
     },
     {
       "id": "",

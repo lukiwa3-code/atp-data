@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-08T04:47:56.089884+00:00",
+  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
   "source": "data/rankings/singles/*.json",
-  "count": 49,
+  "count": 50,
   "items": [
     {
       "rankingDate": "2025-01-13",
@@ -247,6 +247,11 @@
       "rankingDate": "2026-06-01",
       "count": 1346,
       "path": "data/rankings/singles/2026-06-01.json"
+    },
+    {
+      "rankingDate": "2026-06-08",
+      "count": 1347,
+      "path": "data/rankings/singles/2026-06-08.json"
     }
   ]
 }

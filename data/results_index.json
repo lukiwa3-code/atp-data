@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T04:47:56.089884+00:00",
+  "generatedAt": "2026-06-08T11:10:34.702320+00:00",
   "count": 410,
   "items": [
     {
@@ -1296,8 +1296,8 @@
       "year": "2026",
       "id": "440",
       "name": "Libema Open",
-      "players": 16,
-      "matches": 12,
+      "players": 18,
+      "matches": 13,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "tour",
