@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "M. Bellucci",
     "playerId": "B0GG"
   },
-  "count": 79,
+  "count": 80,
   "matches": [
     {
       "date": "Mon, 08 June, 2026",
@@ -33,6 +33,31 @@
       "playerRank": 78,
       "opponentRank": 22,
       "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "4940",
+      "tournamentYear": "2026",
+      "tournamentName": "Lexus Birmingham Open",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-0",
+      "matchId": "RES-DB8BB04330",
+      "reason": null,
+      "playerName": "Mattia Bellucci",
+      "opponentName": "Alex Bolt",
+      "opponentKey": "alexbolt",
+      "result": "L",
+      "playerRank": 73,
+      "opponentRank": 152,
+      "rankingDate": "2026-06-01",
       "rankingNote": "historical_week"
     },
     {

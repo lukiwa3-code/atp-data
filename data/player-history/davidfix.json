@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "davidfix",
+    "name": "David Fix",
+    "displayName": "David Fix",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 01 June, 2026",
+      "dateIso": "2026-06-01",
+      "tournamentId": "460",
+      "tournamentYear": "2026",
+      "tournamentName": "Neckarcup 2.0",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-6(2) 6-2",
+      "matchId": "RES-4D1298CA8C",
+      "reason": null,
+      "playerName": "David Fix",
+      "opponentName": "Alex Marti Pujolras",
+      "opponentKey": "alexmartipujolras",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 473,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

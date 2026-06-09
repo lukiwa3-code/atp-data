@@ -5,7 +5,7 @@
     2025,
     2026
   ],
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "countSources": 4,
   "sources": [
     {
@@ -1038,8 +1038,8 @@
                 "Name": "Roland Garros",
                 "Location": "Paris, France",
                 "FormattedDate": "24 May - 7 June, 2026",
-                "IsLive": true,
-                "IsPastEvent": false,
+                "IsLive": false,
+                "IsPastEvent": true,
                 "ScoresUrl": "/en/scores/archive/roland-garros/520/2026/results",
                 "DrawsUrl": "/en/scores/archive/roland-garros/520/2026/draws",
                 "TournamentSiteUrl": "https://www.rolandgarros.com/en_FR/index.html",
@@ -2285,7 +2285,7 @@
     {
       "year": 2026,
       "source": "https://www.atptour.com/en/scores/results-archive?year=2026&tournamentType=ch",
-      "count": 106
+      "count": 112
     }
   ]
 }

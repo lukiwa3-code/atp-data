@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "L. Koenig",
     "playerId": "K0GE"
   },
-  "count": 4,
+  "count": 5,
   "matches": [
+    {
+      "date": "Mon, 01 June, 2026",
+      "dateIso": "2026-06-01",
+      "tournamentId": "3089",
+      "tournamentYear": "2026",
+      "tournamentName": "RISE CENTURION OPEN",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 4-6 6-0",
+      "matchId": "RES-FA3FD95D7D",
+      "reason": null,
+      "playerName": "Luc Koenig",
+      "opponentName": "Semen Pankin",
+      "opponentKey": "semenpankin",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 446,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Thu, 28 May, 2026",
       "dateIso": "2026-05-28",

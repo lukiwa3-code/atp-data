@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "G. Onclin",
     "playerId": "O0A2"
   },
-  "count": 58,
+  "count": 59,
   "matches": [
     {
       "date": "Mon, 08 June, 2026",
@@ -82,6 +82,31 @@
       "result": "W",
       "playerRank": 182,
       "opponentRank": 1050,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "460",
+      "tournamentYear": "2026",
+      "tournamentName": "Neckarcup 2.0",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "5-7 6-1 6-4",
+      "matchId": "RES-3E0E58D6F4",
+      "reason": null,
+      "playerName": "Gauthier Onclin",
+      "opponentName": "Marvin Moeller",
+      "opponentKey": "marvinmoeller",
+      "result": "L",
+      "playerRank": 182,
+      "opponentRank": 401,
       "rankingDate": "2026-06-01",
       "rankingNote": "historical_week"
     },

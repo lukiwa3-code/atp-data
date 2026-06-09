@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "F. Broska",
     "playerId": "B0C5"
   },
-  "count": 26,
+  "count": 27,
   "matches": [
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "460",
+      "tournamentYear": "2026",
+      "tournamentName": "Neckarcup 2.0",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-4",
+      "matchId": "RES-D153956096",
+      "reason": null,
+      "playerName": "Florian Broska",
+      "opponentName": "Lasse Poertner",
+      "opponentKey": "lassepoertner",
+      "result": "L",
+      "playerRank": 376,
+      "opponentRank": 1653,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 02 March, 2026",
       "dateIso": "2026-03-02",

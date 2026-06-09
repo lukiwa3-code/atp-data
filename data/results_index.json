@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
-  "count": 410,
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
+  "count": 416,
   "items": [
     {
       "year": "2025",
@@ -1424,8 +1424,8 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/520/matches.json",
       "drawPath": "data/2026/520/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/roland-garros/520/results",
-      "drawSource": "https://www.atptour.com/en/scores/current/roland-garros/520/draws"
+      "source": "https://www.atptour.com/en/scores/archive/roland-garros/520/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/roland-garros/520/2026/draws"
     },
     {
       "year": "2026",
@@ -4561,6 +4561,96 @@
       "drawPath": "data/2025/2795/draw.json",
       "source": "https://www.atptour.com/en/scores/archive/nonthaburi/2795/2025/results",
       "drawSource": "https://www.atptour.com/en/scores/archive/nonthaburi/2795/2025/draws"
+    },
+    {
+      "year": "2026",
+      "id": "558",
+      "name": "Unicredit Czech Open",
+      "players": 51,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "circuit": "challenger",
+      "circuitLabel": "ATP Challenger",
+      "matchesPath": "data/2026/558/matches.json",
+      "drawPath": "data/2026/558/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/prostejov/558/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/prostejov/558/2026/draws"
+    },
+    {
+      "year": "2026",
+      "id": "2873",
+      "name": "Texas Spine and Joint Men's Championship",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "circuit": "challenger",
+      "circuitLabel": "ATP Challenger",
+      "matchesPath": "data/2026/2873/matches.json",
+      "drawPath": "data/2026/2873/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/tyler/2873/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/tyler/2873/2026/draws"
+    },
+    {
+      "year": "2026",
+      "id": "3089",
+      "name": "RISE CENTURION OPEN",
+      "players": 50,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "circuit": "challenger",
+      "circuitLabel": "ATP Challenger",
+      "matchesPath": "data/2026/3089/matches.json",
+      "drawPath": "data/2026/3089/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/centurion/3089/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/centurion/3089/2026/draws"
+    },
+    {
+      "year": "2026",
+      "id": "460",
+      "name": "Neckarcup 2.0",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "circuit": "challenger",
+      "circuitLabel": "ATP Challenger",
+      "matchesPath": "data/2026/460/matches.json",
+      "drawPath": "data/2026/460/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/heilbronn---bad-rappenau/460/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/heilbronn---bad-rappenau/460/2026/draws"
+    },
+    {
+      "year": "2026",
+      "id": "4940",
+      "name": "Lexus Birmingham Open",
+      "players": 49,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "circuit": "challenger",
+      "circuitLabel": "ATP Challenger",
+      "matchesPath": "data/2026/4940/matches.json",
+      "drawPath": "data/2026/4940/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/birmingham/4940/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/birmingham/4940/2026/draws"
+    },
+    {
+      "year": "2026",
+      "id": "9001",
+      "name": "Internazionali di Tennis Città di Perugia | G.I.MA. Tennis Cup",
+      "players": 47,
+      "matches": 49,
+      "drawRounds": 5,
+      "drawMatches": 31,
+      "circuit": "challenger",
+      "circuitLabel": "ATP Challenger",
+      "matchesPath": "data/2026/9001/matches.json",
+      "drawPath": "data/2026/9001/draw.json",
+      "source": "https://www.atptour.com/en/scores/archive/perugia/9001/2026/results",
+      "drawSource": "https://www.atptour.com/en/scores/archive/perugia/9001/2026/draws"
     },
     {
       "year": "2026",

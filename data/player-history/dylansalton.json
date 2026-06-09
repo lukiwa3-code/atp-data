@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "dylansalton",
+    "name": "Dylan Salton",
+    "displayName": "Dylan Salton",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "3089",
+      "tournamentYear": "2026",
+      "tournamentName": "RISE CENTURION OPEN",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-1 6-1",
+      "matchId": "RES-5EE49BC31E",
+      "reason": null,
+      "playerName": "Dylan Salton",
+      "opponentName": "Oscar Weightman",
+      "opponentKey": "oscarweightman",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 718,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

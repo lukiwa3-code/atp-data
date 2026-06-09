@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "Z. Kolar",
     "playerId": "KH56"
   },
-  "count": 83,
+  "count": 84,
   "matches": [
+    {
+      "date": "Mon, 01 June, 2026",
+      "dateIso": "2026-06-01",
+      "tournamentId": "558",
+      "tournamentYear": "2026",
+      "tournamentName": "Unicredit Czech Open",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-5 6-1",
+      "matchId": "RES-630F61D2F9",
+      "reason": null,
+      "playerName": "Zdenek Kolar",
+      "opponentName": "Lautaro Midon",
+      "opponentKey": "lautaromidon",
+      "result": "L",
+      "playerRank": 162,
+      "opponentRank": 212,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 27 May, 2026",
       "dateIso": "2026-05-27",

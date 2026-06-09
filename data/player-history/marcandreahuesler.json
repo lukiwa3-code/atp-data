@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "M. Huesler",
     "playerId": "HH06"
   },
-  "count": 60,
+  "count": 62,
   "matches": [
     {
       "date": "Sun, 07 June, 2026",
@@ -58,6 +58,56 @@
       "playerRank": 309,
       "opponentRank": 111,
       "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 01 June, 2026",
+      "dateIso": "2026-06-01",
+      "tournamentId": "4940",
+      "tournamentYear": "2026",
+      "tournamentName": "Lexus Birmingham Open",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-2 2-6 7-6(3)",
+      "matchId": "RES-D26711DD24",
+      "reason": null,
+      "playerName": "Marc-Andrea Huesler",
+      "opponentName": "Zhizhen Zhang",
+      "opponentKey": "zhizhenzhang",
+      "result": "L",
+      "playerRank": 309,
+      "opponentRank": 224,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "4940",
+      "tournamentYear": "2026",
+      "tournamentName": "Lexus Birmingham Open",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 5-7 7-6(2)",
+      "matchId": "RES-23D0743FBD",
+      "reason": null,
+      "playerName": "Marc-Andrea Huesler",
+      "opponentName": "Alexis Galarneau",
+      "opponentKey": "alexisgalarneau",
+      "result": "W",
+      "playerRank": 309,
+      "opponentRank": 193,
+      "rankingDate": "2026-05-25",
       "rankingNote": "historical_week"
     },
     {

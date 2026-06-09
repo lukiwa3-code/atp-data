@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "B. Ellis",
     "playerId": "EA27"
   },
-  "count": 37,
+  "count": 38,
   "matches": [
+    {
+      "date": "Wed, 03 June, 2026",
+      "dateIso": "2026-06-03",
+      "tournamentId": "2873",
+      "tournamentYear": "2026",
+      "tournamentName": "Texas Spine and Joint Men's Championship",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(5) 7-6(5)",
+      "matchId": "RES-F82DC17687",
+      "reason": null,
+      "playerName": "Blake Ellis",
+      "opponentName": "Andres Martin",
+      "opponentKey": "andresmartin",
+      "result": "L",
+      "playerRank": 495,
+      "opponentRank": 284,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Tue, 26 May, 2026",
       "dateIso": "2026-05-26",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "S. Travaglia",
     "playerId": "TA12"
   },
-  "count": 80,
+  "count": 81,
   "matches": [
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "9001",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali di Tennis Città di Perugia | G.I.MA. Tennis Cup",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(3) 4-6 6-3",
+      "matchId": "RES-E63351877E",
+      "reason": null,
+      "playerName": "Stefano Travaglia",
+      "opponentName": "Pierluigi Basile",
+      "opponentKey": "pierluigibasile",
+      "result": "L",
+      "playerRank": 138,
+      "opponentRank": 660,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sat, 30 May, 2026",
       "dateIso": "2026-05-30",

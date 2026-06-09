@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "M. Sasikumar",
     "playerId": "MP13"
   },
-  "count": 30,
+  "count": 31,
   "matches": [
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "3089",
+      "tournamentYear": "2026",
+      "tournamentName": "RISE CENTURION OPEN",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-5 6-2",
+      "matchId": "RES-278EA83442",
+      "reason": null,
+      "playerName": "Mukund Sasikumar",
+      "opponentName": "Giles Hussey",
+      "opponentKey": "gileshussey",
+      "result": "L",
+      "playerRank": 517,
+      "opponentRank": 352,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Tue, 26 May, 2026",
       "dateIso": "2026-05-26",

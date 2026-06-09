@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "M. Damas",
     "playerId": "D0CN"
   },
-  "count": 56,
+  "count": 57,
   "matches": [
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "558",
+      "tournamentYear": "2026",
+      "tournamentName": "Unicredit Czech Open",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-7(2) 6-4 7-5",
+      "matchId": "RES-9677A3F462",
+      "reason": null,
+      "playerName": "Miguel Damas",
+      "opponentName": "Damir Dzumhur",
+      "opponentKey": "damirdzumhur",
+      "result": "L",
+      "playerRank": 267,
+      "opponentRank": 87,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 25 May, 2026",
       "dateIso": "2026-05-25",

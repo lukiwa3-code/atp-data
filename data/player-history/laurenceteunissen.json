@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "laurenceteunissen",
+    "name": "Laurence Teunissen",
+    "displayName": "Laurence Teunissen",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "3089",
+      "tournamentYear": "2026",
+      "tournamentName": "RISE CENTURION OPEN",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-2 6-2",
+      "matchId": "RES-2EFC2AE6FB",
+      "reason": null,
+      "playerName": "Laurence Teunissen",
+      "opponentName": "Thando Longwe-Smit",
+      "opponentKey": "thandolongwesmit",
+      "result": "L",
+      "playerRank": 1410,
+      "opponentRank": 1097,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

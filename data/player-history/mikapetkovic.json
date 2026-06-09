@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "M. Petkovic",
     "playerId": "P0O9"
   },
-  "count": 10,
+  "count": 11,
   "matches": [
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "460",
+      "tournamentYear": "2026",
+      "tournamentName": "Neckarcup 2.0",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-1 6-3",
+      "matchId": "RES-A0599F7B66",
+      "reason": null,
+      "playerName": "Mika Petkovic",
+      "opponentName": "Alejandro Moro Canas",
+      "opponentKey": "alejandromorocanas",
+      "result": "L",
+      "playerRank": 547,
+      "opponentRank": 242,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sat, 16 May, 2026",
       "dateIso": "2026-05-16",

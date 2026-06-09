@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "S. Gueymard Wayenburg",
     "playerId": "G0GW"
   },
-  "count": 85,
+  "count": 86,
   "matches": [
+    {
+      "date": "Tue, 02 June, 2026",
+      "dateIso": "2026-06-02",
+      "tournamentId": "558",
+      "tournamentYear": "2026",
+      "tournamentName": "Unicredit Czech Open",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-3",
+      "matchId": "RES-9F376EC082",
+      "reason": null,
+      "playerName": "Sascha Gueymard Wayenburg",
+      "opponentName": "Sebastian Baez",
+      "opponentKey": "sebastianbaez",
+      "result": "L",
+      "playerRank": 266,
+      "opponentRank": 64,
+      "rankingDate": "2026-06-01",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Tue, 19 May, 2026",
       "dateIso": "2026-05-19",

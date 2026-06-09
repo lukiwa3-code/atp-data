@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "seanhodkin",
+    "name": "Sean Hodkin",
+    "displayName": "Sean Hodkin",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "4940",
+      "tournamentYear": "2026",
+      "tournamentName": "Lexus Birmingham Open",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-1",
+      "matchId": "RES-4BC030DE7B",
+      "reason": null,
+      "playerName": "Sean Hodkin",
+      "opponentName": "Hamish Stewart",
+      "opponentKey": "hamishstewart",
+      "result": "L",
+      "playerRank": 1523,
+      "opponentRank": 308,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

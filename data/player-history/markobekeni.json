@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "Marko Bekeni",
     "playerId": ""
   },
-  "count": 1,
+  "count": 2,
   "matches": [
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "558",
+      "tournamentYear": "2026",
+      "tournamentName": "Unicredit Czech Open",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 3-6 6-3",
+      "matchId": "RES-5935DD89E7",
+      "reason": null,
+      "playerName": "Marko Bekeni",
+      "opponentName": "Daniel Dutra da Silva",
+      "opponentKey": "danieldutradasilva",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": 416,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 24 May, 2026",
       "dateIso": "2026-05-24",

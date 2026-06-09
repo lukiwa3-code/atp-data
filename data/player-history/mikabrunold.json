@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "M. Brunold",
     "playerId": "B0LW"
   },
-  "count": 61,
+  "count": 62,
   "matches": [
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "9001",
+      "tournamentYear": "2026",
+      "tournamentName": "Internazionali di Tennis Città di Perugia | G.I.MA. Tennis Cup",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-3 6-2",
+      "matchId": "RES-4A8B98AB2C",
+      "reason": null,
+      "playerName": "Mika Brunold",
+      "opponentName": "Miguel Tobon",
+      "opponentKey": "migueltobon",
+      "result": "L",
+      "playerRank": 387,
+      "opponentRank": 480,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Thu, 28 May, 2026",
       "dateIso": "2026-05-28",

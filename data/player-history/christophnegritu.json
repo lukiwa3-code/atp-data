@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-08T20:27:06.647381+00:00",
+  "generatedAt": "2026-06-09T04:10:05.054767+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "C. Negritu",
     "playerId": "N731"
   },
-  "count": 77,
+  "count": 78,
   "matches": [
+    {
+      "date": "Sun, 31 May, 2026",
+      "dateIso": "2026-05-31",
+      "tournamentId": "460",
+      "tournamentYear": "2026",
+      "tournamentName": "Neckarcup 2.0",
+      "tournamentType": "CH",
+      "tournamentDate": "1-7 Jun, 2026",
+      "tournamentStartDate": "2026-06-01",
+      "tournamentEndDate": "2026-06-07",
+      "surface": "",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 6-2",
+      "matchId": "RES-CA2B2D9E30",
+      "reason": null,
+      "playerName": "Christoph Negritu",
+      "opponentName": "Max Wiskandt",
+      "opponentKey": "maxwiskandt",
+      "result": "L",
+      "playerRank": 447,
+      "opponentRank": 554,
+      "rankingDate": "2026-05-25",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 05 April, 2026",
       "dateIso": "2026-04-05",
