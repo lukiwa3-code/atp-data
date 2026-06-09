@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:56:54.537876+00:00",
+  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
   "source": "https://www.atptour.com/en/scores/archive/targu-mures/3021/2025/results",
   "tournament": {
     "id": "3021",
@@ -29,7 +29,7 @@
     "tournamentEndDate": "2025-09-14",
     "circuit": "challenger",
     "circuitLabel": "ATP Challenger",
-    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?year=2025&tournamentType=ch",
+    "sourceArchive": "https://www.atptour.com/en/scores/results-archive?tournamentType=ch&year=2025",
     "dateSource": "results_header_or_calendar",
     "startDate": "2025-09-08",
     "endDate": "2025-09-14"

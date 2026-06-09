@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:56:54.537876+00:00",
+  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "R. Safiullin",
     "playerId": "SX50"
   },
-  "count": 60,
+  "count": 61,
   "matches": [
+    {
+      "date": "Mon, 08 June, 2026",
+      "dateIso": "2026-06-08",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-5 6-7(4) 7-6(4)",
+      "matchId": "RES-6772B349E6",
+      "reason": null,
+      "playerName": "Roman Safiullin",
+      "opponentName": "Giovanni Mpetshi Perricard",
+      "opponentKey": "giovannimpetshiperricard",
+      "result": "L",
+      "playerRank": 135,
+      "opponentRank": 93,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 07 June, 2026",
       "dateIso": "2026-06-07",

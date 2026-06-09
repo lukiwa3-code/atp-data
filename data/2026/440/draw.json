@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:56:54.537876+00:00",
+  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/draws",
   "tournament": {
     "id": "440",
@@ -261,10 +261,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "Z. Zhang",
+          "player2FullName": "Zhizhen Zhang",
+          "player2Id": "Z371",
+          "player2Country": "CHN",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -273,10 +273,10 @@
           "bracketOrder": 6,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "A. Mannarino",
+          "player1FullName": "Adrian Mannarino",
+          "player1Id": "ME82",
+          "player1Country": "FRA",
           "player1ScoreTokens": [],
           "player2": "A. Rinderknech",
           "player2FullName": "Arthur Rinderknech",
@@ -307,10 +307,10 @@
           "bracketOrder": 8,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "M. Damm",
+          "player1FullName": "Martin Damm",
+          "player1Id": "D0DT",
+          "player1Country": "USA",
           "player1ScoreTokens": [],
           "player2": "A. de Minaur",
           "player2FullName": "Alex De Minaur",
@@ -503,14 +503,22 @@
           "player1FullName": "Zhizhen Zhang",
           "player1Id": "Z371",
           "player1Country": "CHN",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "5",
+            "6"
+          ],
           "player2": "J. Brooksby",
           "player2FullName": "Jenson Brooksby",
           "player2Id": "B0CD",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 4",
+            "7",
+            "1"
+          ],
+          "winnerName": "Zhizhen Zhang",
+          "formattedScore": "7-6(4) 5-7 6-1"
         },
         {
           "bracketOrder": 11,
@@ -520,14 +528,22 @@
           "player1FullName": "Gabriel Diallo",
           "player1Id": "D0F6",
           "player1Country": "CAN",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "5"
+          ],
           "player2": "A. Mannarino",
           "player2FullName": "Adrian Mannarino",
           "player2Id": "ME82",
           "player2Country": "FRA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "7"
+          ],
+          "winnerName": "Adrian Mannarino",
+          "formattedScore": "6-4 3-6 7-5"
         },
         {
           "bracketOrder": 12,
@@ -600,14 +616,20 @@
           "player1FullName": "Jaume Munar",
           "player1Id": "MU94",
           "player1Country": "ESP",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "4"
+          ],
           "player2": "M. Damm",
           "player2FullName": "Martin Damm",
           "player2Id": "D0DT",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Martin Damm",
+          "formattedScore": "6-4 6-4"
         },
         {
           "bracketOrder": 16,

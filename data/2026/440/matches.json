@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:56:54.537876+00:00",
+  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
   "tournament": {
     "id": "440",
@@ -32,8 +32,62 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 16,
+  "count": 19,
   "matches": [
+    {
+      "matchId": "RES-1DC43A3E56",
+      "date": "Tue, 09 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Zhizhen Zhang",
+      "opponentId": "",
+      "opponentName": "Jenson Brooksby",
+      "winnerPlayerId": "",
+      "winnerName": "Zhizhen Zhang",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "7-6(4) 5-7 6-1",
+      "sourceText": "Parsed from displayed score numbers",
+      "bracketOrder": 1
+    },
+    {
+      "matchId": "RES-C211CE3BDA",
+      "date": "Tue, 09 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Martin Damm",
+      "opponentId": "",
+      "opponentName": "Jaume Munar",
+      "winnerPlayerId": "",
+      "winnerName": "Martin Damm",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-4 6-4",
+      "sourceText": "Game Set and Match Martin Damm. Martin Damm wins the match 6-4 6-4 .",
+      "bracketOrder": 2
+    },
+    {
+      "matchId": "RES-06A9ACD0B0",
+      "date": "Tue, 09 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Adrian Mannarino",
+      "opponentId": "",
+      "opponentName": "Gabriel Diallo",
+      "winnerPlayerId": "",
+      "winnerName": "Adrian Mannarino",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-4 3-6 7-5",
+      "sourceText": "Game Set and Match Adrian Mannarino. Adrian Mannarino wins the match 6-4 3-6 7-5 .",
+      "bracketOrder": 3
+    },
     {
       "matchId": "RES-543149BB14",
       "date": "Mon, 08 June, 2026",
@@ -49,8 +103,8 @@
       "matchState": "F",
       "reason": null,
       "formattedScore": "6-4 6-3",
-      "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 1
+      "sourceText": "Game Set and Match Ugo Humbert. Ugo Humbert wins the match 6-4 6-3 .",
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-817E19FE83",
@@ -68,7 +122,7 @@
       "reason": null,
       "formattedScore": "6-7(5) 6-4 7-5",
       "sourceText": "Game Set and Match Marin Cilic. Marin Cilic wins the match 6-7(5) 6-4 7-5 .",
-      "bracketOrder": 2
+      "bracketOrder": 5
     },
     {
       "matchId": "RES-A4A2F6ADA2",
@@ -86,7 +140,7 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Benjamin Bonzi. Benjamin Bonzi wins the match 6-4 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 6
     },
     {
       "matchId": "RES-2B8848267C",
@@ -104,7 +158,7 @@
       "reason": null,
       "formattedScore": "6-4 6-4",
       "sourceText": "Game Set and Match Nuno Borges. Nuno Borges wins the match 6-4 6-4 .",
-      "bracketOrder": 4
+      "bracketOrder": 7
     },
     {
       "matchId": "RES-2F380512BC",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:56:54.537876+00:00",
+  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
   "count": 1968,
   "items": [
     {
@@ -602,7 +602,7 @@
       "displayName": "A. Mannarino",
       "playerId": "ME82",
       "rank": null,
-      "count": 82,
+      "count": 83,
       "path": "data/player-history/adrianmannarino.json"
     },
     {
@@ -989,7 +989,7 @@
       "displayName": "A. Kovacevic",
       "playerId": "K0AZ",
       "rank": null,
-      "count": 92,
+      "count": 93,
       "path": "data/player-history/aleksandarkovacevic.json"
     },
     {
@@ -1520,7 +1520,7 @@
       "displayName": "A. Galarneau",
       "playerId": "GK06",
       "rank": null,
-      "count": 89,
+      "count": 90,
       "path": "data/player-history/alexisgalarneau.json"
     },
     {
@@ -6200,7 +6200,7 @@
       "displayName": "G. Diallo",
       "playerId": "D0F6",
       "rank": null,
-      "count": 73,
+      "count": 74,
       "path": "data/player-history/gabrieldiallo.json"
     },
     {
@@ -6596,7 +6596,7 @@
       "displayName": "G. Mpetshi Perricard",
       "playerId": "M0GZ",
       "rank": null,
-      "count": 62,
+      "count": 63,
       "path": "data/player-history/giovannimpetshiperricard.json"
     },
     {
@@ -8090,7 +8090,7 @@
       "displayName": "J. Struff",
       "playerId": "SL28",
       "rank": null,
-      "count": 67,
+      "count": 68,
       "path": "data/player-history/janlennardstruff.json"
     },
     {
@@ -8189,7 +8189,7 @@
       "displayName": "J. Munar",
       "playerId": "MU94",
       "rank": null,
-      "count": 68,
+      "count": 69,
       "path": "data/player-history/jaumemunar.json"
     },
     {
@@ -8297,7 +8297,7 @@
       "displayName": "J. Brooksby",
       "playerId": "B0CD",
       "rank": null,
-      "count": 57,
+      "count": 58,
       "path": "data/player-history/jensonbrooksby.json"
     },
     {
@@ -10898,7 +10898,7 @@
       "displayName": "M. Giron",
       "playerId": "GC88",
       "rank": null,
-      "count": 71,
+      "count": 72,
       "path": "data/player-history/marcosgiron.json"
     },
     {
@@ -11123,7 +11123,7 @@
       "displayName": "M. Damm",
       "playerId": "D0DT",
       "rank": null,
-      "count": 59,
+      "count": 60,
       "path": "data/player-history/martindamm.json"
     },
     {
@@ -14093,7 +14093,7 @@
       "displayName": "Q. Halys",
       "playerId": "HB64",
       "rank": null,
-      "count": 82,
+      "count": 83,
       "path": "data/player-history/quentinhalys.json"
     },
     {
@@ -14480,7 +14480,7 @@
       "displayName": "R. Bautista Agut",
       "playerId": "BD06",
       "rank": null,
-      "count": 57,
+      "count": 58,
       "path": "data/player-history/robertobautistaagut.json"
     },
     {
@@ -14660,7 +14660,7 @@
       "displayName": "R. Safiullin",
       "playerId": "SX50",
       "rank": null,
-      "count": 60,
+      "count": 61,
       "path": "data/player-history/romansafiullin.json"
     },
     {
@@ -15407,7 +15407,7 @@
       "displayName": "S. Shimabukuro",
       "playerId": "SY67",
       "rank": null,
-      "count": 77,
+      "count": 78,
       "path": "data/player-history/shoshimabukuro.json"
     },
     {
@@ -17252,7 +17252,7 @@
       "displayName": "Y. Hanfmann",
       "playerId": "H997",
       "rank": null,
-      "count": 85,
+      "count": 86,
       "path": "data/player-history/yannickhanfmann.json"
     },
     {
@@ -17648,7 +17648,7 @@
       "displayName": "Z. Zhang",
       "playerId": "Z371",
       "rank": null,
-      "count": 37,
+      "count": 38,
       "path": "data/player-history/zhizhenzhang.json"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:56:54.537876+00:00",
+  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
   "count": 416,
   "items": [
     {
@@ -1281,8 +1281,8 @@
       "year": "2026",
       "id": "321",
       "name": "BOSS OPEN",
-      "players": 20,
-      "matches": 15,
+      "players": 27,
+      "matches": 20,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "tour",
@@ -1296,8 +1296,8 @@
       "year": "2026",
       "id": "440",
       "name": "Libema Open",
-      "players": 22,
-      "matches": 16,
+      "players": 27,
+      "matches": 19,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "tour",

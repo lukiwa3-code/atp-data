@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:56:54.537876+00:00",
+  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "G. Diallo",
     "playerId": "D0F6"
   },
-  "count": 73,
+  "count": 74,
   "matches": [
+    {
+      "date": "Tue, 09 June, 2026",
+      "dateIso": "2026-06-09",
+      "tournamentId": "440",
+      "tournamentYear": "2026",
+      "tournamentName": "Libema Open",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 3-6 7-5",
+      "matchId": "RES-06A9ACD0B0",
+      "reason": null,
+      "playerName": "Gabriel Diallo",
+      "opponentName": "Adrian Mannarino",
+      "opponentKey": "adrianmannarino",
+      "result": "L",
+      "playerRank": 54,
+      "opponentRank": 46,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Fri, 24 April, 2026",
       "dateIso": "2026-04-24",

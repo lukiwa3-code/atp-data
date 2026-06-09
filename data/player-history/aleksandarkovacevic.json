@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T09:56:54.537876+00:00",
+  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "A. Kovacevic",
     "playerId": "K0AZ"
   },
-  "count": 92,
+  "count": 93,
   "matches": [
+    {
+      "date": "Tue, 09 June, 2026",
+      "dateIso": "2026-06-09",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(5) 7-6(4)",
+      "matchId": "RES-4FCADC93F5",
+      "reason": null,
+      "playerName": "Aleksandar Kovacevic",
+      "opponentName": "Yannick Hanfmann",
+      "opponentKey": "yannickhanfmann",
+      "result": "L",
+      "playerRank": 69,
+      "opponentRank": 59,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Mon, 25 May, 2026",
       "dateIso": "2026-05-25",
