@@ -80,23 +80,84 @@ def load_existing_json(path: Path) -> Optional[Any]:
         return None
 
 
-def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
-    """Nie kasuj dobrych danych, jeśli świeży parser zwróci 0 meczów.
+def match_merge_key(match: Dict[str, Any]) -> Tuple[str, str, str]:
+    """Klucz meczu niezależny od matchId.
 
-    To jest bezpiecznik na wypadek, gdy ATP zmieni HTML albo parser trafi
-    na chwilowo pustą/dziwną odpowiedź.
+    matchId ma w sobie score/date, więc przy drobnej zmianie parsera potrafi się zmienić.
+    Do scalania bezpieczniej użyć rundy i nazw dwóch zawodników.
     """
-    new_count = int(new_payload.get("count") or 0)
+    round_key = str(match.get("round") or match.get("roundLong") or "")
+    p1 = player_key(str(match.get("playerName") or match.get("player1") or ""))
+    p2 = player_key(str(match.get("opponentName") or match.get("player2") or ""))
+
+    pair = "|".join(sorted([p1, p2]))
+    return round_key, pair, str(match.get("date") or "")
+
+
+def match_quality(match: Dict[str, Any]) -> Tuple[int, int, int, int]:
+    """Im wyższa jakość, tym chętniej zostawiamy ten wariant meczu."""
+    return (
+        1 if match.get("date") else 0,
+        1 if match.get("formattedScore") or match.get("score") else 0,
+        1 if match.get("sourceType") != "draw_fallback" else 0,
+        len(str(match.get("sourceText") or "")),
+    )
+
+
+def merge_match_lists(old_matches: List[Dict[str, Any]], new_matches: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    merged: Dict[Tuple[str, str, str], Dict[str, Any]] = {}
+
+    for source_list in (old_matches or [], new_matches or []):
+        for match in source_list:
+            if not isinstance(match, dict):
+                continue
+
+            key = match_merge_key(match)
+            if not key[1].replace("|", ""):
+                continue
+
+            current = merged.get(key)
+            if current is None or match_quality(match) >= match_quality(current):
+                merged[key] = match
+
+    return apply_bracket_order(list(merged.values()))
+
+
+def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
+    """Nie pozwól, żeby chwilowo uboższy parser obciął wcześniej zebrane mecze.
+
+    Stary bezpiecznik chronił tylko przed count=0. To za mało, bo ATP czasem
+    zwraca stronę z częścią rund albo parser łapie np. tylko 7 meczów R32.
+    Teraz przy każdej aktualizacji scalamy stare i nowe mecze.
+    """
+    new_matches = new_payload.get("matches", []) if isinstance(new_payload, dict) else []
+    new_count = len(new_matches) if isinstance(new_matches, list) else int(new_payload.get("count") or 0)
+
     old_payload = load_existing_json(path)
+    old_matches: List[Dict[str, Any]] = []
     old_count = 0
+
     if isinstance(old_payload, dict):
-        old_count = int(old_payload.get("count") or 0)
+        old_matches_raw = old_payload.get("matches", [])
+        if isinstance(old_matches_raw, list):
+            old_matches = [item for item in old_matches_raw if isinstance(item, dict)]
+        old_count = int(old_payload.get("count") or len(old_matches))
 
     if new_count == 0 and old_count > 0:
         old_payload["preservedBecauseNewParseWasEmpty"] = True
         old_payload["lastFailedUpdateAt"] = new_payload.get("generatedAt")
         save_json(path, old_payload)
         return old_payload
+
+    if old_matches and isinstance(new_matches, list):
+        merged_matches = merge_match_lists(old_matches, [item for item in new_matches if isinstance(item, dict)])
+
+        if len(merged_matches) > new_count:
+            new_payload["mergedBecauseNewParseWasSmaller"] = new_count < old_count
+            new_payload["oldCountBeforeMerge"] = old_count
+            new_payload["newCountBeforeMerge"] = new_count
+            new_payload["count"] = len(merged_matches)
+            new_payload["matches"] = merged_matches
 
     save_json(path, new_payload)
     return new_payload
@@ -1467,6 +1528,100 @@ def draw_item_to_match(item: Any, round_short: str, round_long: str, bracket_ord
     }
 
 
+def draw_result_match_id(event_id: str, round_long: str, winner: str, loser: str, score: str) -> str:
+    return hash_match_id(event_id, "", round_long, winner, loser, score)
+
+
+def draw_match_to_result_match(draw_match: Dict[str, Any], tournament: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+    score = normalize_space(str(draw_match.get("formattedScore") or ""))
+
+    if not score:
+        return None
+
+    winner = normalize_space(str(draw_match.get("winnerName") or ""))
+    if not winner or winner.upper() in {"TBD", "BYE"}:
+        return None
+
+    p1 = normalize_space(str(draw_match.get("player1FullName") or draw_match.get("player1") or ""))
+    p2 = normalize_space(str(draw_match.get("player2FullName") or draw_match.get("player2") or ""))
+
+    if not p1 or not p2 or p1.upper() == "TBD" or p2.upper() == "TBD":
+        return None
+
+    if names_equal_for_history(winner, p2):
+        loser = p1
+    else:
+        loser = p2
+        winner = p1 if names_equal_for_history(winner, p1) else winner
+
+    if not loser or names_equal_for_history(winner, loser):
+        return None
+
+    round_short = str(draw_match.get("round") or "")
+    round_long = str(draw_match.get("roundLong") or round_short or "")
+    event_id = str(tournament.get("id") or "")
+
+    return {
+        "matchId": draw_result_match_id(event_id, round_long, winner, loser, score),
+        "date": "",
+        "round": round_short,
+        "roundLong": round_long,
+        "playerId": draw_match.get("player1Id") if names_equal_for_history(winner, p1) else draw_match.get("player2Id") or "",
+        "playerName": winner,
+        "opponentId": draw_match.get("player2Id") if names_equal_for_history(winner, p1) else draw_match.get("player1Id") or "",
+        "opponentName": loser,
+        "winnerPlayerId": draw_match.get("player1Id") if names_equal_for_history(winner, p1) else draw_match.get("player2Id") or "",
+        "winnerName": winner,
+        "isPlayerWinner": True,
+        "matchState": "F",
+        "reason": None,
+        "formattedScore": score,
+        "sourceText": "Built from draw fallback",
+        "sourceType": "draw_fallback",
+        "bracketOrder": draw_match.get("bracketOrder") or 9999,
+    }
+
+
+def result_matches_from_draw_rounds(draw_rounds: List[Dict[str, Any]], tournament: Dict[str, Any]) -> List[Dict[str, Any]]:
+    result: List[Dict[str, Any]] = []
+
+    for round_item in draw_rounds or []:
+        round_short = str(round_item.get("round") or "")
+        round_long = str(round_item.get("roundLong") or round_short or "")
+
+        for draw_match in round_item.get("matches", []) or []:
+            if not isinstance(draw_match, dict):
+                continue
+
+            enriched = {
+                **draw_match,
+                "round": draw_match.get("round") or round_short,
+                "roundLong": draw_match.get("roundLong") or round_long,
+            }
+            converted = draw_match_to_result_match(enriched, tournament)
+            if converted:
+                result.append(converted)
+
+    return apply_bracket_order(result)
+
+
+def merge_results_with_draw_fallback(results_matches: List[Dict[str, Any]], draw_rounds: List[Dict[str, Any]], tournament: Dict[str, Any]) -> List[Dict[str, Any]]:
+    draw_matches = result_matches_from_draw_rounds(draw_rounds, tournament)
+
+    if not draw_matches:
+        return results_matches
+
+    merged = merge_match_lists(draw_matches, results_matches)
+
+    if len(merged) > len(results_matches or []):
+        print(
+            f"Draw fallback added {len(merged) - len(results_matches or [])} matches for "
+            f"{tournament.get('year')}/{tournament.get('id')} {tournament.get('name')}"
+        )
+
+    return merged
+
+
 def extract_draw_from_html(html_text: str) -> List[Dict[str, Any]]:
     soup = BeautifulSoup(html_text, "html.parser")
     rounds: List[Dict[str, Any]] = []
@@ -2558,6 +2713,17 @@ def main() -> None:
         draw_match_count = sum(len(round_item.get("matches", [])) for round_item in draw_rounds)
         draw_player_meta = collect_draw_player_meta(draw_rounds)
         draw_meta_by_player_key.update(draw_player_meta)
+
+        # Results bywa ucięte, zwłaszcza przy live/current i przy archiwum.
+        # Draw często ma brakujące finały/półfinały/ćwierćfinały z wynikiem,
+        # więc używamy go jako bezpiecznego uzupełnienia.
+        matches = merge_results_with_draw_fallback(matches, draw_rounds, tournament)
+        players_seen_for_merge = {player.get("name"): player for player in players if isinstance(player, dict)}
+        for match in matches:
+            for pname in (match.get("playerName"), match.get("opponentName")):
+                if pname and pname not in players_seen_for_merge:
+                    players_seen_for_merge[pname] = {"id": "", "name": pname}
+        players = sorted(players_seen_for_merge.values(), key=lambda p: p.get("name") or "")
 
         save_json(
             folder / "draw.json",

@@ -1,11 +1,13 @@
-# ATP data updater v25b - ATP Challenger + current
+# ATP data updater v27 - scalanie wyników i draw fallback
 
-Zmiany:
-- dodaje turnieje ATP Challenger z archiwum wyników ATP dla 2025 i 2026,
-- dodatkowo próbuje czytać bieżące Challengery z `https://www.atptour.com/en/scores/current-challenger`,
-- turnieje mają pole `circuit`: `tour` albo `challenger`,
-- parser wyników jest ten sam co dla ATP Tour, bo Challenger ma takie same karty meczowe: `match-header`, rundy, zawodnicy i wynik,
-- historia zawodników buduje się łącznie z ATP Tour + Challenger,
-- dane zapisują się tak samo: `data/{year}/{id}/matches.json`, `draw.json`, `tournament.json`.
+Poprawki:
+- `matches.json` nie jest już obcinany, gdy świeży parser zwróci mniej meczów niż było wcześniej.
+- Stare i nowe mecze są scalane po rundzie i parze zawodników.
+- Jeżeli Results nie złapie finału/półfinału/ćwierćfinału, skrypt uzupełnia brakujące rozegrane mecze z `draw.json`.
+- Dotyczy ATP Tour i Challenger.
+- To powinno naprawić:
+  - urwane historie zawodników,
+  - brakujące SF/QF/F,
+  - sytuacje, gdy live/current nagle pokazuje tylko kilka meczów R32.
 
-Po podmianie uruchom workflow `Update ATP Data`.
+Po podmianie uruchom `Update ATP Data`.
