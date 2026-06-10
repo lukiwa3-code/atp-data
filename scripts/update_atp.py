@@ -2365,6 +2365,135 @@ def sorted_flat_tournaments_for_app(flat_tournaments: List[Dict[str, Any]]) -> L
     )
 
 
+
+def tournament_circuit_value(tournament: Dict[str, Any]) -> str:
+    circuit = str(
+        tournament.get("circuit")
+        or tournament.get("level")
+        or tournament.get("Circuit")
+        or "tour"
+    ).strip().lower()
+
+    if circuit in {"challenger", "ch", "atp challenger"}:
+        return "challenger"
+
+    return "tour"
+
+
+def tournament_data_folder(tournament: Dict[str, Any]) -> Path:
+    year = str(tournament.get("year") or tournament.get("Year") or "")
+    event_id = str(tournament.get("id") or tournament.get("Id") or "")
+
+    if tournament_circuit_value(tournament) == "challenger":
+        return DATA_DIR / "challenger" / year / event_id
+
+    return DATA_DIR / year / event_id
+
+
+def tournament_public_data_path(tournament: Dict[str, Any], filename: str) -> str:
+    year = str(tournament.get("year") or tournament.get("Year") or "")
+    event_id = str(tournament.get("id") or tournament.get("Id") or "")
+
+    if tournament_circuit_value(tournament) == "challenger":
+        return f"data/challenger/{year}/{event_id}/{filename}"
+
+    return f"data/{year}/{event_id}/{filename}"
+
+
+def load_existing_tournaments_from_files() -> List[Dict[str, Any]]:
+    """Awaryjne odtworzenie listy turniejów z istniejących plików tournament.json.
+
+    Potrzebne, gdy ATP/HTML/endpoint chwilowo zwróci pustkę i nowy parser daje 0 turniejów.
+    Dzięki temu nie kasujemy `tournaments_flat.json` i aplikacja dalej ma co czytać.
+    """
+    candidates: List[Path] = []
+
+    for year in HISTORY_YEARS:
+        candidates.extend((DATA_DIR / str(year)).glob("*/tournament.json"))
+        candidates.extend((DATA_DIR / "challenger" / str(year)).glob("*/tournament.json"))
+
+    items: Dict[Tuple[str, str, str], Dict[str, Any]] = {}
+
+    for path in candidates:
+        payload = load_existing_json(path)
+        if not isinstance(payload, dict):
+            continue
+
+        tournament = payload.get("tournament") if isinstance(payload.get("tournament"), dict) else payload
+
+        if not isinstance(tournament, dict):
+            continue
+
+        year = str(tournament.get("year") or tournament.get("Year") or "")
+        event_id = str(tournament.get("id") or tournament.get("Id") or "")
+        if not year or not event_id:
+            continue
+
+        circuit = tournament_circuit_value(tournament)
+        if circuit == "challenger":
+            tournament["circuit"] = "challenger"
+            tournament["circuitLabel"] = tournament.get("circuitLabel") or tournament.get("levelName") or "ATP Challenger"
+            tournament["type"] = tournament.get("type") or "CH"
+            tournament["eventType"] = tournament.get("eventType") or "Challenger"
+        else:
+            tournament["circuit"] = "tour"
+            tournament["circuitLabel"] = tournament.get("circuitLabel") or "ATP Tour"
+
+        items[(circuit, year, event_id)] = tournament
+
+    result = list(items.values())
+    result = sorted_flat_tournaments_for_app(result)
+    return result
+
+
+def tournaments_flat_payload(generated_at: str, tournaments: List[Dict[str, Any]], note: str) -> Dict[str, Any]:
+    return {
+        "source": ATP_CALENDAR_URL,
+        "years": HISTORY_YEARS,
+        "generatedAt": generated_at,
+        "count": len(tournaments),
+        "note": note,
+        "tournaments": tournaments,
+    }
+
+
+def save_tournaments_flat_safely(generated_at: str, tournaments: List[Dict[str, Any]], note: str) -> List[Dict[str, Any]]:
+    """Nie zapisuj pustego `tournaments_flat.json`, jeśli można zachować/odtworzyć dane."""
+    if tournaments:
+        payload = tournaments_flat_payload(generated_at, tournaments, note)
+        save_json(DATA_DIR / "tournaments_flat.json", payload)
+        return tournaments
+
+    existing = load_existing_json(DATA_DIR / "tournaments_flat.json")
+    if isinstance(existing, dict):
+        existing_tournaments = existing.get("tournaments")
+        if isinstance(existing_tournaments, list) and existing_tournaments:
+            existing["preservedBecauseNewTournamentParseWasEmpty"] = True
+            existing["lastFailedUpdateAt"] = generated_at
+            existing["count"] = len(existing_tournaments)
+            save_json(DATA_DIR / "tournaments_flat.json", existing)
+            print(f"WARN tournaments_flat parse returned 0; preserved existing {len(existing_tournaments)} tournaments")
+            return existing_tournaments
+
+    rebuilt = load_existing_tournaments_from_files()
+    if rebuilt:
+        payload = tournaments_flat_payload(
+            generated_at,
+            rebuilt,
+            note + " UWAGA: lista została awaryjnie odtworzona z istniejących plików tournament.json, bo świeże pobranie zwróciło 0 turniejów.",
+        )
+        payload["rebuiltFromExistingTournamentFiles"] = True
+        save_json(DATA_DIR / "tournaments_flat.json", payload)
+        print(f"WARN tournaments_flat parse returned 0; rebuilt {len(rebuilt)} tournaments from tournament.json files")
+        return rebuilt
+
+    payload = tournaments_flat_payload(generated_at, [], note)
+    payload["emptyBecauseNoSourceAndNoBackup"] = True
+    save_json(DATA_DIR / "tournaments_flat.json", payload)
+    print("ERROR tournaments_flat is empty and no backup tournament files were found")
+    return []
+
+
 def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     generated_at = datetime.now(timezone.utc).isoformat()
@@ -2392,16 +2521,10 @@ def main() -> None:
         },
     )
 
-    save_json(
-        DATA_DIR / "tournaments_flat.json",
-        {
-            "source": ATP_CALENDAR_URL,
-            "years": HISTORY_YEARS,
-            "generatedAt": generated_at,
-            "count": len(flat_tournaments),
-            "note": "Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów z poprzedniego roku mogła zostać utworzona jako archive fallback po ID/slug z aktualnego kalendarza.",
-            "tournaments": flat_tournaments,
-        },
+    flat_tournaments = save_tournaments_flat_safely(
+        generated_at,
+        flat_tournaments,
+        "Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów z poprzedniego roku mogła zostać utworzona jako archive fallback po ID/slug z aktualnego kalendarza.",
     )
 
     selected = select_tournaments_for_results(flat_tournaments)
@@ -2429,7 +2552,7 @@ def main() -> None:
             print(f"WARN tournament draw failed: {year}/{event_id} {name}: {exc}")
             draw_rounds, draw_source_url = [], None
 
-        folder = DATA_DIR / year / event_id
+        folder = tournament_data_folder(tournament)
         save_json(folder / "tournament.json", tournament)
 
         draw_match_count = sum(len(round_item.get("matches", [])) for round_item in draw_rounds)
@@ -2481,8 +2604,8 @@ def main() -> None:
                 "drawMatches": draw_match_count,
                 "circuit": tournament.get("circuit") or "tour",
                 "circuitLabel": tournament.get("circuitLabel") or "ATP Tour",
-                "matchesPath": f"data/{year}/{event_id}/matches.json",
-                "drawPath": f"data/{year}/{event_id}/draw.json",
+                "matchesPath": tournament_public_data_path(tournament, "matches.json"),
+                "drawPath": tournament_public_data_path(tournament, "draw.json"),
                 "source": source_url,
                 "drawSource": draw_source_url,
             }
@@ -2495,16 +2618,10 @@ def main() -> None:
     # Dlatego zapisujemy tournaments_flat.json jeszcze raz, już po wzbogaceniu.
     flat_tournaments_for_app = sorted_flat_tournaments_for_app(flat_tournaments)
 
-    save_json(
-        DATA_DIR / "tournaments_flat.json",
-        {
-            "source": ATP_CALENDAR_URL,
-            "years": HISTORY_YEARS,
-            "generatedAt": generated_at,
-            "count": len(flat_tournaments_for_app),
-            "note": "Turnieje ATP Tour i Challenger są zapisane po wzbogaceniu o oryginalne zakresy dat z ATP, np. tournamentStartDate/tournamentEndDate. Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów mogła zostać utworzona jako archive fallback.",
-            "tournaments": flat_tournaments_for_app,
-        },
+    flat_tournaments_for_app = save_tournaments_flat_safely(
+        generated_at,
+        flat_tournaments_for_app,
+        "Turnieje ATP Tour i Challenger są zapisane po wzbogaceniu o oryginalne zakresy dat z ATP, np. tournamentStartDate/tournamentEndDate. Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów mogła zostać utworzona jako archive fallback.",
     )
 
     save_json(
