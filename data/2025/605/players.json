@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
-  "source": "https://www.atptour.com/en/scores/archive/nitto-atp-finals/605/2025/results",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
+  "source": null,
   "tournament": {
     "id": "605",
     "year": "2025",
@@ -34,15 +34,6 @@
     "endDate": "2025-11-16",
     "tournamentEndDate": "2025-11-16"
   },
-  "count": 2,
-  "players": [
-    {
-      "id": "",
-      "name": "Carlos Alcaraz"
-    },
-    {
-      "id": "",
-      "name": "Jannik Sinner"
-    }
-  ]
+  "count": 0,
+  "players": []
 }

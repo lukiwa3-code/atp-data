@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Scott Jones",
     "playerId": ""
   },
-  "count": 3,
+  "count": 2,
   "matches": [
     {
       "date": "Mon, 02 February, 2026",
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Brisbane Tennis International #1",
       "tournamentType": "CH",
-      "tournamentDate": "2-8 Feb, 2026",
-      "tournamentStartDate": "2026-02-02",
-      "tournamentEndDate": "2026-02-08",
-      "surface": "",
+      "tournamentDate": "2 - 8 February, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Hard",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "score": "6-1 6-0",
@@ -42,10 +42,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Brisbane Tennis International #1",
       "tournamentType": "CH",
-      "tournamentDate": "2-8 Feb, 2026",
-      "tournamentStartDate": "2026-02-02",
-      "tournamentEndDate": "2026-02-08",
-      "surface": "",
+      "tournamentDate": "2 - 8 February, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-3 6-1",
@@ -58,31 +58,6 @@
       "playerRank": 803,
       "opponentRank": 628,
       "rankingDate": "2026-01-26",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Mon, 10 November, 2025",
-      "dateIso": "2025-11-10",
-      "tournamentId": "3037",
-      "tournamentYear": "2025",
-      "tournamentName": "Brisbane 3",
-      "tournamentType": "CH",
-      "tournamentDate": "10-16 Nov, 2025",
-      "tournamentStartDate": "2025-11-10",
-      "tournamentEndDate": "2025-11-16",
-      "surface": "",
-      "round": "Q2",
-      "roundLong": "2nd Round Qualifying",
-      "score": "7-6(1) 7-5",
-      "matchId": "RES-DD39DFC989",
-      "reason": null,
-      "playerName": "Scott Jones",
-      "opponentName": "Hayato Matsuoka",
-      "opponentKey": "hayatomatsuoka",
-      "result": "L",
-      "playerRank": 872,
-      "opponentRank": 589,
-      "rankingDate": "2025-11-10",
       "rankingNote": "historical_week"
     }
   ]

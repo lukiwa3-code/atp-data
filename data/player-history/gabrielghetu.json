@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "gabrielghetu",
     "name": "Gabriel Ghetu",
-    "displayName": "G. Ghetu",
-    "playerId": "G0ME"
+    "displayName": "Gabriel Ghetu",
+    "playerId": ""
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "date": "Mon, 30 March, 2026",
@@ -33,31 +33,6 @@
       "playerRank": 722,
       "opponentRank": 185,
       "rankingDate": "2026-03-30",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2931",
-      "tournamentYear": "2025",
-      "tournamentName": "Brasov",
-      "tournamentType": "CH",
-      "tournamentDate": "30 Jun - 6 Jul, 2025",
-      "tournamentStartDate": "2025-06-30",
-      "tournamentEndDate": "2025-07-06",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-3 6-0",
-      "matchId": "RES-F42D8BAF38",
-      "reason": null,
-      "playerName": "Gabriel Ghetu",
-      "opponentName": "Marko Topo",
-      "opponentKey": "markotopo",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

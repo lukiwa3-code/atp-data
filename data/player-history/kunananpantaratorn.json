@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Kunanan Pantaratorn",
     "playerId": ""
   },
-  "count": 3,
+  "count": 2,
   "matches": [
     {
       "date": "Mon, 05 January, 2026",
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Bangkok Open 1",
       "tournamentType": "CH",
-      "tournamentDate": "5-10 Jan, 2026",
-      "tournamentStartDate": "2026-01-05",
-      "tournamentEndDate": "2026-01-10",
-      "surface": "",
+      "tournamentDate": "5 - 10 January, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Hard",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
       "score": "6-3 6-2",
@@ -42,10 +42,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Bangkok Open 1",
       "tournamentType": "CH",
-      "tournamentDate": "5-10 Jan, 2026",
-      "tournamentStartDate": "2026-01-05",
-      "tournamentEndDate": "2026-01-10",
-      "surface": "",
+      "tournamentDate": "5 - 10 January, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-2",
@@ -58,31 +58,6 @@
       "playerRank": 2133,
       "opponentRank": 488,
       "rankingDate": "2025-12-29",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2791",
-      "tournamentYear": "2025",
-      "tournamentName": "Nonthaburi 1",
-      "tournamentType": "CH",
-      "tournamentDate": "30 Dec - 4 Jan, 2025",
-      "tournamentStartDate": "2024-12-30",
-      "tournamentEndDate": "2025-01-04",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-3 6-2",
-      "matchId": "RES-20B8EA0763",
-      "reason": null,
-      "playerName": "Kunanan Pantaratorn",
-      "opponentName": "Hiroki Moriya",
-      "opponentKey": "hirokimoriya",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

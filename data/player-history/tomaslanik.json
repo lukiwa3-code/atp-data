@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,19 +8,19 @@
     "displayName": "Tomas Lanik",
     "playerId": ""
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "date": "Sun, 24 May, 2026",
       "dateIso": "2026-05-24",
       "tournamentId": "3097",
       "tournamentYear": "2026",
-      "tournamentName": "Kosice, Slovak Republic |",
+      "tournamentName": "Kosice Open 2026",
       "tournamentType": "CH",
-      "tournamentDate": "25-31 May, 2026",
-      "tournamentStartDate": "2026-05-25",
-      "tournamentEndDate": "2026-05-31",
-      "surface": "",
+      "tournamentDate": "25 - 31 May, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Clay",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-3 6-4",
@@ -33,31 +33,6 @@
       "playerRank": 1972,
       "opponentRank": 553,
       "rankingDate": "2026-05-18",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Mon, 27 October, 2025",
-      "dateIso": "2025-10-27",
-      "tournamentId": "444",
-      "tournamentYear": "2025",
-      "tournamentName": "Bratislava 2",
-      "tournamentType": "CH",
-      "tournamentDate": "27 Oct - 2 Nov, 2025",
-      "tournamentStartDate": "2025-10-27",
-      "tournamentEndDate": "2025-11-02",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-3 6-4",
-      "matchId": "RES-650D5656B1",
-      "reason": null,
-      "playerName": "Tomas Lanik",
-      "opponentName": "Beibit Zhukayev",
-      "opponentKey": "beibitzhukayev",
-      "result": "L",
-      "playerRank": 1987,
-      "opponentRank": 292,
-      "rankingDate": "2025-10-27",
       "rankingNote": "historical_week"
     }
   ]

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "flaviocobolli",
     "name": "Flavio Cobolli",
-    "displayName": "F. Cobolli",
-    "playerId": "C0E9"
+    "displayName": "Flavio Cobolli",
+    "playerId": ""
   },
-  "count": 78,
+  "count": 77,
   "matches": [
     {
       "date": "Sun, 07 June, 2026",
@@ -1279,31 +1279,6 @@
       "playerName": "Flavio Cobolli",
       "opponentName": "Marin Cilic",
       "opponentKey": "marincilic",
-      "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "9167",
-      "tournamentYear": "2025",
-      "tournamentName": "Phoenix",
-      "tournamentType": "CH",
-      "tournamentDate": "11-16 Mar, 2025",
-      "tournamentStartDate": "2025-03-11",
-      "tournamentEndDate": "2025-03-16",
-      "surface": "",
-      "round": "R16",
-      "roundLong": "Round of 16",
-      "score": "6-3 5-7 7-5",
-      "matchId": "RES-19241515E2",
-      "reason": null,
-      "playerName": "Flavio Cobolli",
-      "opponentName": "Eliot Spizzirri",
-      "opponentKey": "eliotspizzirri",
       "result": "W",
       "playerRank": null,
       "opponentRank": null,

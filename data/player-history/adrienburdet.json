@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "adrienburdet",
     "name": "Adrien Burdet",
-    "displayName": "A. Burdet",
-    "playerId": "B0LN"
+    "displayName": "Adrien Burdet",
+    "playerId": ""
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "date": "Sun, 01 February, 2026",
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Tenerife Challenger 1",
       "tournamentType": "CH",
-      "tournamentDate": "2-8 Feb, 2026",
-      "tournamentStartDate": "2026-02-02",
-      "tournamentEndDate": "2026-02-08",
-      "surface": "",
+      "tournamentDate": "2 - 8 February, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-2",
@@ -33,31 +33,6 @@
       "playerRank": null,
       "opponentRank": 1158,
       "rankingDate": "2026-01-26",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2955",
-      "tournamentYear": "2025",
-      "tournamentName": "Montemar",
-      "tournamentType": "CH",
-      "tournamentDate": "17-23 Nov, 2025",
-      "tournamentStartDate": "2025-11-17",
-      "tournamentEndDate": "2025-11-23",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-4 6-4",
-      "matchId": "RES-8B197E9617",
-      "reason": null,
-      "playerName": "Adrien Burdet",
-      "opponentName": "Gabriele Piraino",
-      "opponentKey": "gabrielepiraino",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

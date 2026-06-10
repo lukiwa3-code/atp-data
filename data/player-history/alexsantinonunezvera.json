@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "alexsantinonunezvera",
     "name": "Alex Santino Nuñez Vera",
-    "displayName": "A. Nuñez Vera",
-    "playerId": "N0FT"
+    "displayName": "Alex Santino Nuñez Vera",
+    "playerId": ""
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "date": "Tue, 17 March, 2026",
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Munich Ultra Paraguay Open",
       "tournamentType": "CH",
-      "tournamentDate": "16-22 Mar, 2026",
-      "tournamentStartDate": "2026-03-16",
-      "tournamentEndDate": "2026-03-22",
-      "surface": "",
+      "tournamentDate": "16 - 22 March, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Clay",
       "round": "R32",
       "roundLong": "Round of 32",
       "score": "6-3 6-2",
@@ -33,31 +33,6 @@
       "playerRank": 1819,
       "opponentRank": 298,
       "rankingDate": "2026-03-16",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2909",
-      "tournamentYear": "2025",
-      "tournamentName": "Asuncion",
-      "tournamentType": "CH",
-      "tournamentDate": "17-23 Mar, 2025",
-      "tournamentStartDate": "2025-03-17",
-      "tournamentEndDate": "2025-03-23",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-3 6-3",
-      "matchId": "RES-61B7D71D60",
-      "reason": null,
-      "playerName": "Alex Santino Nuñez Vera",
-      "opponentName": "Joao Lucas Reis Da Silva",
-      "opponentKey": "joaolucasreisdasilva",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

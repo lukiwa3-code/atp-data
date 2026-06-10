@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
-  "source": "https://www.atptour.com/en/scores/archive/laver-cup/9210/2025/draws",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
+  "source": null,
   "tournament": {
     "id": "9210",
     "year": "2025",
@@ -34,87 +34,7 @@
     "endDate": "2025-09-21",
     "tournamentEndDate": "2025-09-21"
   },
-  "countRounds": 1,
-  "countMatches": 3,
-  "rounds": [
-    {
-      "round": "Round Robin",
-      "roundLong": "Round Robin",
-      "sourceHeader": "Round Robin",
-      "count": 3,
-      "matches": [
-        {
-          "bracketOrder": 1,
-          "round": "Round Robin",
-          "roundLong": "Round Robin",
-          "player1": "C. Ruud",
-          "player1FullName": "Casper Ruud",
-          "player1Id": "RH16",
-          "player1Country": "NOR",
-          "player1ScoreTokens": [
-            "6",
-            "7"
-          ],
-          "player2": "R. Opelka",
-          "player2FullName": "Reilly Opelka",
-          "player2Id": "O522",
-          "player2Country": "USA",
-          "player2ScoreTokens": [
-            "4",
-            "6 4"
-          ],
-          "winnerName": "Casper Ruud",
-          "formattedScore": "6-4 7-6(4)"
-        },
-        {
-          "bracketOrder": 2,
-          "round": "Round Robin",
-          "roundLong": "Round Robin",
-          "player1": "J. Mensik",
-          "player1FullName": "Jakub Mensik",
-          "player1Id": "M0NI",
-          "player1Country": "CZE",
-          "player1ScoreTokens": [
-            "6",
-            "6 3",
-            "1"
-          ],
-          "player2": "A. Michelsen",
-          "player2FullName": "Alex Michelsen",
-          "player2Id": "M0QI",
-          "player2Country": "USA",
-          "player2ScoreTokens": [
-            "1",
-            "7",
-            "0"
-          ],
-          "winnerName": "Jakub Mensik",
-          "formattedScore": "6 6 3 1"
-        },
-        {
-          "bracketOrder": 3,
-          "round": "Round Robin",
-          "roundLong": "Round Robin",
-          "player1": "F. Cobolli",
-          "player1FullName": "Flavio Cobolli",
-          "player1Id": "C0E9",
-          "player1Country": "ITA",
-          "player1ScoreTokens": [
-            "4",
-            "3"
-          ],
-          "player2": "J. Fonseca",
-          "player2FullName": "Joao Fonseca",
-          "player2Id": "F0FV",
-          "player2Country": "BRA",
-          "player2ScoreTokens": [
-            "6",
-            "6"
-          ],
-          "winnerName": "Joao Fonseca",
-          "formattedScore": "6-4 6-3"
-        }
-      ]
-    }
-  ]
+  "countRounds": 0,
+  "countMatches": 0,
+  "rounds": []
 }

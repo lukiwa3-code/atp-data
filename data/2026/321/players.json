@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
-  "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
+  "source": null,
   "tournament": {
     "id": "321",
     "year": "2026",
@@ -32,115 +32,6 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 27,
-  "players": [
-    {
-      "id": "",
-      "name": "Alejandro Davidovich Fokina"
-    },
-    {
-      "id": "",
-      "name": "Aleksandar Kovacevic"
-    },
-    {
-      "id": "",
-      "name": "Alexis Galarneau"
-    },
-    {
-      "id": "",
-      "name": "Daniil Glinka"
-    },
-    {
-      "id": "",
-      "name": "Fabian Marozsan"
-    },
-    {
-      "id": "",
-      "name": "Gauthier Onclin"
-    },
-    {
-      "id": "",
-      "name": "Giovanni Mpetshi Perricard"
-    },
-    {
-      "id": "",
-      "name": "Jan-Lennard Struff"
-    },
-    {
-      "id": "",
-      "name": "Jurij Rodionov"
-    },
-    {
-      "id": "",
-      "name": "Luca Castelnuovo"
-    },
-    {
-      "id": "",
-      "name": "Marc-Andrea Huesler"
-    },
-    {
-      "id": "",
-      "name": "Marcos Giron"
-    },
-    {
-      "id": "",
-      "name": "Martin Landaluce"
-    },
-    {
-      "id": "",
-      "name": "Mattia Bellucci"
-    },
-    {
-      "id": "",
-      "name": "Mert Alkaya"
-    },
-    {
-      "id": "",
-      "name": "Michalis Sakellaridis"
-    },
-    {
-      "id": "",
-      "name": "Nikoloz Basilashvili"
-    },
-    {
-      "id": "",
-      "name": "Orlando Luz"
-    },
-    {
-      "id": "",
-      "name": "Petr Bar Biryukov"
-    },
-    {
-      "id": "",
-      "name": "Pierre-Hugues Herbert"
-    },
-    {
-      "id": "",
-      "name": "Quentin Halys"
-    },
-    {
-      "id": "",
-      "name": "Roberto Bautista Agut"
-    },
-    {
-      "id": "",
-      "name": "Roman Safiullin"
-    },
-    {
-      "id": "",
-      "name": "Sho Shimabukuro"
-    },
-    {
-      "id": "",
-      "name": "Stefanos Sakellaridis"
-    },
-    {
-      "id": "",
-      "name": "Yannick Hanfmann"
-    },
-    {
-      "id": "",
-      "name": "Yu Hsiou Hsu"
-    }
-  ]
+  "count": 0,
+  "players": []
 }

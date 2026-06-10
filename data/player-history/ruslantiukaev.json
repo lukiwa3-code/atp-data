@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Ruslan Tiukaev",
     "playerId": ""
   },
-  "count": 3,
+  "count": 2,
   "matches": [
     {
       "date": "Sun, 26 April, 2026",
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Shymkent Challenger 2",
       "tournamentType": "CH",
-      "tournamentDate": "27 Apr - 3 May, 2026",
-      "tournamentStartDate": "2026-04-27",
-      "tournamentEndDate": "2026-05-03",
-      "surface": "",
+      "tournamentDate": "27 April - 3 May, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Clay",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-2 6-4",
@@ -42,10 +42,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Shymkent Challenger 1",
       "tournamentType": "CH",
-      "tournamentDate": "20-25 Apr, 2026",
-      "tournamentStartDate": "2026-04-20",
-      "tournamentEndDate": "2026-04-25",
-      "surface": "",
+      "tournamentDate": "20 - 25 April, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Clay",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 2-6 6-4",
@@ -58,31 +58,6 @@
       "playerRank": 1025,
       "opponentRank": 753,
       "rankingDate": "2026-04-13",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "9533",
-      "tournamentYear": "2025",
-      "tournamentName": "Astana",
-      "tournamentType": "CH",
-      "tournamentDate": "28 Jul - 3 Aug, 2025",
-      "tournamentStartDate": "2025-07-28",
-      "tournamentEndDate": "2025-08-03",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "1-6 6-4 6-4",
-      "matchId": "RES-9BFA1AA037",
-      "reason": null,
-      "playerName": "Ruslan Tiukaev",
-      "opponentName": "Zura Tkemaladze",
-      "opponentKey": "zuratkemaladze",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

@@ -558,5 +558,7 @@
       "sourceText": "Parsed from displayed score numbers",
       "bracketOrder": 7
     }
-  ]
+  ],
+  "preservedBecauseNewParseWasEmpty": true,
+  "lastFailedUpdateAt": "2026-06-10T18:21:48.612331+00:00"
 }

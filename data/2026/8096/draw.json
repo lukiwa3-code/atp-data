@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
-  "source": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-draws",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
+  "source": null,
   "tournament": {
     "id": "8096",
     "year": "2026",
@@ -32,87 +32,7 @@
     "endDate": "2026-02-08",
     "tournamentEndDate": "2026-02-08"
   },
-  "countRounds": 2,
-  "countMatches": 3,
-  "rounds": [
-    {
-      "round": "F",
-      "roundLong": "Final",
-      "sourceHeader": "Finals",
-      "count": 1,
-      "matches": [
-        {
-          "bracketOrder": 1,
-          "round": "F",
-          "roundLong": "Final",
-          "player1": "TBD",
-          "player1FullName": "TBD",
-          "player1Id": "",
-          "player1Country": "",
-          "player1ScoreTokens": [
-            "0"
-          ],
-          "player2": "TBD",
-          "player2FullName": "TBD",
-          "player2Id": "",
-          "player2Country": "",
-          "player2ScoreTokens": [
-            "0"
-          ],
-          "winnerName": "",
-          "formattedScore": "0"
-        }
-      ]
-    },
-    {
-      "round": "SF",
-      "roundLong": "Semifinals",
-      "sourceHeader": "Semi-Finals",
-      "count": 2,
-      "matches": [
-        {
-          "bracketOrder": 1,
-          "round": "SF",
-          "roundLong": "Semifinals",
-          "player1": "TBD",
-          "player1FullName": "TBD",
-          "player1Id": "",
-          "player1Country": "",
-          "player1ScoreTokens": [
-            "0"
-          ],
-          "player2": "TBD",
-          "player2FullName": "TBD",
-          "player2Id": "",
-          "player2Country": "",
-          "player2ScoreTokens": [
-            "0"
-          ],
-          "winnerName": "",
-          "formattedScore": "0"
-        },
-        {
-          "bracketOrder": 2,
-          "round": "SF",
-          "roundLong": "Semifinals",
-          "player1": "TBD",
-          "player1FullName": "TBD",
-          "player1Id": "",
-          "player1Country": "",
-          "player1ScoreTokens": [
-            "0"
-          ],
-          "player2": "TBD",
-          "player2FullName": "TBD",
-          "player2Id": "",
-          "player2Country": "",
-          "player2ScoreTokens": [
-            "0"
-          ],
-          "winnerName": "",
-          "formattedScore": "0"
-        }
-      ]
-    }
-  ]
+  "countRounds": 0,
+  "countMatches": 0,
+  "rounds": []
 }

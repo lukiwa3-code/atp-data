@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
-  "source": "https://www.atptour.com/en/scores/archive/fujairah/3067/2026/results",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
+  "source": null,
   "tournament": {
     "id": "3067",
     "level": "challenger",
@@ -33,107 +33,10 @@
     "countryFlagUrl": "/-/media/images/flags/uae.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
     "prizeMoney": "$63,000",
-    "totalFinancialCommitment": "$63,000"
+    "totalFinancialCommitment": "$63,000",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger"
   },
-  "level": "challenger",
-  "levelName": "ATP Challenger",
-  "count": 24,
-  "players": [
-    {
-      "id": "",
-      "name": "Carlo Alberto Caniato"
-    },
-    {
-      "id": "",
-      "name": "Daniil Ostapenkov"
-    },
-    {
-      "id": "",
-      "name": "Ergi Kirkin"
-    },
-    {
-      "id": "",
-      "name": "Felix Balshaw"
-    },
-    {
-      "id": "",
-      "name": "Francis Casey Alcantara"
-    },
-    {
-      "id": "",
-      "name": "Hayato Matsuoka"
-    },
-    {
-      "id": "",
-      "name": "Ilya Ivashka"
-    },
-    {
-      "id": "",
-      "name": "Imanol Lopez Morillo"
-    },
-    {
-      "id": "",
-      "name": "Keshav Chopra"
-    },
-    {
-      "id": "",
-      "name": "Marek Gengel"
-    },
-    {
-      "id": "",
-      "name": "Mert Alkaya"
-    },
-    {
-      "id": "",
-      "name": "Muzammil Murtaza"
-    },
-    {
-      "id": "",
-      "name": "Niels McDonald"
-    },
-    {
-      "id": "",
-      "name": "Ronit Karki"
-    },
-    {
-      "id": "",
-      "name": "Ryuki Matsuda"
-    },
-    {
-      "id": "",
-      "name": "Sergey Betov"
-    },
-    {
-      "id": "",
-      "name": "Shunsuke Nakagawa"
-    },
-    {
-      "id": "",
-      "name": "Takuya Kumasaka"
-    },
-    {
-      "id": "",
-      "name": "Tsung-Hao Huang"
-    },
-    {
-      "id": "",
-      "name": "Tung-Lin Wu"
-    },
-    {
-      "id": "",
-      "name": "Vladyslav Orlov"
-    },
-    {
-      "id": "",
-      "name": "Yanki Erel"
-    },
-    {
-      "id": "",
-      "name": "Yusuke Kusuhara"
-    },
-    {
-      "id": "",
-      "name": "Yusuke Takahashi"
-    }
-  ]
+  "count": 0,
+  "players": []
 }

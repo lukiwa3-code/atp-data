@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "alexeipopyrin",
     "name": "Alexei Popyrin",
-    "displayName": "A. Popyrin",
-    "playerId": "P09Z"
+    "displayName": "Alexei Popyrin",
+    "playerId": ""
   },
-  "count": 58,
+  "count": 57,
   "matches": [
     {
       "date": "Tue, 26 May, 2026",
@@ -1404,31 +1404,6 @@
       "playerName": "Alexei Popyrin",
       "opponentName": "Corentin Moutet",
       "opponentKey": "corentinmoutet",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "7009",
-      "tournamentYear": "2025",
-      "tournamentName": "Aix-en-Provence",
-      "tournamentType": "CH",
-      "tournamentDate": "29 Apr - 4 May, 2025",
-      "tournamentStartDate": "2025-04-29",
-      "tournamentEndDate": "2025-05-04",
-      "surface": "",
-      "round": "R16",
-      "roundLong": "Round of 16",
-      "score": "6-3 3-6 6-1",
-      "matchId": "RES-E6534EB199",
-      "reason": null,
-      "playerName": "Alexei Popyrin",
-      "opponentName": "Stan Wawrinka",
-      "opponentKey": "stanwawrinka",
       "result": "L",
       "playerRank": null,
       "opponentRank": null,

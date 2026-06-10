@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Gwangju Open",
       "tournamentType": "CH",
-      "tournamentDate": "20-26 Apr, 2026",
-      "tournamentStartDate": "2026-04-20",
-      "tournamentEndDate": "2026-04-26",
-      "surface": "",
+      "tournamentDate": "20 - 26 April, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-3",

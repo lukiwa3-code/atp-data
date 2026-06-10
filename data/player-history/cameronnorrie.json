@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "cameronnorrie",
     "name": "Cameron Norrie",
-    "displayName": "C. Norrie",
-    "playerId": "N771"
+    "displayName": "Cameron Norrie",
+    "playerId": ""
   },
-  "count": 80,
+  "count": 79,
   "matches": [
     {
       "date": "Wed, 20 May, 2026",
@@ -1704,31 +1704,6 @@
       "playerName": "Cameron Norrie",
       "opponentName": "Yi Zhou",
       "opponentKey": "yizhou",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2975",
-      "tournamentYear": "2025",
-      "tournamentName": "Cap Cana",
-      "tournamentType": "CH",
-      "tournamentDate": "11-16 Mar, 2025",
-      "tournamentStartDate": "2025-03-11",
-      "tournamentEndDate": "2025-03-16",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-4 7-5",
-      "matchId": "RES-ACB25E203F",
-      "reason": null,
-      "playerName": "Cameron Norrie",
-      "opponentName": "Constant Lestienne",
-      "opponentKey": "constantlestienne",
       "result": "L",
       "playerRank": null,
       "opponentRank": null,

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "brandonnakashima",
     "name": "Brandon Nakashima",
-    "displayName": "B. Nakashima",
-    "playerId": "N0AE"
+    "displayName": "Brandon Nakashima",
+    "playerId": ""
   },
-  "count": 75,
+  "count": 74,
   "matches": [
     {
       "date": "Sat, 30 May, 2026",
@@ -1504,31 +1504,6 @@
       "playerName": "Brandon Nakashima",
       "opponentName": "Juncheng Shang",
       "opponentKey": "junchengshang",
-      "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "3824",
-      "tournamentYear": "2025",
-      "tournamentName": "Bordeaux",
-      "tournamentType": "CH",
-      "tournamentDate": "13-18 May, 2025",
-      "tournamentStartDate": "2025-05-13",
-      "tournamentEndDate": "2025-05-18",
-      "surface": "",
-      "round": "R16",
-      "roundLong": "Round of 16",
-      "score": "6-3 7-5",
-      "matchId": "RES-952D811D28",
-      "reason": null,
-      "playerName": "Brandon Nakashima",
-      "opponentName": "Mikhail Kukushkin",
-      "opponentKey": "mikhailkukushkin",
       "result": "W",
       "playerRank": null,
       "opponentRank": null,

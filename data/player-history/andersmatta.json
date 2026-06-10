@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Anders Matta",
     "playerId": ""
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "date": "Sun, 08 March, 2026",
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Challenger de Santiago - Dove Men Care",
       "tournamentType": "CH",
-      "tournamentDate": "9-15 Mar, 2026",
-      "tournamentStartDate": "2026-03-09",
-      "tournamentEndDate": "2026-03-15",
-      "surface": "",
+      "tournamentDate": "9 - 15 March, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Clay",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-2",
@@ -33,31 +33,6 @@
       "playerRank": null,
       "opponentRank": 279,
       "rankingDate": "2026-03-02",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Mon, 24 November, 2025",
-      "dateIso": "2025-11-24",
-      "tournamentId": "2829",
-      "tournamentYear": "2025",
-      "tournamentName": "Temuco",
-      "tournamentType": "CH",
-      "tournamentDate": "24-30 Nov, 2025",
-      "tournamentStartDate": "2025-11-24",
-      "tournamentEndDate": "2025-11-30",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-3 6-3",
-      "matchId": "RES-55C4343699",
-      "reason": null,
-      "playerName": "Anders Matta",
-      "opponentName": "Justin Roberts",
-      "opponentKey": "justinroberts",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": 1457,
-      "rankingDate": "2025-11-24",
       "rankingNote": "historical_week"
     }
   ]

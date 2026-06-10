@@ -30,5 +30,7 @@
   "countryFlagUrl": "/-/media/images/flags/kor.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
   "prizeMoney": "$225,000",
-  "totalFinancialCommitment": "$225,000"
+  "totalFinancialCommitment": "$225,000",
+  "circuit": "challenger",
+  "circuitLabel": "ATP Challenger"
 }

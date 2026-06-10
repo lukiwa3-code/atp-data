@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Karol Filar",
     "playerId": ""
   },
-  "count": 3,
+  "count": 2,
   "matches": [
     {
       "date": "Sun, 26 April, 2026",
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Ostra Group Open By Porsche Servisni Centrum Ostrava",
       "tournamentType": "CH",
-      "tournamentDate": "27 Apr - 3 May, 2026",
-      "tournamentStartDate": "2026-04-27",
-      "tournamentEndDate": "2026-05-03",
-      "surface": "",
+      "tournamentDate": "27 April - 3 May, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Clay",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-4",
@@ -42,10 +42,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Koyushokucho Miyazaki Challenger",
       "tournamentType": "CH",
-      "tournamentDate": "30 Mar - 5 Apr, 2026",
-      "tournamentStartDate": "2026-03-30",
-      "tournamentEndDate": "2026-04-05",
-      "surface": "",
+      "tournamentDate": "30 March - 5 April, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-0 6-7(5) 6-4",
@@ -58,31 +58,6 @@
       "playerRank": 591,
       "opponentRank": 417,
       "rankingDate": "2026-03-23",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2995",
-      "tournamentYear": "2025",
-      "tournamentName": "Abidjan 1",
-      "tournamentType": "CH",
-      "tournamentDate": "14-20 Apr, 2025",
-      "tournamentStartDate": "2025-04-14",
-      "tournamentEndDate": "2025-04-20",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-2 6-1",
-      "matchId": "RES-AEFF676750",
-      "reason": null,
-      "playerName": "Karol Filar",
-      "opponentName": "S D Prajwal Dev",
-      "opponentKey": "sdprajwaldev",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

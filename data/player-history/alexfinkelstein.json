@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Alex Finkelstein",
     "playerId": ""
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "date": "Sat, 07 February, 2026",
@@ -33,31 +33,6 @@
       "playerRank": 1608,
       "opponentRank": 218,
       "rankingDate": "2026-02-02",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "315",
-      "tournamentYear": "2025",
-      "tournamentName": "Newport",
-      "tournamentType": "CH",
-      "tournamentDate": "7-13 Jul, 2025",
-      "tournamentStartDate": "2025-07-07",
-      "tournamentEndDate": "2025-07-13",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "7-6(3) 4-6 6-2",
-      "matchId": "RES-80B54117D6",
-      "reason": null,
-      "playerName": "Alex Finkelstein",
-      "opponentName": "Joshua Sheehy",
-      "opponentKey": "joshuasheehy",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

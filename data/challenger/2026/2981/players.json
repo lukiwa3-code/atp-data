@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-28T20:32:40.645644+00:00",
-  "source": "https://www.atptour.com/en/scores/archive/cordoba/2981/2026/results",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
+  "source": null,
   "tournament": {
     "id": "2981",
     "level": "challenger",
@@ -33,10 +33,10 @@
     "countryFlagUrl": "/-/media/images/flags/arg.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
     "prizeMoney": "$63,000",
-    "totalFinancialCommitment": "$63,000"
+    "totalFinancialCommitment": "$63,000",
+    "circuit": "challenger",
+    "circuitLabel": "ATP Challenger"
   },
-  "level": "challenger",
-  "levelName": "ATP Challenger",
   "count": 0,
   "players": []
 }

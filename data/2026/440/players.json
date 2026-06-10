@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
-  "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
+  "source": null,
   "tournament": {
     "id": "440",
     "year": "2026",
@@ -32,115 +32,6 @@
     "endDate": "2026-06-14",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 27,
-  "players": [
-    {
-      "id": "",
-      "name": "Adrian Mannarino"
-    },
-    {
-      "id": "",
-      "name": "Alec Deckers"
-    },
-    {
-      "id": "",
-      "name": "Benjamin Bonzi"
-    },
-    {
-      "id": "",
-      "name": "Bernard Tomic"
-    },
-    {
-      "id": "",
-      "name": "Coleman Wong"
-    },
-    {
-      "id": "",
-      "name": "Denis Shapovalov"
-    },
-    {
-      "id": "",
-      "name": "Elias Ymer"
-    },
-    {
-      "id": "",
-      "name": "Gabriel Diallo"
-    },
-    {
-      "id": "",
-      "name": "James McCabe"
-    },
-    {
-      "id": "",
-      "name": "Jaume Munar"
-    },
-    {
-      "id": "",
-      "name": "Jenson Brooksby"
-    },
-    {
-      "id": "",
-      "name": "Juan Pablo Ficovich"
-    },
-    {
-      "id": "",
-      "name": "Mac Visser"
-    },
-    {
-      "id": "",
-      "name": "Mackenzie McDonald"
-    },
-    {
-      "id": "",
-      "name": "Marc Polmans"
-    },
-    {
-      "id": "",
-      "name": "Marin Cilic"
-    },
-    {
-      "id": "",
-      "name": "Martin Damm"
-    },
-    {
-      "id": "",
-      "name": "Max Houkes"
-    },
-    {
-      "id": "",
-      "name": "Mees Rottgering"
-    },
-    {
-      "id": "",
-      "name": "Niels Visker"
-    },
-    {
-      "id": "",
-      "name": "Nuno Borges"
-    },
-    {
-      "id": "",
-      "name": "Sander Jong"
-    },
-    {
-      "id": "",
-      "name": "Shintaro Mochizuki"
-    },
-    {
-      "id": "",
-      "name": "Terence Atmane"
-    },
-    {
-      "id": "",
-      "name": "Thijmen Loof"
-    },
-    {
-      "id": "",
-      "name": "Ugo Humbert"
-    },
-    {
-      "id": "",
-      "name": "Zhizhen Zhang"
-    }
-  ]
+  "count": 0,
+  "players": []
 }

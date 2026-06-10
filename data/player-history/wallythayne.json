@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Wally Thayne",
     "playerId": ""
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "date": "Sun, 01 February, 2026",
@@ -17,10 +17,10 @@
       "tournamentYear": "2026",
       "tournamentName": "Cleveland Open",
       "tournamentType": "CH",
-      "tournamentDate": "2-8 Feb, 2026",
-      "tournamentStartDate": "2026-02-02",
-      "tournamentEndDate": "2026-02-08",
-      "surface": "",
+      "tournamentDate": "2 - 8 February, 2026",
+      "tournamentStartDate": "",
+      "tournamentEndDate": "",
+      "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
       "score": "6-1 6-3",
@@ -33,31 +33,6 @@
       "playerRank": null,
       "opponentRank": 423,
       "rankingDate": "2026-01-26",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "315",
-      "tournamentYear": "2025",
-      "tournamentName": "Newport",
-      "tournamentType": "CH",
-      "tournamentDate": "7-13 Jul, 2025",
-      "tournamentStartDate": "2025-07-07",
-      "tournamentEndDate": "2025-07-13",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-3 6-1",
-      "matchId": "RES-CB29AB0336",
-      "reason": null,
-      "playerName": "Wally Thayne",
-      "opponentName": "Matt Kuhar",
-      "opponentKey": "mattkuhar",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "richardgasquet",
     "name": "Richard Gasquet",
-    "displayName": "R. Gasquet",
-    "playerId": "G628"
+    "displayName": "Richard Gasquet",
+    "playerId": ""
   },
-  "count": 13,
+  "count": 12,
   "matches": [
     {
       "date": "",
@@ -154,31 +154,6 @@
       "playerName": "Richard Gasquet",
       "opponentName": "Terence Atmane",
       "opponentKey": "terenceatmane",
-      "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "9162",
-      "tournamentYear": "2025",
-      "tournamentName": "Pau",
-      "tournamentType": "CH",
-      "tournamentDate": "17-23 Feb, 2025",
-      "tournamentStartDate": "2025-02-17",
-      "tournamentEndDate": "2025-02-23",
-      "surface": "",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-3 7-6(4)",
-      "matchId": "RES-5BDB31055D",
-      "reason": null,
-      "playerName": "Richard Gasquet",
-      "opponentName": "Charles Broom",
-      "opponentKey": "charlesbroom",
       "result": "W",
       "playerRank": null,
       "opponentRank": null,

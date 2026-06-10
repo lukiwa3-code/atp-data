@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
+  "generatedAt": "2026-06-10T18:21:48.612331+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Jagger Leach",
     "playerId": ""
   },
-  "count": 3,
+  "count": 1,
   "matches": [
     {
       "date": "Mon, 02 March, 2026",
@@ -33,56 +33,6 @@
       "playerRank": 1360,
       "opponentRank": 115,
       "rankingDate": "2026-03-02",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "692",
-      "tournamentYear": "2025",
-      "tournamentName": "Tallahassee",
-      "tournamentType": "CH",
-      "tournamentDate": "14-20 Apr, 2025",
-      "tournamentStartDate": "2025-04-14",
-      "tournamentEndDate": "2025-04-20",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "3-6 6-4 6-3",
-      "matchId": "RES-8894C81B55",
-      "reason": null,
-      "playerName": "Jagger Leach",
-      "opponentName": "Genaro Alberto Olivieri",
-      "opponentKey": "genaroalbertoolivieri",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "",
-      "dateIso": "",
-      "tournamentId": "2971",
-      "tournamentYear": "2025",
-      "tournamentName": "San Diego",
-      "tournamentType": "CH",
-      "tournamentDate": "24 Feb - 2 Mar, 2025",
-      "tournamentStartDate": "2025-02-24",
-      "tournamentEndDate": "2025-03-02",
-      "surface": "",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-3 7-6(5)",
-      "matchId": "RES-BD15CB9AFC",
-      "reason": null,
-      "playerName": "Jagger Leach",
-      "opponentName": "(10/AL)",
-      "opponentKey": "10al",
-      "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
-      "rankingDate": "",
       "rankingNote": "historical_week"
     }
   ]
