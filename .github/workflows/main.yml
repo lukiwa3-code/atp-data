@@ -12,6 +12,9 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
 
+    env:
+      STOP_ON_ATP_BLOCK: "1"
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
