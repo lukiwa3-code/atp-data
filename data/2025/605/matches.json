@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-09T15:19:51.275245+00:00",
-  "source": "https://www.atptour.com/en/scores/archive/nitto-atp-finals/605/2025/results",
+  "generatedAt": "2026-06-11T14:50:57.764163+00:00",
+  "source": null,
   "tournament": {
     "id": "605",
     "year": "2025",
@@ -34,29 +34,6 @@
     "endDate": "2025-11-16",
     "tournamentEndDate": "2025-11-16"
   },
-  "count": 1,
-  "matches": [
-    {
-      "matchId": "RES-F6F51A0A39",
-      "date": "",
-      "round": "F",
-      "roundLong": "Final",
-      "playerId": "",
-      "playerName": "Jannik Sinner",
-      "opponentId": "",
-      "opponentName": "Carlos Alcaraz",
-      "winnerPlayerId": "",
-      "winnerName": "Jannik Sinner",
-      "isPlayerWinner": true,
-      "matchState": "F",
-      "reason": null,
-      "formattedScore": "7-6(4) 7-5",
-      "sourceText": "Parsed from displayed score numbers",
-      "bracketOrder": 1
-    }
-  ],
-  "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-06-11T14:30:34.436805+00:00",
-  "preservedBecauseNewParseWasSmaller": true,
-  "newCountThatWasRejected": 0
+  "count": 0,
+  "matches": []
 }
