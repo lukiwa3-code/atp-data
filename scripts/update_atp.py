@@ -1,5 +1,6 @@
 import html
 import json
+import os
 import re
 import time
 import unicodedata
@@ -1297,7 +1298,7 @@ def main() -> None:
         )
 
     except Exception as exc:
-        print(f"WARN calendar fetch failed, keeping restored old database: {exc}")
+        print(f"WARN calendar fetch failed: {exc}")
         flat_tournaments = load_existing_tournaments_flat()
 
         if not flat_tournaments:
@@ -1306,10 +1307,17 @@ def main() -> None:
                 "Wgraj starą bazę danych razem z data/tournaments_flat.json."
             )
 
+        if os.environ.get("STOP_ON_ATP_BLOCK", "1") == "1":
+            print("ATP is blocked on GitHub Actions. Keeping restored old database and exiting without touching data files.")
+            return
+
+        print("STOP_ON_ATP_BLOCK=0, continuing with existing tournaments_flat.json.")
+
     selected = select_tournaments_for_results(flat_tournaments)
     print(f"Generating results for {len(selected)} tournaments...")
 
     index_items: List[Dict[str, Any]] = []
+    has_real_update = False
 
     for index, tournament in enumerate(selected, start=1):
         year = str(tournament.get("year") or "")
@@ -1330,13 +1338,19 @@ def main() -> None:
             draw_rounds, draw_source_url = [], None
 
         folder = DATA_DIR / year / event_id
-        save_json(folder / "tournament.json", tournament)
 
         existing_draw_payload = load_existing_json(folder / "draw.json")
         existing_players_payload = load_existing_json(folder / "players.json")
         existing_matches_payload = load_existing_json(folder / "matches.json")
 
         draw_match_count = sum(len(round_item.get("matches", [])) for round_item in draw_rounds)
+
+        real_update = bool(source_url) or bool(draw_source_url)
+        if real_update:
+            has_real_update = True
+
+        if real_update or not (folder / "tournament.json").exists():
+            save_json(folder / "tournament.json", tournament)
 
         if draw_source_url is not None and draw_rounds:
             save_json(
@@ -1401,14 +1415,17 @@ def main() -> None:
 
         time.sleep(REQUEST_SLEEP_SECONDS)
 
-    save_json(
-        DATA_DIR / "results_index.json",
-        {
-            "generatedAt": generated_at,
-            "count": len(index_items),
-            "items": index_items,
-        },
-    )
+    if has_real_update or not (DATA_DIR / "results_index.json").exists():
+        save_json(
+            DATA_DIR / "results_index.json",
+            {
+                "generatedAt": generated_at,
+                "count": len(index_items),
+                "items": index_items,
+            },
+        )
+    else:
+        print("No real ATP updates; keeping existing results_index.json unchanged.")
 
     print("Done.")
 
