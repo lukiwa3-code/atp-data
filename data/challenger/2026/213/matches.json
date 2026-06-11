@@ -1352,5 +1352,7 @@
     }
   ],
   "preservedBecauseNewParseWasEmpty": true,
-  "lastFailedUpdateAt": "2026-06-11T10:50:09.034128+00:00"
+  "lastFailedUpdateAt": "2026-06-11T13:20:29.569369+00:00",
+  "preservedBecauseNewParseWasSmaller": true,
+  "newCountThatWasRejected": 0
 }
