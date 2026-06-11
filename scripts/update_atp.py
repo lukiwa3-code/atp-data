@@ -1,6 +1,8 @@
 import html
 import json
 import re
+import subprocess
+import sys
 import time
 import unicodedata
 import hashlib
@@ -104,96 +106,6 @@ def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, An
     return new_payload
 
 
-_PW = None
-_PW_BROWSER = None
-_PW_CONTEXT = None
-
-
-def browser_context():
-    """Lazy Playwright context.
-
-    Używany tylko jako fallback, gdy requests dostaje 403 z ATP.
-    """
-    global _PW, _PW_BROWSER, _PW_CONTEXT
-
-    if _PW_CONTEXT is not None:
-        return _PW_CONTEXT
-
-    from playwright.sync_api import sync_playwright
-
-    _PW = sync_playwright().start()
-    _PW_BROWSER = _PW.chromium.launch(
-        headless=True,
-        args=[
-            "--disable-blink-features=AutomationControlled",
-            "--no-sandbox",
-            "--disable-dev-shm-usage",
-        ],
-    )
-    _PW_CONTEXT = _PW_BROWSER.new_context(
-        user_agent=HEADERS["User-Agent"],
-        locale="en-US",
-        viewport={"width": 1366, "height": 900},
-        extra_http_headers={
-            "Accept-Language": "en-US,en;q=0.9",
-            "Referer": "https://www.atptour.com/en/tournaments",
-        },
-    )
-    return _PW_CONTEXT
-
-
-def close_browser_context() -> None:
-    global _PW, _PW_BROWSER, _PW_CONTEXT
-
-    try:
-        if _PW_CONTEXT is not None:
-            _PW_CONTEXT.close()
-    except Exception:
-        pass
-
-    try:
-        if _PW_BROWSER is not None:
-            _PW_BROWSER.close()
-    except Exception:
-        pass
-
-    try:
-        if _PW is not None:
-            _PW.stop()
-    except Exception:
-        pass
-
-    _PW = None
-    _PW_BROWSER = None
-    _PW_CONTEXT = None
-
-
-def browser_fetch_text(url: str, wait_selector: Optional[str] = None) -> str:
-    context = browser_context()
-    page = context.new_page()
-
-    try:
-        page.goto(url, wait_until="domcontentloaded", timeout=60000)
-
-        # Dajemy ATP chwilę na dociągnięcie treści, ale bez wiecznego czekania.
-        try:
-            page.wait_for_load_state("networkidle", timeout=12000)
-        except Exception:
-            pass
-
-        if wait_selector:
-            try:
-                page.wait_for_selector(wait_selector, timeout=10000)
-            except Exception:
-                pass
-
-        content = page.content()
-        return content
-
-    finally:
-        page.close()
-
-
 def text_from_html_page(html_text: str) -> str:
     soup = BeautifulSoup(html_text, "html.parser")
 
@@ -206,6 +118,31 @@ def text_from_html_page(html_text: str) -> str:
         return body.get_text("", strip=True)
 
     return html_text
+
+
+def playwright_fetch_text_subprocess(url: str) -> str:
+    """Pobierz stronę przez osobny proces Playwright.
+
+    Osobny proces usuwa problem:
+    "Playwright Sync API inside the asyncio loop"
+    i nie zostawia uszkodzonego kontekstu po błędzie.
+    """
+    helper = BASE_DIR / "scripts" / "playwright_fetch.py"
+
+    result = subprocess.run(
+        [sys.executable, str(helper), url],
+        cwd=str(BASE_DIR),
+        text=True,
+        capture_output=True,
+        timeout=90,
+    )
+
+    if result.returncode != 0:
+        stderr = (result.stderr or "").strip()
+        stdout = (result.stdout or "").strip()
+        raise RuntimeError(f"Playwright fetch failed for {url}: {stderr or stdout}")
+
+    return result.stdout
 
 
 def fetch_text(url: str, referer: Optional[str] = None) -> str:
@@ -222,8 +159,8 @@ def fetch_text(url: str, referer: Optional[str] = None) -> str:
         status = getattr(exc.response, "status_code", None)
 
         if status == 403 and os.environ.get("ATP_USE_PLAYWRIGHT", "1") == "1":
-            print(f"WARN requests got 403, trying Playwright: {url}")
-            return browser_fetch_text(url)
+            print(f"WARN requests got 403, trying Playwright subprocess: {url}")
+            return playwright_fetch_text_subprocess(url)
 
         raise
 
@@ -243,8 +180,8 @@ def fetch_json(url: str, referer: Optional[str] = None) -> Any:
         status = getattr(exc.response, "status_code", None)
 
         if status == 403 and os.environ.get("ATP_USE_PLAYWRIGHT", "1") == "1":
-            print(f"WARN JSON requests got 403, trying Playwright: {url}")
-            html_text = browser_fetch_text(url)
+            print(f"WARN JSON requests got 403, trying Playwright subprocess: {url}")
+            html_text = playwright_fetch_text_subprocess(url)
             raw_text = text_from_html_page(html_text)
             return json.loads(raw_text)
 
@@ -2677,35 +2614,48 @@ def save_tournaments_flat_safely(generated_at: str, tournaments: List[Dict[str, 
 def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     generated_at = datetime.now(timezone.utc).isoformat()
+    update_mode = os.environ.get("UPDATE_MODE", "live").strip().lower()
 
-    print("Fetching ATP Tour calendars...")
-    flat_tournaments, calendar_sources = flatten_multi_year_calendars(HISTORY_YEARS)
-    flat_tournaments = ensure_history_years_available(flat_tournaments, HISTORY_YEARS)
-
+    flat_tournaments: List[Dict[str, Any]] = []
+    calendar_sources: List[Dict[str, Any]] = []
     challenger_sources: List[Dict[str, Any]] = []
-    if INCLUDE_CHALLENGER:
-        print("Fetching ATP Challenger archives...")
-        challenger_tournaments, challenger_sources = fetch_challenger_archives(HISTORY_YEARS)
-        flat_tournaments.extend(challenger_tournaments)
 
-    save_json(
-        DATA_DIR / "tournaments.json",
-        {
-            "source": ATP_CALENDAR_URL,
-            "challengerSource": ATP_CHALLENGER_ARCHIVE_URL,
-            "years": HISTORY_YEARS,
-            "generatedAt": generated_at,
-            "countSources": len(calendar_sources) + len(challenger_sources),
-            "sources": calendar_sources,
-            "challengerSources": challenger_sources,
-        },
-    )
+    existing_flat = load_existing_json(DATA_DIR / "tournaments_flat.json")
+    existing_tournaments = []
+    if isinstance(existing_flat, dict) and isinstance(existing_flat.get("tournaments"), list):
+        existing_tournaments = existing_flat.get("tournaments") or []
 
-    flat_tournaments = save_tournaments_flat_safely(
-        generated_at,
-        flat_tournaments,
-        "Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów z poprzedniego roku mogła zostać utworzona jako archive fallback po ID/slug z aktualnego kalendarza.",
-    )
+    if update_mode == "live" and existing_tournaments:
+        print(f"UPDATE_MODE=live; using existing tournaments_flat.json with {len(existing_tournaments)} tournaments")
+        flat_tournaments = existing_tournaments
+    else:
+        print("Fetching ATP Tour calendars...")
+        flat_tournaments, calendar_sources = flatten_multi_year_calendars(HISTORY_YEARS)
+        flat_tournaments = ensure_history_years_available(flat_tournaments, HISTORY_YEARS)
+
+        if INCLUDE_CHALLENGER:
+            print("Fetching ATP Challenger archives...")
+            challenger_tournaments, challenger_sources = fetch_challenger_archives(HISTORY_YEARS)
+            flat_tournaments.extend(challenger_tournaments)
+
+        save_json(
+            DATA_DIR / "tournaments.json",
+            {
+                "source": ATP_CALENDAR_URL,
+                "challengerSource": ATP_CHALLENGER_ARCHIVE_URL,
+                "years": HISTORY_YEARS,
+                "generatedAt": generated_at,
+                "countSources": len(calendar_sources) + len(challenger_sources),
+                "sources": calendar_sources,
+                "challengerSources": challenger_sources,
+            },
+        )
+
+        flat_tournaments = save_tournaments_flat_safely(
+            generated_at,
+            flat_tournaments,
+            "Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów z poprzedniego roku mogła zostać utworzona jako archive fallback po ID/slug z aktualnego kalendarza.",
+        )
 
     selected = select_tournaments_for_results(flat_tournaments)
     print(f"Generating results for {len(selected)} tournaments...")

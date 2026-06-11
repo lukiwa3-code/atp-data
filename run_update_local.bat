@@ -1,11 +1,8 @@
 @echo off
 setlocal
 echo ==========================================
-echo ATP DATA LOCAL UPDATE
+echo ATP DATA LOCAL UPDATE V36
 echo ==========================================
-echo.
-echo Tryb live aktualizuje tylko obecne turnieje.
-echo Tryb full aktualizuje live + zakonczone.
 echo.
 set /p MODE=Wpisz tryb [live/full] (domyslnie live): 
 if "%MODE%"=="" set MODE=live
@@ -21,7 +18,6 @@ if errorlevel 1 (
 
 pip install -r requirements.txt
 python -m playwright install chromium
-
 python scripts\update_atp.py
 
 echo.
