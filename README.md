@@ -1,17 +1,16 @@
-# ATP data updater v31 - prosty update meczów
+# ATP data updater v32 - zero guard
 
-To jest wersja cofająca kombinowanie przy matches.json.
+Naprawia błąd z v31:
+- v31 kończyła na pierwszej stronie, nawet gdy parser zwrócił 0 meczów,
+- potem zapisywała `matches.json` z `count: 0`,
+- dlatego każdy turniej mógł nagle mieć 0 meczów.
 
-Zmiany:
-- workflow co 2 godziny,
-- matches.json zapisuje się normalnie, bez porównywania count ze starym plikiem,
-- nie ma blokowania aktualizacji, gdy nowy parser zwróci mniej meczów,
-- fetch wyników wraca do prostej logiki:
-  1. dla live najpierw current,
-  2. potem archive,
-  3. pierwszy poprawnie sparsowany wynik jest zapisywany,
-- draw.json wraca do normalnego zapisu z parsera draw, bez uzupełniania matches z draw,
-- zachowane jest zabezpieczenie `tournaments_flat.json`, żeby nie wyzerować całej listy turniejów.
+v32:
+- nie kończy na pustym parsowaniu, tylko sprawdza kolejne kandydaty URL,
+- nie nadpisuje istniejącego niepustego `matches.json` zerem,
+- nie porównuje liczby nowych/starych meczów poza przypadkiem 0,
+- workflow zostaje co 2 godziny,
+- nie wraca do agresywnego scalania draw.
 
 Wrzucić do repo `atp-data`:
 - scripts/update_atp.py

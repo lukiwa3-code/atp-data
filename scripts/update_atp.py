@@ -81,12 +81,24 @@ def load_existing_json(path: Path) -> Optional[Any]:
 
 
 def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
-    """Prosty zapis meczów.
+    """Zapis meczów z jednym bezpiecznikiem: nie nadpisuj niepustego pliku zerem.
 
-    Bez porównywania ze starym plikiem.
-    Bez blokowania aktualizacji, gdy nowy parser zwróci mniej meczów.
-    To przywraca poprzednią logikę aktualizowania matches.json.
+    Nie porównujemy, czy nowych meczów jest mniej niż starych.
+    Jedyne zabezpieczenie: jeśli parser zwróci 0, nie kasujemy istniejących danych.
     """
+    new_count = int(new_payload.get("count") or 0)
+    old_payload = load_existing_json(path)
+    old_count = 0
+
+    if isinstance(old_payload, dict):
+        old_count = int(old_payload.get("count") or 0)
+
+    if new_count == 0 and old_count > 0:
+        old_payload["preservedBecauseNewParseWasZero"] = True
+        old_payload["lastZeroParseAt"] = new_payload.get("generatedAt")
+        save_json(path, old_payload)
+        return old_payload
+
     save_json(path, new_payload)
     return new_payload
 
@@ -1693,6 +1705,9 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
             candidates.append(results_from_draw)
 
     last_error: Optional[str] = None
+    first_success_players: List[Dict[str, str]] = []
+    first_success_matches: List[Dict[str, Any]] = []
+    first_success_url: Optional[str] = None
 
     for candidate in candidates:
         full_url = absolute_url(candidate)
@@ -1701,14 +1716,46 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
 
         try:
             html_text = fetch_text(full_url, referer="https://www.atptour.com/en/tournaments")
-            update_tournament_original_date_from_results(tournament, html_text)
-            players, matches = parse_results_html(html_text, tournament)
-            return players, matches, full_url
+            local_tournament = dict(tournament)
+            update_tournament_original_date_from_results(local_tournament, html_text)
+            players, matches = parse_results_html(html_text, local_tournament)
+
+            print(
+                f"Results candidate {tournament.get('year')}/{tournament.get('id')} "
+                f"{tournament.get('name')}: {len(matches)} matches from {full_url}"
+            )
+
+            if first_success_url is None:
+                first_success_players = players
+                first_success_matches = matches
+                first_success_url = full_url
+
+            # Najważniejsza poprawka: nie kończymy na pustym parsowaniu.
+            if matches:
+                tournament.update(
+                    {
+                        key: local_tournament.get(key)
+                        for key in (
+                            "date", "dateSource", "startDate", "endDate",
+                            "tournamentStartDate", "tournamentEndDate"
+                        )
+                        if local_tournament.get(key)
+                    }
+                )
+                return players, matches, full_url
 
         except Exception as exc:
             last_error = f"{full_url}: {exc}"
             print(f"WARN results page failed: {last_error}")
             time.sleep(REQUEST_SLEEP_SECONDS)
+
+    if first_success_url is not None:
+        print(
+            f"WARN all result candidates parsed 0 matches for "
+            f"{tournament.get('year')}/{tournament.get('id')} {tournament.get('name')}; "
+            f"returning empty parse from {first_success_url}"
+        )
+        return first_success_players, first_success_matches, first_success_url
 
     print(f"WARN no results page parsed for {tournament.get('name')}: {last_error}")
     return [], [], None
