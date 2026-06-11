@@ -75,11 +75,20 @@ def load_existing_json(path: Path) -> Optional[Any]:
         return None
 
 
+def load_existing_tournaments_flat() -> List[Dict[str, Any]]:
+    existing = load_existing_json(DATA_DIR / "tournaments_flat.json")
+    if isinstance(existing, dict):
+        tournaments = existing.get("tournaments")
+        if isinstance(tournaments, list) and tournaments:
+            print(f"WARN using existing tournaments_flat.json with {len(tournaments)} tournaments")
+            return tournaments
+    return []
+
+
 def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
     """Nie kasuj dobrych danych, jeśli świeży parser zwróci 0 meczów.
 
-    To jest bezpiecznik na wypadek, gdy ATP zmieni HTML albo parser trafi
-    na chwilowo pustą/dziwną odpowiedź.
+    Wersja bez dopisywania flag, żeby przy 403 nie robić niepotrzebnych commitów.
     """
     new_count = int(new_payload.get("count") or 0)
     old_payload = load_existing_json(path)
@@ -88,9 +97,6 @@ def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, An
         old_count = int(old_payload.get("count") or 0)
 
     if new_count == 0 and old_count > 0:
-        old_payload["preservedBecauseNewParseWasEmpty"] = True
-        old_payload["lastFailedUpdateAt"] = new_payload.get("generatedAt")
-        save_json(path, old_payload)
         return old_payload
 
     save_json(path, new_payload)
@@ -1265,27 +1271,40 @@ def main() -> None:
     generated_at = datetime.now(timezone.utc).isoformat()
 
     print("Fetching ATP calendar...")
-    calendar = fetch_calendar()
-    flat_tournaments = flatten_tournaments(calendar)
+    calendar: Optional[Dict[str, Any]] = None
 
-    save_json(
-        DATA_DIR / "tournaments.json",
-        {
-            "source": ATP_CALENDAR_URL,
-            "generatedAt": generated_at,
-            "data": calendar,
-        },
-    )
+    try:
+        calendar = fetch_calendar()
+        flat_tournaments = flatten_tournaments(calendar)
 
-    save_json(
-        DATA_DIR / "tournaments_flat.json",
-        {
-            "source": ATP_CALENDAR_URL,
-            "generatedAt": generated_at,
-            "count": len(flat_tournaments),
-            "tournaments": flat_tournaments,
-        },
-    )
+        save_json(
+            DATA_DIR / "tournaments.json",
+            {
+                "source": ATP_CALENDAR_URL,
+                "generatedAt": generated_at,
+                "data": calendar,
+            },
+        )
+
+        save_json(
+            DATA_DIR / "tournaments_flat.json",
+            {
+                "source": ATP_CALENDAR_URL,
+                "generatedAt": generated_at,
+                "count": len(flat_tournaments),
+                "tournaments": flat_tournaments,
+            },
+        )
+
+    except Exception as exc:
+        print(f"WARN calendar fetch failed, keeping restored old database: {exc}")
+        flat_tournaments = load_existing_tournaments_flat()
+
+        if not flat_tournaments:
+            raise RuntimeError(
+                "ATP calendar blocked and data/tournaments_flat.json is missing or empty. "
+                "Wgraj starą bazę danych razem z data/tournaments_flat.json."
+            )
 
     selected = select_tournaments_for_results(flat_tournaments)
     print(f"Generating results for {len(selected)} tournaments...")
@@ -1313,28 +1332,42 @@ def main() -> None:
         folder = DATA_DIR / year / event_id
         save_json(folder / "tournament.json", tournament)
 
+        existing_draw_payload = load_existing_json(folder / "draw.json")
+        existing_players_payload = load_existing_json(folder / "players.json")
+        existing_matches_payload = load_existing_json(folder / "matches.json")
+
         draw_match_count = sum(len(round_item.get("matches", [])) for round_item in draw_rounds)
-        save_json(
-            folder / "draw.json",
-            {
-                "generatedAt": generated_at,
-                "source": draw_source_url,
-                "tournament": tournament,
-                "countRounds": len(draw_rounds),
-                "countMatches": draw_match_count,
-                "rounds": draw_rounds,
-            },
-        )
-        save_json(
-            folder / "players.json",
-            {
-                "generatedAt": generated_at,
-                "source": source_url,
-                "tournament": tournament,
-                "count": len(players),
-                "players": players,
-            },
-        )
+
+        if draw_source_url is not None and draw_rounds:
+            save_json(
+                folder / "draw.json",
+                {
+                    "generatedAt": generated_at,
+                    "source": draw_source_url,
+                    "tournament": tournament,
+                    "countRounds": len(draw_rounds),
+                    "countMatches": draw_match_count,
+                    "rounds": draw_rounds,
+                },
+            )
+        elif isinstance(existing_draw_payload, dict):
+            draw_rounds = existing_draw_payload.get("rounds", []) or []
+            draw_match_count = int(existing_draw_payload.get("countMatches") or 0)
+
+        if source_url is not None:
+            save_json(
+                folder / "players.json",
+                {
+                    "generatedAt": generated_at,
+                    "source": source_url,
+                    "tournament": tournament,
+                    "count": len(players),
+                    "players": players,
+                },
+            )
+        elif isinstance(existing_players_payload, dict):
+            players = existing_players_payload.get("players", []) or []
+
         matches_payload = {
             "generatedAt": generated_at,
             "source": source_url,
@@ -1342,7 +1375,12 @@ def main() -> None:
             "count": len(matches),
             "matches": matches,
         }
-        saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
+
+        if source_url is None and isinstance(existing_matches_payload, dict):
+            saved_matches_payload = existing_matches_payload
+        else:
+            saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
+
         saved_matches_count = int(saved_matches_payload.get("count") or 0)
 
         index_items.append(
