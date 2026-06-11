@@ -1,13 +1,10 @@
 import html
 import json
 import re
-import subprocess
-import sys
 import time
 import unicodedata
 import hashlib
-import os
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -20,11 +17,6 @@ DATA_DIR = BASE_DIR / "data"
 
 ATP_BASE_URL = "https://www.atptour.com"
 ATP_CALENDAR_URL = "https://www.atptour.com/en/-/tournaments/calendar/tour"
-ATP_CHALLENGER_ARCHIVE_URL = "https://www.atptour.com/en/scores/results-archive"
-ATP_CHALLENGER_CURRENT_URL = "https://www.atptour.com/en/scores/current-challenger"
-HISTORY_YEARS = [2025, 2026]
-INCLUDE_CHALLENGER = True
-
 
 # Wyniki pobieramy teraz z zakładki Results, a nie z Player Draw.
 # To jest znacznie pewniejsze dla zakończonych turniejów, np. Acapulco.
@@ -83,62 +75,21 @@ def load_existing_json(path: Path) -> Optional[Any]:
         return None
 
 
-def debug_safe_name(value: Any) -> str:
-    text = normalize_space(str(value or ""))
-    text = re.sub(r"[^A-Za-z0-9._-]+", "-", text).strip("-")
-    return text[:80] or "unknown"
-
-
-def save_debug_html(tournament: Dict[str, Any], kind: str, url: str, html_text: str) -> None:
-    """Zapisz HTML, który dostał GitHub Actions, gdy parser nie widzi danych."""
-    year = debug_safe_name(tournament.get("year"))
-    event_id = debug_safe_name(tournament.get("id"))
-    circuit = debug_safe_name(tournament.get("circuit") or "tour")
-    debug_dir = DATA_DIR / "debug" / year
-    debug_dir.mkdir(parents=True, exist_ok=True)
-
-    base = f"{circuit}-{event_id}-{kind}"
-    html_path = debug_dir / f"{base}.html"
-    meta_path = debug_dir / f"{base}.json"
-
-    html_path.write_text(html_text or "", encoding="utf-8", errors="ignore")
-    save_json(
-        meta_path,
-        {
-            "generatedAt": datetime.now(timezone.utc).isoformat(),
-            "kind": kind,
-            "url": url,
-            "tournament": {
-                "year": tournament.get("year"),
-                "id": tournament.get("id"),
-                "name": tournament.get("name"),
-                "circuit": tournament.get("circuit") or "tour",
-            },
-            "htmlLength": len(html_text or ""),
-            "title": (BeautifulSoup(html_text or "", "html.parser").title.get_text(" ", strip=True)
-                      if BeautifulSoup(html_text or "", "html.parser").title else ""),
-            "snippet": normalize_space(BeautifulSoup(html_text or "", "html.parser").get_text(" ", strip=True))[:1000],
-        },
-    )
-    print(f"DEBUG saved {kind} HTML: {html_path}")
-
-
 def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
-    """Zapis meczów z jednym bezpiecznikiem: nie nadpisuj niepustego pliku zerem.
+    """Nie kasuj dobrych danych, jeśli świeży parser zwróci 0 meczów.
 
-    Nie porównujemy, czy nowych meczów jest mniej niż starych.
-    Jedyne zabezpieczenie: jeśli parser zwróci 0, nie kasujemy istniejących danych.
+    To jest bezpiecznik na wypadek, gdy ATP zmieni HTML albo parser trafi
+    na chwilowo pustą/dziwną odpowiedź.
     """
     new_count = int(new_payload.get("count") or 0)
     old_payload = load_existing_json(path)
     old_count = 0
-
     if isinstance(old_payload, dict):
         old_count = int(old_payload.get("count") or 0)
 
     if new_count == 0 and old_count > 0:
-        old_payload["preservedBecauseNewParseWasZero"] = True
-        old_payload["lastZeroParseAt"] = new_payload.get("generatedAt")
+        old_payload["preservedBecauseNewParseWasEmpty"] = True
+        old_payload["lastFailedUpdateAt"] = new_payload.get("generatedAt")
         save_json(path, old_payload)
         return old_payload
 
@@ -146,63 +97,14 @@ def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, An
     return new_payload
 
 
-def text_from_html_page(html_text: str) -> str:
-    soup = BeautifulSoup(html_text, "html.parser")
-
-    pre = soup.find("pre")
-    if pre:
-        return pre.get_text("", strip=True)
-
-    body = soup.find("body")
-    if body:
-        return body.get_text("", strip=True)
-
-    return html_text
-
-
-def playwright_fetch_text_subprocess(url: str) -> str:
-    """Pobierz stronę przez osobny proces Playwright.
-
-    Osobny proces usuwa problem:
-    "Playwright Sync API inside the asyncio loop"
-    i nie zostawia uszkodzonego kontekstu po błędzie.
-    """
-    helper = BASE_DIR / "scripts" / "playwright_fetch.py"
-
-    result = subprocess.run(
-        [sys.executable, str(helper), url],
-        cwd=str(BASE_DIR),
-        text=True,
-        capture_output=True,
-        timeout=90,
-    )
-
-    if result.returncode != 0:
-        stderr = (result.stderr or "").strip()
-        stdout = (result.stdout or "").strip()
-        raise RuntimeError(f"Playwright fetch failed for {url}: {stderr or stdout}")
-
-    return result.stdout
-
-
 def fetch_text(url: str, referer: Optional[str] = None) -> str:
     headers = dict(HEADERS)
     if referer:
         headers["Referer"] = referer
 
-    try:
-        response = requests.get(url, headers=headers, timeout=45)
-        response.raise_for_status()
-        return response.text
-
-    except requests.HTTPError as exc:
-        status = getattr(exc.response, "status_code", None)
-
-        if status == 403 and os.environ.get("ATP_USE_PLAYWRIGHT", "1") == "1":
-            print(f"WARN requests got 403, trying Playwright subprocess: {url}")
-            return playwright_fetch_text_subprocess(url)
-
-        raise
+    response = requests.get(url, headers=headers, timeout=45)
+    response.raise_for_status()
+    return response.text
 
 
 def fetch_json(url: str, referer: Optional[str] = None) -> Any:
@@ -211,21 +113,9 @@ def fetch_json(url: str, referer: Optional[str] = None) -> Any:
     if referer:
         headers["Referer"] = referer
 
-    try:
-        response = requests.get(url, headers=headers, timeout=45)
-        response.raise_for_status()
-        return response.json()
-
-    except requests.HTTPError as exc:
-        status = getattr(exc.response, "status_code", None)
-
-        if status == 403 and os.environ.get("ATP_USE_PLAYWRIGHT", "1") == "1":
-            print(f"WARN JSON requests got 403, trying Playwright subprocess: {url}")
-            html_text = playwright_fetch_text_subprocess(url)
-            raw_text = text_from_html_page(html_text)
-            return json.loads(raw_text)
-
-        raise
+    response = requests.get(url, headers=headers, timeout=45)
+    response.raise_for_status()
+    return response.json()
 
 
 def absolute_url(path_or_url: Optional[str]) -> Optional[str]:
@@ -263,87 +153,8 @@ def extract_year_from_text(text: Optional[str]) -> Optional[str]:
     return match.group(1) if match else None
 
 
-def calendar_urls_for_year(year: int) -> List[str]:
-    return [
-        f"{ATP_CALENDAR_URL}?year={year}",
-        f"{ATP_CALENDAR_URL}?Year={year}",
-        f"{ATP_CALENDAR_URL}?tournamentYear={year}",
-        f"{ATP_CALENDAR_URL}?season={year}",
-    ]
-
-
 def fetch_calendar() -> Dict[str, Any]:
     return fetch_json(ATP_CALENDAR_URL)
-
-
-def fetch_calendar_for_year(year: int) -> Tuple[Optional[Dict[str, Any]], Optional[str]]:
-    candidates = calendar_urls_for_year(year)
-
-    try:
-        current_year = datetime.now(timezone.utc).year
-        if year == current_year:
-            candidates.insert(0, ATP_CALENDAR_URL)
-    except Exception:
-        pass
-
-    last_error = None
-
-    for url in candidates:
-        try:
-            calendar = fetch_json(url)
-            flat = flatten_tournaments(calendar)
-            matching_year = [
-                item for item in flat
-                if str(item.get("year") or "") == str(year)
-            ]
-
-            if matching_year:
-                print(f"Calendar {year}: {len(matching_year)} tournaments from {url}")
-                return calendar, url
-
-        except Exception as exc:
-            last_error = exc
-            print(f"WARN calendar fetch failed for {year} {url}: {exc}")
-            time.sleep(REQUEST_SLEEP_SECONDS)
-
-    print(f"WARN no calendar found for {year}: {last_error}")
-    return None, None
-
-
-def flatten_multi_year_calendars(years: List[int]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
-    flat_all: List[Dict[str, Any]] = []
-    sources: List[Dict[str, Any]] = []
-
-    for year in years:
-        calendar, source_url = fetch_calendar_for_year(year)
-        if not calendar:
-            continue
-
-        flat = flatten_tournaments(calendar)
-        flat = [
-            item for item in flat
-            if str(item.get("year") or "") == str(year)
-        ]
-
-        flat_all.extend(flat)
-        sources.append(
-            {
-                "year": year,
-                "source": source_url,
-                "count": len(flat),
-                "data": calendar,
-            }
-        )
-
-    dedup: Dict[Tuple[str, str], Dict[str, Any]] = {}
-    for item in flat_all:
-        key = (str(item.get("year") or ""), str(item.get("id") or ""))
-        dedup[key] = item
-
-    result = list(dedup.values())
-    result.sort(key=lambda item: (str(item.get("year") or ""), str(item.get("month") or ""), str(item.get("date") or "")))
-
-    return result, sources
 
 
 def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -392,287 +203,11 @@ def flatten_tournaments(calendar: Dict[str, Any]) -> List[Dict[str, Any]]:
                     "badgeUrl": tournament.get("BadgeUrl"),
                     "prizeMoney": tournament.get("PrizeMoneyDetails"),
                     "totalFinancialCommitment": tournament.get("TotalFinancialCommitment"),
-                    "circuit": "tour",
-                    "circuitLabel": "ATP Tour",
                 }
             )
 
     return flat
 
-
-
-def challenger_archive_urls_for_year(year: int) -> List[str]:
-    return [
-        f"{ATP_CHALLENGER_ARCHIVE_URL}?year={year}&tournamentType=ch",
-        f"{ATP_CHALLENGER_ARCHIVE_URL}?tournamentType=ch&year={year}",
-        f"{ATP_CHALLENGER_ARCHIVE_URL}?tournamentType=ch",
-    ]
-
-
-def nearest_compact_container_text(link: Any) -> Tuple[Any, List[str]]:
-    current = link
-    best_container = link.parent
-    best_lines: List[str] = []
-
-    for _ in range(12):
-        if current is None:
-            break
-        parent = getattr(current, "parent", None)
-        if parent is None:
-            break
-
-        lines = [normalize_space(x) for x in parent.stripped_strings]
-        lines = [x for x in lines if x]
-        text = " | ".join(lines)
-
-        if len(lines) >= 3 and "Results" in lines and len(text) < 900:
-            best_container = parent
-            best_lines = lines
-            break
-
-        if len(lines) >= 3 and len(text) < 1200:
-            best_container = parent
-            best_lines = lines
-
-        current = parent
-
-    return best_container, best_lines
-
-
-def parse_challenger_card_lines(lines: List[str], slug: str, year: int) -> Tuple[str, str, str]:
-    noise = {
-        "Results",
-        "Singles Winner",
-        "Singles Winners",
-        "Doubles Winner",
-        "Doubles Winners",
-        "ATP Challenger Tour",
-        "ATP Challenger",
-        "Challenger",
-    }
-
-    clean = [normalize_space(x) for x in lines if normalize_space(x)]
-    clean = [x for x in clean if x not in noise]
-
-    # Usuń zwycięzców: po etykietach w HTML często zostają same nazwiska.
-    compact: List[str] = []
-    skip_next = 0
-    for x in lines:
-        x = normalize_space(x)
-        if not x:
-            continue
-        if x in {"Singles Winner", "Singles Winners"}:
-            skip_next = 1
-            continue
-        if x in {"Doubles Winner", "Doubles Winners"}:
-            skip_next = 2
-            continue
-        if skip_next > 0:
-            skip_next -= 1
-            continue
-        if x in noise:
-            continue
-        compact.append(x)
-
-    date_line = ""
-    for x in compact:
-        if "|" in x and str(year) in x:
-            date_line = x
-            break
-        if re.search(r"\d{1,2}\s*[-–]\s*\d{1,2}\s+[A-Za-z]+,\s*" + str(year), x):
-            date_line = x
-            break
-        if re.search(r"\d{1,2}\s+[A-Za-z]+\s*[-–]\s*\d{1,2}\s+[A-Za-z]+,\s*" + str(year), x):
-            date_line = x
-            break
-
-    name = ""
-    for x in compact:
-        if x == date_line:
-            break
-        # nazwa turnieju zwykle jest pierwszym sensownym tekstem nad linią lokalizacja|data
-        if not re.search(r"Winner|Results|\d{4}", x, flags=re.IGNORECASE):
-            name = x
-            break
-
-    if not name:
-        name = slug.replace("-", " ").title()
-
-    location = ""
-    date_text = ""
-    if date_line:
-        if "|" in date_line:
-            left, right = date_line.split("|", 1)
-            location = normalize_space(left)
-            date_text = normalize_space(right)
-        else:
-            date_text = normalize_space(date_line)
-
-    return name, location, date_text
-
-
-def parse_challenger_archive_html(html_text: str, year: int, source_url: str) -> List[Dict[str, Any]]:
-    soup = BeautifulSoup(html_text, "html.parser")
-    items: Dict[Tuple[str, str], Dict[str, Any]] = {}
-
-    for link in soup.select('a[href*="/scores/archive/"][href*="/results"]'):
-        href = link.get("href") or ""
-        match = re.search(r"/en/scores/archive/([^/]+)/([^/]+)/(20\d{2})/results", href)
-        if not match:
-            continue
-
-        slug, event_id, item_year = match.group(1), match.group(2), match.group(3)
-        if str(item_year) != str(year):
-            continue
-
-        container, lines = nearest_compact_container_text(link)
-        name, location, date_text = parse_challenger_card_lines(lines, slug, year)
-        start_date, end_date = parse_tournament_date_range(date_text, year)
-
-        key = (item_year, event_id)
-        items[key] = {
-            "id": str(event_id),
-            "year": str(item_year),
-            "name": name,
-            "location": location,
-            "date": date_text,
-            "month": "",
-            "isLive": False,
-            "isPastEvent": True,
-            "type": "CH",
-            "eventType": "Challenger",
-            "surface": "",
-            "indoorOutdoor": "",
-            "singlesDrawSize": "",
-            "doublesDrawSize": "",
-            "scoresUrl": f"/en/scores/archive/{slug}/{event_id}/{item_year}/results",
-            "drawsUrl": f"/en/scores/archive/{slug}/{event_id}/{item_year}/draws",
-            "scheduleUrl": "",
-            "overviewUrl": f"/en/tournaments/{slug}/{event_id}/overview",
-            "countryFlagUrl": "",
-            "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
-            "prizeMoney": "",
-            "totalFinancialCommitment": "",
-            "tournamentDate": date_text,
-            "tournamentStartDate": start_date,
-            "tournamentEndDate": end_date,
-            "circuit": "challenger",
-            "circuitLabel": "ATP Challenger",
-            "sourceArchive": source_url,
-        }
-
-    result = list(items.values())
-    result.sort(key=lambda item: (str(item.get("tournamentEndDate") or ""), str(item.get("name") or "")), reverse=True)
-    return result
-
-
-
-def parse_challenger_current_html(html_text: str, source_url: str) -> List[Dict[str, Any]]:
-    soup = BeautifulSoup(html_text, "html.parser")
-    current_year = datetime.now(timezone.utc).year
-    items: Dict[Tuple[str, str], Dict[str, Any]] = {}
-
-    for link in soup.select('a[href*="/scores/current/"][href*="/results"]'):
-        href = link.get("href") or ""
-        match = re.search(r"/en/scores/current/([^/]+)/([^/]+)/results", href)
-        if not match:
-            continue
-
-        slug, event_id = match.group(1), match.group(2)
-        container, lines = nearest_compact_container_text(link)
-        name, location, date_text = parse_challenger_card_lines(lines, slug, current_year)
-
-        detected_year = extract_year_from_text(date_text) or str(current_year)
-        start_date, end_date = parse_tournament_date_range(date_text, int(detected_year))
-
-        key = (str(detected_year), event_id)
-        items[key] = {
-            "id": str(event_id),
-            "year": str(detected_year),
-            "name": name,
-            "location": location,
-            "date": date_text,
-            "month": "",
-            "isLive": True,
-            "isPastEvent": False,
-            "type": "CH",
-            "eventType": "Challenger",
-            "surface": "",
-            "indoorOutdoor": "",
-            "singlesDrawSize": "",
-            "doublesDrawSize": "",
-            "scoresUrl": f"/en/scores/current/{slug}/{event_id}/results",
-            "drawsUrl": f"/en/scores/current/{slug}/{event_id}/draws",
-            "scheduleUrl": "",
-            "overviewUrl": f"/en/tournaments/{slug}/{event_id}/overview",
-            "countryFlagUrl": "",
-            "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_challenger.png",
-            "prizeMoney": "",
-            "totalFinancialCommitment": "",
-            "tournamentDate": date_text,
-            "tournamentStartDate": start_date,
-            "tournamentEndDate": end_date,
-            "circuit": "challenger",
-            "circuitLabel": "ATP Challenger",
-            "sourceArchive": source_url,
-        }
-
-    result = list(items.values())
-    result.sort(key=lambda item: (str(item.get("tournamentEndDate") or ""), str(item.get("name") or "")), reverse=True)
-    return result
-
-
-def fetch_current_challenger() -> Tuple[List[Dict[str, Any]], Optional[str]]:
-    try:
-        html_text = fetch_text(ATP_CHALLENGER_CURRENT_URL, referer="https://www.atptour.com/en/scores")
-        items = parse_challenger_current_html(html_text, ATP_CHALLENGER_CURRENT_URL)
-        print(f"Current Challenger: {len(items)} tournaments from {ATP_CHALLENGER_CURRENT_URL}")
-        return items, ATP_CHALLENGER_CURRENT_URL
-    except Exception as exc:
-        print(f"WARN current challenger failed: {exc}")
-        return [], None
-
-def fetch_challenger_archive_for_year(year: int) -> Tuple[List[Dict[str, Any]], Optional[str]]:
-    last_error: Optional[str] = None
-
-    for url in challenger_archive_urls_for_year(year):
-        try:
-            html_text = fetch_text(url, referer="https://www.atptour.com/en/scores/results-archive?year={year}&tournamentType=ch")
-            items = parse_challenger_archive_html(html_text, year, url)
-            if items:
-                print(f"Challenger archive {year}: {len(items)} tournaments from {url}")
-                return items, url
-        except Exception as exc:
-            last_error = f"{url}: {exc}"
-            print(f"WARN challenger archive failed: {last_error}")
-            time.sleep(REQUEST_SLEEP_SECONDS)
-
-    print(f"WARN no challenger archive parsed for {year}: {last_error}")
-    return [], None
-
-
-def fetch_challenger_archives(years: List[int]) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
-    all_items: List[Dict[str, Any]] = []
-    sources: List[Dict[str, Any]] = []
-
-    current_items, current_source = fetch_current_challenger()
-    all_items.extend(current_items)
-    sources.append({"year": "current", "source": current_source, "count": len(current_items)})
-
-    for year in years:
-        items, source_url = fetch_challenger_archive_for_year(year)
-        all_items.extend(items)
-        sources.append({"year": year, "source": source_url, "count": len(items)})
-        time.sleep(REQUEST_SLEEP_SECONDS)
-
-    # current może dublować się z archiwum tego samego roku. Dla duplikatu zostawiamy current, bo jest świeższy.
-    dedup: Dict[Tuple[str, str], Dict[str, Any]] = {}
-    for item in all_items:
-        key = (str(item.get("year") or ""), str(item.get("id") or ""))
-        if key not in dedup or item.get("isLive"):
-            dedup[key] = item
-
-    return list(dedup.values()), sources
 
 def normalize_space(value: str) -> str:
     return re.sub(r"\s+", " ", html.unescape(value or "")).strip()
@@ -1643,7 +1178,6 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
         candidates.append(current_url)
 
     last_error: Optional[str] = None
-    first_zero_debug_saved = False
 
     for candidate in candidates:
         full_url = absolute_url(candidate)
@@ -1655,11 +1189,6 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
             rounds = extract_draw_from_html(html_text)
             if rounds:
                 return rounds, full_url
-
-            if not first_zero_debug_saved:
-                save_debug_html(tournament, "draw-zero-parse", full_url, html_text)
-                first_zero_debug_saved = True
-
         except Exception as exc:
             last_error = f"{full_url}: {exc}"
             print(f"WARN draw page failed: {last_error}")
@@ -1668,131 +1197,14 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
     print(f"WARN no draw parsed for {tournament.get('name')}: {last_error}")
     return [], None
 
-def month_to_number(month_name: str) -> int:
-    month = normalize_space(month_name or "").lower()
-    month_map = {
-        "jan": 1, "january": 1,
-        "feb": 2, "february": 2,
-        "mar": 3, "march": 3,
-        "apr": 4, "april": 4,
-        "may": 5,
-        "jun": 6, "june": 6,
-        "jul": 7, "july": 7,
-        "aug": 8, "august": 8,
-        "sep": 9, "sept": 9, "september": 9,
-        "oct": 10, "october": 10,
-        "nov": 11, "november": 11,
-        "dec": 12, "december": 12,
-    }
-    return month_map.get(month[:3], month_map.get(month, 0))
-
-
-def parse_tournament_date_range(date_text: str, fallback_year: Optional[int] = None) -> Tuple[str, str]:
-    """Zwraca start/end turnieju z oryginalnego zakresu ATP.
-
-    To NIE jest data meczu. Używamy tego tylko do sortowania turniejów w historii.
-    """
-    text = normalize_space(date_text or "")
-    if not text:
-        return "", ""
-
-    match = re.search(
-        r"(\d{1,2})\s*([A-Za-z]+)?\s*[-–]\s*(\d{1,2})\s*([A-Za-z]+)\s*,?\s*(20\d{2})",
-        text,
-        flags=re.IGNORECASE,
-    )
-    if not match:
-        return "", ""
-
-    start_day = int(match.group(1))
-    start_month_name = match.group(2) or match.group(4)
-    end_day = int(match.group(3))
-    end_month_name = match.group(4)
-    year = int(match.group(5) or fallback_year or 0)
-
-    start_month = month_to_number(start_month_name)
-    end_month = month_to_number(end_month_name)
-
-    if not start_month or not end_month or not year:
-        return "", ""
-
-    try:
-        # ATP zapisuje turnieje na granicy roku zwykle jako:
-        # 30 Dec - 5 Jan, 2025
-        # Rok przy końcu zakresu oznacza wtedy rok daty końcowej,
-        # więc start jest w roku poprzednim: 2024-12-30, koniec 2025-01-05.
-        start_year = year
-        end_year = year
-
-        if start_month > end_month:
-            start_year = year - 1
-
-        start_date = datetime(start_year, start_month, start_day).date()
-        end_date = datetime(end_year, end_month, end_day).date()
-
-        # Awaryjnie dla nietypowych zakresów zapisanych odwrotnie.
-        if end_date < start_date:
-            end_date = datetime(end_year + 1, end_month, end_day).date()
-
-        return start_date.isoformat(), end_date.isoformat()
-    except Exception:
-        return "", ""
-
-
-def extract_tournament_date_from_results_html(html_text: str) -> str:
-    soup = BeautifulSoup(html_text, "html.parser")
-    page_text = normalize_space(soup.get_text(" ", strip=True))
-
-    # Przykład nagłówka ATP:
-    # London, Great Britain | 30 Jun - 13 Jul, 2025
-    match = re.search(
-        r"\|\s*(\d{1,2}\s*[A-Za-z]*\s*[-–]\s*\d{1,2}\s+[A-Za-z]+,?\s*20\d{2})",
-        page_text,
-        flags=re.IGNORECASE,
-    )
-    if match:
-        return normalize_space(match.group(1))
-
-    match = re.search(
-        r"(\d{1,2}\s*[A-Za-z]*\s*[-–]\s*\d{1,2}\s+[A-Za-z]+,?\s*20\d{2})",
-        page_text,
-        flags=re.IGNORECASE,
-    )
-    if match:
-        return normalize_space(match.group(1))
-
-    return ""
-
-
-def update_tournament_original_date_from_results(tournament: Dict[str, Any], html_text: str) -> None:
-    date_from_page = extract_tournament_date_from_results_html(html_text)
-
-    if not date_from_page:
-        date_from_page = str(tournament.get("date") or "")
-
-    year_value = str(tournament.get("year") or "")
-    fallback_year = int(year_value) if year_value.isdigit() else None
-    start_date, end_date = parse_tournament_date_range(date_from_page, fallback_year)
-
-    if date_from_page:
-        tournament["date"] = date_from_page
-        tournament["dateSource"] = "results_header_or_calendar"
-
-    if start_date:
-        tournament["startDate"] = start_date
-        tournament["tournamentStartDate"] = start_date
-
-    if end_date:
-        tournament["endDate"] = end_date
-        tournament["tournamentEndDate"] = end_date
-
-
 def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]], Optional[str]]:
     scores_url_raw = tournament.get("scoresUrl")
     current_url = current_results_url_from_archive(scores_url_raw)
 
+    # Ważne:
+    # Dla turniejów live ATP często szybciej aktualizuje /current/.../results,
+    # a /archive/.../results potrafi być opóźnione. Dlatego live -> current najpierw.
     candidates: List[str] = []
-
     if tournament.get("isLive") and current_url:
         candidates.append(current_url)
 
@@ -1802,906 +1214,83 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
     if current_url and current_url not in candidates:
         candidates.append(current_url)
 
+    # Awaryjnie z drawUrl tworzymy resultsUrl.
     draws_url = tournament.get("drawsUrl")
     if draws_url:
         results_from_draw = str(draws_url).replace("/draws", "/results")
-
         if tournament.get("isLive"):
             results_from_draw_current = current_results_url_from_archive(results_from_draw)
             if results_from_draw_current and results_from_draw_current not in candidates:
                 candidates.append(results_from_draw_current)
-
         if results_from_draw not in candidates:
             candidates.append(results_from_draw)
 
     last_error: Optional[str] = None
-    first_zero_debug_saved = False
 
     for candidate in candidates:
         full_url = absolute_url(candidate)
         if not full_url:
             continue
-
         try:
             html_text = fetch_text(full_url, referer="https://www.atptour.com/en/tournaments")
-            local_tournament = dict(tournament)
-            update_tournament_original_date_from_results(local_tournament, html_text)
-            players, matches = parse_results_html(html_text, local_tournament)
-
-            print(
-                f"Results candidate {tournament.get('year')}/{tournament.get('id')} "
-                f"{tournament.get('name')}: {len(matches)} matches from {full_url}"
-            )
-
-            if matches:
-                tournament.update(
-                    {
-                        key: local_tournament.get(key)
-                        for key in (
-                            "date", "dateSource", "startDate", "endDate",
-                            "tournamentStartDate", "tournamentEndDate"
-                        )
-                        if local_tournament.get(key)
-                    }
-                )
-                return players, matches, full_url
-
-            if not first_zero_debug_saved:
-                save_debug_html(tournament, "results-zero-parse", full_url, html_text)
-                first_zero_debug_saved = True
-
+            players, matches = parse_results_html(html_text, tournament)
+            return players, matches, full_url
         except Exception as exc:
             last_error = f"{full_url}: {exc}"
             print(f"WARN results page failed: {last_error}")
             time.sleep(REQUEST_SLEEP_SECONDS)
 
-    # Bardzo ważne: gdy wszystkie kandydaty dają 0, traktujemy to jak brak źródła.
-    # Dzięki temu main nie nadpisze istniejących danych pustym plikiem.
-    print(
-        f"WARN all result candidates failed or parsed 0 matches for "
-        f"{tournament.get('year')}/{tournament.get('id')} {tournament.get('name')}: {last_error}"
-    )
+    print(f"WARN no results page parsed for {tournament.get('name')}: {last_error}")
     return [], [], None
 
 
 def select_tournaments_for_results(flat: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    """Wybór turniejów do aktualizacji.
+    # Generujemy wyniki dla turniejów live i zakończonych.
+    # Dla nadchodzących nie ma sensu robić matches.json.
+    selected = [
+        t for t in flat
+        if (t.get("isLive") or t.get("isPastEvent")) and t.get("scoresUrl") and t.get("year") and t.get("id")
+    ]
 
-    Domyślnie GitHub Actions ma robić tylko live/current, bo ATP blokuje dużo requestów
-    i pełne 400+ turniejów przez Playwright byłoby za wolne.
-
-    Tryby:
-    - UPDATE_MODE=live  -> tylko turnieje live
-    - UPDATE_MODE=full  -> live + zakończone, czyli pełna odbudowa
-    """
-    mode = os.environ.get("UPDATE_MODE", "live").strip().lower()
-
-    if mode == "full":
-        selected = [
-            t for t in flat
-            if (t.get("isLive") or t.get("isPastEvent")) and t.get("scoresUrl") and t.get("year") and t.get("id")
-        ]
-    else:
-        selected = [
-            t for t in flat
-            if t.get("isLive") and t.get("scoresUrl") and t.get("year") and t.get("id")
-        ]
-
-    unique: Dict[Tuple[str, str, str], Dict[str, Any]] = {}
+    unique: Dict[Tuple[str, str], Dict[str, Any]] = {}
     for tournament in selected:
-        key = (str(tournament.get("circuit") or "tour"), str(tournament.get("year")), str(tournament.get("id")))
+        key = (str(tournament.get("year")), str(tournament.get("id")))
         unique[key] = tournament
 
-    print(f"UPDATE_MODE={mode}; selected tournaments: {len(unique)}")
     return list(unique.values())
-
-
-
-def slug_from_name(name: str) -> str:
-    value = unicodedata.normalize("NFKD", normalize_space(name or ""))
-    value = "".join(ch for ch in value if not unicodedata.combining(ch))
-    value = value.lower()
-    value = re.sub(r"[^a-z0-9]+", "-", value)
-    value = re.sub(r"-+", "-", value).strip("-")
-    return value
-
-
-def parse_atp_date_to_iso(value: Optional[str]) -> str:
-    text_value = normalize_space(value or "")
-    if not text_value:
-        return ""
-
-    # Przykład: Sun, 24 May, 2026
-    for pattern in ("%a, %d %B, %Y", "%d %B, %Y"):
-        try:
-            return datetime.strptime(text_value, pattern).date().isoformat()
-        except Exception:
-            pass
-
-    match = re.search(r"(\d{1,2})\s+([A-Za-z]+),\s+(20\d{2})", text_value)
-    if match:
-        try:
-            return datetime.strptime(match.group(0), "%d %B, %Y").date().isoformat()
-        except Exception:
-            pass
-
-    return ""
-
-
-def names_equal_for_history(a: Optional[str], b: Optional[str]) -> bool:
-    return player_key(a) == player_key(b)
-
-
-def collect_draw_player_meta(draw_rounds: List[Dict[str, Any]]) -> Dict[str, Dict[str, str]]:
-    result: Dict[str, Dict[str, str]] = {}
-
-    for round_item in draw_rounds or []:
-        for match in round_item.get("matches", []) or []:
-            for prefix in ("player1", "player2"):
-                full_name = match.get(f"{prefix}FullName") or match.get(prefix) or ""
-                display_name = match.get(prefix) or full_name
-                player_id = match.get(f"{prefix}Id") or ""
-
-                key = player_key(full_name or display_name)
-                if not key:
-                    continue
-
-                current = result.get(key, {})
-                result[key] = {
-                    "key": key,
-                    "name": current.get("name") or full_name or display_name,
-                    "displayName": current.get("displayName") or display_name or full_name,
-                    "playerId": current.get("playerId") or player_id,
-                }
-
-    return result
-
-
-def ranking_week_for_date(date_iso: str) -> str:
-    """Zwraca poniedziałek rankingu ATP obowiązujący w dniu meczu."""
-    if not date_iso:
-        return ""
-
-    try:
-        date_value = datetime.fromisoformat(date_iso).date()
-        monday = date_value - timedelta(days=date_value.weekday())
-        return monday.isoformat()
-    except Exception:
-        return ""
-
-
-def ranking_candidate_urls(ranking_date: str) -> List[str]:
-    # ATP zmieniało parametry strony rankingów. Próbujemy kilka wariantów.
-    return [
-        f"{ATP_BASE_URL}/en/rankings/singles?rankRange=0-5000&dateWeek={ranking_date}",
-        f"{ATP_BASE_URL}/en/rankings/singles?rankRange=0-5000&rankDate={ranking_date}",
-        f"{ATP_BASE_URL}/en/rankings/singles?rankRange=0-5000&date={ranking_date}",
-        f"{ATP_BASE_URL}/en/rankings/singles?dateWeek={ranking_date}&rankRange=0-5000",
-    ]
-
-
-def parse_ranking_rows_from_html(html_text: str, ranking_date: str, source_url: str) -> Dict[str, Dict[str, Any]]:
-    soup = BeautifulSoup(html_text, "html.parser")
-    players: Dict[str, Dict[str, Any]] = {}
-
-    # 1) Najpierw próbujemy parsować normalne wiersze tabeli.
-    rows = soup.select("table tbody tr")
-    if not rows:
-        rows = soup.select("tr")
-
-    for row in rows:
-        row_text = normalize_space(row.get_text(" ", strip=True))
-        if not row_text:
-            continue
-
-        link = row.select_one("a[href*='/en/players/']")
-        if not link:
-            continue
-
-        full_name, player_id = full_name_from_player_href(link.get("href"))
-        display_name = normalize_space(link.get_text(" ", strip=True)) or full_name
-        if not full_name:
-            full_name = display_name
-
-        # Rank zwykle jest pierwszą liczbą w wierszu.
-        rank = None
-        rank_match = re.search(r"^\s*(\d{1,4})\b", row_text)
-        if not rank_match:
-            rank_match = re.search(r"\bRank\s*#?\s*(\d{1,4})\b", row_text, flags=re.IGNORECASE)
-
-        if rank_match:
-            rank = int(rank_match.group(1))
-
-        if not rank:
-            continue
-
-        key = player_key(full_name or display_name)
-        if not key:
-            continue
-
-        players[key] = {
-            "key": key,
-            "name": full_name or display_name,
-            "displayName": display_name or full_name,
-            "playerId": player_id,
-            "rank": rank,
-            "rankingDate": ranking_date,
-            "rankingType": "historical_week",
-            "source": source_url,
-        }
-
-    # 2) Awaryjnie: jeśli tabela nie zadziała, szukamy linków do zawodników w kolejności strony.
-    # W takim trybie rank jest kolejnością wystąpienia, więc używamy tylko jeśli nic nie znaleziono.
-    if not players:
-        seen = set()
-        rank_counter = 0
-
-        for link in soup.select("a[href*='/en/players/']"):
-            full_name, player_id = full_name_from_player_href(link.get("href"))
-            display_name = normalize_space(link.get_text(" ", strip=True)) or full_name
-
-            if not full_name and not display_name:
-                continue
-
-            key = player_key(full_name or display_name)
-            if not key or key in seen:
-                continue
-
-            seen.add(key)
-            rank_counter += 1
-
-            players[key] = {
-                "key": key,
-                "name": full_name or display_name,
-                "displayName": display_name or full_name,
-                "playerId": player_id,
-                "rank": rank_counter,
-                "rankingDate": ranking_date,
-                "rankingType": "historical_week_inferred_order",
-                "source": source_url,
-            }
-
-    return players
-
-
-def fetch_historical_rankings_for_week(ranking_date: str) -> Dict[str, Dict[str, Any]]:
-    if not ranking_date:
-        return {}
-
-    for url in ranking_candidate_urls(ranking_date):
-        try:
-            html_text = fetch_text(url, referer="https://www.atptour.com/en/rankings/singles")
-            players = parse_ranking_rows_from_html(html_text, ranking_date, url)
-
-            if players:
-                print(f"Ranking {ranking_date}: {len(players)} players from {url}")
-                return players
-
-        except Exception as exc:
-            print(f"WARN ranking fetch failed {ranking_date} {url}: {exc}")
-            time.sleep(REQUEST_SLEEP_SECONDS)
-
-    print(f"WARN no ranking parsed for {ranking_date}")
-    return {}
-
-
-def normalize_ranking_players_payload(players_payload: Any) -> Dict[str, Dict[str, Any]]:
-    """Obsługuje oba formaty rankingów:
-    1) stary/nowy updater: {"players": {"janniksinner": {...}}}
-    2) osobny ranking workflow: {"players": [{"nameKey": "janniksinner", ...}, ...]}
-    """
-    normalized: Dict[str, Dict[str, Any]] = {}
-
-    if isinstance(players_payload, dict):
-        for key, value in players_payload.items():
-            if not isinstance(value, dict):
-                continue
-
-            normalized_key = (
-                str(value.get("nameKey") or "")
-                or str(value.get("displayNameKey") or "")
-                or str(value.get("key") or "")
-                or str(key or "")
-            )
-
-            if not normalized_key:
-                normalized_key = player_key(value.get("name") or value.get("displayName") or "")
-
-            if normalized_key:
-                normalized[normalized_key] = value
-
-        return normalized
-
-    if isinstance(players_payload, list):
-        for value in players_payload:
-            if not isinstance(value, dict):
-                continue
-
-            normalized_key = (
-                str(value.get("nameKey") or "")
-                or str(value.get("displayNameKey") or "")
-                or str(value.get("key") or "")
-                or player_key(value.get("name") or value.get("displayName") or "")
-            )
-
-            if normalized_key:
-                normalized[normalized_key] = {
-                    **value,
-                    "key": normalized_key,
-                }
-
-    return normalized
-
-
-def ranking_file_candidates(ranking_date: str) -> List[Path]:
-    return [
-        DATA_DIR / "rankings" / "singles" / f"{ranking_date}.json",
-        DATA_DIR / "rankings" / f"{ranking_date}.json",
-    ]
-
-
-def load_or_fetch_historical_rankings(ranking_dates: List[str], generated_at: str) -> Dict[str, Dict[str, Dict[str, Any]]]:
-    rankings_by_date: Dict[str, Dict[str, Dict[str, Any]]] = {}
-    rankings_dir = DATA_DIR / "rankings" / "singles"
-    rankings_dir.mkdir(parents=True, exist_ok=True)
-
-    unique_dates = sorted({date for date in ranking_dates if date})
-
-    for ranking_date in unique_dates:
-        existing_players: Dict[str, Dict[str, Any]] = {}
-
-        # Najpierw czytamy istniejące rankingi z data/rankings/singles.
-        # To jest miejsce, gdzie masz już komplet rankingów 2025/2026.
-        for candidate_path in ranking_file_candidates(ranking_date):
-            existing = load_existing_json(candidate_path)
-
-            if not isinstance(existing, dict):
-                continue
-
-            normalized = normalize_ranking_players_payload(existing.get("players"))
-
-            if normalized:
-                existing_players = normalized
-                break
-
-        if existing_players:
-            rankings_by_date[ranking_date] = existing_players
-            continue
-
-        # Jeśli pliku nie było, pobieramy ranking i zapisujemy już do data/rankings/singles.
-        players = fetch_historical_rankings_for_week(ranking_date)
-        rankings_by_date[ranking_date] = players
-
-        save_json(
-            rankings_dir / f"{ranking_date}.json",
-            {
-                "generatedAt": generated_at,
-                "source": ranking_candidate_urls(ranking_date)[0],
-                "rankingDate": ranking_date,
-                "count": len(players),
-                "players": list(players.values()),
-            },
-        )
-
-        time.sleep(REQUEST_SLEEP_SECONDS)
-
-    save_json(
-        DATA_DIR / "rankings_index.json",
-        {
-            "generatedAt": generated_at,
-            "source": "data/rankings/singles/*.json",
-            "count": len(unique_dates),
-            "items": [
-                {
-                    "rankingDate": date,
-                    "count": len(rankings_by_date.get(date, {})),
-                    "path": f"data/rankings/singles/{date}.json",
-                }
-                for date in unique_dates
-            ],
-        },
-    )
-
-    return rankings_by_date
-
-
-
-def rank_for_player_on_date(rankings_by_date: Dict[str, Dict[str, Dict[str, Any]]], player_key_value: str, date_iso: str) -> Tuple[Optional[int], str]:
-    ranking_date = ranking_week_for_date(date_iso)
-    if not ranking_date:
-        return None, ""
-
-    ranking_players = rankings_by_date.get(ranking_date, {})
-    item = ranking_players.get(player_key_value)
-
-    if not isinstance(item, dict):
-        return None, ranking_date
-
-    rank = item.get("rank")
-    try:
-        return int(rank), ranking_date
-    except Exception:
-        return None, ranking_date
-
-def build_player_histories_from_matches(
-    generated_at: str,
-    tournament_match_payloads: List[Dict[str, Any]],
-    draw_meta_by_player_key: Dict[str, Dict[str, str]],
-) -> None:
-    histories: Dict[str, List[Dict[str, Any]]] = {}
-    player_meta: Dict[str, Dict[str, str]] = {}
-
-    def remember_player(name: str, player_id: str = "") -> str:
-        key = player_key(name)
-        if not key:
-            return ""
-
-        meta_from_draw = draw_meta_by_player_key.get(key, {})
-        player_meta[key] = {
-            "key": key,
-            "name": meta_from_draw.get("name") or name,
-            "displayName": meta_from_draw.get("displayName") or name,
-            "playerId": meta_from_draw.get("playerId") or player_id or "",
-        }
-        return key
-
-    for payload in tournament_match_payloads:
-        tournament = payload.get("tournament", {}) or {}
-        matches = payload.get("matches", []) or []
-
-        for match in matches:
-            player_name = match.get("playerName") or ""
-            opponent_name = match.get("opponentName") or ""
-            winner_name = match.get("winnerName") or player_name
-
-            if not player_name or not opponent_name:
-                continue
-
-            player_key_value = remember_player(player_name, match.get("playerId") or "")
-            opponent_key_value = remember_player(opponent_name, match.get("opponentId") or "")
-
-            if not player_key_value or not opponent_key_value:
-                continue
-
-            score = match.get("formattedScore") or ""
-            # Ważne: daty mają być tylko oryginalne z ATP.
-            # Nie wyliczamy dat po rundzie ani po dacie końca turnieju.
-            date_text = match.get("date") or ""
-            date_iso = parse_atp_date_to_iso(date_text)
-
-            player_won = names_equal_for_history(winner_name, player_name)
-            opponent_won = names_equal_for_history(winner_name, opponent_name)
-
-            base_info = {
-                "date": date_text,
-                "dateIso": date_iso,
-                "tournamentId": tournament.get("id") or "",
-                "tournamentYear": tournament.get("year") or "",
-                "tournamentName": tournament.get("name") or "",
-                "tournamentType": tournament.get("type") or "",
-                "tournamentDate": tournament.get("date") or "",
-                "tournamentStartDate": tournament.get("tournamentStartDate") or tournament.get("startDate") or "",
-                "tournamentEndDate": tournament.get("tournamentEndDate") or tournament.get("endDate") or "",
-                "surface": tournament.get("surface") or "",
-                "round": match.get("round") or "",
-                "roundLong": match.get("roundLong") or "",
-                "score": score,
-                "matchId": match.get("matchId") or "",
-                "reason": match.get("reason"),
-            }
-
-            histories.setdefault(player_key_value, []).append(
-                {
-                    **base_info,
-                    "playerName": player_name,
-                    "opponentName": opponent_name,
-                    "opponentKey": opponent_key_value,
-                    "result": "W" if player_won else "L",
-                }
-            )
-
-            histories.setdefault(opponent_key_value, []).append(
-                {
-                    **base_info,
-                    "playerName": opponent_name,
-                    "opponentName": player_name,
-                    "opponentKey": player_key_value,
-                    "result": "W" if opponent_won else "L",
-                }
-            )
-
-    # Rankingi historyczne: bierzemy ranking z poniedziałku obowiązującego w dniu meczu.
-    ranking_dates: List[str] = []
-
-    for items in histories.values():
-        for item in items:
-            ranking_date = ranking_week_for_date(item.get("dateIso") or "")
-            if ranking_date:
-                ranking_dates.append(ranking_date)
-
-    rankings_by_date = load_or_fetch_historical_rankings(ranking_dates, generated_at)
-
-    history_index: List[Dict[str, Any]] = []
-
-    history_dir = DATA_DIR / "player-history"
-    history_dir.mkdir(parents=True, exist_ok=True)
-
-    for key, items in histories.items():
-        items.sort(
-            key=lambda item: (
-                item.get("dateIso") or "",
-                item.get("tournamentYear") or "",
-                item.get("tournamentName") or "",
-            ),
-            reverse=True,
-        )
-
-        try:
-            generated_date = datetime.fromisoformat(generated_at.replace("Z", "+00:00")).date()
-        except Exception:
-            generated_date = datetime.now(timezone.utc).date()
-
-        history_start_date = generated_date.replace(year=generated_date.year - 1, month=1, day=1)
-
-        last_year_matches: List[Dict[str, Any]] = []
-        for item in items:
-            date_iso = item.get("dateIso") or ""
-            include_item = False
-
-            try:
-                include_item = datetime.fromisoformat(date_iso).date() >= history_start_date
-            except Exception:
-                include_item = True
-
-            if include_item:
-                last_year_matches.append(item)
-
-        player_rank = None
-
-        for item in last_year_matches:
-            match_date_iso = item.get("dateIso") or ""
-
-            player_rank, player_ranking_date = rank_for_player_on_date(rankings_by_date, key, match_date_iso)
-            opponent_rank, opponent_ranking_date = rank_for_player_on_date(
-                rankings_by_date,
-                item.get("opponentKey") or "",
-                match_date_iso,
-            )
-
-            item["playerRank"] = player_rank
-            item["opponentRank"] = opponent_rank
-            item["rankingDate"] = player_ranking_date or opponent_ranking_date
-            item["rankingNote"] = "historical_week"
-
-        meta = player_meta.get(key, {"name": key, "displayName": key, "playerId": ""})
-        payload = {
-            "generatedAt": generated_at,
-            "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
-            "historyStartDate": history_start_date.isoformat(),
-            "player": meta,
-            "count": len(last_year_matches),
-            "matches": last_year_matches,
-        }
-
-        save_json(history_dir / f"{key}.json", payload)
-
-        history_index.append(
-            {
-                "key": key,
-                "name": meta.get("name") or meta.get("displayName") or key,
-                "displayName": meta.get("displayName") or meta.get("name") or key,
-                "playerId": meta.get("playerId") or "",
-                "rank": player_rank,
-                "count": len(last_year_matches),
-                "path": f"data/player-history/{key}.json",
-            }
-        )
-
-    history_index.sort(key=lambda item: item.get("name") or "")
-
-    save_json(
-        DATA_DIR / "player_history_index.json",
-        {
-            "generatedAt": generated_at,
-            "count": len(history_index),
-            "items": history_index,
-        },
-    )
-
-
-def extract_score_slug_and_id(tournament: Dict[str, Any]) -> Tuple[str, str]:
-    for key in ("scoresUrl", "drawsUrl", "scheduleUrl"):
-        url = str(tournament.get(key) or "")
-        match = re.search(r"/en/scores/(?:archive|current)/([^/]+)/([^/]+)(?:/20\d{2})?/", url)
-        if match:
-            return match.group(1), match.group(2)
-
-    return "", str(tournament.get("id") or "")
-
-
-def build_archive_url(slug: str, event_id: str, year: int, page: str) -> str:
-    if not slug or not event_id:
-        return ""
-    return f"/en/scores/archive/{slug}/{event_id}/{year}/{page}"
-
-
-def synthesize_year_from_reference(reference_tournaments: List[Dict[str, Any]], target_year: int) -> List[Dict[str, Any]]:
-    """Awaryjnie tworzy listę turniejów dla roku historycznego.
-
-    ATP endpoint kalendarza nie zawsze zwraca stare lata. Wyniki archiwalne ATP
-    mają jednak przewidywalne adresy:
-    /en/scores/archive/{slug}/{id}/{year}/results
-
-    Ta funkcja bierze znane ID/slug turniejów z aktualnego kalendarza i buduje
-    odpowiedniki dla target_year. Nie jest to idealny kalendarz historyczny,
-    ale pozwala pobrać większość wyników 2025 zamiast dostać pustą historię.
-    """
-    synthetic: List[Dict[str, Any]] = []
-
-    for tournament in reference_tournaments:
-        slug, event_id = extract_score_slug_and_id(tournament)
-        if not slug or not event_id:
-            continue
-
-        item = dict(tournament)
-        item["year"] = str(target_year)
-        item["date"] = ""
-        item["month"] = ""
-        item["isLive"] = False
-        item["isPastEvent"] = True
-        item["scoresUrl"] = build_archive_url(slug, event_id, target_year, "results")
-        item["drawsUrl"] = build_archive_url(slug, event_id, target_year, "draws")
-        item["scheduleUrl"] = build_archive_url(slug, event_id, target_year, "schedule")
-        item["syntheticHistoricalFallback"] = True
-        item["syntheticSourceYear"] = tournament.get("year")
-        synthetic.append(item)
-
-    return synthetic
-
-
-def ensure_history_years_available(flat_tournaments: List[Dict[str, Any]], years: List[int]) -> List[Dict[str, Any]]:
-    result = list(flat_tournaments)
-
-    years_present = {
-        int(str(item.get("year") or "0"))
-        for item in result
-        if str(item.get("year") or "").isdigit()
-    }
-
-    reference_year = max(years_present) if years_present else None
-    reference_tournaments = [
-        item for item in result
-        if reference_year is not None and str(item.get("year") or "") == str(reference_year)
-    ]
-
-    existing_keys = {
-        (str(item.get("year") or ""), str(item.get("id") or ""))
-        for item in result
-    }
-
-    for year in years:
-        if year in years_present:
-            continue
-
-        print(f"WARN calendar for {year} missing, creating archive fallback from {reference_year}")
-        synthetic = synthesize_year_from_reference(reference_tournaments, year)
-
-        added = 0
-        for item in synthetic:
-            key = (str(item.get("year") or ""), str(item.get("id") or ""))
-            if key in existing_keys:
-                continue
-            result.append(item)
-            existing_keys.add(key)
-            added += 1
-
-        print(f"Fallback {year}: added {added} synthetic archive tournaments")
-
-    result.sort(key=lambda item: (str(item.get("year") or ""), str(item.get("month") or ""), str(item.get("date") or ""), str(item.get("id") or "")))
-    return result
-
-
-def tournament_sort_date_for_flat(tournament: Dict[str, Any]) -> str:
-    for key in ("tournamentEndDate", "endDate", "tournamentStartDate", "startDate"):
-        value = str(tournament.get(key) or "")
-        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
-            return value
-    return ""
-
-
-def sorted_flat_tournaments_for_app(flat_tournaments: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    return sorted(
-        flat_tournaments,
-        key=lambda item: (
-            str(item.get("year") or ""),
-            tournament_sort_date_for_flat(item),
-            str(item.get("name") or ""),
-        ),
-        reverse=True,
-    )
-
-
-
-def tournament_circuit_value(tournament: Dict[str, Any]) -> str:
-    circuit = str(
-        tournament.get("circuit")
-        or tournament.get("level")
-        or tournament.get("Circuit")
-        or "tour"
-    ).strip().lower()
-
-    if circuit in {"challenger", "ch", "atp challenger"}:
-        return "challenger"
-
-    return "tour"
-
-
-def tournament_data_folder(tournament: Dict[str, Any]) -> Path:
-    year = str(tournament.get("year") or tournament.get("Year") or "")
-    event_id = str(tournament.get("id") or tournament.get("Id") or "")
-
-    if tournament_circuit_value(tournament) == "challenger":
-        return DATA_DIR / "challenger" / year / event_id
-
-    return DATA_DIR / year / event_id
-
-
-def tournament_public_data_path(tournament: Dict[str, Any], filename: str) -> str:
-    year = str(tournament.get("year") or tournament.get("Year") or "")
-    event_id = str(tournament.get("id") or tournament.get("Id") or "")
-
-    if tournament_circuit_value(tournament) == "challenger":
-        return f"data/challenger/{year}/{event_id}/{filename}"
-
-    return f"data/{year}/{event_id}/{filename}"
-
-
-def load_existing_tournaments_from_files() -> List[Dict[str, Any]]:
-    """Awaryjne odtworzenie listy turniejów z istniejących plików tournament.json.
-
-    Potrzebne, gdy ATP/HTML/endpoint chwilowo zwróci pustkę i nowy parser daje 0 turniejów.
-    Dzięki temu nie kasujemy `tournaments_flat.json` i aplikacja dalej ma co czytać.
-    """
-    candidates: List[Path] = []
-
-    for year in HISTORY_YEARS:
-        candidates.extend((DATA_DIR / str(year)).glob("*/tournament.json"))
-        candidates.extend((DATA_DIR / "challenger" / str(year)).glob("*/tournament.json"))
-
-    items: Dict[Tuple[str, str, str], Dict[str, Any]] = {}
-
-    for path in candidates:
-        payload = load_existing_json(path)
-        if not isinstance(payload, dict):
-            continue
-
-        tournament = payload.get("tournament") if isinstance(payload.get("tournament"), dict) else payload
-
-        if not isinstance(tournament, dict):
-            continue
-
-        year = str(tournament.get("year") or tournament.get("Year") or "")
-        event_id = str(tournament.get("id") or tournament.get("Id") or "")
-        if not year or not event_id:
-            continue
-
-        circuit = tournament_circuit_value(tournament)
-        if circuit == "challenger":
-            tournament["circuit"] = "challenger"
-            tournament["circuitLabel"] = tournament.get("circuitLabel") or tournament.get("levelName") or "ATP Challenger"
-            tournament["type"] = tournament.get("type") or "CH"
-            tournament["eventType"] = tournament.get("eventType") or "Challenger"
-        else:
-            tournament["circuit"] = "tour"
-            tournament["circuitLabel"] = tournament.get("circuitLabel") or "ATP Tour"
-
-        items[(circuit, year, event_id)] = tournament
-
-    result = list(items.values())
-    result = sorted_flat_tournaments_for_app(result)
-    return result
-
-
-def tournaments_flat_payload(generated_at: str, tournaments: List[Dict[str, Any]], note: str) -> Dict[str, Any]:
-    return {
-        "source": ATP_CALENDAR_URL,
-        "years": HISTORY_YEARS,
-        "generatedAt": generated_at,
-        "count": len(tournaments),
-        "note": note,
-        "tournaments": tournaments,
-    }
-
-
-def save_tournaments_flat_safely(generated_at: str, tournaments: List[Dict[str, Any]], note: str) -> List[Dict[str, Any]]:
-    """Nie zapisuj pustego `tournaments_flat.json`, jeśli można zachować/odtworzyć dane."""
-    if tournaments:
-        payload = tournaments_flat_payload(generated_at, tournaments, note)
-        save_json(DATA_DIR / "tournaments_flat.json", payload)
-        return tournaments
-
-    existing = load_existing_json(DATA_DIR / "tournaments_flat.json")
-    if isinstance(existing, dict):
-        existing_tournaments = existing.get("tournaments")
-        if isinstance(existing_tournaments, list) and existing_tournaments:
-            existing["preservedBecauseNewTournamentParseWasEmpty"] = True
-            existing["lastFailedUpdateAt"] = generated_at
-            existing["count"] = len(existing_tournaments)
-            save_json(DATA_DIR / "tournaments_flat.json", existing)
-            print(f"WARN tournaments_flat parse returned 0; preserved existing {len(existing_tournaments)} tournaments")
-            return existing_tournaments
-
-    rebuilt = load_existing_tournaments_from_files()
-    if rebuilt:
-        payload = tournaments_flat_payload(
-            generated_at,
-            rebuilt,
-            note + " UWAGA: lista została awaryjnie odtworzona z istniejących plików tournament.json, bo świeże pobranie zwróciło 0 turniejów.",
-        )
-        payload["rebuiltFromExistingTournamentFiles"] = True
-        save_json(DATA_DIR / "tournaments_flat.json", payload)
-        print(f"WARN tournaments_flat parse returned 0; rebuilt {len(rebuilt)} tournaments from tournament.json files")
-        return rebuilt
-
-    payload = tournaments_flat_payload(generated_at, [], note)
-    payload["emptyBecauseNoSourceAndNoBackup"] = True
-    save_json(DATA_DIR / "tournaments_flat.json", payload)
-    print("ERROR tournaments_flat is empty and no backup tournament files were found")
-    return []
 
 
 def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     generated_at = datetime.now(timezone.utc).isoformat()
-    update_mode = os.environ.get("UPDATE_MODE", "live").strip().lower()
 
-    flat_tournaments: List[Dict[str, Any]] = []
-    calendar_sources: List[Dict[str, Any]] = []
-    challenger_sources: List[Dict[str, Any]] = []
+    print("Fetching ATP calendar...")
+    calendar = fetch_calendar()
+    flat_tournaments = flatten_tournaments(calendar)
 
-    existing_flat = load_existing_json(DATA_DIR / "tournaments_flat.json")
-    existing_tournaments = []
-    if isinstance(existing_flat, dict) and isinstance(existing_flat.get("tournaments"), list):
-        existing_tournaments = existing_flat.get("tournaments") or []
+    save_json(
+        DATA_DIR / "tournaments.json",
+        {
+            "source": ATP_CALENDAR_URL,
+            "generatedAt": generated_at,
+            "data": calendar,
+        },
+    )
 
-    if update_mode == "live" and existing_tournaments:
-        print(f"UPDATE_MODE=live; using existing tournaments_flat.json with {len(existing_tournaments)} tournaments")
-        flat_tournaments = existing_tournaments
-    else:
-        print("Fetching ATP Tour calendars...")
-        flat_tournaments, calendar_sources = flatten_multi_year_calendars(HISTORY_YEARS)
-        flat_tournaments = ensure_history_years_available(flat_tournaments, HISTORY_YEARS)
-
-        if INCLUDE_CHALLENGER:
-            print("Fetching ATP Challenger archives...")
-            challenger_tournaments, challenger_sources = fetch_challenger_archives(HISTORY_YEARS)
-            flat_tournaments.extend(challenger_tournaments)
-
-        save_json(
-            DATA_DIR / "tournaments.json",
-            {
-                "source": ATP_CALENDAR_URL,
-                "challengerSource": ATP_CHALLENGER_ARCHIVE_URL,
-                "years": HISTORY_YEARS,
-                "generatedAt": generated_at,
-                "countSources": len(calendar_sources) + len(challenger_sources),
-                "sources": calendar_sources,
-                "challengerSources": challenger_sources,
-            },
-        )
-
-        flat_tournaments = save_tournaments_flat_safely(
-            generated_at,
-            flat_tournaments,
-            "Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów z poprzedniego roku mogła zostać utworzona jako archive fallback po ID/slug z aktualnego kalendarza.",
-        )
+    save_json(
+        DATA_DIR / "tournaments_flat.json",
+        {
+            "source": ATP_CALENDAR_URL,
+            "generatedAt": generated_at,
+            "count": len(flat_tournaments),
+            "tournaments": flat_tournaments,
+        },
+    )
 
     selected = select_tournaments_for_results(flat_tournaments)
     print(f"Generating results for {len(selected)} tournaments...")
 
     index_items: List[Dict[str, Any]] = []
-    tournament_match_payloads: List[Dict[str, Any]] = []
-    draw_meta_by_player_key: Dict[str, Dict[str, str]] = {}
 
     for index, tournament in enumerate(selected, start=1):
         year = str(tournament.get("year") or "")
@@ -2721,66 +1310,31 @@ def main() -> None:
             print(f"WARN tournament draw failed: {year}/{event_id} {name}: {exc}")
             draw_rounds, draw_source_url = [], None
 
-        folder = tournament_data_folder(tournament)
+        folder = DATA_DIR / year / event_id
         save_json(folder / "tournament.json", tournament)
 
         draw_match_count = sum(len(round_item.get("matches", [])) for round_item in draw_rounds)
-        draw_player_meta = collect_draw_player_meta(draw_rounds)
-        draw_meta_by_player_key.update(draw_player_meta)
-
-        # Jeżeli ATP zwraca 403 i nie mamy źródła, NIE nadpisujemy istniejących plików zerami.
-        # To chroni dane, gdy GitHub Actions jest blokowany przez atptour.com.
-        existing_draw_payload = load_existing_json(folder / "draw.json")
-        existing_players_payload = load_existing_json(folder / "players.json")
-        existing_matches_payload = load_existing_json(folder / "matches.json")
-
-        if draw_source_url is not None:
-            draw_payload = {
+        save_json(
+            folder / "draw.json",
+            {
                 "generatedAt": generated_at,
                 "source": draw_source_url,
                 "tournament": tournament,
                 "countRounds": len(draw_rounds),
                 "countMatches": draw_match_count,
                 "rounds": draw_rounds,
-            }
-            save_json(folder / "draw.json", draw_payload)
-        elif isinstance(existing_draw_payload, dict):
-            existing_draw_payload["preservedBecauseDrawSourceWasBlocked"] = True
-            existing_draw_payload["lastBlockedUpdateAt"] = generated_at
-            save_json(folder / "draw.json", existing_draw_payload)
-            draw_rounds = existing_draw_payload.get("rounds", []) or []
-            draw_match_count = int(existing_draw_payload.get("countMatches") or 0)
-        else:
-            save_json(
-                folder / "draw.json",
-                {
-                    "generatedAt": generated_at,
-                    "source": None,
-                    "tournament": tournament,
-                    "countRounds": 0,
-                    "countMatches": 0,
-                    "rounds": [],
-                    "notSavedBecauseSourceWasBlocked": True,
-                },
-            )
-
-        if source_url is not None:
-            save_json(
-                folder / "players.json",
-                {
-                    "generatedAt": generated_at,
-                    "source": source_url,
-                    "tournament": tournament,
-                    "count": len(players),
-                    "players": players,
-                },
-            )
-        elif isinstance(existing_players_payload, dict):
-            existing_players_payload["preservedBecauseResultsSourceWasBlocked"] = True
-            existing_players_payload["lastBlockedUpdateAt"] = generated_at
-            save_json(folder / "players.json", existing_players_payload)
-            players = existing_players_payload.get("players", []) or []
-
+            },
+        )
+        save_json(
+            folder / "players.json",
+            {
+                "generatedAt": generated_at,
+                "source": source_url,
+                "tournament": tournament,
+                "count": len(players),
+                "players": players,
+            },
+        )
         matches_payload = {
             "generatedAt": generated_at,
             "source": source_url,
@@ -2788,19 +1342,8 @@ def main() -> None:
             "count": len(matches),
             "matches": matches,
         }
-
-        if source_url is None and isinstance(existing_matches_payload, dict):
-            existing_matches_payload["preservedBecauseResultsSourceWasBlocked"] = True
-            existing_matches_payload["lastBlockedUpdateAt"] = generated_at
-            save_json(folder / "matches.json", existing_matches_payload)
-            saved_matches_payload = existing_matches_payload
-        else:
-            saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
-
+        saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
         saved_matches_count = int(saved_matches_payload.get("count") or 0)
-
-        if isinstance(saved_matches_payload, dict):
-            tournament_match_payloads.append(saved_matches_payload)
 
         index_items.append(
             {
@@ -2811,27 +1354,14 @@ def main() -> None:
                 "matches": saved_matches_count,
                 "drawRounds": len(draw_rounds),
                 "drawMatches": draw_match_count,
-                "circuit": tournament.get("circuit") or "tour",
-                "circuitLabel": tournament.get("circuitLabel") or "ATP Tour",
-                "matchesPath": tournament_public_data_path(tournament, "matches.json"),
-                "drawPath": tournament_public_data_path(tournament, "draw.json"),
+                "matchesPath": f"data/{year}/{event_id}/matches.json",
+                "drawPath": f"data/{year}/{event_id}/draw.json",
                 "source": source_url,
                 "drawSource": draw_source_url,
             }
         )
 
         time.sleep(REQUEST_SLEEP_SECONDS)
-
-    # Po pobraniu wyników turnieje mają już uzupełnione oryginalne zakresy dat
-    # z nagłówków ATP, np. tournamentStartDate/tournamentEndDate.
-    # Dlatego zapisujemy tournaments_flat.json jeszcze raz, już po wzbogaceniu.
-    flat_tournaments_for_app = sorted_flat_tournaments_for_app(flat_tournaments)
-
-    flat_tournaments_for_app = save_tournaments_flat_safely(
-        generated_at,
-        flat_tournaments_for_app,
-        "Turnieje ATP Tour i Challenger są zapisane po wzbogaceniu o oryginalne zakresy dat z ATP, np. tournamentStartDate/tournamentEndDate. Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów mogła zostać utworzona jako archive fallback.",
-    )
 
     save_json(
         DATA_DIR / "results_index.json",
@@ -2840,13 +1370,6 @@ def main() -> None:
             "count": len(index_items),
             "items": index_items,
         },
-    )
-
-    print("Building player histories...")
-    build_player_histories_from_matches(
-        generated_at=generated_at,
-        tournament_match_payloads=tournament_match_payloads,
-        draw_meta_by_player_key=draw_meta_by_player_key,
     )
 
     print("Done.")
