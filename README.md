@@ -1,16 +1,16 @@
-# ATP data updater v28 stable - co 2 godziny i bez przycinania wyników
+# ATP data updater v29 - naprawa draw i ucinanych wyników
 
-To jest wersja konserwatywna, czyli bliżej stabilnej wersji sprzed eksperymentów z agresywnym scalaniem draw.
+Problem:
+- `Results` dla turniejów live potrafi zwrócić tylko część turnieju, np. samą R32 albo mecze z jednego dnia.
+- `draw.json` dla live turniejów potrafił zapisać się jako pusty, bo parser nie łapał nowego HTML-a ATP.
+- Przez to aplikacja traciła rundy do finału i historia zawodników była ucięta.
 
-Zmiany:
-- workflow uruchamia się co 2 godziny: `0 */2 * * *`,
-- `fetch_tournament_results` sprawdza wszystkie kandydaty wyników:
-  - current,
-  - archive,
-  - results z drawUrl,
-  i wybiera wersję z największą liczbą meczów,
-- `save_matches_safely` nie nadpisuje pliku, jeśli świeży parser zwróci mniej meczów niż stary plik,
-- dzięki temu dane nie powinny się ucinać do samych R32 lub kilku meczów,
-- nie ma agresywnego draw fallback z v27.
+Poprawka:
+- workflow nadal odświeża dane co 2 godziny,
+- draw parser ma fallback tekstowy dla statycznego HTML-a ATP,
+- draw URL ma warianty bez apostrofu, np. `s-hertogenbosch`,
+- `draw.json` nie jest nadpisywany pustą/uboższą drabinką,
+- `matches.json` jest uzupełniany rozegranymi meczami z draw,
+- `matches.json` nie jest obcinany, jeśli świeży parser zwróci mniej meczów niż stary plik.
 
 Po podmianie uruchom `Update ATP Data`.
