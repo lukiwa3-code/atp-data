@@ -33,5 +33,7 @@
     "tournamentEndDate": "2026-06-14"
   },
   "count": 0,
-  "matches": []
+  "matches": [],
+  "preservedBecauseResultsSourceWasBlocked": true,
+  "lastBlockedUpdateAt": "2026-06-11T15:56:05.854886+00:00"
 }
