@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T14:30:34.436805+00:00",
+  "generatedAt": "2026-06-11T16:40:41.986600+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Edison Ambarzumjan",
     "playerId": ""
   },
-  "count": 2,
+  "count": 1,
   "matches": [
     {
       "date": "Sun, 24 May, 2026",
@@ -17,9 +17,9 @@
       "tournamentYear": "2026",
       "tournamentName": "RISE IRENE OPEN",
       "tournamentType": "CH",
-      "tournamentDate": "25 - 31 May, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
       "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
@@ -33,31 +33,6 @@
       "playerRank": 1151,
       "opponentRank": 645,
       "rankingDate": "2026-05-18",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Sun, 15 March, 2026",
-      "dateIso": "2026-03-15",
-      "tournamentId": "9472",
-      "tournamentYear": "2026",
-      "tournamentName": "Zadar Open",
-      "tournamentType": "CH",
-      "tournamentDate": "16 - 22 March, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
-      "surface": "Clay",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-0 6-2",
-      "matchId": "RES-0E44561A11",
-      "reason": null,
-      "playerName": "Edison Ambarzumjan",
-      "opponentName": "Gerard Campana Lee",
-      "opponentKey": "gerardcampanalee",
-      "result": "L",
-      "playerRank": 1152,
-      "opponentRank": 629,
-      "rankingDate": "2026-03-09",
       "rankingNote": "historical_week"
     }
   ]

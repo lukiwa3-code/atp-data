@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T14:30:34.436805+00:00",
+  "generatedAt": "2026-06-11T16:40:41.986600+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Ofek Shimanov",
     "playerId": ""
   },
-  "count": 3,
+  "count": 2,
   "matches": [
     {
       "date": "Mon, 25 May, 2026",
@@ -17,9 +17,9 @@
       "tournamentYear": "2026",
       "tournamentName": "RISE IRENE OPEN",
       "tournamentType": "CH",
-      "tournamentDate": "25 - 31 May, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
       "surface": "Hard",
       "round": "Q2",
       "roundLong": "2nd Round Qualifying",
@@ -42,9 +42,9 @@
       "tournamentYear": "2026",
       "tournamentName": "RISE IRENE OPEN",
       "tournamentType": "CH",
-      "tournamentDate": "25 - 31 May, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
       "surface": "Hard",
       "round": "Q1",
       "roundLong": "1st Round Qualifying",
@@ -58,31 +58,6 @@
       "playerRank": 1243,
       "opponentRank": 585,
       "rankingDate": "2026-05-18",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Mon, 09 March, 2026",
-      "dateIso": "2026-03-09",
-      "tournamentId": "9167",
-      "tournamentYear": "2026",
-      "tournamentName": "Arizona Tennis Classic",
-      "tournamentType": "CH",
-      "tournamentDate": "10 - 15 March, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
-      "surface": "Hard",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "6-0 6-4",
-      "matchId": "RES-6A750B086F",
-      "reason": null,
-      "playerName": "Ofek Shimanov",
-      "opponentName": "Stefano Travaglia",
-      "opponentKey": "stefanotravaglia",
-      "result": "L",
-      "playerRank": 1243,
-      "opponentRank": 138,
-      "rankingDate": "2026-03-09",
       "rankingNote": "historical_week"
     }
   ]

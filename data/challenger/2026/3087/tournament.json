@@ -5,7 +5,7 @@
   "year": "2026",
   "name": "RISE IRENE OPEN",
   "location": "Centurion, South Africa",
-  "date": "25 - 31 May, 2026",
+  "date": "25-31 May, 2026",
   "month": "May, 2026",
   "dateStart": "2026-05-25",
   "dateEnd": "2026-05-31",
@@ -32,5 +32,10 @@
   "prizeMoney": "$63,000",
   "totalFinancialCommitment": "$63,000",
   "circuit": "challenger",
-  "circuitLabel": "ATP Challenger"
+  "circuitLabel": "ATP Challenger",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2026-05-25",
+  "endDate": "2026-05-31",
+  "tournamentStartDate": "2026-05-25",
+  "tournamentEndDate": "2026-05-31"
 }

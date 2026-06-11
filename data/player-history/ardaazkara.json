@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T14:30:34.436805+00:00",
+  "generatedAt": "2026-06-11T16:40:41.986600+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,7 +8,7 @@
     "displayName": "Arda Azkara",
     "playerId": ""
   },
-  "count": 3,
+  "count": 2,
   "matches": [
     {
       "date": "Wed, 27 May, 2026",
@@ -17,9 +17,9 @@
       "tournamentYear": "2026",
       "tournamentName": "RISE IRENE OPEN",
       "tournamentType": "CH",
-      "tournamentDate": "25 - 31 May, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
       "surface": "Hard",
       "round": "R16",
       "roundLong": "Round of 16",
@@ -42,9 +42,9 @@
       "tournamentYear": "2026",
       "tournamentName": "RISE IRENE OPEN",
       "tournamentType": "CH",
-      "tournamentDate": "25 - 31 May, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
+      "tournamentDate": "25-31 May, 2026",
+      "tournamentStartDate": "2026-05-25",
+      "tournamentEndDate": "2026-05-31",
       "surface": "Hard",
       "round": "R32",
       "roundLong": "Round of 32",
@@ -58,31 +58,6 @@
       "playerRank": 595,
       "opponentRank": 488,
       "rankingDate": "2026-05-25",
-      "rankingNote": "historical_week"
-    },
-    {
-      "date": "Tue, 10 February, 2026",
-      "dateIso": "2026-02-10",
-      "tournamentId": "3063",
-      "tournamentYear": "2026",
-      "tournamentName": "Steve Carter Baton Rouge Challenger",
-      "tournamentType": "CH",
-      "tournamentDate": "9 - 15 February, 2026",
-      "tournamentStartDate": "",
-      "tournamentEndDate": "",
-      "surface": "Hard",
-      "round": "R32",
-      "roundLong": "Round of 32",
-      "score": "6-4 6-1",
-      "matchId": "RES-6085ED365D",
-      "reason": null,
-      "playerName": "Arda Azkara",
-      "opponentName": "Tyler Zink",
-      "opponentKey": "tylerzink",
-      "result": "L",
-      "playerRank": 574,
-      "opponentRank": 330,
-      "rankingDate": "2026-02-09",
       "rankingNote": "historical_week"
     }
   ]

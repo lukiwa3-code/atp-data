@@ -38,5 +38,7 @@
     "circuitLabel": "ATP Challenger"
   },
   "count": 0,
-  "matches": []
+  "matches": [],
+  "preservedBecauseResultsSourceWasBlocked": true,
+  "lastBlockedUpdateAt": "2026-06-11T16:40:41.986600+00:00"
 }
