@@ -81,50 +81,12 @@ def load_existing_json(path: Path) -> Optional[Any]:
 
 
 def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
-    """Nie kasuj dobrych danych, jeśli świeży parser zwróci mniej meczów.
+    """Prosty zapis meczów.
 
-    To jest konserwatywny bezpiecznik:
-    - jeśli nowe pobranie ma 0 meczów, zachowujemy stary plik,
-    - jeśli nowe pobranie ma mniej meczów niż stary plik, też zachowujemy stary plik,
-    - jeśli nowe pobranie ma tyle samo albo więcej meczów, zapisujemy nowe dane.
-
-    Dzięki temu live/current nie przycina historii do np. samych 7 meczów R32.
+    Bez porównywania ze starym plikiem.
+    Bez blokowania aktualizacji, gdy nowy parser zwróci mniej meczów.
+    To przywraca poprzednią logikę aktualizowania matches.json.
     """
-    new_count = int(new_payload.get("count") or 0)
-    old_payload = load_existing_json(path)
-    old_count = 0
-
-    if isinstance(old_payload, dict):
-        old_count = int(old_payload.get("count") or 0)
-
-    if old_count > 0 and new_count < old_count:
-        old_payload["preservedBecauseNewParseWasSmaller"] = True
-        old_payload["lastFailedUpdateAt"] = new_payload.get("generatedAt")
-        old_payload["newCountThatWasRejected"] = new_count
-        save_json(path, old_payload)
-        return old_payload
-
-    save_json(path, new_payload)
-    return new_payload
-
-
-
-def save_draw_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
-    """Nie nadpisuj pełnej drabinki pustą albo uboższą drabinką."""
-    new_count = int(new_payload.get("countMatches") or 0)
-    old_payload = load_existing_json(path)
-    old_count = 0
-
-    if isinstance(old_payload, dict):
-        old_count = int(old_payload.get("countMatches") or 0)
-
-    if old_count > 0 and new_count < old_count:
-        old_payload["preservedBecauseNewDrawParseWasSmaller"] = True
-        old_payload["lastFailedUpdateAt"] = new_payload.get("generatedAt")
-        old_payload["newDrawCountThatWasRejected"] = new_count
-        save_json(path, old_payload)
-        return old_payload
-
     save_json(path, new_payload)
     return new_payload
 
@@ -169,32 +131,6 @@ def current_results_url_from_archive(url: Optional[str]) -> Optional[str]:
     if match:
         return f"{match.group(1)}current/{match.group(2)}/{match.group(3)}/results"
     return None
-
-
-def result_url_variants(url: Optional[str]) -> List[str]:
-    if not url:
-        return []
-
-    variants: List[str] = []
-
-    def add(value: Optional[str]) -> None:
-        if value and value not in variants:
-            variants.append(value)
-
-    add(url)
-    add(current_results_url_from_archive(url))
-
-    # Najważniejsze dla 's-Hertogenbosch:
-    # calendar daje /current/'s-hertogenbosch/..., a realnie stabilny URL to /current/s-hertogenbosch/...
-    no_apostrophe = str(url).replace("'", "")
-    add(no_apostrophe)
-    add(current_results_url_from_archive(no_apostrophe))
-
-    no_slash_apostrophe = str(url).replace("/'", "/")
-    add(no_slash_apostrophe)
-    add(current_results_url_from_archive(no_slash_apostrophe))
-
-    return variants
 
 
 def extract_year_from_url(url: Optional[str]) -> Optional[str]:
@@ -1330,32 +1266,6 @@ def current_draw_url_from_archive(url: Optional[str]) -> Optional[str]:
     return None
 
 
-def draw_url_variants(url: Optional[str]) -> List[str]:
-    if not url:
-        return []
-
-    variants: List[str] = []
-
-    def add(value: Optional[str]) -> None:
-        if value and value not in variants:
-            variants.append(value)
-
-    add(url)
-    add(current_draw_url_from_archive(url))
-
-    # ATP endpoint czasem oddaje slug z apostrofem, np. 's-hertogenbosch,
-    # ale strona działa stabilniej bez apostrofu: s-hertogenbosch.
-    no_apostrophe = str(url).replace("'", "")
-    add(no_apostrophe)
-    add(current_draw_url_from_archive(no_apostrophe))
-
-    # Mały zapas na przypadki typu /current/'s-...
-    add(str(url).replace("/'", "/"))
-    add(current_draw_url_from_archive(str(url).replace("/'", "/")))
-
-    return variants
-
-
 def normalize_draw_round(text: Optional[str]) -> Tuple[str, str]:
     label = normalize_space(text or "")
     lower = label.lower()
@@ -1546,303 +1456,6 @@ def draw_item_to_match(item: Any, round_short: str, round_long: str, bracket_ord
     }
 
 
-def is_draw_noise_token(value: str) -> bool:
-    text = normalize_space(value)
-    if not text:
-        return True
-
-    lower = text.lower()
-
-    if "{{" in text or "}}" in text:
-        return True
-
-    noise = {
-        "previous", "next", "h2h", "stats", "watch", "print", "singles", "doubles",
-        "qual singles", "view full draw", "latest news", "news", "view all",
-        "show h2h detail", "performance zone", "win/loss index", "rank", "age",
-        "weight", "height", "plays", "turned pro", "search", "choose player",
-        "profile", "stats widget", "see all", "serve", "return", "pressure",
-        "newsletters", "subscribe", "email address",
-    }
-
-    if lower in noise:
-        return True
-
-    if lower.startswith("image:") or lower.startswith("header "):
-        return True
-
-    if lower.startswith("###") or lower.startswith("####"):
-        return True
-
-    return False
-
-
-def is_draw_score_token(value: str) -> bool:
-    text = normalize_space(value)
-    if not text:
-        return False
-
-    if text == "-":
-        return True
-
-    if re.fullmatch(r"\d{1,2}(?:\s+\d{1,2})?", text):
-        return True
-
-    if re.fullmatch(r"(?:RET|W/O|WO|Walkover)", text, flags=re.IGNORECASE):
-        return True
-
-    return False
-
-
-def is_draw_player_token(value: str) -> bool:
-    text = normalize_space(value)
-
-    if not text or is_draw_noise_token(text):
-        return False
-
-    if is_draw_score_token(text):
-        return False
-
-    if text in {"-", "--"}:
-        return False
-
-    if text.upper() in {"TBA", "BYE"}:
-        return True
-
-    # Zawodnicy z ATP są zwykle jako "H. Hurkacz" albo "F. Auger-Aliassime (1)".
-    if re.search(r"[A-Za-zÀ-ž]", text) and len(text) <= 80:
-        # Odfiltruj nagłówki i śmieci z dolnej części strony.
-        if any(word in text.lower() for word in ["official", "download", "privacy policy", "marketing communications"]):
-            return False
-        return True
-
-    return False
-
-
-def clean_draw_text_player_name(value: str) -> str:
-    text = normalize_space(value)
-    text = re.sub(r"\s+\([^)]*\)$", "", text).strip()
-    return text
-
-
-def parse_draw_score_piece(value: str) -> Tuple[Optional[int], Optional[int]]:
-    text = normalize_space(value)
-    if not text or text == "-":
-        return None, None
-
-    parts = text.split()
-    try:
-        games = int(parts[0])
-    except Exception:
-        return None, None
-
-    tie = None
-    if len(parts) > 1:
-        try:
-            tie = int(parts[1])
-        except Exception:
-            tie = None
-
-    return games, tie
-
-
-def make_score_from_draw_score_tokens(p1_scores: List[str], p2_scores: List[str]) -> Tuple[str, str]:
-    if not p1_scores or not p2_scores:
-        return "", ""
-
-    joined = " ".join(p1_scores + p2_scores).upper()
-    if "W/O" in joined or "WO" in joined or "WALKOVER" in joined:
-        return "W/O", ""
-
-    max_len = min(len(p1_scores), len(p2_scores))
-    p1_sets = 0
-    p2_sets = 0
-    parsed_sets: List[Tuple[int, Optional[int], int, Optional[int]]] = []
-
-    for i in range(max_len):
-        g1, t1 = parse_draw_score_piece(p1_scores[i])
-        g2, t2 = parse_draw_score_piece(p2_scores[i])
-
-        if g1 is None or g2 is None:
-            continue
-
-        parsed_sets.append((g1, t1, g2, t2))
-
-        if g1 > g2:
-            p1_sets += 1
-        elif g2 > g1:
-            p2_sets += 1
-
-    if not parsed_sets:
-        return "", ""
-
-    winner_side = "p1" if p1_sets >= p2_sets else "p2"
-    score_parts: List[str] = []
-
-    for g1, t1, g2, t2 in parsed_sets:
-        if winner_side == "p1":
-            if g1 == 7 and g2 == 6 and t2 is not None:
-                score_parts.append(f"7-6({t2})")
-            elif g1 == 6 and g2 == 7 and t1 is not None:
-                score_parts.append(f"6-7({t1})")
-            else:
-                score_parts.append(f"{g1}-{g2}")
-        else:
-            if g2 == 7 and g1 == 6 and t1 is not None:
-                score_parts.append(f"7-6({t1})")
-            elif g2 == 6 and g1 == 7 and t2 is not None:
-                score_parts.append(f"6-7({t2})")
-            else:
-                score_parts.append(f"{g2}-{g1}")
-
-    return " ".join(score_parts), winner_side
-
-
-def extract_draw_rounds_from_text_fallback(soup: BeautifulSoup) -> List[Dict[str, Any]]:
-    raw_lines = [normalize_space(x) for x in soup.stripped_strings]
-    lines = [x for x in raw_lines if x and not is_draw_noise_token(x)]
-
-    round_headers = [
-        ("Round of 128", "R128", "Round of 128"),
-        ("Round of 64", "R64", "Round of 64"),
-        ("Round of 32", "R32", "Round of 32"),
-        ("Round of 16", "R16", "Round of 16"),
-        ("Quarterfinals", "QF", "Quarterfinals"),
-        ("Semifinals", "SF", "Semifinals"),
-        ("Final", "F", "Final"),
-        ("2nd Round Qualifying", "Q2", "2nd Round Qualifying"),
-        ("1st Round Qualifying", "Q1", "1st Round Qualifying"),
-    ]
-
-    header_positions: List[Tuple[int, str, str, str]] = []
-
-    for index, line in enumerate(lines):
-        for header_text, short_name, long_name in round_headers:
-            if line == header_text:
-                header_positions.append((index, header_text, short_name, long_name))
-
-    # Usuń duplikaty nagłówków z sekcji szablonowych, zostaw realną część po menu rund.
-    dedup: List[Tuple[int, str, str, str]] = []
-    seen_after_real_start = False
-
-    for item in header_positions:
-        idx, header_text, short_name, long_name = item
-
-        # Realny draw zwykle zaczyna się tam, gdzie po nagłówku widać zawodników.
-        preview = " ".join(lines[idx + 1: idx + 12])
-        if any(name_marker in preview for name_marker in ["TBA", "Bye", ". "]):
-            seen_after_real_start = True
-
-        if seen_after_real_start:
-            dedup.append(item)
-
-    if not dedup:
-        dedup = header_positions
-
-    rounds: List[Dict[str, Any]] = []
-
-    for pos, (idx, header_text, short_name, long_name) in enumerate(dedup):
-        end = dedup[pos + 1][0] if pos + 1 < len(dedup) else len(lines)
-        section = lines[idx + 1:end]
-
-        # Zetnij po wejściu w dolne części strony.
-        cut_at = len(section)
-        for stop_index, token in enumerate(section):
-            if token.lower() in {"latest news", "newsletters"}:
-                cut_at = stop_index
-                break
-
-        section = section[:cut_at]
-
-        rows: List[Dict[str, Any]] = []
-        current: Optional[Dict[str, Any]] = None
-
-        for token in section:
-            if is_draw_player_token(token):
-                if current:
-                    rows.append(current)
-
-                current = {
-                    "name": clean_draw_text_player_name(token),
-                    "scores": [],
-                }
-                continue
-
-            if current is not None and is_draw_score_token(token):
-                current["scores"].append(token)
-
-        if current:
-            rows.append(current)
-
-        matches: List[Dict[str, Any]] = []
-        bracket_order = 1
-
-        for i in range(0, len(rows) - 1, 2):
-            p1 = rows[i]
-            p2 = rows[i + 1]
-
-            p1_name = p1.get("name") or ""
-            p2_name = p2.get("name") or ""
-
-            if not p1_name or not p2_name:
-                continue
-
-            score, winner_side = make_score_from_draw_score_tokens(p1.get("scores") or [], p2.get("scores") or [])
-
-            winner = ""
-            if score and p1_name.upper() not in {"TBA", "BYE"} and p2_name.upper() not in {"TBA", "BYE"}:
-                winner = p1_name if winner_side == "p1" else p2_name
-
-            matches.append(
-                {
-                    "bracketOrder": bracket_order,
-                    "round": short_name,
-                    "roundLong": long_name,
-                    "player1": p1_name,
-                    "player1FullName": p1_name,
-                    "player1Id": "",
-                    "player1Country": "",
-                    "player1ScoreTokens": p1.get("scores") or [],
-                    "player2": p2_name,
-                    "player2FullName": p2_name,
-                    "player2Id": "",
-                    "player2Country": "",
-                    "player2ScoreTokens": p2.get("scores") or [],
-                    "winnerName": winner,
-                    "formattedScore": score,
-                    "sourceType": "text_draw_fallback",
-                }
-            )
-            bracket_order += 1
-
-        if matches:
-            rounds.append(
-                {
-                    "round": short_name,
-                    "roundLong": long_name,
-                    "sourceHeader": header_text,
-                    "sourceType": "text_draw_fallback",
-                    "count": len(matches),
-                    "matches": matches,
-                }
-            )
-
-    round_order = {
-        "F": 1,
-        "SF": 2,
-        "QF": 3,
-        "R16": 4,
-        "R32": 5,
-        "R64": 6,
-        "R128": 7,
-        "Q2": 8,
-        "Q1": 9,
-    }
-
-    rounds.sort(key=lambda item: round_order.get(str(item.get("round") or ""), 999))
-    return rounds
-
-
 def extract_draw_from_html(html_text: str) -> List[Dict[str, Any]]:
     soup = BeautifulSoup(html_text, "html.parser")
     rounds: List[Dict[str, Any]] = []
@@ -1855,6 +1468,7 @@ def extract_draw_from_html(html_text: str) -> List[Dict[str, Any]]:
         header = draw_column.select_one(".draw-header")
         header_text = normalize_space(header.get_text(" ", strip=True)) if header else ""
 
+        # Pomijamy szablony Vue bez realnej zawartości.
         draw_items = draw_column.select(".draw-content > .draw-item")
         if not draw_items:
             draw_items = draw_column.select(".draw-item")
@@ -1881,9 +1495,6 @@ def extract_draw_from_html(html_text: str) -> List[Dict[str, Any]]:
                 }
             )
 
-    if not rounds:
-        rounds = extract_draw_rounds_from_text_fallback(soup)
-
     round_order = {
         "F": 1,
         "SF": 2,
@@ -1900,128 +1511,22 @@ def extract_draw_from_html(html_text: str) -> List[Dict[str, Any]]:
     return rounds
 
 
-def draw_result_match_id(event_id: str, round_long: str, winner: str, loser: str, score: str) -> str:
-    return hash_match_id(event_id, "", round_long, winner, loser, score)
-
-
-def draw_match_to_result_match(draw_match: Dict[str, Any], tournament: Dict[str, Any]) -> Optional[Dict[str, Any]]:
-    score = normalize_space(str(draw_match.get("formattedScore") or ""))
-
-    if not score:
-        return None
-
-    winner = normalize_space(str(draw_match.get("winnerName") or ""))
-    if not winner or winner.upper() in {"TBD", "BYE"}:
-        return None
-
-    p1 = normalize_space(str(draw_match.get("player1FullName") or draw_match.get("player1") or ""))
-    p2 = normalize_space(str(draw_match.get("player2FullName") or draw_match.get("player2") or ""))
-
-    if not p1 or not p2 or p1.upper() in {"TBD", "BYE"} or p2.upper() in {"TBD", "BYE"}:
-        return None
-
-    if names_equal_for_history(winner, p2):
-        loser = p1
-        player_id = draw_match.get("player2Id") or ""
-        opponent_id = draw_match.get("player1Id") or ""
-    else:
-        loser = p2
-        winner = p1 if names_equal_for_history(winner, p1) else winner
-        player_id = draw_match.get("player1Id") or ""
-        opponent_id = draw_match.get("player2Id") or ""
-
-    round_short = str(draw_match.get("round") or "")
-    round_long = str(draw_match.get("roundLong") or round_short or "")
-    event_id = str(tournament.get("id") or "")
-
-    return {
-        "matchId": draw_result_match_id(event_id, round_long, winner, loser, score),
-        "date": "",
-        "round": round_short,
-        "roundLong": round_long,
-        "playerId": player_id,
-        "playerName": winner,
-        "opponentId": opponent_id,
-        "opponentName": loser,
-        "winnerPlayerId": player_id,
-        "winnerName": winner,
-        "isPlayerWinner": True,
-        "matchState": "F",
-        "reason": None,
-        "formattedScore": score,
-        "sourceText": "Built from draw fallback",
-        "sourceType": draw_match.get("sourceType") or "draw_fallback",
-        "bracketOrder": draw_match.get("bracketOrder") or 9999,
-    }
-
-
-def result_matches_from_draw_rounds(draw_rounds: List[Dict[str, Any]], tournament: Dict[str, Any]) -> List[Dict[str, Any]]:
-    result: List[Dict[str, Any]] = []
-
-    for round_item in draw_rounds or []:
-        round_short = str(round_item.get("round") or "")
-        round_long = str(round_item.get("roundLong") or round_short or "")
-
-        for draw_match in round_item.get("matches", []) or []:
-            if not isinstance(draw_match, dict):
-                continue
-
-            enriched = {
-                **draw_match,
-                "round": draw_match.get("round") or round_short,
-                "roundLong": draw_match.get("roundLong") or round_long,
-            }
-            converted = draw_match_to_result_match(enriched, tournament)
-            if converted:
-                result.append(converted)
-
-    return apply_bracket_order(result)
-
-
-def result_merge_key(match: Dict[str, Any]) -> Tuple[str, str]:
-    round_key = str(match.get("round") or match.get("roundLong") or "")
-    p1 = player_key(str(match.get("playerName") or ""))
-    p2 = player_key(str(match.get("opponentName") or ""))
-    pair = "|".join(sorted([p1, p2]))
-    return round_key, pair
-
-
-def merge_results_with_draw_fallback(results_matches: List[Dict[str, Any]], draw_rounds: List[Dict[str, Any]], tournament: Dict[str, Any]) -> List[Dict[str, Any]]:
-    merged: Dict[Tuple[str, str], Dict[str, Any]] = {}
-
-    for match in result_matches_from_draw_rounds(draw_rounds, tournament):
-        key = result_merge_key(match)
-        if key[1].replace("|", ""):
-            merged[key] = match
-
-    for match in results_matches or []:
-        if not isinstance(match, dict):
-            continue
-
-        key = result_merge_key(match)
-        if key[1].replace("|", ""):
-            # Results ma zwykle lepsze pełne nazwiska i daty, więc nadpisuje draw.
-            merged[key] = match
-
-    merged_list = apply_bracket_order(list(merged.values()))
-
-    if len(merged_list) > len(results_matches or []):
-        print(
-            f"Draw fallback added {len(merged_list) - len(results_matches or [])} matches for "
-            f"{tournament.get('year')}/{tournament.get('id')} {tournament.get('name')}"
-        )
-
-    return merged_list
-
-
 def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, Any]], Optional[str]]:
     draws_url_raw = tournament.get("drawsUrl")
-    candidates = draw_url_variants(draws_url_raw)
+    current_url = current_draw_url_from_archive(draws_url_raw)
+
+    candidates: List[str] = []
+
+    if tournament.get("isLive") and current_url:
+        candidates.append(current_url)
+
+    if draws_url_raw and draws_url_raw not in candidates:
+        candidates.append(draws_url_raw)
+
+    if current_url and current_url not in candidates:
+        candidates.append(current_url)
 
     last_error: Optional[str] = None
-    best_rounds: List[Dict[str, Any]] = []
-    best_url: Optional[str] = None
-    best_count = 0
 
     for candidate in candidates:
         full_url = absolute_url(candidate)
@@ -2031,29 +1536,15 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
         try:
             html_text = fetch_text(full_url, referer="https://www.atptour.com/en/tournaments")
             rounds = extract_draw_from_html(html_text)
-            count = sum(len(round_item.get("matches", [])) for round_item in rounds)
-
-            print(
-                f"Draw candidate {tournament.get('year')}/{tournament.get('id')} "
-                f"{tournament.get('name')}: {count} matches from {full_url}"
-            )
-
-            if count > best_count:
-                best_rounds = rounds
-                best_url = full_url
-                best_count = count
-
+            if rounds:
+                return rounds, full_url
         except Exception as exc:
             last_error = f"{full_url}: {exc}"
             print(f"WARN draw page failed: {last_error}")
             time.sleep(REQUEST_SLEEP_SECONDS)
 
-    if best_rounds:
-        return best_rounds, best_url
-
     print(f"WARN no draw parsed for {tournament.get('name')}: {last_error}")
     return [], None
-
 
 def month_to_number(month_name: str) -> int:
     month = normalize_space(month_name or "").lower()
@@ -2175,24 +1666,33 @@ def update_tournament_original_date_from_results(tournament: Dict[str, Any], htm
 
 
 def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]], Optional[str]]:
+    scores_url_raw = tournament.get("scoresUrl")
+    current_url = current_results_url_from_archive(scores_url_raw)
+
     candidates: List[str] = []
 
-    for value in result_url_variants(tournament.get("scoresUrl")):
-        if value not in candidates:
-            candidates.append(value)
+    if tournament.get("isLive") and current_url:
+        candidates.append(current_url)
+
+    if scores_url_raw and scores_url_raw not in candidates:
+        candidates.append(scores_url_raw)
+
+    if current_url and current_url not in candidates:
+        candidates.append(current_url)
 
     draws_url = tournament.get("drawsUrl")
     if draws_url:
         results_from_draw = str(draws_url).replace("/draws", "/results")
-        for value in result_url_variants(results_from_draw):
-            if value not in candidates:
-                candidates.append(value)
+
+        if tournament.get("isLive"):
+            results_from_draw_current = current_results_url_from_archive(results_from_draw)
+            if results_from_draw_current and results_from_draw_current not in candidates:
+                candidates.append(results_from_draw_current)
+
+        if results_from_draw not in candidates:
+            candidates.append(results_from_draw)
 
     last_error: Optional[str] = None
-    best_players: List[Dict[str, str]] = []
-    best_matches: List[Dict[str, Any]] = []
-    best_url: Optional[str] = None
-    best_tournament_date_snapshot: Dict[str, Any] = {}
 
     for candidate in candidates:
         full_url = absolute_url(candidate)
@@ -2200,37 +1700,15 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
             continue
 
         try:
-            local_tournament = dict(tournament)
             html_text = fetch_text(full_url, referer="https://www.atptour.com/en/tournaments")
-            update_tournament_original_date_from_results(local_tournament, html_text)
-            players, matches = parse_results_html(html_text, local_tournament)
-
-            print(
-                f"Results candidate {tournament.get('year')}/{tournament.get('id')} "
-                f"{tournament.get('name')}: {len(matches)} matches from {full_url}"
-            )
-
-            if len(matches) > len(best_matches):
-                best_players = players
-                best_matches = matches
-                best_url = full_url
-                best_tournament_date_snapshot = {
-                    key: local_tournament.get(key)
-                    for key in (
-                        "date", "dateSource", "startDate", "endDate",
-                        "tournamentStartDate", "tournamentEndDate"
-                    )
-                    if local_tournament.get(key)
-                }
+            update_tournament_original_date_from_results(tournament, html_text)
+            players, matches = parse_results_html(html_text, tournament)
+            return players, matches, full_url
 
         except Exception as exc:
             last_error = f"{full_url}: {exc}"
             print(f"WARN results page failed: {last_error}")
             time.sleep(REQUEST_SLEEP_SECONDS)
-
-    if best_url:
-        tournament.update(best_tournament_date_snapshot)
-        return best_players, best_matches, best_url
 
     print(f"WARN no results page parsed for {tournament.get('name')}: {last_error}")
     return [], [], None
@@ -3071,32 +2549,17 @@ def main() -> None:
         draw_player_meta = collect_draw_player_meta(draw_rounds)
         draw_meta_by_player_key.update(draw_player_meta)
 
-        draw_payload = {
-            "generatedAt": generated_at,
-            "source": draw_source_url,
-            "tournament": tournament,
-            "countRounds": len(draw_rounds),
-            "countMatches": draw_match_count,
-            "rounds": draw_rounds,
-        }
-        saved_draw_payload = save_draw_safely(folder / "draw.json", draw_payload)
-
-        if isinstance(saved_draw_payload, dict):
-            draw_rounds = saved_draw_payload.get("rounds", []) or []
-            draw_match_count = int(saved_draw_payload.get("countMatches") or draw_match_count)
-
-        # Results potrafi zawierać tylko bieżący dzień, a nie cały turniej.
-        # Draw ma pełną drabinkę i często także wyniki rozegranych meczów,
-        # więc uzupełniamy matches.json o brakujące rundy.
-        matches = merge_results_with_draw_fallback(matches, draw_rounds, tournament)
-
-        players_seen_for_merge = {player.get("name"): player for player in players if isinstance(player, dict)}
-        for match in matches:
-            for pname in (match.get("playerName"), match.get("opponentName")):
-                if pname and pname not in players_seen_for_merge:
-                    players_seen_for_merge[pname] = {"id": "", "name": pname}
-        players = sorted(players_seen_for_merge.values(), key=lambda p: p.get("name") or "")
-
+        save_json(
+            folder / "draw.json",
+            {
+                "generatedAt": generated_at,
+                "source": draw_source_url,
+                "tournament": tournament,
+                "countRounds": len(draw_rounds),
+                "countMatches": draw_match_count,
+                "rounds": draw_rounds,
+            },
+        )
         save_json(
             folder / "players.json",
             {

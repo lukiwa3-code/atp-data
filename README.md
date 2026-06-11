@@ -1,21 +1,18 @@
-# ATP data updater v30 - fix URL dla 's-Hertogenbosch i ucinanych live wyników
+# ATP data updater v31 - prosty update meczów
 
-Główna poprawka:
-- ATP calendar zwraca czasem adres z apostrofem:
-  `/en/scores/current/'s-hertogenbosch/440/results`
-- stabilny adres strony wyników jest bez apostrofu:
-  `/en/scores/current/s-hertogenbosch/440/results`
-- poprzednie wersje sprawdzały zły wariant i parser łapał stare/ucięte dane.
+To jest wersja cofająca kombinowanie przy matches.json.
 
 Zmiany:
-- `fetch_tournament_results` sprawdza teraz warianty URL:
-  - oryginalny,
-  - current,
-  - bez apostrofu,
-  - bez `/'`,
-- wybiera wariant z największą liczbą meczów,
-- `matches.json` nie jest nadpisywany, gdy nowe pobranie ma mniej meczów niż stary plik,
-- `draw.json` nie jest nadpisywany pustą/uboższą drabinką,
-- workflow zostaje co 2 godziny.
+- workflow co 2 godziny,
+- matches.json zapisuje się normalnie, bez porównywania count ze starym plikiem,
+- nie ma blokowania aktualizacji, gdy nowy parser zwróci mniej meczów,
+- fetch wyników wraca do prostej logiki:
+  1. dla live najpierw current,
+  2. potem archive,
+  3. pierwszy poprawnie sparsowany wynik jest zapisywany,
+- draw.json wraca do normalnego zapisu z parsera draw, bez uzupełniania matches z draw,
+- zachowane jest zabezpieczenie `tournaments_flat.json`, żeby nie wyzerować całej listy turniejów.
 
-Po podmianie uruchom `Update ATP Data`.
+Wrzucić do repo `atp-data`:
+- scripts/update_atp.py
+- .github/workflows/main.yml
