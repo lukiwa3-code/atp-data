@@ -171,6 +171,32 @@ def current_results_url_from_archive(url: Optional[str]) -> Optional[str]:
     return None
 
 
+def result_url_variants(url: Optional[str]) -> List[str]:
+    if not url:
+        return []
+
+    variants: List[str] = []
+
+    def add(value: Optional[str]) -> None:
+        if value and value not in variants:
+            variants.append(value)
+
+    add(url)
+    add(current_results_url_from_archive(url))
+
+    # Najważniejsze dla 's-Hertogenbosch:
+    # calendar daje /current/'s-hertogenbosch/..., a realnie stabilny URL to /current/s-hertogenbosch/...
+    no_apostrophe = str(url).replace("'", "")
+    add(no_apostrophe)
+    add(current_results_url_from_archive(no_apostrophe))
+
+    no_slash_apostrophe = str(url).replace("/'", "/")
+    add(no_slash_apostrophe)
+    add(current_results_url_from_archive(no_slash_apostrophe))
+
+    return variants
+
+
 def extract_year_from_url(url: Optional[str]) -> Optional[str]:
     if not url:
         return None
@@ -2149,32 +2175,18 @@ def update_tournament_original_date_from_results(tournament: Dict[str, Any], htm
 
 
 def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, str]], List[Dict[str, Any]], Optional[str]]:
-    scores_url_raw = tournament.get("scoresUrl")
-    current_url = current_results_url_from_archive(scores_url_raw)
-
     candidates: List[str] = []
 
-    # Dla live sprawdzamy current, ale NIE kończymy po pierwszej odpowiedzi.
-    # ATP potrafi chwilowo pokazać mniej meczów w current niż w archive.
-    if tournament.get("isLive") and current_url:
-        candidates.append(current_url)
-
-    if scores_url_raw and scores_url_raw not in candidates:
-        candidates.append(scores_url_raw)
-
-    if current_url and current_url not in candidates:
-        candidates.append(current_url)
+    for value in result_url_variants(tournament.get("scoresUrl")):
+        if value not in candidates:
+            candidates.append(value)
 
     draws_url = tournament.get("drawsUrl")
     if draws_url:
         results_from_draw = str(draws_url).replace("/draws", "/results")
-        if tournament.get("isLive"):
-            results_from_draw_current = current_results_url_from_archive(results_from_draw)
-            if results_from_draw_current and results_from_draw_current not in candidates:
-                candidates.append(results_from_draw_current)
-
-        if results_from_draw not in candidates:
-            candidates.append(results_from_draw)
+        for value in result_url_variants(results_from_draw):
+            if value not in candidates:
+                candidates.append(value)
 
     last_error: Optional[str] = None
     best_players: List[Dict[str, str]] = []
