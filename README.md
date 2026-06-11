@@ -1,13 +1,16 @@
-# ATP data updater v27 - scalanie wyników i draw fallback
+# ATP data updater v28 stable - co 2 godziny i bez przycinania wyników
 
-Poprawki:
-- `matches.json` nie jest już obcinany, gdy świeży parser zwróci mniej meczów niż było wcześniej.
-- Stare i nowe mecze są scalane po rundzie i parze zawodników.
-- Jeżeli Results nie złapie finału/półfinału/ćwierćfinału, skrypt uzupełnia brakujące rozegrane mecze z `draw.json`.
-- Dotyczy ATP Tour i Challenger.
-- To powinno naprawić:
-  - urwane historie zawodników,
-  - brakujące SF/QF/F,
-  - sytuacje, gdy live/current nagle pokazuje tylko kilka meczów R32.
+To jest wersja konserwatywna, czyli bliżej stabilnej wersji sprzed eksperymentów z agresywnym scalaniem draw.
+
+Zmiany:
+- workflow uruchamia się co 2 godziny: `0 */2 * * *`,
+- `fetch_tournament_results` sprawdza wszystkie kandydaty wyników:
+  - current,
+  - archive,
+  - results z drawUrl,
+  i wybiera wersję z największą liczbą meczów,
+- `save_matches_safely` nie nadpisuje pliku, jeśli świeży parser zwróci mniej meczów niż stary plik,
+- dzięki temu dane nie powinny się ucinać do samych R32 lub kilku meczów,
+- nie ma agresywnego draw fallback z v27.
 
 Po podmianie uruchom `Update ATP Data`.
