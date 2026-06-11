@@ -83,6 +83,46 @@ def load_existing_json(path: Path) -> Optional[Any]:
         return None
 
 
+def debug_safe_name(value: Any) -> str:
+    text = normalize_space(str(value or ""))
+    text = re.sub(r"[^A-Za-z0-9._-]+", "-", text).strip("-")
+    return text[:80] or "unknown"
+
+
+def save_debug_html(tournament: Dict[str, Any], kind: str, url: str, html_text: str) -> None:
+    """Zapisz HTML, który dostał GitHub Actions, gdy parser nie widzi danych."""
+    year = debug_safe_name(tournament.get("year"))
+    event_id = debug_safe_name(tournament.get("id"))
+    circuit = debug_safe_name(tournament.get("circuit") or "tour")
+    debug_dir = DATA_DIR / "debug" / year
+    debug_dir.mkdir(parents=True, exist_ok=True)
+
+    base = f"{circuit}-{event_id}-{kind}"
+    html_path = debug_dir / f"{base}.html"
+    meta_path = debug_dir / f"{base}.json"
+
+    html_path.write_text(html_text or "", encoding="utf-8", errors="ignore")
+    save_json(
+        meta_path,
+        {
+            "generatedAt": datetime.now(timezone.utc).isoformat(),
+            "kind": kind,
+            "url": url,
+            "tournament": {
+                "year": tournament.get("year"),
+                "id": tournament.get("id"),
+                "name": tournament.get("name"),
+                "circuit": tournament.get("circuit") or "tour",
+            },
+            "htmlLength": len(html_text or ""),
+            "title": (BeautifulSoup(html_text or "", "html.parser").title.get_text(" ", strip=True)
+                      if BeautifulSoup(html_text or "", "html.parser").title else ""),
+            "snippet": normalize_space(BeautifulSoup(html_text or "", "html.parser").get_text(" ", strip=True))[:1000],
+        },
+    )
+    print(f"DEBUG saved {kind} HTML: {html_path}")
+
+
 def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, Any]:
     """Zapis meczów z jednym bezpiecznikiem: nie nadpisuj niepustego pliku zerem.
 
@@ -1603,6 +1643,7 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
         candidates.append(current_url)
 
     last_error: Optional[str] = None
+    first_zero_debug_saved = False
 
     for candidate in candidates:
         full_url = absolute_url(candidate)
@@ -1614,6 +1655,11 @@ def fetch_tournament_draw(tournament: Dict[str, Any]) -> Tuple[List[Dict[str, An
             rounds = extract_draw_from_html(html_text)
             if rounds:
                 return rounds, full_url
+
+            if not first_zero_debug_saved:
+                save_debug_html(tournament, "draw-zero-parse", full_url, html_text)
+                first_zero_debug_saved = True
+
         except Exception as exc:
             last_error = f"{full_url}: {exc}"
             print(f"WARN draw page failed: {last_error}")
@@ -1769,9 +1815,7 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
             candidates.append(results_from_draw)
 
     last_error: Optional[str] = None
-    first_success_players: List[Dict[str, str]] = []
-    first_success_matches: List[Dict[str, Any]] = []
-    first_success_url: Optional[str] = None
+    first_zero_debug_saved = False
 
     for candidate in candidates:
         full_url = absolute_url(candidate)
@@ -1789,12 +1833,6 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
                 f"{tournament.get('name')}: {len(matches)} matches from {full_url}"
             )
 
-            if first_success_url is None:
-                first_success_players = players
-                first_success_matches = matches
-                first_success_url = full_url
-
-            # Najważniejsza poprawka: nie kończymy na pustym parsowaniu.
             if matches:
                 tournament.update(
                     {
@@ -1808,20 +1846,21 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
                 )
                 return players, matches, full_url
 
+            if not first_zero_debug_saved:
+                save_debug_html(tournament, "results-zero-parse", full_url, html_text)
+                first_zero_debug_saved = True
+
         except Exception as exc:
             last_error = f"{full_url}: {exc}"
             print(f"WARN results page failed: {last_error}")
             time.sleep(REQUEST_SLEEP_SECONDS)
 
-    if first_success_url is not None:
-        print(
-            f"WARN all result candidates parsed 0 matches for "
-            f"{tournament.get('year')}/{tournament.get('id')} {tournament.get('name')}; "
-            f"returning empty parse from {first_success_url}"
-        )
-        return first_success_players, first_success_matches, first_success_url
-
-    print(f"WARN no results page parsed for {tournament.get('name')}: {last_error}")
+    # Bardzo ważne: gdy wszystkie kandydaty dają 0, traktujemy to jak brak źródła.
+    # Dzięki temu main nie nadpisze istniejących danych pustym plikiem.
+    print(
+        f"WARN all result candidates failed or parsed 0 matches for "
+        f"{tournament.get('year')}/{tournament.get('id')} {tournament.get('name')}: {last_error}"
+    )
     return [], [], None
 
 
