@@ -1,17 +1,17 @@
-# ATP data updater v32 - zero guard
+# ATP data updater v33 - guard na 403 i debug
 
-Naprawia błąd z v31:
-- v31 kończyła na pierwszej stronie, nawet gdy parser zwrócił 0 meczów,
-- potem zapisywała `matches.json` z `count: 0`,
-- dlatego każdy turniej mógł nagle mieć 0 meczów.
+Logi pokazują, że GitHub Actions dostaje 403 Forbidden z atptour.com dla kalendarza, wyników i drabinek.
+To nie jest błąd Androida ani samego parsera: ATP blokuje requesty z GitHub Actions.
 
-v32:
-- nie kończy na pustym parsowaniu, tylko sprawdza kolejne kandydaty URL,
-- nie nadpisuje istniejącego niepustego `matches.json` zerem,
-- nie porównuje liczby nowych/starych meczów poza przypadkiem 0,
-- workflow zostaje co 2 godziny,
-- nie wraca do agresywnego scalania draw.
+Zmiany:
+- jeśli source_url jest None, skrypt NIE nadpisuje matches.json / players.json zerami,
+- jeśli draw_source_url jest None, skrypt NIE nadpisuje draw.json pustą drabinką,
+- istniejące dane są zachowane i oznaczone:
+  - preservedBecauseResultsSourceWasBlocked
+  - preservedBecauseDrawSourceWasBlocked
+- zostaje bezpiecznik: nowe 0 nie kasuje starego niepustego matches.json,
+- workflow zostaje co 2 godziny.
 
-Wrzucić do repo `atp-data`:
-- scripts/update_atp.py
-- .github/workflows/main.yml
+Uwaga:
+- jeśli pliki zostały już wcześniej wyzerowane, ta wersja ich magicznie nie odbuduje.
+- trzeba przywrócić dane z historii GitHuba albo zmienić źródło pobierania, bo ATP daje 403.

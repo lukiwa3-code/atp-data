@@ -4,6 +4,7 @@ import re
 import time
 import unicodedata
 import hashlib
+import os
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
@@ -103,14 +104,128 @@ def save_matches_safely(path: Path, new_payload: Dict[str, Any]) -> Dict[str, An
     return new_payload
 
 
+_PW = None
+_PW_BROWSER = None
+_PW_CONTEXT = None
+
+
+def browser_context():
+    """Lazy Playwright context.
+
+    Używany tylko jako fallback, gdy requests dostaje 403 z ATP.
+    """
+    global _PW, _PW_BROWSER, _PW_CONTEXT
+
+    if _PW_CONTEXT is not None:
+        return _PW_CONTEXT
+
+    from playwright.sync_api import sync_playwright
+
+    _PW = sync_playwright().start()
+    _PW_BROWSER = _PW.chromium.launch(
+        headless=True,
+        args=[
+            "--disable-blink-features=AutomationControlled",
+            "--no-sandbox",
+            "--disable-dev-shm-usage",
+        ],
+    )
+    _PW_CONTEXT = _PW_BROWSER.new_context(
+        user_agent=HEADERS["User-Agent"],
+        locale="en-US",
+        viewport={"width": 1366, "height": 900},
+        extra_http_headers={
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": "https://www.atptour.com/en/tournaments",
+        },
+    )
+    return _PW_CONTEXT
+
+
+def close_browser_context() -> None:
+    global _PW, _PW_BROWSER, _PW_CONTEXT
+
+    try:
+        if _PW_CONTEXT is not None:
+            _PW_CONTEXT.close()
+    except Exception:
+        pass
+
+    try:
+        if _PW_BROWSER is not None:
+            _PW_BROWSER.close()
+    except Exception:
+        pass
+
+    try:
+        if _PW is not None:
+            _PW.stop()
+    except Exception:
+        pass
+
+    _PW = None
+    _PW_BROWSER = None
+    _PW_CONTEXT = None
+
+
+def browser_fetch_text(url: str, wait_selector: Optional[str] = None) -> str:
+    context = browser_context()
+    page = context.new_page()
+
+    try:
+        page.goto(url, wait_until="domcontentloaded", timeout=60000)
+
+        # Dajemy ATP chwilę na dociągnięcie treści, ale bez wiecznego czekania.
+        try:
+            page.wait_for_load_state("networkidle", timeout=12000)
+        except Exception:
+            pass
+
+        if wait_selector:
+            try:
+                page.wait_for_selector(wait_selector, timeout=10000)
+            except Exception:
+                pass
+
+        content = page.content()
+        return content
+
+    finally:
+        page.close()
+
+
+def text_from_html_page(html_text: str) -> str:
+    soup = BeautifulSoup(html_text, "html.parser")
+
+    pre = soup.find("pre")
+    if pre:
+        return pre.get_text("", strip=True)
+
+    body = soup.find("body")
+    if body:
+        return body.get_text("", strip=True)
+
+    return html_text
+
+
 def fetch_text(url: str, referer: Optional[str] = None) -> str:
     headers = dict(HEADERS)
     if referer:
         headers["Referer"] = referer
 
-    response = requests.get(url, headers=headers, timeout=45)
-    response.raise_for_status()
-    return response.text
+    try:
+        response = requests.get(url, headers=headers, timeout=45)
+        response.raise_for_status()
+        return response.text
+
+    except requests.HTTPError as exc:
+        status = getattr(exc.response, "status_code", None)
+
+        if status == 403 and os.environ.get("ATP_USE_PLAYWRIGHT", "1") == "1":
+            print(f"WARN requests got 403, trying Playwright: {url}")
+            return browser_fetch_text(url)
+
+        raise
 
 
 def fetch_json(url: str, referer: Optional[str] = None) -> Any:
@@ -119,9 +234,21 @@ def fetch_json(url: str, referer: Optional[str] = None) -> Any:
     if referer:
         headers["Referer"] = referer
 
-    response = requests.get(url, headers=headers, timeout=45)
-    response.raise_for_status()
-    return response.json()
+    try:
+        response = requests.get(url, headers=headers, timeout=45)
+        response.raise_for_status()
+        return response.json()
+
+    except requests.HTTPError as exc:
+        status = getattr(exc.response, "status_code", None)
+
+        if status == 403 and os.environ.get("ATP_USE_PLAYWRIGHT", "1") == "1":
+            print(f"WARN JSON requests got 403, trying Playwright: {url}")
+            html_text = browser_fetch_text(url)
+            raw_text = text_from_html_page(html_text)
+            return json.loads(raw_text)
+
+        raise
 
 
 def absolute_url(path_or_url: Optional[str]) -> Optional[str]:
@@ -1762,18 +1889,34 @@ def fetch_tournament_results(tournament: Dict[str, Any]) -> Tuple[List[Dict[str,
 
 
 def select_tournaments_for_results(flat: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
-    # Generujemy wyniki dla turniejów live i zakończonych.
-    # Dla nadchodzących nie ma sensu robić matches.json.
-    selected = [
-        t for t in flat
-        if (t.get("isLive") or t.get("isPastEvent")) and t.get("scoresUrl") and t.get("year") and t.get("id")
-    ]
+    """Wybór turniejów do aktualizacji.
 
-    unique: Dict[Tuple[str, str], Dict[str, Any]] = {}
+    Domyślnie GitHub Actions ma robić tylko live/current, bo ATP blokuje dużo requestów
+    i pełne 400+ turniejów przez Playwright byłoby za wolne.
+
+    Tryby:
+    - UPDATE_MODE=live  -> tylko turnieje live
+    - UPDATE_MODE=full  -> live + zakończone, czyli pełna odbudowa
+    """
+    mode = os.environ.get("UPDATE_MODE", "live").strip().lower()
+
+    if mode == "full":
+        selected = [
+            t for t in flat
+            if (t.get("isLive") or t.get("isPastEvent")) and t.get("scoresUrl") and t.get("year") and t.get("id")
+        ]
+    else:
+        selected = [
+            t for t in flat
+            if t.get("isLive") and t.get("scoresUrl") and t.get("year") and t.get("id")
+        ]
+
+    unique: Dict[Tuple[str, str, str], Dict[str, Any]] = {}
     for tournament in selected:
         key = (str(tournament.get("circuit") or "tour"), str(tournament.get("year")), str(tournament.get("id")))
         unique[key] = tournament
 
+    print(f"UPDATE_MODE={mode}; selected tournaments: {len(unique)}")
     return list(unique.values())
 
 
@@ -2596,27 +2739,59 @@ def main() -> None:
         draw_player_meta = collect_draw_player_meta(draw_rounds)
         draw_meta_by_player_key.update(draw_player_meta)
 
-        save_json(
-            folder / "draw.json",
-            {
+        # Jeżeli ATP zwraca 403 i nie mamy źródła, NIE nadpisujemy istniejących plików zerami.
+        # To chroni dane, gdy GitHub Actions jest blokowany przez atptour.com.
+        existing_draw_payload = load_existing_json(folder / "draw.json")
+        existing_players_payload = load_existing_json(folder / "players.json")
+        existing_matches_payload = load_existing_json(folder / "matches.json")
+
+        if draw_source_url is not None:
+            draw_payload = {
                 "generatedAt": generated_at,
                 "source": draw_source_url,
                 "tournament": tournament,
                 "countRounds": len(draw_rounds),
                 "countMatches": draw_match_count,
                 "rounds": draw_rounds,
-            },
-        )
-        save_json(
-            folder / "players.json",
-            {
-                "generatedAt": generated_at,
-                "source": source_url,
-                "tournament": tournament,
-                "count": len(players),
-                "players": players,
-            },
-        )
+            }
+            save_json(folder / "draw.json", draw_payload)
+        elif isinstance(existing_draw_payload, dict):
+            existing_draw_payload["preservedBecauseDrawSourceWasBlocked"] = True
+            existing_draw_payload["lastBlockedUpdateAt"] = generated_at
+            save_json(folder / "draw.json", existing_draw_payload)
+            draw_rounds = existing_draw_payload.get("rounds", []) or []
+            draw_match_count = int(existing_draw_payload.get("countMatches") or 0)
+        else:
+            save_json(
+                folder / "draw.json",
+                {
+                    "generatedAt": generated_at,
+                    "source": None,
+                    "tournament": tournament,
+                    "countRounds": 0,
+                    "countMatches": 0,
+                    "rounds": [],
+                    "notSavedBecauseSourceWasBlocked": True,
+                },
+            )
+
+        if source_url is not None:
+            save_json(
+                folder / "players.json",
+                {
+                    "generatedAt": generated_at,
+                    "source": source_url,
+                    "tournament": tournament,
+                    "count": len(players),
+                    "players": players,
+                },
+            )
+        elif isinstance(existing_players_payload, dict):
+            existing_players_payload["preservedBecauseResultsSourceWasBlocked"] = True
+            existing_players_payload["lastBlockedUpdateAt"] = generated_at
+            save_json(folder / "players.json", existing_players_payload)
+            players = existing_players_payload.get("players", []) or []
+
         matches_payload = {
             "generatedAt": generated_at,
             "source": source_url,
@@ -2624,7 +2799,15 @@ def main() -> None:
             "count": len(matches),
             "matches": matches,
         }
-        saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
+
+        if source_url is None and isinstance(existing_matches_payload, dict):
+            existing_matches_payload["preservedBecauseResultsSourceWasBlocked"] = True
+            existing_matches_payload["lastBlockedUpdateAt"] = generated_at
+            save_json(folder / "matches.json", existing_matches_payload)
+            saved_matches_payload = existing_matches_payload
+        else:
+            saved_matches_payload = save_matches_safely(folder / "matches.json", matches_payload)
+
         saved_matches_count = int(saved_matches_payload.get("count") or 0)
 
         if isinstance(saved_matches_payload, dict):
