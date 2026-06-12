@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-11T15:11:04.007152+00:00",
-  "source": null,
+  "generatedAt": "2026-06-12T20:20:04.154914+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/auckland/301/2026/results",
   "tournament": {
     "id": "301",
     "year": "2026",
     "name": "ASB Classic",
     "location": "Auckland, New Zealand",
-    "date": "12-17 Jan, 2026",
+    "date": "12 - 17 January, 2026",
     "month": "January, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,15 +23,169 @@
     "countryFlagUrl": "/-/media/images/flags/nzl.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
     "prizeMoney": "$700,045",
-    "totalFinancialCommitment": "$788,349",
-    "circuit": "tour",
-    "circuitLabel": "ATP Tour",
-    "dateSource": "results_header_or_calendar",
-    "startDate": "2026-01-12",
-    "tournamentStartDate": "2026-01-12",
-    "endDate": "2026-01-17",
-    "tournamentEndDate": "2026-01-17"
+    "totalFinancialCommitment": "$788,349"
   },
-  "count": 0,
-  "players": []
+  "count": 40,
+  "players": [
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Tabilo"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Alex Michelsen"
+    },
+    {
+      "id": "",
+      "name": "Alexandre Muller"
+    },
+    {
+      "id": "",
+      "name": "Anton Shepp"
+    },
+    {
+      "id": "",
+      "name": "Ben Shelton"
+    },
+    {
+      "id": "",
+      "name": "Cameron Norrie"
+    },
+    {
+      "id": "",
+      "name": "Camilo Ugo Carabelli"
+    },
+    {
+      "id": "",
+      "name": "Casper Ruud"
+    },
+    {
+      "id": "",
+      "name": "Cristian Garin"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Emilio Nava"
+    },
+    {
+      "id": "",
+      "name": "Fabian Marozsan"
+    },
+    {
+      "id": "",
+      "name": "Francisco Comesana"
+    },
+    {
+      "id": "",
+      "name": "Gael Monfils"
+    },
+    {
+      "id": "",
+      "name": "Geoffrey Blancaneaux"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Mpetshi Perricard"
+    },
+    {
+      "id": "",
+      "name": "Hamad Medjedovic"
+    },
+    {
+      "id": "",
+      "name": "Hugo Gaston"
+    },
+    {
+      "id": "",
+      "name": "Isaac Becroft"
+    },
+    {
+      "id": "",
+      "name": "Jakub Mensik"
+    },
+    {
+      "id": "",
+      "name": "James Watt"
+    },
+    {
+      "id": "",
+      "name": "Jan-Lennard Struff"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Juan Manuel Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Luciano Darderi"
+    },
+    {
+      "id": "",
+      "name": "Marcos Giron"
+    },
+    {
+      "id": "",
+      "name": "Mariano Navone"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Nuno Borges"
+    },
+    {
+      "id": "",
+      "name": "Pablo Carreno Busta"
+    },
+    {
+      "id": "",
+      "name": "Patrick Kypson"
+    },
+    {
+      "id": "",
+      "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martin Etcheverry"
+    },
+    {
+      "id": "",
+      "name": "Valentin Royer"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    }
+  ]
 }

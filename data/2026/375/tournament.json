@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Open Occitanie",
   "location": "Montpellier, France",
-  "date": "2-8 Feb, 2026",
+  "date": "2 - 8 February, 2026",
   "month": "February, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,12 +20,5 @@
   "countryFlagUrl": "/-/media/images/flags/fra.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
   "prizeMoney": "€612,620",
-  "totalFinancialCommitment": "€691,875",
-  "circuit": "tour",
-  "circuitLabel": "ATP Tour",
-  "dateSource": "results_header_or_calendar",
-  "startDate": "2026-02-02",
-  "tournamentStartDate": "2026-02-02",
-  "endDate": "2026-02-08",
-  "tournamentEndDate": "2026-02-08"
+  "totalFinancialCommitment": "€691,875"
 }

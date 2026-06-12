@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-11T16:40:41.986600+00:00",
+  "generatedAt": "2026-06-12T20:20:04.154914+00:00",
   "source": "https://www.atptour.com/en/scores/current/stuttgart/321/draws",
   "tournament": {
     "id": "321",
     "year": "2026",
     "name": "BOSS OPEN",
     "location": "Stuttgart, Germany",
-    "date": "8-14 Jun, 2026",
+    "date": "8 - 14 June, 2026",
     "month": "June, 2026",
     "isLive": true,
     "isPastEvent": false,
@@ -23,14 +23,7 @@
     "countryFlagUrl": "/-/media/images/flags/ger.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
     "prizeMoney": "€768,220",
-    "totalFinancialCommitment": "€847,475",
-    "circuit": "tour",
-    "circuitLabel": "ATP Tour",
-    "dateSource": "results_header_or_calendar",
-    "startDate": "2026-06-08",
-    "tournamentStartDate": "2026-06-08",
-    "endDate": "2026-06-14",
-    "tournamentEndDate": "2026-06-14"
+    "totalFinancialCommitment": "€847,475"
   },
   "countRounds": 5,
   "countMatches": 31,
@@ -75,10 +68,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "J. Lehecka",
+          "player2FullName": "Jiri Lehecka",
+          "player2Id": "L0BV",
+          "player2Country": "CZE",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -87,15 +80,15 @@
           "bracketOrder": 2,
           "round": "SF",
           "roundLong": "Semifinals",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "A. Bublik",
+          "player1FullName": "Alexander Bublik",
+          "player1Id": "BK92",
+          "player1Country": "KAZ",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "T. Fritz",
+          "player2FullName": "Taylor Fritz",
+          "player2Id": "FB98",
+          "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -112,10 +105,10 @@
           "bracketOrder": 1,
           "round": "QF",
           "roundLong": "Quarterfinals",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "B. Shelton",
+          "player1FullName": "Ben Shelton",
+          "player1Id": "S0S1",
+          "player1Country": "USA",
           "player1ScoreTokens": [],
           "player2": "S. Shimabukuro",
           "player2FullName": "Sho Shimabukuro",
@@ -133,14 +126,20 @@
           "player1FullName": "Jiri Lehecka",
           "player1Id": "L0BV",
           "player1Country": "CZE",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "7"
+          ],
           "player2": "F. Tiafoe",
           "player2FullName": "Frances Tiafoe",
           "player2Id": "TD51",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "6 4"
+          ],
+          "winnerName": "Jiri Lehecka",
+          "formattedScore": "6-4 7-6(4)"
         },
         {
           "bracketOrder": 3,
@@ -150,14 +149,20 @@
           "player1FullName": "Giovanni Mpetshi Perricard",
           "player1Id": "M0GZ",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6 5",
+            "6 3"
+          ],
           "player2": "A. Bublik",
           "player2FullName": "Alexander Bublik",
           "player2Id": "BK92",
           "player2Country": "KAZ",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "winnerName": "Alexander Bublik",
+          "formattedScore": "7-6(5) 7-6(3)"
         },
         {
           "bracketOrder": 4,
@@ -167,14 +172,22 @@
           "player1FullName": "Mattia Bellucci",
           "player1Id": "B0GG",
           "player1Country": "ITA",
-          "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player1ScoreTokens": [
+            "7",
+            "5",
+            "5"
+          ],
+          "player2": "T. Fritz",
+          "player2FullName": "Taylor Fritz",
+          "player2Id": "FB98",
+          "player2Country": "USA",
+          "player2ScoreTokens": [
+            "5",
+            "7",
+            "7"
+          ],
+          "winnerName": "Taylor Fritz",
+          "formattedScore": "5-7 7-5 7-5"
         }
       ]
     },
@@ -192,14 +205,22 @@
           "player1FullName": "Ben Shelton",
           "player1Id": "S0S1",
           "player1Country": "USA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6 4",
+            "6",
+            "7"
+          ],
           "player2": "M. Giron",
           "player2FullName": "Marcos Giron",
           "player2Id": "GC88",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "4",
+            "6 5"
+          ],
+          "winnerName": "Ben Shelton",
+          "formattedScore": "6-7(4) 6-4 7-6(5)"
         },
         {
           "bracketOrder": 2,
@@ -355,14 +376,22 @@
           "player1FullName": "Martin Landaluce",
           "player1Id": "L0IL",
           "player1Country": "ESP",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "5",
+            "6 3"
+          ],
           "player2": "T. Fritz",
           "player2FullName": "Taylor Fritz",
           "player2Id": "FB98",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 4",
+            "7",
+            "7"
+          ],
+          "winnerName": "Taylor Fritz",
+          "formattedScore": "6-7(4) 7-5 7-6(3)"
         }
       ]
     },

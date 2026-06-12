@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-11T15:11:04.007152+00:00",
-  "source": null,
+  "generatedAt": "2026-06-12T20:20:04.154914+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/dallas/424/2026/results",
   "tournament": {
     "id": "424",
     "year": "2026",
     "name": "Nexo Dallas Open",
     "location": "Dallas, United States",
-    "date": "9-15 Feb, 2026",
+    "date": "9 - 15 February, 2026",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,15 +23,181 @@
     "countryFlagUrl": "/-/media/images/flags/usa.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
     "prizeMoney": "$2,833,335",
-    "totalFinancialCommitment": "$3,116,195",
-    "circuit": "tour",
-    "circuitLabel": "ATP Tour",
-    "dateSource": "results_header_or_calendar",
-    "startDate": "2026-02-09",
-    "tournamentStartDate": "2026-02-09",
-    "endDate": "2026-02-15",
-    "tournamentEndDate": "2026-02-15"
+    "totalFinancialCommitment": "$3,116,195"
   },
-  "count": 0,
-  "players": []
+  "count": 43,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Davidovich Fokina"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Alex Finkelstein"
+    },
+    {
+      "id": "",
+      "name": "Alex Michelsen"
+    },
+    {
+      "id": "",
+      "name": "Alex Rybakov"
+    },
+    {
+      "id": "",
+      "name": "Ben Shelton"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Brandon Nakashima"
+    },
+    {
+      "id": "",
+      "name": "Daniel Dutra da Silva"
+    },
+    {
+      "id": "",
+      "name": "Denis Shapovalov"
+    },
+    {
+      "id": "",
+      "name": "Eliot Spizzirri"
+    },
+    {
+      "id": "",
+      "name": "Ethan Quinn"
+    },
+    {
+      "id": "",
+      "name": "Flavio Cobolli"
+    },
+    {
+      "id": "",
+      "name": "Frances Tiafoe"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Diallo"
+    },
+    {
+      "id": "",
+      "name": "Georgi Georgiev"
+    },
+    {
+      "id": "",
+      "name": "Grigor Dimitrov"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Krish Arora"
+    },
+    {
+      "id": "",
+      "name": "Learner Tien"
+    },
+    {
+      "id": "",
+      "name": "Marcos Giron"
+    },
+    {
+      "id": "",
+      "name": "Marin Cilic"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Michael Zheng"
+    },
+    {
+      "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
+      "name": "Mitchell Krueger"
+    },
+    {
+      "id": "",
+      "name": "Murphy Cassone"
+    },
+    {
+      "id": "",
+      "name": "Patrick Kypson"
+    },
+    {
+      "id": "",
+      "name": "Pedro Sakamoto"
+    },
+    {
+      "id": "",
+      "name": "Rafael Jodar"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Korda"
+    },
+    {
+      "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Thai-Son Kwiatkowski"
+    },
+    {
+      "id": "",
+      "name": "Tommy Paul"
+    },
+    {
+      "id": "",
+      "name": "Trevor Svajda"
+    },
+    {
+      "id": "",
+      "name": "Tristan Boyer"
+    },
+    {
+      "id": "",
+      "name": "Zachary Svajda"
+    }
+  ]
 }

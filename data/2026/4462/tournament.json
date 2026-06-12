@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Tiriac Open presented by UniCredit Bank",
   "location": "Bucharest, Romania",
-  "date": "30 Mar - 5 Apr, 2026",
+  "date": "30 March - 5 April, 2026",
   "month": "March, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,12 +20,5 @@
   "countryFlagUrl": "/-/media/images/flags/rou.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
   "prizeMoney": "€612,620",
-  "totalFinancialCommitment": "€691,875",
-  "circuit": "tour",
-  "circuitLabel": "ATP Tour",
-  "dateSource": "results_header_or_calendar",
-  "startDate": "2026-03-30",
-  "tournamentStartDate": "2026-03-30",
-  "endDate": "2026-04-05",
-  "tournamentEndDate": "2026-04-05"
+  "totalFinancialCommitment": "€691,875"
 }

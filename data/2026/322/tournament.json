@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Gonet Geneva Open",
   "location": "Geneva, Switzerland",
-  "date": "17-23 May, 2026",
+  "date": "17 - 23 May, 2026",
   "month": "May, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,12 +20,5 @@
   "countryFlagUrl": "/-/media/images/flags/sui.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
   "prizeMoney": "€612,620",
-  "totalFinancialCommitment": "€691,875",
-  "circuit": "tour",
-  "circuitLabel": "ATP Tour",
-  "dateSource": "results_header_or_calendar",
-  "startDate": "2026-05-17",
-  "tournamentStartDate": "2026-05-17",
-  "endDate": "2026-05-23",
-  "tournamentEndDate": "2026-05-23"
+  "totalFinancialCommitment": "€691,875"
 }

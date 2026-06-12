@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-11T15:11:04.007152+00:00",
-  "source": null,
+  "generatedAt": "2026-06-12T20:20:04.154914+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/davis-cup-qualifiers-1st-rd/8096/2026/country-draws",
   "tournament": {
     "id": "8096",
     "year": "2026",
     "name": "Davis Cup Qualifiers 1st Rd",
     "location": "Multiple Locations",
-    "date": "5-8 Feb, 2026",
+    "date": "5 - 8 February, 2026",
     "month": "February, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,16 +23,89 @@
     "countryFlagUrl": "",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_itf.png",
     "prizeMoney": null,
-    "totalFinancialCommitment": null,
-    "circuit": "tour",
-    "circuitLabel": "ATP Tour",
-    "dateSource": "results_header_or_calendar",
-    "startDate": "2026-02-05",
-    "tournamentStartDate": "2026-02-05",
-    "endDate": "2026-02-08",
-    "tournamentEndDate": "2026-02-08"
+    "totalFinancialCommitment": null
   },
-  "countRounds": 0,
-  "countMatches": 0,
-  "rounds": []
+  "countRounds": 2,
+  "countMatches": 3,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "TBD",
+          "player1FullName": "TBD",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [
+            "0"
+          ],
+          "player2": "TBD",
+          "player2FullName": "TBD",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [
+            "0"
+          ],
+          "winnerName": "",
+          "formattedScore": "0"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "TBD",
+          "player1FullName": "TBD",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [
+            "0"
+          ],
+          "player2": "TBD",
+          "player2FullName": "TBD",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [
+            "0"
+          ],
+          "winnerName": "",
+          "formattedScore": "0"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "TBD",
+          "player1FullName": "TBD",
+          "player1Id": "",
+          "player1Country": "",
+          "player1ScoreTokens": [
+            "0"
+          ],
+          "player2": "TBD",
+          "player2FullName": "TBD",
+          "player2Id": "",
+          "player2Country": "",
+          "player2ScoreTokens": [
+            "0"
+          ],
+          "winnerName": "",
+          "formattedScore": "0"
+        }
+      ]
+    }
+  ]
 }

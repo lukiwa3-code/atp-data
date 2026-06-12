@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-11T15:11:04.007152+00:00",
-  "source": null,
+  "generatedAt": "2026-06-12T20:20:04.154914+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-draws",
   "tournament": {
     "id": "9900",
     "year": "2026",
     "name": "United Cup",
     "location": "Perth-Sydney, Australia",
-    "date": "2-11 Jan, 2026",
+    "date": "2 - 11 January, 2026",
     "month": "January, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,16 +23,181 @@
     "countryFlagUrl": "/-/media/images/flags/aus.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_unitedcup.png",
     "prizeMoney": "$5,903,345",
-    "totalFinancialCommitment": "$5,903,345",
-    "circuit": "tour",
-    "circuitLabel": "ATP Tour",
-    "dateSource": "results_header_or_calendar",
-    "startDate": "2026-01-02",
-    "tournamentStartDate": "2026-01-02",
-    "endDate": "2026-01-11",
-    "tournamentEndDate": "2026-01-11"
+    "totalFinancialCommitment": "$5,903,345"
   },
-  "countRounds": 0,
-  "countMatches": 0,
-  "rounds": []
+  "countRounds": 3,
+  "countMatches": 7,
+  "rounds": [
+    {
+      "round": "F",
+      "roundLong": "Final",
+      "sourceHeader": "Finals",
+      "count": 1,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "F",
+          "roundLong": "Final",
+          "player1": "POL",
+          "player1FullName": "POL",
+          "player1Id": "",
+          "player1Country": "POL",
+          "player1ScoreTokens": [
+            "2"
+          ],
+          "player2": "SUI",
+          "player2FullName": "SUI",
+          "player2Id": "",
+          "player2Country": "SUI",
+          "player2ScoreTokens": [
+            "1"
+          ],
+          "winnerName": "POL",
+          "formattedScore": "2"
+        }
+      ]
+    },
+    {
+      "round": "SF",
+      "roundLong": "Semifinals",
+      "sourceHeader": "Semi-Finals",
+      "count": 2,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "USA",
+          "player1FullName": "USA",
+          "player1Id": "",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "1"
+          ],
+          "player2": "POL",
+          "player2FullName": "POL",
+          "player2Id": "",
+          "player2Country": "POL",
+          "player2ScoreTokens": [
+            "2"
+          ],
+          "winnerName": "POL",
+          "formattedScore": "2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "SF",
+          "roundLong": "Semifinals",
+          "player1": "SUI",
+          "player1FullName": "SUI",
+          "player1Id": "",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "2"
+          ],
+          "player2": "BEL",
+          "player2FullName": "BEL",
+          "player2Id": "",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "1"
+          ],
+          "winnerName": "SUI",
+          "formattedScore": "2"
+        }
+      ]
+    },
+    {
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "sourceHeader": "Quarter-Finals",
+      "count": 4,
+      "matches": [
+        {
+          "bracketOrder": 1,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "USA",
+          "player1FullName": "USA",
+          "player1Id": "",
+          "player1Country": "USA",
+          "player1ScoreTokens": [
+            "2"
+          ],
+          "player2": "GRE",
+          "player2FullName": "GRE",
+          "player2Id": "",
+          "player2Country": "GRE",
+          "player2ScoreTokens": [
+            "1"
+          ],
+          "winnerName": "USA",
+          "formattedScore": "2"
+        },
+        {
+          "bracketOrder": 2,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "AUS",
+          "player1FullName": "AUS",
+          "player1Id": "",
+          "player1Country": "AUS",
+          "player1ScoreTokens": [
+            "1"
+          ],
+          "player2": "POL",
+          "player2FullName": "POL",
+          "player2Id": "",
+          "player2Country": "POL",
+          "player2ScoreTokens": [
+            "2"
+          ],
+          "winnerName": "POL",
+          "formattedScore": "2"
+        },
+        {
+          "bracketOrder": 3,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "SUI",
+          "player1FullName": "SUI",
+          "player1Id": "",
+          "player1Country": "SUI",
+          "player1ScoreTokens": [
+            "2"
+          ],
+          "player2": "ARG",
+          "player2FullName": "ARG",
+          "player2Id": "",
+          "player2Country": "ARG",
+          "player2ScoreTokens": [
+            "1"
+          ],
+          "winnerName": "SUI",
+          "formattedScore": "2"
+        },
+        {
+          "bracketOrder": 4,
+          "round": "QF",
+          "roundLong": "Quarterfinals",
+          "player1": "BEL",
+          "player1FullName": "BEL",
+          "player1Id": "",
+          "player1Country": "BEL",
+          "player1ScoreTokens": [
+            "2"
+          ],
+          "player2": "CZE",
+          "player2FullName": "CZE",
+          "player2Id": "",
+          "player2Country": "CZE",
+          "player2ScoreTokens": [
+            "1"
+          ],
+          "winnerName": "BEL",
+          "formattedScore": "2"
+        }
+      ]
+    }
+  ]
 }

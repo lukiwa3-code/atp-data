@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Nexo Dallas Open",
   "location": "Dallas, United States",
-  "date": "9-15 Feb, 2026",
+  "date": "9 - 15 February, 2026",
   "month": "February, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,12 +20,5 @@
   "countryFlagUrl": "/-/media/images/flags/usa.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
   "prizeMoney": "$2,833,335",
-  "totalFinancialCommitment": "$3,116,195",
-  "circuit": "tour",
-  "circuitLabel": "ATP Tour",
-  "dateSource": "results_header_or_calendar",
-  "startDate": "2026-02-09",
-  "tournamentStartDate": "2026-02-09",
-  "endDate": "2026-02-15",
-  "tournamentEndDate": "2026-02-15"
+  "totalFinancialCommitment": "$3,116,195"
 }

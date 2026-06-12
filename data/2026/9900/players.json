@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-11T15:11:04.007152+00:00",
-  "source": null,
+  "generatedAt": "2026-06-12T20:20:04.154914+00:00",
+  "source": "https://www.atptour.com/en/scores/archive/perth-sydney/9900/2026/country-results",
   "tournament": {
     "id": "9900",
     "year": "2026",
     "name": "United Cup",
     "location": "Perth-Sydney, Australia",
-    "date": "2-11 Jan, 2026",
+    "date": "2 - 11 January, 2026",
     "month": "January, 2026",
     "isLive": false,
     "isPastEvent": true,
@@ -23,15 +23,101 @@
     "countryFlagUrl": "/-/media/images/flags/aus.svg",
     "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_unitedcup.png",
     "prizeMoney": "$5,903,345",
-    "totalFinancialCommitment": "$5,903,345",
-    "circuit": "tour",
-    "circuitLabel": "ATP Tour",
-    "dateSource": "results_header_or_calendar",
-    "startDate": "2026-01-02",
-    "tournamentStartDate": "2026-01-02",
-    "endDate": "2026-01-11",
-    "tournamentEndDate": "2026-01-11"
+    "totalFinancialCommitment": "$5,903,345"
   },
-  "count": 0,
-  "players": []
+  "count": 23,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex de Minaur"
+    },
+    {
+      "id": "",
+      "name": "Barbora Krejcikova"
+    },
+    {
+      "id": "",
+      "name": "Belinda Bencic"
+    },
+    {
+      "id": "",
+      "name": "Christian Harrison"
+    },
+    {
+      "id": "",
+      "name": "Coco Gauff"
+    },
+    {
+      "id": "",
+      "name": "Dalibor Svrcina"
+    },
+    {
+      "id": "",
+      "name": "Elise Mertens"
+    },
+    {
+      "id": "",
+      "name": "Guido Andreozzi"
+    },
+    {
+      "id": "",
+      "name": "Hubert Hurkacz"
+    },
+    {
+      "id": "",
+      "name": "Iga Swiatek"
+    },
+    {
+      "id": "",
+      "name": "Jakub Mensik"
+    },
+    {
+      "id": "",
+      "name": "Jakub Paul"
+    },
+    {
+      "id": "",
+      "name": "Jan Zielinski"
+    },
+    {
+      "id": "",
+      "name": "John-Patrick Smith"
+    },
+    {
+      "id": "",
+      "name": "Maria Sakkari"
+    },
+    {
+      "id": "",
+      "name": "Maya Joint"
+    },
+    {
+      "id": "",
+      "name": "Sander Gille"
+    },
+    {
+      "id": "",
+      "name": "Sebastian Baez"
+    },
+    {
+      "id": "",
+      "name": "Solana Sierra"
+    },
+    {
+      "id": "",
+      "name": "Stan Wawrinka"
+    },
+    {
+      "id": "",
+      "name": "Stefanos Tsitsipas"
+    },
+    {
+      "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
 }

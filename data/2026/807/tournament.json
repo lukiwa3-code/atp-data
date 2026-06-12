@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Abierto Mexicano Telcel presentado por HSBC",
   "location": "Acapulco, Mexico",
-  "date": "23-28 Feb, 2026",
+  "date": "23 - 28 February, 2026",
   "month": "February, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,12 +20,5 @@
   "countryFlagUrl": "/-/media/images/flags/mex.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
   "prizeMoney": "$2,469,450",
-  "totalFinancialCommitment": "$2,486,125",
-  "circuit": "tour",
-  "circuitLabel": "ATP Tour",
-  "dateSource": "results_header_or_calendar",
-  "startDate": "2026-02-23",
-  "tournamentStartDate": "2026-02-23",
-  "endDate": "2026-02-28",
-  "tournamentEndDate": "2026-02-28"
+  "totalFinancialCommitment": "$2,486,125"
 }

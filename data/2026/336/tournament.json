@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Bank of China Hong Kong Tennis Open",
   "location": "Hong Kong, Hong Kong",
-  "date": "5-11 Jan, 2026",
+  "date": "5 - 11 January, 2026",
   "month": "January, 2026",
   "isLive": false,
   "isPastEvent": true,
@@ -20,12 +20,5 @@
   "countryFlagUrl": "/-/media/images/flags/hkg.svg",
   "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
   "prizeMoney": "$700,045",
-  "totalFinancialCommitment": "$788,349",
-  "circuit": "tour",
-  "circuitLabel": "ATP Tour",
-  "dateSource": "results_header_or_calendar",
-  "startDate": "2026-01-05",
-  "tournamentStartDate": "2026-01-05",
-  "endDate": "2026-01-11",
-  "tournamentEndDate": "2026-01-11"
+  "totalFinancialCommitment": "$788,349"
 }
