@@ -1,0 +1,28 @@
+{
+  "source": "https://www.atptour.com/en/-/tournaments/calendar/tour",
+  "challengerSource": "https://www.atptour.com/en/scores/results-archive",
+  "years": [
+    2025,
+    2026
+  ],
+  "generatedAt": "2026-06-13T14:15:39.469249+00:00",
+  "countSources": 3,
+  "sources": [],
+  "challengerSources": [
+    {
+      "year": "current",
+      "source": null,
+      "count": 0
+    },
+    {
+      "year": 2025,
+      "source": null,
+      "count": 0
+    },
+    {
+      "year": 2026,
+      "source": null,
+      "count": 0
+    }
+  ]
+}
