@@ -1,9 +1,18 @@
 name: Update ATP Data
 
 on:
+  workflow_dispatch:
+    inputs:
+      update_mode:
+        description: "full = historia + bieżące, live = tylko aktualne"
+        required: true
+        default: "full"
+        type: choice
+        options:
+          - full
+          - live
   schedule:
     - cron: "0 */6 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,7 +22,12 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      STOP_ON_ATP_BLOCK: "1"
+      # Przy ręcznym uruchomieniu domyślnie pobieramy historię.
+      # Przy harmonogramie co 6h pobieramy tylko live, żeby nie mielić 400+ turniejów.
+      UPDATE_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.update_mode || 'live' }}
+      ATP_USE_PLAYWRIGHT: "1"
+      SAVE_DEBUG_HTML: "0"
+      ATP_CF_WAIT_SECONDS: "75"
 
     steps:
       - name: Checkout repository
@@ -27,6 +41,17 @@ jobs:
       - name: Install libraries
         run: |
           pip install -r requirements.txt
+
+      - name: Install Playwright browser
+        run: |
+          python -m playwright install --with-deps chromium
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          with sync_playwright() as p:
+              b = p.chromium.launch(headless=True)
+              b.close()
+          print("Playwright Chromium OK")
+          PY
 
       - name: Update ATP data
         run: |
