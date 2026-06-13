@@ -4,25 +4,25 @@ on:
   workflow_dispatch:
     inputs:
       start_date:
-        description: "First ranking week to fetch, e.g. 2024-01-01. Use older date later if you want older rankings."
+        description: "Od kiedy pobierać rankingi, np. 2025-01-01"
         required: false
-        default: "2024-01-01"
+        default: "2025-01-01"
       end_date:
-        description: "Last ranking week to fetch. Leave empty for today."
+        description: "Do kiedy, puste = aktualny poniedziałek"
         required: false
         default: ""
-      force:
-        description: "Re-download existing ranking JSON files"
+      weeks_back:
+        description: "Gdy start_date puste, ile ostatnich tygodni pobrać"
         required: false
-        default: "false"
-        type: choice
-        options:
-          - "false"
-          - "true"
+        default: "8"
+      force:
+        description: "Wymuś ponowne pobranie istniejących plików"
+        required: true
+        default: false
+        type: boolean
 
   schedule:
-    # ATP publishes weekly rankings on Monday. This keeps the current snapshot fresh.
-    - cron: "30 8 * * 1"
+    - cron: "0 11 * * 1"
 
 permissions:
   contents: write
@@ -31,37 +31,66 @@ jobs:
   rankings:
     runs-on: ubuntu-latest
 
+    env:
+      ATP_USE_PLAYWRIGHT: "1"
+      ATP_CF_WAIT_SECONDS: "75"
+      ATP_PLAYWRIGHT_TIMEOUT: "120"
+      START_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.start_date || '' }}
+      END_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.end_date || '' }}
+      WEEKS_BACK: ${{ github.event_name == 'workflow_dispatch' && inputs.weeks_back || '8' }}
+      FORCE: ${{ github.event_name == 'workflow_dispatch' && inputs.force || false }}
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install requirements
-        run: pip install -r requirements.txt
-
-      - name: Update ranking snapshots
-        env:
-          RANKINGS_BACKFILL_START_DATE: ${{ github.event.inputs.start_date || '2024-01-01' }}
-          RANKINGS_BACKFILL_END_DATE: ${{ github.event.inputs.end_date }}
+      - name: Install libraries
         run: |
-          EXTRA=""
-          if [ "${{ github.event.inputs.force }}" = "true" ]; then
-            EXTRA="--rankings-force"
+          pip install -r requirements.txt
+
+      - name: Install Playwright browser
+        run: |
+          python -m playwright install --with-deps chromium
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          with sync_playwright() as p:
+              b = p.chromium.launch(headless=True)
+              b.close()
+          print("Playwright Chromium OK")
+          PY
+
+      - name: Update ATP rankings
+        run: |
+          ARGS=""
+
+          if [ -n "$START_DATE" ]; then
+            ARGS="$ARGS --start-date $START_DATE"
           fi
 
-          python scripts/update_atp.py --rankings-only \
-            --rankings-start-date "$RANKINGS_BACKFILL_START_DATE" \
-            ${RANKINGS_BACKFILL_END_DATE:+--rankings-end-date "$RANKINGS_BACKFILL_END_DATE"} \
-            $EXTRA
+          if [ -n "$END_DATE" ]; then
+            ARGS="$ARGS --end-date $END_DATE"
+          fi
 
-      - name: Commit ranking data
+          if [ -z "$START_DATE" ] && [ -n "$WEEKS_BACK" ]; then
+            ARGS="$ARGS --weeks-back $WEEKS_BACK"
+          fi
+
+          if [ "$FORCE" = "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+
+          echo "python scripts/update_rankings.py $ARGS"
+          python scripts/update_rankings.py $ARGS
+
+      - name: Commit ranking changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/rankings
-          git diff --cached --quiet && echo "No ranking changes" || git commit -m "Update ATP rankings"
+          git add data/rankings data/rankings_index.json
+          git diff --cached --quiet || git commit -m "Update ATP rankings"
           git push
