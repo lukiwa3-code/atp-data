@@ -1,5 +1,66 @@
 {
-  "generatedAt": "2026-06-13T14:15:39.469249+00:00",
-  "count": 0,
-  "items": []
+  "generatedAt": "2026-06-13T15:19:33.039359+00:00",
+  "count": 4,
+  "items": [
+    {
+      "year": "2026",
+      "id": "311",
+      "name": "HSBC Championships",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 0,
+      "drawMatches": 0,
+      "circuit": "tour",
+      "circuitLabel": "ATP Tour",
+      "matchesPath": "data/2026/311/matches.json",
+      "drawPath": "data/2026/311/draw.json",
+      "source": null,
+      "drawSource": null
+    },
+    {
+      "year": "2026",
+      "id": "500",
+      "name": "Terra Wortmann Open",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 0,
+      "drawMatches": 0,
+      "circuit": "tour",
+      "circuitLabel": "ATP Tour",
+      "matchesPath": "data/2026/500/matches.json",
+      "drawPath": "data/2026/500/draw.json",
+      "source": null,
+      "drawSource": null
+    },
+    {
+      "year": "2026",
+      "id": "321",
+      "name": "BOSS OPEN",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 0,
+      "drawMatches": 0,
+      "circuit": "tour",
+      "circuitLabel": "ATP Tour",
+      "matchesPath": "data/2026/321/matches.json",
+      "drawPath": "data/2026/321/draw.json",
+      "source": null,
+      "drawSource": null
+    },
+    {
+      "year": "2026",
+      "id": "440",
+      "name": "Libema Open",
+      "players": 0,
+      "matches": 0,
+      "drawRounds": 0,
+      "drawMatches": 0,
+      "circuit": "tour",
+      "circuitLabel": "ATP Tour",
+      "matchesPath": "data/2026/440/matches.json",
+      "drawPath": "data/2026/440/draw.json",
+      "source": null,
+      "drawSource": null
+    }
+  ]
 }
