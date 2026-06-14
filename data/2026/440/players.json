@@ -1,0 +1,202 @@
+{
+  "generatedAt": "2026-06-14T19:47:04.547072+00:00",
+  "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
+  "tournament": {
+    "id": "440",
+    "year": "2026",
+    "name": "Libema Open",
+    "location": "'s-Hertogenbosch, Netherlands",
+    "date": "8-14 Jun, 2026",
+    "month": "June, 2026",
+    "isLive": true,
+    "isPastEvent": false,
+    "type": "250",
+    "eventType": "Tour",
+    "surface": "Grass",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 28,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/current/'s-hertogenbosch/440/results",
+    "drawsUrl": "/en/scores/current/'s-hertogenbosch/440/draws",
+    "scheduleUrl": "/en/scores/current/'s-hertogenbosch/440/daily-schedule",
+    "overviewUrl": "/en/tournaments/s-hertogenbosch/440/overview",
+    "countryFlagUrl": "/-/media/images/flags/ned.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_250.png",
+    "prizeMoney": "€723,435",
+    "totalFinancialCommitment": "€802,690",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-14",
+    "tournamentStartDate": "2026-06-08",
+    "tournamentEndDate": "2026-06-14"
+  },
+  "count": 41,
+  "players": [
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Alec Deckers"
+    },
+    {
+      "id": "",
+      "name": "Alex De Minaur"
+    },
+    {
+      "id": "",
+      "name": "Alex de Minaur"
+    },
+    {
+      "id": "",
+      "name": "Arthur Rinderknech"
+    },
+    {
+      "id": "",
+      "name": "Benjamin Bonzi"
+    },
+    {
+      "id": "",
+      "name": "Bernard Tomic"
+    },
+    {
+      "id": "",
+      "name": "Botic van de Zandschulp"
+    },
+    {
+      "id": "",
+      "name": "Coleman Wong"
+    },
+    {
+      "id": "",
+      "name": "Daniil Medvedev"
+    },
+    {
+      "id": "",
+      "name": "Denis Shapovalov"
+    },
+    {
+      "id": "",
+      "name": "Elias Ymer"
+    },
+    {
+      "id": "",
+      "name": "Felix Auger-Aliassime"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Diallo"
+    },
+    {
+      "id": "",
+      "name": "Hubert Hurkacz"
+    },
+    {
+      "id": "",
+      "name": "James McCabe"
+    },
+    {
+      "id": "",
+      "name": "Jaume Munar"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Juan Pablo Ficovich"
+    },
+    {
+      "id": "",
+      "name": "Kamil Majchrzak"
+    },
+    {
+      "id": "",
+      "name": "Mac Visser"
+    },
+    {
+      "id": "",
+      "name": "Mackenzie McDonald"
+    },
+    {
+      "id": "",
+      "name": "Marc Polmans"
+    },
+    {
+      "id": "",
+      "name": "Marin Cilic"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Max Houkes"
+    },
+    {
+      "id": "",
+      "name": "Mees Rottgering"
+    },
+    {
+      "id": "",
+      "name": "Niels Visker"
+    },
+    {
+      "id": "",
+      "name": "Nuno Borges"
+    },
+    {
+      "id": "",
+      "name": "Otto Virtanen"
+    },
+    {
+      "id": "",
+      "name": "Sander Jong"
+    },
+    {
+      "id": "",
+      "name": "Shintaro Mochizuki"
+    },
+    {
+      "id": "",
+      "name": "Tallon Griekspoor"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
+    },
+    {
+      "id": "",
+      "name": "Thijmen Loof"
+    },
+    {
+      "id": "",
+      "name": "Thijs Boogaard"
+    },
+    {
+      "id": "",
+      "name": "Ugo Humbert"
+    },
+    {
+      "id": "",
+      "name": "Yibing Wu"
+    },
+    {
+      "id": "",
+      "name": "Zhizhen Zhang"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
+    }
+  ]
+}
