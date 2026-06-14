@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-06-13T19:46:13.430151+00:00",
+  "generatedAt": "2026-06-14T04:52:30.820036+00:00",
   "count": 4,
   "items": [
     {
       "year": "2026",
       "id": "500",
       "name": "Terra Wortmann Open",
-      "players": 0,
-      "matches": 0,
+      "players": 16,
+      "matches": 8,
       "drawRounds": 0,
       "drawMatches": 0,
       "circuit": "tour",
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/500/matches.json",
       "drawPath": "data/2026/500/draw.json",
-      "source": null,
+      "source": "https://www.atptour.com/en/scores/current/halle/500/results",
       "drawSource": null
     },
     {

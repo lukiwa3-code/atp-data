@@ -1,5 +1,150 @@
 {
-  "generatedAt": "2026-06-13T19:46:13.430151+00:00",
-  "count": 0,
-  "items": []
+  "generatedAt": "2026-06-14T04:52:30.820036+00:00",
+  "count": 16,
+  "items": [
+    {
+      "key": "alexbolt",
+      "name": "Alex Bolt",
+      "displayName": "Alex Bolt",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/alexbolt.json"
+    },
+    {
+      "key": "azizdougaz",
+      "name": "Aziz Dougaz",
+      "displayName": "Aziz Dougaz",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/azizdougaz.json"
+    },
+    {
+      "key": "benitosanchezmartinez",
+      "name": "Benito Sanchez Martinez",
+      "displayName": "Benito Sanchez Martinez",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/benitosanchezmartinez.json"
+    },
+    {
+      "key": "diegodedura",
+      "name": "Diego Dedura",
+      "displayName": "Diego Dedura",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/diegodedura.json"
+    },
+    {
+      "key": "filipcristianjianu",
+      "name": "Filip Cristian Jianu",
+      "displayName": "Filip Cristian Jianu",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/filipcristianjianu.json"
+    },
+    {
+      "key": "jamiemackenzie",
+      "name": "Jamie Mackenzie",
+      "displayName": "Jamie Mackenzie",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/jamiemackenzie.json"
+    },
+    {
+      "key": "lorenzosonego",
+      "name": "Lorenzo Sonego",
+      "displayName": "Lorenzo Sonego",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/lorenzosonego.json"
+    },
+    {
+      "key": "marcandreahuesler",
+      "name": "Marc-Andrea Huesler",
+      "displayName": "Marc-Andrea Huesler",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/marcandreahuesler.json"
+    },
+    {
+      "key": "martinlandaluce",
+      "name": "Martin Landaluce",
+      "displayName": "Martin Landaluce",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/martinlandaluce.json"
+    },
+    {
+      "key": "mattiabellucci",
+      "name": "Mattia Bellucci",
+      "displayName": "Mattia Bellucci",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/mattiabellucci.json"
+    },
+    {
+      "key": "mikhailkukushkin",
+      "name": "Mikhail Kukushkin",
+      "displayName": "Mikhail Kukushkin",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/mikhailkukushkin.json"
+    },
+    {
+      "key": "nikolozbasilashvili",
+      "name": "Nikoloz Basilashvili",
+      "displayName": "Nikoloz Basilashvili",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/nikolozbasilashvili.json"
+    },
+    {
+      "key": "raphaelcollignon",
+      "name": "Raphael Collignon",
+      "displayName": "Raphael Collignon",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/raphaelcollignon.json"
+    },
+    {
+      "key": "robertobautistaagut",
+      "name": "Roberto Bautista Agut",
+      "displayName": "Roberto Bautista Agut",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/robertobautistaagut.json"
+    },
+    {
+      "key": "tiagopereira",
+      "name": "Tiago Pereira",
+      "displayName": "Tiago Pereira",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/tiagopereira.json"
+    },
+    {
+      "key": "tomgentzsch",
+      "name": "Tom Gentzsch",
+      "displayName": "Tom Gentzsch",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/tomgentzsch.json"
+    }
+  ]
 }

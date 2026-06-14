@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-14T04:52:30.820036+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "filipcristianjianu",
+    "name": "Filip Cristian Jianu",
+    "displayName": "Filip Cristian Jianu",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 13 June, 2026",
+      "dateIso": "2026-06-13",
+      "tournamentId": "500",
+      "tournamentYear": "2026",
+      "tournamentName": "Terra Wortmann Open",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "7-5 6-3",
+      "matchId": "RES-7F9A062E1E",
+      "reason": null,
+      "playerName": "Filip Cristian Jianu",
+      "opponentName": "Lorenzo Sonego",
+      "opponentKey": "lorenzosonego",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

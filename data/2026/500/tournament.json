@@ -3,7 +3,7 @@
   "year": "2026",
   "name": "Terra Wortmann Open",
   "location": "Halle, Germany",
-  "date": "15 - 21 June, 2026",
+  "date": "15-21 Jun, 2026",
   "month": "June, 2026",
   "isLive": true,
   "isPastEvent": false,
@@ -22,5 +22,10 @@
   "prizeMoney": "€2,583,330",
   "totalFinancialCommitment": "€2,610,885",
   "circuit": "tour",
-  "circuitLabel": "ATP Tour"
+  "circuitLabel": "ATP Tour",
+  "dateSource": "results_header_or_calendar",
+  "startDate": "2026-06-15",
+  "endDate": "2026-06-21",
+  "tournamentStartDate": "2026-06-15",
+  "tournamentEndDate": "2026-06-21"
 }

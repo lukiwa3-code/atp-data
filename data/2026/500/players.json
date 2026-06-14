@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-06-14T04:52:30.820036+00:00",
+  "source": "https://www.atptour.com/en/scores/current/halle/500/results",
+  "tournament": {
+    "id": "500",
+    "year": "2026",
+    "name": "Terra Wortmann Open",
+    "location": "Halle, Germany",
+    "date": "15-21 Jun, 2026",
+    "month": "June, 2026",
+    "isLive": true,
+    "isPastEvent": false,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Grass",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/current/halle/500/results",
+    "drawsUrl": "/en/scores/current/halle/500/draws",
+    "scheduleUrl": "/en/scores/current/halle/500/daily-schedule",
+    "overviewUrl": "/en/tournaments/halle/500/overview",
+    "countryFlagUrl": "/-/media/images/flags/ger.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "€2,583,330",
+    "totalFinancialCommitment": "€2,610,885",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-21",
+    "tournamentStartDate": "2026-06-15",
+    "tournamentEndDate": "2026-06-21"
+  },
+  "count": 16,
+  "players": [
+    {
+      "id": "",
+      "name": "Alex Bolt"
+    },
+    {
+      "id": "",
+      "name": "Aziz Dougaz"
+    },
+    {
+      "id": "",
+      "name": "Benito Sanchez Martinez"
+    },
+    {
+      "id": "",
+      "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Filip Cristian Jianu"
+    },
+    {
+      "id": "",
+      "name": "Jamie Mackenzie"
+    },
+    {
+      "id": "",
+      "name": "Lorenzo Sonego"
+    },
+    {
+      "id": "",
+      "name": "Marc-Andrea Huesler"
+    },
+    {
+      "id": "",
+      "name": "Martin Landaluce"
+    },
+    {
+      "id": "",
+      "name": "Mattia Bellucci"
+    },
+    {
+      "id": "",
+      "name": "Mikhail Kukushkin"
+    },
+    {
+      "id": "",
+      "name": "Nikoloz Basilashvili"
+    },
+    {
+      "id": "",
+      "name": "Raphael Collignon"
+    },
+    {
+      "id": "",
+      "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Tiago Pereira"
+    },
+    {
+      "id": "",
+      "name": "Tom Gentzsch"
+    }
+  ]
+}
