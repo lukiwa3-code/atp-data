@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:47:04.547072+00:00",
+  "generatedAt": "2026-06-15T05:09:13.925698+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "Alex Bolt",
     "playerId": ""
   },
-  "count": 1,
+  "count": 2,
   "matches": [
+    {
+      "date": "Sun, 14 June, 2026",
+      "dateIso": "2026-06-14",
+      "tournamentId": "500",
+      "tournamentYear": "2026",
+      "tournamentName": "Terra Wortmann Open",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "Q2",
+      "roundLong": "2nd Round Qualifying",
+      "score": "6-7(5) 7-5 6-3",
+      "matchId": "RES-42BAA1B157",
+      "reason": null,
+      "playerName": "Alex Bolt",
+      "opponentName": "Mattia Bellucci",
+      "opponentKey": "mattiabellucci",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sat, 13 June, 2026",
       "dateIso": "2026-06-13",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:47:04.547072+00:00",
+  "generatedAt": "2026-06-15T05:09:13.925698+00:00",
   "count": 56,
   "items": [
     {
@@ -26,7 +26,7 @@
       "displayName": "Alex Bolt",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/alexbolt.json"
     },
     {
@@ -233,7 +233,7 @@
       "displayName": "Lorenzo Sonego",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/lorenzosonego.json"
     },
     {
@@ -296,7 +296,7 @@
       "displayName": "Martin Landaluce",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/martinlandaluce.json"
     },
     {
@@ -314,7 +314,7 @@
       "displayName": "Mattia Bellucci",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/mattiabellucci.json"
     },
     {
@@ -359,7 +359,7 @@
       "displayName": "Nikoloz Basilashvili",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/nikolozbasilashvili.json"
     },
     {
@@ -386,7 +386,7 @@
       "displayName": "Raphael Collignon",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/raphaelcollignon.json"
     },
     {
@@ -395,7 +395,7 @@
       "displayName": "Roberto Bautista Agut",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/robertobautistaagut.json"
     },
     {
@@ -467,7 +467,7 @@
       "displayName": "Tom Gentzsch",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/tomgentzsch.json"
     },
     {
