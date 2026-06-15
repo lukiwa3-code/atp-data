@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T12:33:08.144038+00:00",
+  "generatedAt": "2026-06-15T21:13:28.202053+00:00",
   "count": 56,
   "items": [
     {
@@ -122,8 +122,8 @@
     {
       "key": "diegodedura",
       "name": "Diego Dedura",
-      "displayName": "D. Dedura",
-      "playerId": "D0LJ",
+      "displayName": "Diego Dedura",
+      "playerId": "",
       "rank": null,
       "count": 1,
       "path": "data/player-history/diegodedura.json"
@@ -293,8 +293,8 @@
     {
       "key": "martinlandaluce",
       "name": "Martin Landaluce",
-      "displayName": "M. Landaluce",
-      "playerId": "L0IL",
+      "displayName": "Martin Landaluce",
+      "playerId": "",
       "rank": null,
       "count": 2,
       "path": "data/player-history/martinlandaluce.json"
@@ -311,8 +311,8 @@
     {
       "key": "mattiabellucci",
       "name": "Mattia Bellucci",
-      "displayName": "M. Bellucci",
-      "playerId": "B0GG",
+      "displayName": "Mattia Bellucci",
+      "playerId": "",
       "rank": null,
       "count": 2,
       "path": "data/player-history/mattiabellucci.json"
@@ -392,8 +392,8 @@
     {
       "key": "robertobautistaagut",
       "name": "Roberto Bautista Agut",
-      "displayName": "R. Bautista Agut",
-      "playerId": "BD06",
+      "displayName": "Roberto Bautista Agut",
+      "playerId": "",
       "rank": null,
       "count": 2,
       "path": "data/player-history/robertobautistaagut.json"
@@ -464,8 +464,8 @@
     {
       "key": "tomgentzsch",
       "name": "Tom Gentzsch",
-      "displayName": "T. Gentzsch",
-      "playerId": "G0IB",
+      "displayName": "Tom Gentzsch",
+      "playerId": "",
       "rank": null,
       "count": 2,
       "path": "data/player-history/tomgentzsch.json"
