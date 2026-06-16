@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T17:10:09.099175+00:00",
+  "generatedAt": "2026-06-16T21:12:42.937712+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/results",
   "tournament": {
     "id": "500",
@@ -32,7 +32,7 @@
     "tournamentStartDate": "2026-06-15",
     "tournamentEndDate": "2026-06-21"
   },
-  "count": 38,
+  "count": 40,
   "players": [
     {
       "id": "",
@@ -65,6 +65,10 @@
     {
       "id": "",
       "name": "Daniel Altmaier"
+    },
+    {
+      "id": "",
+      "name": "Daniil Medvedev"
     },
     {
       "id": "",
@@ -177,6 +181,10 @@
     {
       "id": "",
       "name": "Tom Gentzsch"
+    },
+    {
+      "id": "",
+      "name": "Tomas Martin Etcheverry"
     },
     {
       "id": "",

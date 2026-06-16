@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T17:10:09.099175+00:00",
+  "generatedAt": "2026-06-16T21:12:42.937712+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "Daniil Medvedev",
     "playerId": ""
   },
-  "count": 3,
+  "count": 4,
   "matches": [
+    {
+      "date": "Tue, 16 June, 2026",
+      "dateIso": "2026-06-16",
+      "tournamentId": "500",
+      "tournamentYear": "2026",
+      "tournamentName": "Terra Wortmann Open",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-4",
+      "matchId": "RES-92027B6DAD",
+      "reason": null,
+      "playerName": "Daniil Medvedev",
+      "opponentName": "Tomas Martin Etcheverry",
+      "opponentKey": "tomasmartinetcheverry",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sat, 13 June, 2026",
       "dateIso": "2026-06-13",

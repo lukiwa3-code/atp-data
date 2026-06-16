@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-16T17:10:09.099175+00:00",
+  "generatedAt": "2026-06-16T21:12:42.937712+00:00",
   "count": 4,
   "items": [
     {
       "year": "2026",
       "id": "500",
       "name": "Terra Wortmann Open",
-      "players": 38,
-      "matches": 25,
+      "players": 40,
+      "matches": 26,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "tour",

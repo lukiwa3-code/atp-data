@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T17:10:09.099175+00:00",
-  "count": 73,
+  "generatedAt": "2026-06-16T21:12:42.937712+00:00",
+  "count": 74,
   "items": [
     {
       "key": "adrianmannarino",
@@ -152,7 +152,7 @@
       "displayName": "Daniil Medvedev",
       "playerId": "",
       "rank": null,
-      "count": 3,
+      "count": 4,
       "path": "data/player-history/daniilmedvedev.json"
     },
     {
@@ -604,6 +604,15 @@
       "rank": null,
       "count": 2,
       "path": "data/player-history/tomgentzsch.json"
+    },
+    {
+      "key": "tomasmartinetcheverry",
+      "name": "Tomas Martin Etcheverry",
+      "displayName": "Tomas Martin Etcheverry",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/tomasmartinetcheverry.json"
     },
     {
       "key": "ugohumbert",
