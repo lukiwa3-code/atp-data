@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T11:25:42.912716+00:00",
+  "generatedAt": "2026-06-16T17:10:09.099175+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/results",
   "tournament": {
     "id": "500",
@@ -32,8 +32,26 @@
     "tournamentStartDate": "2026-06-15",
     "tournamentEndDate": "2026-06-21"
   },
-  "count": 19,
+  "count": 25,
   "matches": [
+    {
+      "matchId": "RES-34BDC32640",
+      "date": "Tue, 16 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Alexander Zverev",
+      "opponentId": "",
+      "opponentName": "Vit Kopriva",
+      "winnerPlayerId": "",
+      "winnerName": "Alexander Zverev",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-3 4-6 6-2",
+      "sourceText": "Game Set and Match Alexander Zverev. Alexander Zverev wins the match 6-3 4-6 6-2 .",
+      "bracketOrder": 1
+    },
     {
       "matchId": "RES-0F100D0528",
       "date": "Tue, 16 June, 2026",
@@ -50,7 +68,25 @@
       "reason": null,
       "formattedScore": "7-6(6) 6-1",
       "sourceText": "Game Set and Match Mattia Bellucci. Mattia Bellucci wins the match 7-6(6) 6-1 .",
-      "bracketOrder": 1
+      "bracketOrder": 2
+    },
+    {
+      "matchId": "RES-FF7641A921",
+      "date": "Tue, 16 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Hubert Hurkacz",
+      "opponentId": "",
+      "opponentName": "Andrey Rublev",
+      "winnerPlayerId": "",
+      "winnerName": "Hubert Hurkacz",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-3 6-2",
+      "sourceText": "Game Set and Match Hubert Hurkacz. Hubert Hurkacz wins the match 6-3 6-2 .",
+      "bracketOrder": 3
     },
     {
       "matchId": "RES-EEC62ED204",
@@ -68,7 +104,79 @@
       "reason": null,
       "formattedScore": "6-4 6-2",
       "sourceText": "Game Set and Match Raphael Collignon. Raphael Collignon wins the match 6-4 6-2 .",
-      "bracketOrder": 2
+      "bracketOrder": 4
+    },
+    {
+      "matchId": "RES-479F2D845C",
+      "date": "Tue, 16 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Yannick Hanfmann",
+      "opponentId": "",
+      "opponentName": "Joao Fonseca",
+      "winnerPlayerId": "",
+      "winnerName": "Yannick Hanfmann",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-2 6-2",
+      "sourceText": "Game Set and Match Yannick Hanfmann. Yannick Hanfmann wins the match 6-2 6-2 .",
+      "bracketOrder": 5
+    },
+    {
+      "matchId": "RES-8B229E49D9",
+      "date": "Tue, 16 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Fabian Marozsan",
+      "opponentId": "",
+      "opponentName": "Miomir Kecmanovic",
+      "winnerPlayerId": "",
+      "winnerName": "Fabian Marozsan",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-3 3-6 6-4",
+      "sourceText": "Game Set and Match Fabian Marozsan. Fabian Marozsan wins the match 6-3 3-6 6-4 .",
+      "bracketOrder": 6
+    },
+    {
+      "matchId": "RES-5E767D8E4A",
+      "date": "Tue, 16 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Ethan Quinn",
+      "opponentId": "",
+      "opponentName": "Karen Khachanov",
+      "winnerPlayerId": "",
+      "winnerName": "Ethan Quinn",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "1-6 6-4 6-4",
+      "sourceText": "Game Set and Match Ethan Quinn. Ethan Quinn wins the match 1-6 6-4 6-4 .",
+      "bracketOrder": 7
+    },
+    {
+      "matchId": "RES-BDE9144C1D",
+      "date": "Tue, 16 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Sho Shimabukuro",
+      "opponentId": "",
+      "opponentName": "Tallon Griekspoor",
+      "winnerPlayerId": "",
+      "winnerName": "Sho Shimabukuro",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-4 3-6 6-4",
+      "sourceText": "Game Set and Match Sho Shimabukuro. Sho Shimabukuro wins the match 6-4 3-6 6-4 .",
+      "bracketOrder": 8
     },
     {
       "matchId": "RES-870B6121A1",
@@ -86,7 +194,7 @@
       "reason": null,
       "formattedScore": "6-3 3-6 6-3",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-3 3-6 6-3 .",
-      "bracketOrder": 3
+      "bracketOrder": 9
     },
     {
       "matchId": "RES-EB018BAA6B",
@@ -104,7 +212,7 @@
       "reason": null,
       "formattedScore": "6-2 7-6(4)",
       "sourceText": "Game Set and Match Frances Tiafoe. Frances Tiafoe wins the match 6-2 7-6(4).",
-      "bracketOrder": 4
+      "bracketOrder": 10
     },
     {
       "matchId": "RES-3E446F6EFA",
@@ -122,7 +230,7 @@
       "reason": null,
       "formattedScore": "7-5 6-4",
       "sourceText": "Game Set and Match Daniel Altmaier. Daniel Altmaier wins the match 7-5 6-4 .",
-      "bracketOrder": 5
+      "bracketOrder": 11
     },
     {
       "matchId": "RES-FF51F12A37",
@@ -140,7 +248,7 @@
       "reason": null,
       "formattedScore": "6-3 3-6 7-6(2)",
       "sourceText": "Game Set and Match Terence Atmane. Terence Atmane wins the match 6-3 3-6 7-6(2).",
-      "bracketOrder": 6
+      "bracketOrder": 12
     },
     {
       "matchId": "RES-226A8F7A69",
@@ -158,7 +266,7 @@
       "reason": null,
       "formattedScore": "6-2 6-4",
       "sourceText": "Game Set and Match Learner Tien. Learner Tien wins the match 6-2 6-4 .",
-      "bracketOrder": 7
+      "bracketOrder": 13
     },
     {
       "matchId": "RES-3C286C1E28",

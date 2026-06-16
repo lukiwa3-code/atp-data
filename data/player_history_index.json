@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T11:25:42.912716+00:00",
-  "count": 63,
+  "generatedAt": "2026-06-16T17:10:09.099175+00:00",
+  "count": 73,
   "items": [
     {
       "key": "adrianmannarino",
@@ -48,6 +48,15 @@
       "path": "data/player-history/alexanderbublik.json"
     },
     {
+      "key": "alexanderzverev",
+      "name": "Alexander Zverev",
+      "displayName": "Alexander Zverev",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/alexanderzverev.json"
+    },
+    {
       "key": "alexeipopyrin",
       "name": "Alexei Popyrin",
       "displayName": "Alexei Popyrin",
@@ -55,6 +64,15 @@
       "rank": null,
       "count": 1,
       "path": "data/player-history/alexeipopyrin.json"
+    },
+    {
+      "key": "andreyrublev",
+      "name": "Andrey Rublev",
+      "displayName": "Andrey Rublev",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/andreyrublev.json"
     },
     {
       "key": "arthurrinderknech",
@@ -165,6 +183,24 @@
       "path": "data/player-history/eliasymer.json"
     },
     {
+      "key": "ethanquinn",
+      "name": "Ethan Quinn",
+      "displayName": "Ethan Quinn",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/ethanquinn.json"
+    },
+    {
+      "key": "fabianmarozsan",
+      "name": "Fabian Marozsan",
+      "displayName": "Fabian Marozsan",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/fabianmarozsan.json"
+    },
+    {
       "key": "felixaugeraliassime",
       "name": "Felix Auger-Aliassime",
       "displayName": "Felix Auger-Aliassime",
@@ -215,7 +251,7 @@
       "displayName": "Hubert Hurkacz",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/huberthurkacz.json"
     },
     {
@@ -255,6 +291,15 @@
       "path": "data/player-history/jensonbrooksby.json"
     },
     {
+      "key": "joaofonseca",
+      "name": "Joao Fonseca",
+      "displayName": "Joao Fonseca",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/joaofonseca.json"
+    },
+    {
       "key": "juanpabloficovich",
       "name": "Juan Pablo Ficovich",
       "displayName": "Juan Pablo Ficovich",
@@ -271,6 +316,15 @@
       "rank": null,
       "count": 5,
       "path": "data/player-history/kamilmajchrzak.json"
+    },
+    {
+      "key": "karenkhachanov",
+      "name": "Karen Khachanov",
+      "displayName": "Karen Khachanov",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/karenkhachanov.json"
     },
     {
       "key": "learnertien",
@@ -408,6 +462,15 @@
       "path": "data/player-history/mikhailkukushkin.json"
     },
     {
+      "key": "miomirkecmanovic",
+      "name": "Miomir Kecmanovic",
+      "displayName": "Miomir Kecmanovic",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/miomirkecmanovic.json"
+    },
+    {
       "key": "nielsvisker",
       "name": "Niels Visker",
       "displayName": "Niels Visker",
@@ -480,12 +543,21 @@
       "path": "data/player-history/shintaromochizuki.json"
     },
     {
+      "key": "shoshimabukuro",
+      "name": "Sho Shimabukuro",
+      "displayName": "Sho Shimabukuro",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/shoshimabukuro.json"
+    },
+    {
       "key": "tallongriekspoor",
       "name": "Tallon Griekspoor",
       "displayName": "Tallon Griekspoor",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 3,
       "path": "data/player-history/tallongriekspoor.json"
     },
     {
@@ -541,6 +613,24 @@
       "rank": null,
       "count": 2,
       "path": "data/player-history/ugohumbert.json"
+    },
+    {
+      "key": "vitkopriva",
+      "name": "Vit Kopriva",
+      "displayName": "Vit Kopriva",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/vitkopriva.json"
+    },
+    {
+      "key": "yannickhanfmann",
+      "name": "Yannick Hanfmann",
+      "displayName": "Yannick Hanfmann",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/yannickhanfmann.json"
     },
     {
       "key": "yibingwu",

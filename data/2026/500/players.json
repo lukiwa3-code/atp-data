@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T11:25:42.912716+00:00",
+  "generatedAt": "2026-06-16T17:10:09.099175+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/results",
   "tournament": {
     "id": "500",
@@ -32,7 +32,7 @@
     "tournamentStartDate": "2026-06-15",
     "tournamentEndDate": "2026-06-21"
   },
-  "count": 26,
+  "count": 38,
   "players": [
     {
       "id": "",
@@ -44,7 +44,15 @@
     },
     {
       "id": "",
+      "name": "Alexander Zverev"
+    },
+    {
+      "id": "",
       "name": "Alexei Popyrin"
+    },
+    {
+      "id": "",
+      "name": "Andrey Rublev"
     },
     {
       "id": "",
@@ -64,6 +72,14 @@
     },
     {
       "id": "",
+      "name": "Ethan Quinn"
+    },
+    {
+      "id": "",
+      "name": "Fabian Marozsan"
+    },
+    {
+      "id": "",
       "name": "Felix Auger-Aliassime"
     },
     {
@@ -80,7 +96,19 @@
     },
     {
       "id": "",
+      "name": "Hubert Hurkacz"
+    },
+    {
+      "id": "",
       "name": "Jamie Mackenzie"
+    },
+    {
+      "id": "",
+      "name": "Joao Fonseca"
+    },
+    {
+      "id": "",
+      "name": "Karen Khachanov"
     },
     {
       "id": "",
@@ -112,6 +140,10 @@
     },
     {
       "id": "",
+      "name": "Miomir Kecmanovic"
+    },
+    {
+      "id": "",
       "name": "Nikoloz Basilashvili"
     },
     {
@@ -128,6 +160,14 @@
     },
     {
       "id": "",
+      "name": "Sho Shimabukuro"
+    },
+    {
+      "id": "",
+      "name": "Tallon Griekspoor"
+    },
+    {
+      "id": "",
       "name": "Terence Atmane"
     },
     {
@@ -137,6 +177,14 @@
     {
       "id": "",
       "name": "Tom Gentzsch"
+    },
+    {
+      "id": "",
+      "name": "Vit Kopriva"
+    },
+    {
+      "id": "",
+      "name": "Yannick Hanfmann"
     }
   ]
 }
