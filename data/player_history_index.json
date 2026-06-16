@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T21:13:28.202053+00:00",
-  "count": 56,
+  "generatedAt": "2026-06-16T05:11:58.206036+00:00",
+  "count": 61,
   "items": [
     {
       "key": "adrianmannarino",
@@ -102,6 +102,15 @@
       "path": "data/player-history/colemanwong.json"
     },
     {
+      "key": "danielaltmaier",
+      "name": "Daniel Altmaier",
+      "displayName": "Daniel Altmaier",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/danielaltmaier.json"
+    },
+    {
       "key": "daniilmedvedev",
       "name": "Daniil Medvedev",
       "displayName": "Daniil Medvedev",
@@ -143,7 +152,7 @@
       "displayName": "Felix Auger-Aliassime",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 3,
       "path": "data/player-history/felixaugeraliassime.json"
     },
     {
@@ -154,6 +163,24 @@
       "rank": null,
       "count": 1,
       "path": "data/player-history/filipcristianjianu.json"
+    },
+    {
+      "key": "flaviocobolli",
+      "name": "Flavio Cobolli",
+      "displayName": "Flavio Cobolli",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/flaviocobolli.json"
+    },
+    {
+      "key": "francestiafoe",
+      "name": "Frances Tiafoe",
+      "displayName": "Frances Tiafoe",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/francestiafoe.json"
     },
     {
       "key": "gabrieldiallo",
@@ -228,6 +255,15 @@
       "path": "data/player-history/kamilmajchrzak.json"
     },
     {
+      "key": "learnertien",
+      "name": "Learner Tien",
+      "displayName": "Learner Tien",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/learnertien.json"
+    },
+    {
       "key": "lorenzosonego",
       "name": "Lorenzo Sonego",
       "displayName": "Lorenzo Sonego",
@@ -296,7 +332,7 @@
       "displayName": "Martin Landaluce",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 3,
       "path": "data/player-history/martinlandaluce.json"
     },
     {
@@ -325,6 +361,15 @@
       "rank": null,
       "count": 1,
       "path": "data/player-history/maxhoukes.json"
+    },
+    {
+      "key": "maxschoenhaus",
+      "name": "Max Schoenhaus",
+      "displayName": "Max Schoenhaus",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/maxschoenhaus.json"
     },
     {
       "key": "meesrottgering",
@@ -359,7 +404,7 @@
       "displayName": "Nikoloz Basilashvili",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 3,
       "path": "data/player-history/nikolozbasilashvili.json"
     },
     {
@@ -368,7 +413,7 @@
       "displayName": "Nuno Borges",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 3,
       "path": "data/player-history/nunoborges.json"
     },
     {
@@ -431,7 +476,7 @@
       "displayName": "Terence Atmane",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/terenceatmane.json"
     },
     {

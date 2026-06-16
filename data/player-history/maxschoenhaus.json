@@ -3,16 +3,16 @@
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
-    "key": "diegodedura",
-    "name": "Diego Dedura",
-    "displayName": "Diego Dedura",
+    "key": "maxschoenhaus",
+    "name": "Max Schoenhaus",
+    "displayName": "Max Schoenhaus",
     "playerId": ""
   },
   "count": 1,
   "matches": [
     {
-      "date": "Sat, 13 June, 2026",
-      "dateIso": "2026-06-13",
+      "date": "Mon, 15 June, 2026",
+      "dateIso": "2026-06-15",
       "tournamentId": "500",
       "tournamentYear": "2026",
       "tournamentName": "Terra Wortmann Open",
@@ -21,18 +21,18 @@
       "tournamentStartDate": "2026-06-15",
       "tournamentEndDate": "2026-06-21",
       "surface": "Grass",
-      "round": "Q1",
-      "roundLong": "1st Round Qualifying",
-      "score": "7-6(6) 6-3",
-      "matchId": "RES-D836DF36C6",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-2 6-4",
+      "matchId": "RES-226A8F7A69",
       "reason": null,
-      "playerName": "Diego Dedura",
-      "opponentName": "Nikoloz Basilashvili",
-      "opponentKey": "nikolozbasilashvili",
+      "playerName": "Max Schoenhaus",
+      "opponentName": "Learner Tien",
+      "opponentKey": "learnertien",
       "result": "L",
       "playerRank": null,
       "opponentRank": null,
-      "rankingDate": "2026-06-08",
+      "rankingDate": "2026-06-15",
       "rankingNote": "historical_week"
     }
   ]

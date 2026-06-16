@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T05:09:13.925698+00:00",
+  "generatedAt": "2026-06-16T05:11:58.206036+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/results",
   "tournament": {
     "id": "500",
@@ -32,7 +32,7 @@
     "tournamentStartDate": "2026-06-15",
     "tournamentEndDate": "2026-06-21"
   },
-  "count": 16,
+  "count": 24,
   "players": [
     {
       "id": "",
@@ -48,7 +48,15 @@
     },
     {
       "id": "",
+      "name": "Daniel Altmaier"
+    },
+    {
+      "id": "",
       "name": "Diego Dedura"
+    },
+    {
+      "id": "",
+      "name": "Felix Auger-Aliassime"
     },
     {
       "id": "",
@@ -56,7 +64,19 @@
     },
     {
       "id": "",
+      "name": "Flavio Cobolli"
+    },
+    {
+      "id": "",
+      "name": "Frances Tiafoe"
+    },
+    {
+      "id": "",
       "name": "Jamie Mackenzie"
+    },
+    {
+      "id": "",
+      "name": "Learner Tien"
     },
     {
       "id": "",
@@ -76,6 +96,10 @@
     },
     {
       "id": "",
+      "name": "Max Schoenhaus"
+    },
+    {
+      "id": "",
       "name": "Mikhail Kukushkin"
     },
     {
@@ -84,11 +108,19 @@
     },
     {
       "id": "",
+      "name": "Nuno Borges"
+    },
+    {
+      "id": "",
       "name": "Raphael Collignon"
     },
     {
       "id": "",
       "name": "Roberto Bautista Agut"
+    },
+    {
+      "id": "",
+      "name": "Terence Atmane"
     },
     {
       "id": "",
