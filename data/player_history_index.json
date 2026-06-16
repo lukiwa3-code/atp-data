@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-16T05:11:58.206036+00:00",
-  "count": 61,
+  "generatedAt": "2026-06-16T11:25:42.912716+00:00",
+  "count": 63,
   "items": [
     {
       "key": "adrianmannarino",
@@ -37,6 +37,24 @@
       "rank": null,
       "count": 4,
       "path": "data/player-history/alexdeminaur.json"
+    },
+    {
+      "key": "alexanderbublik",
+      "name": "Alexander Bublik",
+      "displayName": "Alexander Bublik",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/alexanderbublik.json"
+    },
+    {
+      "key": "alexeipopyrin",
+      "name": "Alexei Popyrin",
+      "displayName": "Alexei Popyrin",
+      "playerId": "",
+      "rank": null,
+      "count": 1,
+      "path": "data/player-history/alexeipopyrin.json"
     },
     {
       "key": "arthurrinderknech",
@@ -350,7 +368,7 @@
       "displayName": "Mattia Bellucci",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 3,
       "path": "data/player-history/mattiabellucci.json"
     },
     {
@@ -431,7 +449,7 @@
       "displayName": "Raphael Collignon",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 3,
       "path": "data/player-history/raphaelcollignon.json"
     },
     {

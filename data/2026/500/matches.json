@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T05:11:58.206036+00:00",
+  "generatedAt": "2026-06-16T11:25:42.912716+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/results",
   "tournament": {
     "id": "500",
@@ -32,25 +32,43 @@
     "tournamentStartDate": "2026-06-15",
     "tournamentEndDate": "2026-06-21"
   },
-  "count": 17,
+  "count": 19,
   "matches": [
     {
-      "matchId": "RES-EB018BAA6B",
-      "date": "Mon, 15 June, 2026",
+      "matchId": "RES-0F100D0528",
+      "date": "Tue, 16 June, 2026",
       "round": "R32",
       "roundLong": "Round of 32",
       "playerId": "",
-      "playerName": "Frances Tiafoe",
+      "playerName": "Mattia Bellucci",
       "opponentId": "",
-      "opponentName": "Flavio Cobolli",
+      "opponentName": "Alexander Bublik",
       "winnerPlayerId": "",
-      "winnerName": "Frances Tiafoe",
+      "winnerName": "Mattia Bellucci",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
-      "formattedScore": "6-2 7-6(4)",
-      "sourceText": "Parsed from displayed score numbers",
+      "formattedScore": "7-6(6) 6-1",
+      "sourceText": "Game Set and Match Mattia Bellucci. Mattia Bellucci wins the match 7-6(6) 6-1 .",
       "bracketOrder": 1
+    },
+    {
+      "matchId": "RES-EEC62ED204",
+      "date": "Tue, 16 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Raphael Collignon",
+      "opponentId": "",
+      "opponentName": "Alexei Popyrin",
+      "winnerPlayerId": "",
+      "winnerName": "Raphael Collignon",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-4 6-2",
+      "sourceText": "Game Set and Match Raphael Collignon. Raphael Collignon wins the match 6-4 6-2 .",
+      "bracketOrder": 2
     },
     {
       "matchId": "RES-870B6121A1",
@@ -68,7 +86,25 @@
       "reason": null,
       "formattedScore": "6-3 3-6 6-3",
       "sourceText": "Game Set and Match Felix Auger-Aliassime. Felix Auger-Aliassime wins the match 6-3 3-6 6-3 .",
-      "bracketOrder": 2
+      "bracketOrder": 3
+    },
+    {
+      "matchId": "RES-EB018BAA6B",
+      "date": "Mon, 15 June, 2026",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "playerId": "",
+      "playerName": "Frances Tiafoe",
+      "opponentId": "",
+      "opponentName": "Flavio Cobolli",
+      "winnerPlayerId": "",
+      "winnerName": "Frances Tiafoe",
+      "isPlayerWinner": true,
+      "matchState": "F",
+      "reason": null,
+      "formattedScore": "6-2 7-6(4)",
+      "sourceText": "Game Set and Match Frances Tiafoe. Frances Tiafoe wins the match 6-2 7-6(4).",
+      "bracketOrder": 4
     },
     {
       "matchId": "RES-3E446F6EFA",
@@ -86,7 +122,7 @@
       "reason": null,
       "formattedScore": "7-5 6-4",
       "sourceText": "Game Set and Match Daniel Altmaier. Daniel Altmaier wins the match 7-5 6-4 .",
-      "bracketOrder": 3
+      "bracketOrder": 5
     },
     {
       "matchId": "RES-FF51F12A37",
@@ -104,7 +140,7 @@
       "reason": null,
       "formattedScore": "6-3 3-6 7-6(2)",
       "sourceText": "Game Set and Match Terence Atmane. Terence Atmane wins the match 6-3 3-6 7-6(2).",
-      "bracketOrder": 4
+      "bracketOrder": 6
     },
     {
       "matchId": "RES-226A8F7A69",
@@ -122,7 +158,7 @@
       "reason": null,
       "formattedScore": "6-2 6-4",
       "sourceText": "Game Set and Match Learner Tien. Learner Tien wins the match 6-2 6-4 .",
-      "bracketOrder": 5
+      "bracketOrder": 7
     },
     {
       "matchId": "RES-3C286C1E28",

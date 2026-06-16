@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T05:11:58.206036+00:00",
+  "generatedAt": "2026-06-16T11:25:42.912716+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -8,8 +8,33 @@
     "displayName": "Raphael Collignon",
     "playerId": ""
   },
-  "count": 2,
+  "count": 3,
   "matches": [
+    {
+      "date": "Tue, 16 June, 2026",
+      "dateIso": "2026-06-16",
+      "tournamentId": "500",
+      "tournamentYear": "2026",
+      "tournamentName": "Terra Wortmann Open",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-2",
+      "matchId": "RES-EEC62ED204",
+      "reason": null,
+      "playerName": "Raphael Collignon",
+      "opponentName": "Alexei Popyrin",
+      "opponentKey": "alexeipopyrin",
+      "result": "W",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 14 June, 2026",
       "dateIso": "2026-06-14",
