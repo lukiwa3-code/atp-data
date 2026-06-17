@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T04:54:19.188191+00:00",
+  "generatedAt": "2026-06-17T15:53:43.509706+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/results",
   "tournament": {
     "id": "500",
@@ -32,7 +32,7 @@
     "tournamentStartDate": "2026-06-15",
     "tournamentEndDate": "2026-06-21"
   },
-  "count": 40,
+  "count": 43,
   "players": [
     {
       "id": "",
@@ -57,6 +57,10 @@
     {
       "id": "",
       "name": "Aziz Dougaz"
+    },
+    {
+      "id": "",
+      "name": "Ben Shelton"
     },
     {
       "id": "",
@@ -172,6 +176,10 @@
     },
     {
       "id": "",
+      "name": "Taylor Fritz"
+    },
+    {
+      "id": "",
       "name": "Terence Atmane"
     },
     {
@@ -193,6 +201,10 @@
     {
       "id": "",
       "name": "Yannick Hanfmann"
+    },
+    {
+      "id": "",
+      "name": "Zizou Bergs"
     }
   ]
 }

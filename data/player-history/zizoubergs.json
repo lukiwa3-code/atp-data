@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-06-17T11:09:48.089187+00:00",
+  "generatedAt": "2026-06-17T15:53:43.509706+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "zizoubergs",
     "name": "Zizou Bergs",
-    "displayName": "Z. Bergs",
-    "playerId": "BU13"
+    "displayName": "Zizou Bergs",
+    "playerId": ""
   },
-  "count": 1,
+  "count": 2,
   "matches": [
+    {
+      "date": "Wed, 17 June, 2026",
+      "dateIso": "2026-06-17",
+      "tournamentId": "500",
+      "tournamentYear": "2026",
+      "tournamentName": "Terra Wortmann Open",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(4) 5-7 6-4",
+      "matchId": "RES-3EF03BDE82",
+      "reason": null,
+      "playerName": "Zizou Bergs",
+      "opponentName": "Taylor Fritz",
+      "opponentKey": "taylorfritz",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 10 June, 2026",
       "dateIso": "2026-06-10",
