@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T14:19:47.237530+00:00",
+  "generatedAt": "2026-06-17T11:09:48.089187+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/draws",
   "tournament": {
     "id": "500",
@@ -188,15 +188,15 @@
           "bracketOrder": 1,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "A. Zverev",
+          "player1FullName": "Alexander Zverev",
+          "player1Id": "Z355",
+          "player1Country": "GER",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "Y. Hanfmann",
+          "player2FullName": "Yannick Hanfmann",
+          "player2Id": "H997",
+          "player2Country": "GER",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -205,15 +205,15 @@
           "bracketOrder": 2,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "R. Collignon",
+          "player1FullName": "Raphael Collignon",
+          "player1Id": "C0JP",
+          "player1Country": "BEL",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "M. Bellucci",
+          "player2FullName": "Mattia Bellucci",
+          "player2Id": "B0GG",
+          "player2Country": "ITA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -227,10 +227,10 @@
           "player1Id": "",
           "player1Country": "",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "E. Quinn",
+          "player2FullName": "Ethan Quinn",
+          "player2Id": "Q02L",
+          "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -239,10 +239,10 @@
           "bracketOrder": 4,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "F. Marozsan",
+          "player1FullName": "Fabian Marozsan",
+          "player1Id": "M0CI",
+          "player1Country": "HUN",
           "player1ScoreTokens": [],
           "player2": "TBA",
           "player2FullName": "TBA",
@@ -256,15 +256,15 @@
           "bracketOrder": 5,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "H. Hurkacz",
+          "player1FullName": "Hubert Hurkacz",
+          "player1Id": "HB71",
+          "player1Country": "POL",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "D. Altmaier",
+          "player2FullName": "Daniel Altmaier",
+          "player2Id": "AE14",
+          "player2Country": "GER",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -273,15 +273,15 @@
           "bracketOrder": 6,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "T. Atmane",
+          "player1FullName": "Terence Atmane",
+          "player1Id": "A0GC",
+          "player1Country": "FRA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "D. Medvedev",
+          "player2FullName": "Daniil Medvedev",
+          "player2Id": "MM58",
+          "player2Country": "RUS",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -290,15 +290,15 @@
           "bracketOrder": 7,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "F. Tiafoe",
+          "player1FullName": "Frances Tiafoe",
+          "player1Id": "TD51",
+          "player1Country": "USA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "S. Shimabukuro",
+          "player2FullName": "Sho Shimabukuro",
+          "player2Id": "SY67",
+          "player2Country": "JPN",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -307,15 +307,15 @@
           "bracketOrder": 8,
           "round": "R16",
           "roundLong": "Round of 16",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "L. Tien",
+          "player1FullName": "Learner Tien",
+          "player1Id": "T0HA",
+          "player1Country": "USA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "F. Auger-Aliassime",
+          "player2FullName": "Felix Auger Aliassime",
+          "player2Id": "AG37",
+          "player2Country": "CAN",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -336,14 +336,22 @@
           "player1FullName": "Alexander Zverev",
           "player1Id": "Z355",
           "player1Country": "GER",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "6"
+          ],
           "player2": "V. Kopriva",
           "player2FullName": "Vit Kopriva",
           "player2Id": "KI82",
           "player2Country": "CZE",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "2"
+          ],
+          "winnerName": "Alexander Zverev",
+          "formattedScore": "6-3 4-6 6-2"
         },
         {
           "bracketOrder": 2,
@@ -353,14 +361,20 @@
           "player1FullName": "Joao Fonseca",
           "player1Id": "F0FV",
           "player1Country": "BRA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "2",
+            "2"
+          ],
           "player2": "Y. Hanfmann",
           "player2FullName": "Yannick Hanfmann",
           "player2Id": "H997",
           "player2Country": "GER",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Yannick Hanfmann",
+          "formattedScore": "6-2 6-2"
         },
         {
           "bracketOrder": 3,
@@ -370,31 +384,43 @@
           "player1FullName": "Alexei Popyrin",
           "player1Id": "P09Z",
           "player1Country": "AUS",
-          "player1ScoreTokens": [],
-          "player2": "Qualifier",
-          "player2FullName": "Qualifier",
-          "player2Id": "",
-          "player2Country": "",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player1ScoreTokens": [
+            "4",
+            "2"
+          ],
+          "player2": "R. Collignon",
+          "player2FullName": "Raphael Collignon",
+          "player2Id": "C0JP",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "6-4 6-2"
         },
         {
           "bracketOrder": 4,
           "round": "R32",
           "roundLong": "Round of 32",
-          "player1": "Qualifier",
-          "player1FullName": "Qualifier",
-          "player1Id": "",
-          "player1Country": "",
-          "player1ScoreTokens": [],
+          "player1": "M. Bellucci",
+          "player1FullName": "Mattia Bellucci",
+          "player1Id": "B0GG",
+          "player1Country": "ITA",
+          "player1ScoreTokens": [
+            "7",
+            "6"
+          ],
           "player2": "A. Bublik",
           "player2FullName": "Alexander Bublik",
           "player2Id": "BK92",
           "player2Country": "KAZ",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 6",
+            "1"
+          ],
+          "winnerName": "Mattia Bellucci",
+          "formattedScore": "7-6(6) 6-1"
         },
         {
           "bracketOrder": 5,
@@ -405,10 +431,10 @@
           "player1Id": "S0S1",
           "player1Country": "USA",
           "player1ScoreTokens": [],
-          "player2": "N. Kyrgios",
-          "player2FullName": "Nick Kyrgios",
-          "player2Id": "KE17",
-          "player2Country": "AUS",
+          "player2": "L. Sonego",
+          "player2FullName": "Lorenzo Sonego",
+          "player2Id": "SU87",
+          "player2Country": "ITA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -421,14 +447,22 @@
           "player1FullName": "Karen Khachanov",
           "player1Id": "KE29",
           "player1Country": "RUS",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "4",
+            "4"
+          ],
           "player2": "E. Quinn",
           "player2FullName": "Ethan Quinn",
           "player2Id": "Q02L",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "1",
+            "6",
+            "6"
+          ],
+          "winnerName": "Ethan Quinn",
+          "formattedScore": "1-6 6-4 6-4"
         },
         {
           "bracketOrder": 7,
@@ -438,14 +472,22 @@
           "player1FullName": "Fabian Marozsan",
           "player1Id": "M0CI",
           "player1Country": "HUN",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
           "player2": "M. Kecmanovic",
           "player2FullName": "Miomir Kecmanovic",
           "player2Id": "KI95",
           "player2Country": "SRB",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "4"
+          ],
+          "winnerName": "Fabian Marozsan",
+          "formattedScore": "6-3 3-6 6-4"
         },
         {
           "bracketOrder": 8,
@@ -472,31 +514,43 @@
           "player1FullName": "Andrey Rublev",
           "player1Id": "RE44",
           "player1Country": "RUS",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "3",
+            "2"
+          ],
           "player2": "H. Hurkacz",
           "player2FullName": "Hubert Hurkacz",
           "player2Id": "HB71",
           "player2Country": "POL",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Hubert Hurkacz",
+          "formattedScore": "6-3 6-2"
         },
         {
           "bracketOrder": 10,
           "round": "R32",
           "roundLong": "Round of 32",
-          "player1": "Qualifier",
-          "player1FullName": "Qualifier",
-          "player1Id": "",
-          "player1Country": "",
-          "player1ScoreTokens": [],
+          "player1": "N. Basilashvili",
+          "player1FullName": "Nikoloz Basilashvili",
+          "player1Id": "BG23",
+          "player1Country": "GEO",
+          "player1ScoreTokens": [
+            "5",
+            "4"
+          ],
           "player2": "D. Altmaier",
           "player2FullName": "Daniel Altmaier",
           "player2Id": "AE14",
           "player2Country": "GER",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "7",
+            "6"
+          ],
+          "winnerName": "Daniel Altmaier",
+          "formattedScore": "7-5 6-4"
         },
         {
           "bracketOrder": 11,
@@ -506,14 +560,22 @@
           "player1FullName": "Terence Atmane",
           "player1Id": "A0GC",
           "player1Country": "FRA",
-          "player1ScoreTokens": [],
-          "player2": "Qualifier",
-          "player2FullName": "Qualifier",
-          "player2Id": "",
-          "player2Country": "",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player1ScoreTokens": [
+            "6",
+            "3",
+            "7"
+          ],
+          "player2": "M. Landaluce",
+          "player2FullName": "Martin Landaluce",
+          "player2Id": "L0IL",
+          "player2Country": "ESP",
+          "player2ScoreTokens": [
+            "3",
+            "6",
+            "6 2"
+          ],
+          "winnerName": "Terence Atmane",
+          "formattedScore": "6-3 3-6 7-6(2)"
         },
         {
           "bracketOrder": 12,
@@ -523,14 +585,20 @@
           "player1FullName": "Tomas Martin Etcheverry",
           "player1Id": "EA24",
           "player1Country": "ARG",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "3",
+            "4"
+          ],
           "player2": "D. Medvedev",
           "player2FullName": "Daniil Medvedev",
           "player2Id": "MM58",
           "player2Country": "RUS",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Daniil Medvedev",
+          "formattedScore": "6-3 6-4"
         },
         {
           "bracketOrder": 13,
@@ -540,14 +608,20 @@
           "player1FullName": "Flavio Cobolli",
           "player1Id": "C0E9",
           "player1Country": "ITA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "2",
+            "6 4"
+          ],
           "player2": "F. Tiafoe",
           "player2FullName": "Frances Tiafoe",
           "player2Id": "TD51",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "7"
+          ],
+          "winnerName": "Frances Tiafoe",
+          "formattedScore": "6-2 7-6(4)"
         },
         {
           "bracketOrder": 14,
@@ -557,14 +631,22 @@
           "player1FullName": "Tallon Griekspoor",
           "player1Id": "GJ37",
           "player1Country": "NED",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "4"
+          ],
           "player2": "S. Shimabukuro",
           "player2FullName": "Sho Shimabukuro",
           "player2Id": "SY67",
           "player2Country": "JPN",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "winnerName": "Sho Shimabukuro",
+          "formattedScore": "6-4 3-6 6-4"
         },
         {
           "bracketOrder": 15,
@@ -574,14 +656,20 @@
           "player1FullName": "Max Schoenhaus",
           "player1Id": "S0VU",
           "player1Country": "GER",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "2",
+            "4"
+          ],
           "player2": "L. Tien",
           "player2FullName": "Learner Tien",
           "player2Id": "T0HA",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Learner Tien",
+          "formattedScore": "6-2 6-4"
         },
         {
           "bracketOrder": 16,
@@ -591,14 +679,22 @@
           "player1FullName": "Nuno Borges",
           "player1Id": "BT72",
           "player1Country": "POR",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "3"
+          ],
           "player2": "F. Auger-Aliassime",
           "player2FullName": "Felix Auger Aliassime",
           "player2Id": "AG37",
           "player2Country": "CAN",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "6"
+          ],
+          "winnerName": "Felix Auger Aliassime",
+          "formattedScore": "6-3 3-6 6-3"
         }
       ]
     }

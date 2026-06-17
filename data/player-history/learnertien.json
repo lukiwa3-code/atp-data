@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-17T04:54:19.188191+00:00",
+  "generatedAt": "2026-06-17T11:09:48.089187+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "learnertien",
     "name": "Learner Tien",
-    "displayName": "Learner Tien",
-    "playerId": ""
+    "displayName": "L. Tien",
+    "playerId": "T0HA"
   },
   "count": 1,
   "matches": [
