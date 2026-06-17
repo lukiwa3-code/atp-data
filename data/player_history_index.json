@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T15:53:43.509706+00:00",
+  "generatedAt": "2026-06-17T20:23:48.478438+00:00",
   "count": 76,
   "items": [
     {
@@ -161,7 +161,7 @@
       "displayName": "Daniil Medvedev",
       "playerId": "",
       "rank": null,
-      "count": 4,
+      "count": 5,
       "path": "data/player-history/daniilmedvedev.json"
     },
     {
@@ -215,7 +215,7 @@
       "displayName": "Felix Auger-Aliassime",
       "playerId": "",
       "rank": null,
-      "count": 3,
+      "count": 4,
       "path": "data/player-history/felixaugeraliassime.json"
     },
     {
@@ -341,7 +341,7 @@
       "displayName": "Learner Tien",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/learnertien.json"
     },
     {
@@ -584,7 +584,7 @@
       "displayName": "Terence Atmane",
       "playerId": "",
       "rank": null,
-      "count": 2,
+      "count": 3,
       "path": "data/player-history/terenceatmane.json"
     },
     {
