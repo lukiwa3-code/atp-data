@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-18T10:40:55.431107+00:00",
+  "generatedAt": "2026-06-18T15:44:39.631210+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "yannickhanfmann",
     "name": "Yannick Hanfmann",
-    "displayName": "Yannick Hanfmann",
-    "playerId": ""
+    "displayName": "Y. Hanfmann",
+    "playerId": "H997"
   },
   "count": 1,
   "matches": [
