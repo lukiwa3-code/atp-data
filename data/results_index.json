@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T04:46:05.481870+00:00",
+  "generatedAt": "2026-06-18T10:40:55.431107+00:00",
   "count": 4,
   "items": [
     {
@@ -14,7 +14,7 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/500/matches.json",
       "drawPath": "data/2026/500/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/halle/500/results",
+      "source": null,
       "drawSource": null
     },
     {
