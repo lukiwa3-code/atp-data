@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T20:36:29.956672+00:00",
+  "generatedAt": "2026-06-19T05:05:37.325516+00:00",
   "count": 76,
   "items": [
     {
@@ -53,7 +53,7 @@
       "displayName": "Alexander Zverev",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/alexanderzverev.json"
     },
     {
@@ -98,7 +98,7 @@
       "displayName": "Ben Shelton",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/benshelton.json"
     },
     {
@@ -197,7 +197,7 @@
       "displayName": "Ethan Quinn",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/ethanquinn.json"
     },
     {
@@ -206,7 +206,7 @@
       "displayName": "Fabian Marozsan",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/fabianmarozsan.json"
     },
     {
@@ -431,7 +431,7 @@
       "displayName": "Mattia Bellucci",
       "playerId": "",
       "rank": null,
-      "count": 3,
+      "count": 4,
       "path": "data/player-history/mattiabellucci.json"
     },
     {
@@ -521,7 +521,7 @@
       "displayName": "Raphael Collignon",
       "playerId": "",
       "rank": null,
-      "count": 3,
+      "count": 4,
       "path": "data/player-history/raphaelcollignon.json"
     },
     {
@@ -575,7 +575,7 @@
       "displayName": "Taylor Fritz",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/taylorfritz.json"
     },
     {
@@ -656,7 +656,7 @@
       "displayName": "Yannick Hanfmann",
       "playerId": "",
       "rank": null,
-      "count": 1,
+      "count": 2,
       "path": "data/player-history/yannickhanfmann.json"
     },
     {
