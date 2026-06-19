@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T15:44:39.631210+00:00",
+  "generatedAt": "2026-06-19T15:35:08.588456+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/draws",
   "tournament": {
     "id": "500",
@@ -70,15 +70,15 @@
           "bracketOrder": 1,
           "round": "SF",
           "roundLong": "Semifinals",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "A. Zverev",
+          "player1FullName": "Alexander Zverev",
+          "player1Id": "Z355",
+          "player1Country": "GER",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "T. Fritz",
+          "player2FullName": "Taylor Fritz",
+          "player2Id": "FB98",
+          "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -116,14 +116,20 @@
           "player1FullName": "Alexander Zverev",
           "player1Id": "Z355",
           "player1Country": "GER",
-          "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player1ScoreTokens": [
+            "7",
+            "7"
+          ],
+          "player2": "R. Collignon",
+          "player2FullName": "Raphael Collignon",
+          "player2Id": "C0JP",
+          "player2Country": "BEL",
+          "player2ScoreTokens": [
+            "6 10",
+            "6 2"
+          ],
+          "winnerName": "Alexander Zverev",
+          "formattedScore": "7-6(10) 7-6(2)"
         },
         {
           "bracketOrder": 2,
@@ -133,14 +139,22 @@
           "player1FullName": "Ben Shelton",
           "player1Id": "S0S1",
           "player1Country": "USA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "6 8",
+            "6 3"
+          ],
           "player2": "T. Fritz",
           "player2FullName": "Taylor Fritz",
           "player2Id": "FB98",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 5",
+            "7",
+            "7"
+          ],
+          "winnerName": "Taylor Fritz",
+          "formattedScore": "6-7(5) 7-6(8) 7-6(3)"
         },
         {
           "bracketOrder": 3,
@@ -215,14 +229,22 @@
           "player1FullName": "Raphael Collignon",
           "player1Id": "C0JP",
           "player1Country": "BEL",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "4",
+            "6",
+            "6"
+          ],
           "player2": "M. Bellucci",
           "player2FullName": "Mattia Bellucci",
           "player2Id": "B0GG",
           "player2Country": "ITA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "4",
+            "3"
+          ],
+          "winnerName": "Raphael Collignon",
+          "formattedScore": "4-6 6-4 6-3"
         },
         {
           "bracketOrder": 3,
