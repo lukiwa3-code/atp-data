@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-19T05:05:37.325516+00:00",
+  "generatedAt": "2026-06-19T10:49:41.645432+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "shoshimabukuro",
     "name": "Sho Shimabukuro",
-    "displayName": "Sho Shimabukuro",
-    "playerId": ""
+    "displayName": "S. Shimabukuro",
+    "playerId": "SY67"
   },
   "count": 2,
   "matches": [

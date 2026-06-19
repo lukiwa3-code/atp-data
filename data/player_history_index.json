@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T05:05:37.325516+00:00",
+  "generatedAt": "2026-06-19T10:49:41.645432+00:00",
   "count": 76,
   "items": [
     {
@@ -41,8 +41,8 @@
     {
       "key": "alexanderbublik",
       "name": "Alexander Bublik",
-      "displayName": "Alexander Bublik",
-      "playerId": "",
+      "displayName": "A. Bublik",
+      "playerId": "BK92",
       "rank": null,
       "count": 1,
       "path": "data/player-history/alexanderbublik.json"
@@ -95,8 +95,8 @@
     {
       "key": "benshelton",
       "name": "Ben Shelton",
-      "displayName": "Ben Shelton",
-      "playerId": "",
+      "displayName": "B. Shelton",
+      "playerId": "S0S1",
       "rank": null,
       "count": 2,
       "path": "data/player-history/benshelton.json"
@@ -149,8 +149,8 @@
     {
       "key": "danielaltmaier",
       "name": "Daniel Altmaier",
-      "displayName": "Daniel Altmaier",
-      "playerId": "",
+      "displayName": "D. Altmaier",
+      "playerId": "AE14",
       "rank": null,
       "count": 2,
       "path": "data/player-history/danielaltmaier.json"
@@ -176,8 +176,8 @@
     {
       "key": "diegodedura",
       "name": "Diego Dedura",
-      "displayName": "Diego Dedura",
-      "playerId": "",
+      "displayName": "D. Dedura",
+      "playerId": "D0LJ",
       "rank": null,
       "count": 1,
       "path": "data/player-history/diegodedura.json"
@@ -203,8 +203,8 @@
     {
       "key": "fabianmarozsan",
       "name": "Fabian Marozsan",
-      "displayName": "Fabian Marozsan",
-      "playerId": "",
+      "displayName": "F. Marozsan",
+      "playerId": "M0CI",
       "rank": null,
       "count": 2,
       "path": "data/player-history/fabianmarozsan.json"
@@ -239,8 +239,8 @@
     {
       "key": "francestiafoe",
       "name": "Frances Tiafoe",
-      "displayName": "Frances Tiafoe",
-      "playerId": "",
+      "displayName": "F. Tiafoe",
+      "playerId": "TD51",
       "rank": null,
       "count": 2,
       "path": "data/player-history/francestiafoe.json"
@@ -410,8 +410,8 @@
     {
       "key": "martinlandaluce",
       "name": "Martin Landaluce",
-      "displayName": "Martin Landaluce",
-      "playerId": "",
+      "displayName": "M. Landaluce",
+      "playerId": "L0IL",
       "rank": null,
       "count": 3,
       "path": "data/player-history/martinlandaluce.json"
@@ -428,8 +428,8 @@
     {
       "key": "mattiabellucci",
       "name": "Mattia Bellucci",
-      "displayName": "Mattia Bellucci",
-      "playerId": "",
+      "displayName": "M. Bellucci",
+      "playerId": "B0GG",
       "rank": null,
       "count": 4,
       "path": "data/player-history/mattiabellucci.json"
@@ -527,8 +527,8 @@
     {
       "key": "robertobautistaagut",
       "name": "Roberto Bautista Agut",
-      "displayName": "Roberto Bautista Agut",
-      "playerId": "",
+      "displayName": "R. Bautista Agut",
+      "playerId": "BD06",
       "rank": null,
       "count": 2,
       "path": "data/player-history/robertobautistaagut.json"
@@ -554,8 +554,8 @@
     {
       "key": "shoshimabukuro",
       "name": "Sho Shimabukuro",
-      "displayName": "Sho Shimabukuro",
-      "playerId": "",
+      "displayName": "S. Shimabukuro",
+      "playerId": "SY67",
       "rank": null,
       "count": 2,
       "path": "data/player-history/shoshimabukuro.json"
@@ -572,8 +572,8 @@
     {
       "key": "taylorfritz",
       "name": "Taylor Fritz",
-      "displayName": "Taylor Fritz",
-      "playerId": "",
+      "displayName": "T. Fritz",
+      "playerId": "FB98",
       "rank": null,
       "count": 2,
       "path": "data/player-history/taylorfritz.json"
@@ -617,8 +617,8 @@
     {
       "key": "tomgentzsch",
       "name": "Tom Gentzsch",
-      "displayName": "Tom Gentzsch",
-      "playerId": "",
+      "displayName": "T. Gentzsch",
+      "playerId": "G0IB",
       "rank": null,
       "count": 2,
       "path": "data/player-history/tomgentzsch.json"
@@ -653,8 +653,8 @@
     {
       "key": "yannickhanfmann",
       "name": "Yannick Hanfmann",
-      "displayName": "Yannick Hanfmann",
-      "playerId": "",
+      "displayName": "Y. Hanfmann",
+      "playerId": "H997",
       "rank": null,
       "count": 2,
       "path": "data/player-history/yannickhanfmann.json"
