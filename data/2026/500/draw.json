@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T15:35:08.588456+00:00",
+  "generatedAt": "2026-06-19T19:57:18.064343+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/draws",
   "tournament": {
     "id": "500",
@@ -87,10 +87,10 @@
           "bracketOrder": 2,
           "round": "SF",
           "roundLong": "Semifinals",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "D. Altmaier",
+          "player1FullName": "Daniel Altmaier",
+          "player1Id": "AE14",
+          "player1Country": "GER",
           "player1ScoreTokens": [],
           "player2": "TBA",
           "player2FullName": "TBA",
@@ -164,14 +164,22 @@
           "player1FullName": "Daniel Altmaier",
           "player1Id": "AE14",
           "player1Country": "GER",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "6",
+            "6 6",
+            "6"
+          ],
           "player2": "D. Medvedev",
           "player2FullName": "Daniil Medvedev",
           "player2Id": "MM58",
           "player2Country": "RUS",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "4",
+            "7",
+            "4"
+          ],
+          "winnerName": "Daniel Altmaier",
+          "formattedScore": "6-4 6-7(6) 6-4"
         },
         {
           "bracketOrder": 4,
