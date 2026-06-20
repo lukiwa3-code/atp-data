@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T19:57:18.064343+00:00",
+  "generatedAt": "2026-06-20T14:20:01.541962+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/draws",
   "tournament": {
     "id": "500",
@@ -92,10 +92,10 @@
           "player1Id": "AE14",
           "player1Country": "GER",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "F. Tiafoe",
+          "player2FullName": "Frances Tiafoe",
+          "player2Id": "TD51",
+          "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -189,14 +189,22 @@
           "player1FullName": "Frances Tiafoe",
           "player1Id": "TD51",
           "player1Country": "USA",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "3",
+            "6",
+            "7"
+          ],
           "player2": "F. Auger-Aliassime",
           "player2FullName": "Felix Auger Aliassime",
           "player2Id": "AG37",
           "player2Country": "CAN",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "3",
+            "6 12"
+          ],
+          "winnerName": "Frances Tiafoe",
+          "formattedScore": "3-6 6-3 7-6(12)"
         }
       ]
     },

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-20T09:29:30.709386+00:00",
+  "generatedAt": "2026-06-20T14:20:01.541962+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "flaviocobolli",
     "name": "Flavio Cobolli",
-    "displayName": "Flavio Cobolli",
-    "playerId": ""
+    "displayName": "F. Cobolli",
+    "playerId": "C0E9"
   },
   "count": 1,
   "matches": [
