@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-06-19T19:57:18.064343+00:00",
+  "generatedAt": "2026-06-20T04:18:21.915517+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "daniilmedvedev",
     "name": "Daniil Medvedev",
-    "displayName": "D. Medvedev",
-    "playerId": "MM58"
+    "displayName": "Daniil Medvedev",
+    "playerId": ""
   },
-  "count": 5,
+  "count": 6,
   "matches": [
+    {
+      "date": "Fri, 19 June, 2026",
+      "dateIso": "2026-06-19",
+      "tournamentId": "500",
+      "tournamentYear": "2026",
+      "tournamentName": "Terra Wortmann Open",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "QF",
+      "roundLong": "Quarterfinals",
+      "score": "6-4 6-7(6) 6-4",
+      "matchId": "RES-DAB1CAD8BF",
+      "reason": null,
+      "playerName": "Daniil Medvedev",
+      "opponentName": "Daniel Altmaier",
+      "opponentKey": "danielaltmaier",
+      "result": "L",
+      "playerRank": null,
+      "opponentRank": null,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Wed, 17 June, 2026",
       "dateIso": "2026-06-17",

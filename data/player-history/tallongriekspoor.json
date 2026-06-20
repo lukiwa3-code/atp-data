@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-19T19:57:18.064343+00:00",
+  "generatedAt": "2026-06-20T04:18:21.915517+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "tallongriekspoor",
     "name": "Tallon Griekspoor",
-    "displayName": "T. Griekspoor",
-    "playerId": "GJ37"
+    "displayName": "Tallon Griekspoor",
+    "playerId": ""
   },
   "count": 3,
   "matches": [
