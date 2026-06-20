@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-20T14:20:01.541962+00:00",
+  "generatedAt": "2026-06-20T19:47:39.932876+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "mattiabellucci",
     "name": "Mattia Bellucci",
-    "displayName": "M. Bellucci",
-    "playerId": "B0GG"
+    "displayName": "Mattia Bellucci",
+    "playerId": ""
   },
   "count": 4,
   "matches": [
@@ -30,8 +30,8 @@
       "opponentName": "Raphael Collignon",
       "opponentKey": "raphaelcollignon",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 74,
+      "opponentRank": 51,
       "rankingDate": "2026-06-15",
       "rankingNote": "historical_week"
     },
@@ -55,8 +55,8 @@
       "opponentName": "Alexander Bublik",
       "opponentKey": "alexanderbublik",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 74,
+      "opponentRank": 11,
       "rankingDate": "2026-06-15",
       "rankingNote": "historical_week"
     },

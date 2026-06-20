@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-20T14:20:01.541962+00:00",
+  "generatedAt": "2026-06-20T19:47:39.932876+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "tallongriekspoor",
     "name": "Tallon Griekspoor",
-    "displayName": "T. Griekspoor",
-    "playerId": "GJ37"
+    "displayName": "Tallon Griekspoor",
+    "playerId": ""
   },
   "count": 3,
   "matches": [
@@ -30,8 +30,8 @@
       "opponentName": "Sho Shimabukuro",
       "opponentKey": "shoshimabukuro",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 40,
+      "opponentRank": 97,
       "rankingDate": "2026-06-15",
       "rankingNote": "historical_week"
     },
