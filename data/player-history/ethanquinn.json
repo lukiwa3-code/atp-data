@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-21T09:59:49.052320+00:00",
+  "generatedAt": "2026-06-21T14:25:56.673042+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "ethanquinn",
     "name": "Ethan Quinn",
-    "displayName": "E. Quinn",
-    "playerId": "Q02L"
+    "displayName": "Ethan Quinn",
+    "playerId": ""
   },
   "count": 2,
   "matches": [
