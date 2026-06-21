@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T14:20:01.541962+00:00",
+  "generatedAt": "2026-06-21T09:59:49.052320+00:00",
   "source": "https://www.atptour.com/en/scores/current/halle/500/draws",
   "tournament": {
     "id": "500",
@@ -45,15 +45,15 @@
           "bracketOrder": 1,
           "round": "F",
           "roundLong": "Final",
-          "player1": "TBA",
-          "player1FullName": "TBA",
-          "player1Id": "",
-          "player1Country": "",
+          "player1": "T. Fritz",
+          "player1FullName": "Taylor Fritz",
+          "player1Id": "FB98",
+          "player1Country": "USA",
           "player1ScoreTokens": [],
-          "player2": "TBA",
-          "player2FullName": "TBA",
-          "player2Id": "",
-          "player2Country": "",
+          "player2": "F. Tiafoe",
+          "player2FullName": "Frances Tiafoe",
+          "player2Id": "TD51",
+          "player2Country": "USA",
           "player2ScoreTokens": [],
           "winnerName": "",
           "formattedScore": ""
@@ -74,14 +74,22 @@
           "player1FullName": "Alexander Zverev",
           "player1Id": "Z355",
           "player1Country": "GER",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "7",
+            "4",
+            "5"
+          ],
           "player2": "T. Fritz",
           "player2FullName": "Taylor Fritz",
           "player2Id": "FB98",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6 4",
+            "6",
+            "7"
+          ],
+          "winnerName": "Taylor Fritz",
+          "formattedScore": "6-7(4) 6-4 7-5"
         },
         {
           "bracketOrder": 2,
@@ -91,14 +99,20 @@
           "player1FullName": "Daniel Altmaier",
           "player1Id": "AE14",
           "player1Country": "GER",
-          "player1ScoreTokens": [],
+          "player1ScoreTokens": [
+            "1",
+            "3"
+          ],
           "player2": "F. Tiafoe",
           "player2FullName": "Frances Tiafoe",
           "player2Id": "TD51",
           "player2Country": "USA",
-          "player2ScoreTokens": [],
-          "winnerName": "",
-          "formattedScore": ""
+          "player2ScoreTokens": [
+            "6",
+            "6"
+          ],
+          "winnerName": "Frances Tiafoe",
+          "formattedScore": "6-1 6-3"
         }
       ]
     },
