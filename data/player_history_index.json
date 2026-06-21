@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T19:47:39.932876+00:00",
+  "generatedAt": "2026-06-21T05:01:52.382131+00:00",
   "count": 76,
   "items": [
     {
@@ -53,7 +53,7 @@
       "displayName": "Alexander Zverev",
       "playerId": "",
       "rank": 3,
-      "count": 3,
+      "count": 4,
       "path": "data/player-history/alexanderzverev.json"
     },
     {
@@ -152,7 +152,7 @@
       "displayName": "Daniel Altmaier",
       "playerId": "",
       "rank": 81,
-      "count": 3,
+      "count": 4,
       "path": "data/player-history/danielaltmaier.json"
     },
     {
@@ -242,7 +242,7 @@
       "displayName": "Frances Tiafoe",
       "playerId": "",
       "rank": 26,
-      "count": 3,
+      "count": 4,
       "path": "data/player-history/francestiafoe.json"
     },
     {
@@ -575,7 +575,7 @@
       "displayName": "Taylor Fritz",
       "playerId": "",
       "rank": 9,
-      "count": 3,
+      "count": 4,
       "path": "data/player-history/taylorfritz.json"
     },
     {
