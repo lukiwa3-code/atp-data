@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-06-21T19:53:56.394434+00:00",
+  "generatedAt": "2026-06-22T05:10:01.395545+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "taylorfritz",
     "name": "Taylor Fritz",
-    "displayName": "T. Fritz",
-    "playerId": "FB98"
+    "displayName": "Taylor Fritz",
+    "playerId": ""
   },
-  "count": 4,
+  "count": 5,
   "matches": [
+    {
+      "date": "Sun, 21 June, 2026",
+      "dateIso": "2026-06-21",
+      "tournamentId": "500",
+      "tournamentYear": "2026",
+      "tournamentName": "Terra Wortmann Open",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "F",
+      "roundLong": "Final",
+      "score": "6-4 6-4",
+      "matchId": "RES-D51EF3A819",
+      "reason": null,
+      "playerName": "Taylor Fritz",
+      "opponentName": "Frances Tiafoe",
+      "opponentKey": "francestiafoe",
+      "result": "L",
+      "playerRank": 9,
+      "opponentRank": 26,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sat, 20 June, 2026",
       "dateIso": "2026-06-20",
