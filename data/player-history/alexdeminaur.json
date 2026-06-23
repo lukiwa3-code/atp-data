@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:57:52.854107+00:00",
+  "generatedAt": "2026-06-23T04:07:41.047777+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -24,9 +24,9 @@
       "round": "F",
       "roundLong": "Final",
       "score": "6-3 2-6 7-6(5)",
-      "matchId": "RES-0F1AC08E04",
+      "matchId": "RES-EA0CDC8CF5",
       "reason": null,
-      "playerName": "Alex De Minaur",
+      "playerName": "Alex de Minaur",
       "opponentName": "Kamil Majchrzak",
       "opponentKey": "kamilmajchrzak",
       "result": "L",

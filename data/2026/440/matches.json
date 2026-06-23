@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:47:04.547072+00:00",
+  "generatedAt": "2026-06-23T04:07:41.047777+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
   "tournament": {
     "id": "440",
@@ -35,21 +35,21 @@
   "count": 39,
   "matches": [
     {
-      "matchId": "RES-0F1AC08E04",
+      "matchId": "RES-EA0CDC8CF5",
       "date": "Sun, 14 June, 2026",
       "round": "F",
       "roundLong": "Final",
       "playerId": "",
       "playerName": "Kamil Majchrzak",
       "opponentId": "",
-      "opponentName": "Alex De Minaur",
+      "opponentName": "Alex de Minaur",
       "winnerPlayerId": "",
       "winnerName": "Kamil Majchrzak",
       "isPlayerWinner": true,
       "matchState": "F",
       "reason": null,
       "formattedScore": "6-3 2-6 7-6(5)",
-      "sourceText": "Parsed from displayed score numbers",
+      "sourceText": "Game Set and Match Kamil Majchrzak. Kamil Majchrzak wins the match 6-3 2-6 7-6(5).",
       "bracketOrder": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T19:47:04.547072+00:00",
+  "generatedAt": "2026-06-23T04:07:41.047777+00:00",
   "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
   "tournament": {
     "id": "440",
@@ -32,7 +32,7 @@
     "tournamentStartDate": "2026-06-08",
     "tournamentEndDate": "2026-06-14"
   },
-  "count": 41,
+  "count": 40,
   "players": [
     {
       "id": "",
@@ -41,10 +41,6 @@
     {
       "id": "",
       "name": "Alec Deckers"
-    },
-    {
-      "id": "",
-      "name": "Alex De Minaur"
     },
     {
       "id": "",
