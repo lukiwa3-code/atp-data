@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-24T09:43:22.910901+00:00",
+  "generatedAt": "2026-06-24T14:46:45.256288+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "andreyrublev",
     "name": "Andrey Rublev",
-    "displayName": "Andrey Rublev",
-    "playerId": ""
+    "displayName": "A. Rublev",
+    "playerId": "RE44"
   },
   "count": 1,
   "matches": [
