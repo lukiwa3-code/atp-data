@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-24T19:56:25.056182+00:00",
+  "generatedAt": "2026-06-25T04:11:22.144184+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "martinlandaluce",
     "name": "Martin Landaluce",
-    "displayName": "M. Landaluce",
-    "playerId": "L0IL"
+    "displayName": "Martin Landaluce",
+    "playerId": ""
   },
   "count": 3,
   "matches": [
