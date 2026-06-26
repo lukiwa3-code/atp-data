@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T04:17:53.096388+00:00",
+  "generatedAt": "2026-06-26T09:40:48.879481+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
@@ -105,8 +105,8 @@
       "opponentName": "Bernard Tomic",
       "opponentKey": "bernardtomic",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 93,
+      "opponentRank": 189,
       "rankingDate": "2026-06-01",
       "rankingNote": "historical_week"
     },
@@ -130,8 +130,8 @@
       "opponentName": "Marc Polmans",
       "opponentKey": "marcpolmans",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 93,
+      "opponentRank": 366,
       "rankingDate": "2026-06-01",
       "rankingNote": "historical_week"
     }
