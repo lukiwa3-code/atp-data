@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-27T19:38:39.114790+00:00",
+  "generatedAt": "2026-06-28T04:26:18.563641+00:00",
   "count": 76,
   "items": [
     {
       "key": "adrianmannarino",
       "name": "Adrian Mannarino",
-      "displayName": "Adrian Mannarino",
-      "playerId": "",
+      "displayName": "A. Mannarino",
+      "playerId": "ME82",
       "rank": null,
       "count": 4,
       "path": "data/player-history/adrianmannarino.json"
@@ -31,9 +31,9 @@
     },
     {
       "key": "alexdeminaur",
-      "name": "Alex de Minaur",
-      "displayName": "Alex de Minaur",
-      "playerId": "",
+      "name": "Alex De Minaur",
+      "displayName": "A. de Minaur",
+      "playerId": "DH58",
       "rank": null,
       "count": 4,
       "path": "data/player-history/alexdeminaur.json"
@@ -77,8 +77,8 @@
     {
       "key": "arthurrinderknech",
       "name": "Arthur Rinderknech",
-      "displayName": "Arthur Rinderknech",
-      "playerId": "",
+      "displayName": "A. Rinderknech",
+      "playerId": "RC91",
       "rank": null,
       "count": 1,
       "path": "data/player-history/arthurrinderknech.json"
@@ -113,8 +113,8 @@
     {
       "key": "benjaminbonzi",
       "name": "Benjamin Bonzi",
-      "displayName": "Benjamin Bonzi",
-      "playerId": "",
+      "displayName": "B. Bonzi",
+      "playerId": "BM95",
       "rank": 93,
       "count": 5,
       "path": "data/player-history/benjaminbonzi.json"
@@ -130,9 +130,9 @@
     },
     {
       "key": "boticvandezandschulp",
-      "name": "Botic van de Zandschulp",
-      "displayName": "Botic van de Zandschulp",
-      "playerId": "",
+      "name": "Botic Van De Zandschulp",
+      "displayName": "B. van de Zandschulp",
+      "playerId": "V812",
       "rank": null,
       "count": 1,
       "path": "data/player-history/boticvandezandschulp.json"
@@ -158,8 +158,8 @@
     {
       "key": "daniilmedvedev",
       "name": "Daniil Medvedev",
-      "displayName": "Daniil Medvedev",
-      "playerId": "",
+      "displayName": "D. Medvedev",
+      "playerId": "MM58",
       "rank": null,
       "count": 6,
       "path": "data/player-history/daniilmedvedev.json"
@@ -167,8 +167,8 @@
     {
       "key": "denisshapovalov",
       "name": "Denis Shapovalov",
-      "displayName": "Denis Shapovalov",
-      "playerId": "",
+      "displayName": "D. Shapovalov",
+      "playerId": "SU55",
       "rank": null,
       "count": 1,
       "path": "data/player-history/denisshapovalov.json"
@@ -185,8 +185,8 @@
     {
       "key": "eliasymer",
       "name": "Elias Ymer",
-      "displayName": "Elias Ymer",
-      "playerId": "",
+      "displayName": "E. Ymer",
+      "playerId": "Y218",
       "rank": 185,
       "count": 3,
       "path": "data/player-history/eliasymer.json"
@@ -211,9 +211,9 @@
     },
     {
       "key": "felixaugeraliassime",
-      "name": "Felix Auger-Aliassime",
-      "displayName": "Felix Auger-Aliassime",
-      "playerId": "",
+      "name": "Felix Auger Aliassime",
+      "displayName": "F. Auger-Aliassime",
+      "playerId": "AG37",
       "rank": null,
       "count": 5,
       "path": "data/player-history/felixaugeraliassime.json"
@@ -248,8 +248,8 @@
     {
       "key": "gabrieldiallo",
       "name": "Gabriel Diallo",
-      "displayName": "Gabriel Diallo",
-      "playerId": "",
+      "displayName": "G. Diallo",
+      "playerId": "D0F6",
       "rank": null,
       "count": 1,
       "path": "data/player-history/gabrieldiallo.json"
@@ -257,17 +257,17 @@
     {
       "key": "huberthurkacz",
       "name": "Hubert Hurkacz",
-      "displayName": "Hubert Hurkacz",
-      "playerId": "",
+      "displayName": "H. Hurkacz",
+      "playerId": "HB71",
       "rank": null,
       "count": 3,
       "path": "data/player-history/huberthurkacz.json"
     },
     {
       "key": "jamesmccabe",
-      "name": "James McCabe",
-      "displayName": "James McCabe",
-      "playerId": "",
+      "name": "James Mccabe",
+      "displayName": "J. McCabe",
+      "playerId": "M0OQ",
       "rank": 207,
       "count": 4,
       "path": "data/player-history/jamesmccabe.json"
@@ -284,8 +284,8 @@
     {
       "key": "jaumemunar",
       "name": "Jaume Munar",
-      "displayName": "Jaume Munar",
-      "playerId": "",
+      "displayName": "J. Munar",
+      "playerId": "MU94",
       "rank": null,
       "count": 1,
       "path": "data/player-history/jaumemunar.json"
@@ -293,8 +293,8 @@
     {
       "key": "jensonbrooksby",
       "name": "Jenson Brooksby",
-      "displayName": "Jenson Brooksby",
-      "playerId": "",
+      "displayName": "J. Brooksby",
+      "playerId": "B0CD",
       "rank": null,
       "count": 1,
       "path": "data/player-history/jensonbrooksby.json"
@@ -320,8 +320,8 @@
     {
       "key": "kamilmajchrzak",
       "name": "Kamil Majchrzak",
-      "displayName": "Kamil Majchrzak",
-      "playerId": "",
+      "displayName": "K. Majchrzak",
+      "playerId": "MQ75",
       "rank": null,
       "count": 5,
       "path": "data/player-history/kamilmajchrzak.json"
@@ -392,8 +392,8 @@
     {
       "key": "marincilic",
       "name": "Marin Cilic",
-      "displayName": "Marin Cilic",
-      "playerId": "",
+      "displayName": "M. Cilic",
+      "playerId": "C977",
       "rank": null,
       "count": 3,
       "path": "data/player-history/marincilic.json"
@@ -401,8 +401,8 @@
     {
       "key": "martindamm",
       "name": "Martin Damm",
-      "displayName": "Martin Damm",
-      "playerId": "",
+      "displayName": "M. Damm",
+      "playerId": "D0DT",
       "rank": 105,
       "count": 4,
       "path": "data/player-history/martindamm.json"
@@ -419,8 +419,8 @@
     {
       "key": "martonfucsovics",
       "name": "Marton Fucsovics",
-      "displayName": "Marton Fucsovics",
-      "playerId": "",
+      "displayName": "M. Fucsovics",
+      "playerId": "F724",
       "rank": null,
       "count": 2,
       "path": "data/player-history/martonfucsovics.json"
@@ -455,8 +455,8 @@
     {
       "key": "meesrottgering",
       "name": "Mees Rottgering",
-      "displayName": "Mees Rottgering",
-      "playerId": "",
+      "displayName": "M. Rottgering",
+      "playerId": "R0KD",
       "rank": null,
       "count": 1,
       "path": "data/player-history/meesrottgering.json"
@@ -500,8 +500,8 @@
     {
       "key": "nunoborges",
       "name": "Nuno Borges",
-      "displayName": "Nuno Borges",
-      "playerId": "",
+      "displayName": "N. Borges",
+      "playerId": "BT72",
       "rank": null,
       "count": 3,
       "path": "data/player-history/nunoborges.json"
@@ -509,8 +509,8 @@
     {
       "key": "ottovirtanen",
       "name": "Otto Virtanen",
-      "displayName": "Otto Virtanen",
-      "playerId": "",
+      "displayName": "O. Virtanen",
+      "playerId": "V0AM",
       "rank": null,
       "count": 1,
       "path": "data/player-history/ottovirtanen.json"
@@ -563,8 +563,8 @@
     {
       "key": "tallongriekspoor",
       "name": "Tallon Griekspoor",
-      "displayName": "Tallon Griekspoor",
-      "playerId": "",
+      "displayName": "T. Griekspoor",
+      "playerId": "GJ37",
       "rank": null,
       "count": 3,
       "path": "data/player-history/tallongriekspoor.json"
@@ -581,8 +581,8 @@
     {
       "key": "terenceatmane",
       "name": "Terence Atmane",
-      "displayName": "Terence Atmane",
-      "playerId": "",
+      "displayName": "T. Atmane",
+      "playerId": "A0GC",
       "rank": null,
       "count": 3,
       "path": "data/player-history/terenceatmane.json"
@@ -599,8 +599,8 @@
     {
       "key": "thijsboogaard",
       "name": "Thijs Boogaard",
-      "displayName": "Thijs Boogaard",
-      "playerId": "",
+      "displayName": "T. Boogaard",
+      "playerId": "B0T6",
       "rank": null,
       "count": 2,
       "path": "data/player-history/thijsboogaard.json"
@@ -635,8 +635,8 @@
     {
       "key": "ugohumbert",
       "name": "Ugo Humbert",
-      "displayName": "Ugo Humbert",
-      "playerId": "",
+      "displayName": "U. Humbert",
+      "playerId": "HH26",
       "rank": null,
       "count": 2,
       "path": "data/player-history/ugohumbert.json"
@@ -662,8 +662,8 @@
     {
       "key": "yibingwu",
       "name": "Yibing Wu",
-      "displayName": "Yibing Wu",
-      "playerId": "",
+      "displayName": "Y. Wu",
+      "playerId": "WB32",
       "rank": null,
       "count": 1,
       "path": "data/player-history/yibingwu.json"
@@ -671,8 +671,8 @@
     {
       "key": "zhizhenzhang",
       "name": "Zhizhen Zhang",
-      "displayName": "Zhizhen Zhang",
-      "playerId": "",
+      "displayName": "Z. Zhang",
+      "playerId": "Z371",
       "rank": null,
       "count": 3,
       "path": "data/player-history/zhizhenzhang.json"
@@ -680,8 +680,8 @@
     {
       "key": "zizoubergs",
       "name": "Zizou Bergs",
-      "displayName": "Zizou Bergs",
-      "playerId": "",
+      "displayName": "Z. Bergs",
+      "playerId": "BU13",
       "rank": null,
       "count": 2,
       "path": "data/player-history/zizoubergs.json"
