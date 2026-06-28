@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T04:26:18.563641+00:00",
+  "generatedAt": "2026-06-28T09:22:20.301527+00:00",
   "count": 4,
   "items": [
     {
@@ -14,7 +14,7 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/500/matches.json",
       "drawPath": "data/2026/500/draw.json",
-      "source": null,
+      "source": "https://www.atptour.com/en/scores/current/halle/500/results",
       "drawSource": null
     },
     {
@@ -30,7 +30,7 @@
       "matchesPath": "data/2026/440/matches.json",
       "drawPath": "data/2026/440/draw.json",
       "source": null,
-      "drawSource": "https://www.atptour.com/en/scores/current/s-hertogenbosch/440/draws"
+      "drawSource": null
     },
     {
       "year": "2026",
