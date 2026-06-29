@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "jackpinningtonjones",
+    "name": "Jack Pinnington Jones",
+    "displayName": "J. Pinnington Jones",
+    "playerId": "P0HT"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Mon, 15 June, 2026",
+      "dateIso": "2026-06-15",
+      "tournamentId": "311",
+      "tournamentYear": "2026",
+      "tournamentName": "HSBC Championships",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 4-6 7-6(3)",
+      "matchId": "RES-A28F561AC4",
+      "reason": null,
+      "playerName": "Jack Pinnington Jones",
+      "opponentName": "Denis Shapovalov",
+      "opponentKey": "denisshapovalov",
+      "result": "L",
+      "playerRank": 147,
+      "opponentRank": 41,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

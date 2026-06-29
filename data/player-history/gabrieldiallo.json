@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "gabrieldiallo",
     "name": "Gabriel Diallo",
-    "displayName": "Gabriel Diallo",
-    "playerId": ""
+    "displayName": "G. Diallo",
+    "playerId": "D0F6"
   },
-  "count": 1,
+  "count": 2,
   "matches": [
+    {
+      "date": "Tue, 16 June, 2026",
+      "dateIso": "2026-06-16",
+      "tournamentId": "311",
+      "tournamentYear": "2026",
+      "tournamentName": "HSBC Championships",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(8) 6-3",
+      "matchId": "RES-228CE971B1",
+      "reason": null,
+      "playerName": "Gabriel Diallo",
+      "opponentName": "Alex de Minaur",
+      "opponentKey": "alexdeminaur",
+      "result": "L",
+      "playerRank": 84,
+      "opponentRank": 6,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Tue, 09 June, 2026",
       "dateIso": "2026-06-09",
@@ -30,8 +55,8 @@
       "opponentName": "Adrian Mannarino",
       "opponentKey": "adrianmannarino",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 54,
+      "opponentRank": 46,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }

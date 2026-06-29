@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "zhizhenzhang",
     "name": "Zhizhen Zhang",
-    "displayName": "Zhizhen Zhang",
-    "playerId": ""
+    "displayName": "Z. Zhang",
+    "playerId": "Z371"
   },
   "count": 3,
   "matches": [
@@ -30,8 +30,8 @@
       "opponentName": "Adrian Mannarino",
       "opponentKey": "adrianmannarino",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 214,
+      "opponentRank": 46,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -55,8 +55,8 @@
       "opponentName": "Tallon Griekspoor",
       "opponentKey": "tallongriekspoor",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 214,
+      "opponentRank": 41,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -80,8 +80,8 @@
       "opponentName": "Jenson Brooksby",
       "opponentKey": "jensonbrooksby",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 214,
+      "opponentRank": 73,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }

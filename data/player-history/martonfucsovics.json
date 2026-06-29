@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "martonfucsovics",
     "name": "Marton Fucsovics",
-    "displayName": "Marton Fucsovics",
-    "playerId": ""
+    "displayName": "M. Fucsovics",
+    "playerId": "F724"
   },
-  "count": 2,
+  "count": 3,
   "matches": [
+    {
+      "date": "Tue, 16 June, 2026",
+      "dateIso": "2026-06-16",
+      "tournamentId": "311",
+      "tournamentYear": "2026",
+      "tournamentName": "HSBC Championships",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-3 6-3",
+      "matchId": "RES-5C91632DEB",
+      "reason": null,
+      "playerName": "Marton Fucsovics",
+      "opponentName": "Brandon Nakashima",
+      "opponentKey": "brandonnakashima",
+      "result": "L",
+      "playerRank": 76,
+      "opponentRank": 32,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Thu, 11 June, 2026",
       "dateIso": "2026-06-11",
@@ -30,8 +55,8 @@
       "opponentName": "Felix Auger-Aliassime",
       "opponentKey": "felixaugeraliassime",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 75,
+      "opponentRank": 4,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -55,8 +80,8 @@
       "opponentName": "Hubert Hurkacz",
       "opponentKey": "huberthurkacz",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 75,
+      "opponentRank": 96,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }

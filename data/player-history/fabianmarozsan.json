@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "fabianmarozsan",
     "name": "Fabian Marozsan",
-    "displayName": "Fabian Marozsan",
-    "playerId": ""
+    "displayName": "F. Marozsan",
+    "playerId": "M0CI"
   },
-  "count": 2,
+  "count": 3,
   "matches": [
     {
       "date": "Thu, 18 June, 2026",
@@ -58,6 +58,31 @@
       "playerRank": 61,
       "opponentRank": 50,
       "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Mon, 08 June, 2026",
+      "dateIso": "2026-06-08",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(6) 6-3",
+      "matchId": "RES-800C8D8CFB",
+      "reason": null,
+      "playerName": "Fabian Marozsan",
+      "opponentName": "Gauthier Onclin",
+      "opponentKey": "gauthieronclin",
+      "result": "L",
+      "playerRank": 61,
+      "opponentRank": 186,
+      "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }
   ]

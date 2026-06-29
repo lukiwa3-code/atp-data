@@ -1,15 +1,40 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "kamilmajchrzak",
     "name": "Kamil Majchrzak",
-    "displayName": "Kamil Majchrzak",
-    "playerId": ""
+    "displayName": "K. Majchrzak",
+    "playerId": "MQ75"
   },
-  "count": 5,
+  "count": 6,
   "matches": [
+    {
+      "date": "Tue, 16 June, 2026",
+      "dateIso": "2026-06-16",
+      "tournamentId": "311",
+      "tournamentYear": "2026",
+      "tournamentName": "HSBC Championships",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-5 7-6(4)",
+      "matchId": "RES-F2F31F844D",
+      "reason": null,
+      "playerName": "Kamil Majchrzak",
+      "opponentName": "Jiri Lehecka",
+      "opponentKey": "jirilehecka",
+      "result": "L",
+      "playerRank": 47,
+      "opponentRank": 12,
+      "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
     {
       "date": "Sun, 14 June, 2026",
       "dateIso": "2026-06-14",
@@ -30,8 +55,8 @@
       "opponentName": "Alex de Minaur",
       "opponentKey": "alexdeminaur",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 76,
+      "opponentRank": 6,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -55,8 +80,8 @@
       "opponentName": "Daniil Medvedev",
       "opponentKey": "daniilmedvedev",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 76,
+      "opponentRank": 8,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -80,8 +105,8 @@
       "opponentName": "Felix Auger-Aliassime",
       "opponentKey": "felixaugeraliassime",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 76,
+      "opponentRank": 4,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -105,8 +130,8 @@
       "opponentName": "James McCabe",
       "opponentKey": "jamesmccabe",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 76,
+      "opponentRank": 233,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -130,8 +155,8 @@
       "opponentName": "Otto Virtanen",
       "opponentKey": "ottovirtanen",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 76,
+      "opponentRank": 158,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }

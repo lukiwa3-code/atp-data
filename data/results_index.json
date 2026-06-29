@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "count": 4,
   "items": [
     {
@@ -15,7 +15,7 @@
       "matchesPath": "data/2026/500/matches.json",
       "drawPath": "data/2026/500/draw.json",
       "source": "https://www.atptour.com/en/scores/current/halle/500/results",
-      "drawSource": null
+      "drawSource": "https://www.atptour.com/en/scores/current/halle/500/draws"
     },
     {
       "year": "2026",
@@ -29,38 +29,38 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/440/matches.json",
       "drawPath": "data/2026/440/draw.json",
-      "source": null,
-      "drawSource": null
+      "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
+      "drawSource": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/draws"
     },
     {
       "year": "2026",
       "id": "311",
       "name": "HSBC Championships",
-      "players": 0,
-      "matches": 0,
-      "drawRounds": 0,
-      "drawMatches": 0,
+      "players": 41,
+      "matches": 43,
+      "drawRounds": 5,
+      "drawMatches": 31,
       "circuit": "tour",
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/311/matches.json",
       "drawPath": "data/2026/311/draw.json",
-      "source": null,
-      "drawSource": null
+      "source": "https://www.atptour.com/en/scores/current/london---queen's-club/311/results",
+      "drawSource": "https://www.atptour.com/en/scores/current/london---queen's-club/311/draws"
     },
     {
       "year": "2026",
       "id": "321",
       "name": "BOSS OPEN",
-      "players": 0,
-      "matches": 0,
+      "players": 39,
+      "matches": 39,
       "drawRounds": 5,
       "drawMatches": 31,
       "circuit": "tour",
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/321/matches.json",
       "drawPath": "data/2026/321/draw.json",
-      "source": null,
-      "drawSource": null
+      "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
+      "drawSource": "https://www.atptour.com/en/scores/current/stuttgart/321/draws"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-19T10:49:41.645432+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "source": "https://www.atptour.com/en/scores/current/stuttgart/321/draws",
   "tournament": {
     "id": "321",
     "year": "2026",
     "name": "BOSS OPEN",
     "location": "Stuttgart, Germany",
-    "date": "8 - 14 June, 2026",
+    "date": "8-14 Jun, 2026",
     "month": "June, 2026",
     "isLive": true,
     "isPastEvent": false,
@@ -25,7 +25,12 @@
     "prizeMoney": "€768,220",
     "totalFinancialCommitment": "€847,475",
     "circuit": "tour",
-    "circuitLabel": "ATP Tour"
+    "circuitLabel": "ATP Tour",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-14",
+    "tournamentStartDate": "2026-06-08",
+    "tournamentEndDate": "2026-06-14"
   },
   "countRounds": 5,
   "countMatches": 31,

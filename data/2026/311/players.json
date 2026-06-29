@@ -1,0 +1,202 @@
+{
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
+  "source": "https://www.atptour.com/en/scores/current/london---queen's-club/311/results",
+  "tournament": {
+    "id": "311",
+    "year": "2026",
+    "name": "HSBC Championships",
+    "location": "London, Great Britain",
+    "date": "15-21 Jun, 2026",
+    "month": "June, 2026",
+    "isLive": true,
+    "isPastEvent": false,
+    "type": "500",
+    "eventType": "Tour",
+    "surface": "Grass",
+    "indoorOutdoor": "Outdoor",
+    "singlesDrawSize": 32,
+    "doublesDrawSize": 16,
+    "scoresUrl": "/en/scores/current/london---queen's-club/311/results",
+    "drawsUrl": "/en/scores/current/london---queen's-club/311/draws",
+    "scheduleUrl": "/en/scores/current/london-/-queen's-club/311/daily-schedule",
+    "overviewUrl": "/en/tournaments/london/311/overview",
+    "countryFlagUrl": "/-/media/images/flags/gbr.svg",
+    "badgeUrl": "/assets/atpwt/images/tournament/badges/categorystamps_500.png",
+    "prizeMoney": "€2,583,330",
+    "totalFinancialCommitment": "€2,610,885",
+    "circuit": "tour",
+    "circuitLabel": "ATP Tour",
+    "dateSource": "results_header_or_calendar",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-21",
+    "tournamentStartDate": "2026-06-15",
+    "tournamentEndDate": "2026-06-21"
+  },
+  "count": 41,
+  "players": [
+    {
+      "id": "",
+      "name": "Adam Walton"
+    },
+    {
+      "id": "",
+      "name": "Adrian Mannarino"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Davidovich Fokina"
+    },
+    {
+      "id": "",
+      "name": "Alejandro Tabilo"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Kovacevic"
+    },
+    {
+      "id": "",
+      "name": "Aleksandar Vukic"
+    },
+    {
+      "id": "",
+      "name": "Alex de Minaur"
+    },
+    {
+      "id": "",
+      "name": "Arthur Fery"
+    },
+    {
+      "id": "",
+      "name": "Arthur Rinderknech"
+    },
+    {
+      "id": "",
+      "name": "Botic van de Zandschulp"
+    },
+    {
+      "id": "",
+      "name": "Brandon Nakashima"
+    },
+    {
+      "id": "",
+      "name": "Cameron Norrie"
+    },
+    {
+      "id": "",
+      "name": "Corentin Moutet"
+    },
+    {
+      "id": "",
+      "name": "Daniel Evans"
+    },
+    {
+      "id": "",
+      "name": "Daniel Merida"
+    },
+    {
+      "id": "",
+      "name": "Denis Shapovalov"
+    },
+    {
+      "id": "",
+      "name": "Dino Prizmic"
+    },
+    {
+      "id": "",
+      "name": "Francisco Cerundolo"
+    },
+    {
+      "id": "",
+      "name": "Gabriel Diallo"
+    },
+    {
+      "id": "",
+      "name": "Giovanni Mpetshi Perricard"
+    },
+    {
+      "id": "",
+      "name": "Hamad Medjedovic"
+    },
+    {
+      "id": "",
+      "name": "Harry Wendelken"
+    },
+    {
+      "id": "",
+      "name": "Ignacio Buse"
+    },
+    {
+      "id": "",
+      "name": "Jack Pinnington Jones"
+    },
+    {
+      "id": "",
+      "name": "Jakub Mensik"
+    },
+    {
+      "id": "",
+      "name": "James Duckworth"
+    },
+    {
+      "id": "",
+      "name": "Jenson Brooksby"
+    },
+    {
+      "id": "",
+      "name": "Jiri Lehecka"
+    },
+    {
+      "id": "",
+      "name": "Johannus Monday"
+    },
+    {
+      "id": "",
+      "name": "Kamil Majchrzak"
+    },
+    {
+      "id": "",
+      "name": "Liam Broady"
+    },
+    {
+      "id": "",
+      "name": "Marcos Giron"
+    },
+    {
+      "id": "",
+      "name": "Marin Cilic"
+    },
+    {
+      "id": "",
+      "name": "Martin Damm"
+    },
+    {
+      "id": "",
+      "name": "Marton Fucsovics"
+    },
+    {
+      "id": "",
+      "name": "Michael Mmoh"
+    },
+    {
+      "id": "",
+      "name": "Rinky Hijikata"
+    },
+    {
+      "id": "",
+      "name": "Toby Samuel"
+    },
+    {
+      "id": "",
+      "name": "Tommy Paul"
+    },
+    {
+      "id": "",
+      "name": "Ugo Humbert"
+    },
+    {
+      "id": "",
+      "name": "Zachary Svajda"
+    }
+  ]
+}

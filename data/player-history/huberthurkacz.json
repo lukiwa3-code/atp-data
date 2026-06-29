@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "huberthurkacz",
     "name": "Hubert Hurkacz",
-    "displayName": "Hubert Hurkacz",
-    "playerId": ""
+    "displayName": "H. Hurkacz",
+    "playerId": "HB71"
   },
   "count": 3,
   "matches": [
@@ -80,8 +80,8 @@
       "opponentName": "Marton Fucsovics",
       "opponentKey": "martonfucsovics",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 96,
+      "opponentRank": 75,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }

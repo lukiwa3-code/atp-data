@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "quentinhalys",
+    "name": "Quentin Halys",
+    "displayName": "Q. Halys",
+    "playerId": "HB64"
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Tue, 09 June, 2026",
+      "dateIso": "2026-06-09",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-2",
+      "matchId": "RES-68F7841626",
+      "reason": null,
+      "playerName": "Quentin Halys",
+      "opponentName": "Sho Shimabukuro",
+      "opponentKey": "shoshimabukuro",
+      "result": "L",
+      "playerRank": 92,
+      "opponentRank": 104,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    }
+  ]
+}

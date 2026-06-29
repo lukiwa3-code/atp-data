@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "diegodedura",
     "name": "Diego Dedura",
-    "displayName": "Diego Dedura",
-    "playerId": ""
+    "displayName": "D. Dedura",
+    "playerId": "D0LJ"
   },
-  "count": 1,
+  "count": 2,
   "matches": [
     {
       "date": "Sat, 13 June, 2026",
@@ -30,8 +30,33 @@
       "opponentName": "Nikoloz Basilashvili",
       "opponentKey": "nikolozbasilashvili",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 262,
+      "opponentRank": 118,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 09 June, 2026",
+      "dateIso": "2026-06-09",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "6-4 6-3",
+      "matchId": "RES-4C260EE4D4",
+      "reason": null,
+      "playerName": "Diego Dedura",
+      "opponentName": "James Duckworth",
+      "opponentKey": "jamesduckworth",
+      "result": "L",
+      "playerRank": 262,
+      "opponentRank": 79,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "yannickhanfmann",
     "name": "Yannick Hanfmann",
-    "displayName": "Yannick Hanfmann",
-    "playerId": ""
+    "displayName": "Y. Hanfmann",
+    "playerId": "H997"
   },
-  "count": 2,
+  "count": 4,
   "matches": [
     {
       "date": "Thu, 18 June, 2026",
@@ -58,6 +58,56 @@
       "playerRank": 59,
       "opponentRank": 25,
       "rankingDate": "2026-06-15",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Wed, 10 June, 2026",
+      "dateIso": "2026-06-10",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R16",
+      "roundLong": "Round of 16",
+      "score": "7-5 6-7(4) 6-2",
+      "matchId": "RES-D0D7833125",
+      "reason": null,
+      "playerName": "Yannick Hanfmann",
+      "opponentName": "Mattia Bellucci",
+      "opponentKey": "mattiabellucci",
+      "result": "L",
+      "playerRank": 59,
+      "opponentRank": 78,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 09 June, 2026",
+      "dateIso": "2026-06-09",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(5) 7-6(4)",
+      "matchId": "RES-4FCADC93F5",
+      "reason": null,
+      "playerName": "Yannick Hanfmann",
+      "opponentName": "Aleksandar Kovacevic",
+      "opponentKey": "aleksandarkovacevic",
+      "result": "W",
+      "playerRank": 59,
+      "opponentRank": 69,
+      "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }
   ]

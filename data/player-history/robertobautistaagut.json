@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "robertobautistaagut",
     "name": "Roberto Bautista Agut",
-    "displayName": "Roberto Bautista Agut",
-    "playerId": ""
+    "displayName": "R. Bautista Agut",
+    "playerId": "BD06"
   },
-  "count": 2,
+  "count": 3,
   "matches": [
     {
       "date": "Sun, 14 June, 2026",
@@ -30,8 +30,8 @@
       "opponentName": "Raphael Collignon",
       "opponentKey": "raphaelcollignon",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 116,
+      "opponentRank": 51,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -55,8 +55,33 @@
       "opponentName": "Benito Sanchez Martinez",
       "opponentKey": "benitosanchezmartinez",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 116,
+      "opponentRank": 1113,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    },
+    {
+      "date": "Tue, 09 June, 2026",
+      "dateIso": "2026-06-09",
+      "tournamentId": "321",
+      "tournamentYear": "2026",
+      "tournamentName": "BOSS OPEN",
+      "tournamentType": "250",
+      "tournamentDate": "8-14 Jun, 2026",
+      "tournamentStartDate": "2026-06-08",
+      "tournamentEndDate": "2026-06-14",
+      "surface": "Grass",
+      "round": "R32",
+      "roundLong": "Round of 32",
+      "score": "7-6(3) 7-5",
+      "matchId": "RES-7DFA1D8923",
+      "reason": null,
+      "playerName": "Roberto Bautista Agut",
+      "opponentName": "Marcos Giron",
+      "opponentKey": "marcosgiron",
+      "result": "L",
+      "playerRank": 116,
+      "opponentRank": 88,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }

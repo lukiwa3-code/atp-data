@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-28T19:40:01.973627+00:00",
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "tallongriekspoor",
     "name": "Tallon Griekspoor",
-    "displayName": "Tallon Griekspoor",
-    "playerId": ""
+    "displayName": "T. Griekspoor",
+    "playerId": "GJ37"
   },
   "count": 3,
   "matches": [
@@ -55,8 +55,8 @@
       "opponentName": "Zhizhen Zhang",
       "opponentKey": "zhizhenzhang",
       "result": "L",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 41,
+      "opponentRank": 214,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     },
@@ -80,8 +80,8 @@
       "opponentName": "Botic van de Zandschulp",
       "opponentKey": "boticvandezandschulp",
       "result": "W",
-      "playerRank": null,
-      "opponentRank": null,
+      "playerRank": 41,
+      "opponentRank": 55,
       "rankingDate": "2026-06-08",
       "rankingNote": "historical_week"
     }

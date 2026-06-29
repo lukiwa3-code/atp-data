@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-29T04:45:41.923576+00:00",
+  "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
+  "historyStartDate": "2025-01-01",
+  "player": {
+    "key": "johannusmonday",
+    "name": "Johannus Monday",
+    "displayName": "Johannus Monday",
+    "playerId": ""
+  },
+  "count": 1,
+  "matches": [
+    {
+      "date": "Sat, 13 June, 2026",
+      "dateIso": "2026-06-13",
+      "tournamentId": "311",
+      "tournamentYear": "2026",
+      "tournamentName": "HSBC Championships",
+      "tournamentType": "500",
+      "tournamentDate": "15-21 Jun, 2026",
+      "tournamentStartDate": "2026-06-15",
+      "tournamentEndDate": "2026-06-21",
+      "surface": "Grass",
+      "round": "Q1",
+      "roundLong": "1st Round Qualifying",
+      "score": "6-4 6-3",
+      "matchId": "RES-7F24B47582",
+      "reason": null,
+      "playerName": "Johannus Monday",
+      "opponentName": "Giovanni Mpetshi Perricard",
+      "opponentKey": "giovannimpetshiperricard",
+      "result": "L",
+      "playerRank": 274,
+      "opponentRank": 93,
+      "rankingDate": "2026-06-08",
+      "rankingNote": "historical_week"
+    }
+  ]
+}
