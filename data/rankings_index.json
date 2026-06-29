@@ -1,22 +1,21 @@
 {
-  "generatedAt": "2026-06-29T11:14:29.108387+00:00",
-  "source": "data/rankings/singles/*.json",
+  "generatedAt": "2026-06-29T14:44:06.496059+00:00",
   "count": 3,
   "items": [
     {
-      "rankingDate": "2026-06-01",
-      "count": 1368,
-      "path": "data/rankings/singles/2026-06-01.json"
-    },
-    {
-      "rankingDate": "2026-06-08",
-      "count": 1347,
-      "path": "data/rankings/singles/2026-06-08.json"
-    },
-    {
-      "rankingDate": "2026-06-15",
+      "rankingDate": "2026-04-27",
       "count": 1357,
-      "path": "data/rankings/singles/2026-06-15.json"
+      "path": "data/rankings/2026-04-27.json"
+    },
+    {
+      "rankingDate": "2026-05-04",
+      "count": 1368,
+      "path": "data/rankings/2026-05-04.json"
+    },
+    {
+      "rankingDate": "2026-05-11",
+      "count": 29,
+      "path": "data/rankings/2026-05-11.json"
     }
   ]
 }
