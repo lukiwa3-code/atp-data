@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-29T11:14:29.108387+00:00",
+  "generatedAt": "2026-06-29T15:59:54.735891+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "ignaciobuse",
     "name": "Ignacio Buse",
-    "displayName": "I. Buse",
-    "playerId": "B0ID"
+    "displayName": "Ignacio Buse",
+    "playerId": ""
   },
   "count": 2,
   "matches": [
