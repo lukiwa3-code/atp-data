@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-29T15:59:54.735891+00:00",
+  "generatedAt": "2026-06-29T20:12:38.059429+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "lorenzosonego",
     "name": "Lorenzo Sonego",
-    "displayName": "Lorenzo Sonego",
-    "playerId": ""
+    "displayName": "L. Sonego",
+    "playerId": "SU87"
   },
   "count": 3,
   "matches": [
