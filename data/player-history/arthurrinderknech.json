@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-03T14:24:26.615819+00:00",
+  "generatedAt": "2026-07-03T19:39:35.395621+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "arthurrinderknech",
     "name": "Arthur Rinderknech",
-    "displayName": "A. Rinderknech",
-    "playerId": "RC91"
+    "displayName": "Arthur Rinderknech",
+    "playerId": ""
   },
   "count": 2,
   "matches": [
