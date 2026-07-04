@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-03T19:39:35.395621+00:00",
+  "generatedAt": "2026-07-04T03:47:31.087594+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "rinkyhijikata",
     "name": "Rinky Hijikata",
-    "displayName": "Rinky Hijikata",
-    "playerId": ""
+    "displayName": "R. Hijikata",
+    "playerId": "H0BH"
   },
   "count": 7,
   "matches": [
