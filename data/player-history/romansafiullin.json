@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-05T13:55:23.926162+00:00",
+  "generatedAt": "2026-07-05T19:34:37.543392+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "romansafiullin",
     "name": "Roman Safiullin",
-    "displayName": "R. Safiullin",
-    "playerId": "SX50"
+    "displayName": "Roman Safiullin",
+    "playerId": ""
   },
   "count": 3,
   "matches": [
