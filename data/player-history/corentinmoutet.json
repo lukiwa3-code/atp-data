@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-07-08T14:30:35.312567+00:00",
+  "generatedAt": "2026-07-08T19:44:36.170600+00:00",
   "note": "Historia jest budowana z meczów zapisanych w tym repo. Zakres: od 1 stycznia poprzedniego roku, np. cały 2025 i 2026. Rankingi są z tygodnia meczu, jeśli udało się je pobrać.",
   "historyStartDate": "2025-01-01",
   "player": {
     "key": "corentinmoutet",
     "name": "Corentin Moutet",
-    "displayName": "C. Moutet",
-    "playerId": "MW02"
+    "displayName": "Corentin Moutet",
+    "playerId": ""
   },
   "count": 3,
   "matches": [
