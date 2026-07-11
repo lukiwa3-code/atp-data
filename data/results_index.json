@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T03:23:32.234908+00:00",
+  "generatedAt": "2026-07-11T08:05:54.661024+00:00",
   "count": 4,
   "items": [
     {
@@ -15,7 +15,7 @@
       "matchesPath": "data/2026/500/matches.json",
       "drawPath": "data/2026/500/draw.json",
       "source": null,
-      "drawSource": null
+      "drawSource": "https://www.atptour.com/en/scores/current/halle/500/draws"
     },
     {
       "year": "2026",
@@ -29,7 +29,7 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/311/matches.json",
       "drawPath": "data/2026/311/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/london---queen's-club/311/results",
+      "source": null,
       "drawSource": null
     },
     {
