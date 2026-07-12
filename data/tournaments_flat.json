@@ -4,7 +4,7 @@
     2025,
     2026
   ],
-  "generatedAt": "2026-07-11T19:14:14.476579+00:00",
+  "generatedAt": "2026-07-12T03:35:44.397696+00:00",
   "count": 128,
   "note": "Turnieje ATP Tour i Challenger są zapisane po wzbogaceniu o oryginalne zakresy dat z ATP, np. tournamentStartDate/tournamentEndDate. Jeśli ATP nie zwróciło kalendarza historycznego, część turniejów mogła zostać utworzona jako archive fallback.",
   "tournaments": [
