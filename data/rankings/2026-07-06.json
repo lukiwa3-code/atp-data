@@ -1,0 +1,272 @@
+{
+  "generatedAt": "2026-07-13T13:14:15.855905+00:00",
+  "rankingDate": "2026-07-06",
+  "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06",
+  "count": 24,
+  "players": {
+    "h2h": {
+      "key": "h2h",
+      "name": "H2H",
+      "displayName": "H2H",
+      "playerId": "",
+      "rank": 1,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "atpcoachmembers": {
+      "key": "atpcoachmembers",
+      "name": "ATP Coach Members",
+      "displayName": "ATP Coach Members",
+      "playerId": "",
+      "rank": 2,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "carlossanchezjover": {
+      "key": "carlossanchezjover",
+      "name": "Carlos Sanchez jover",
+      "displayName": "C. Sanchez Jover",
+      "playerId": "S0CG",
+      "rank": 3,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "tarodaniel": {
+      "key": "tarodaniel",
+      "name": "Taro Daniel",
+      "displayName": "T. Daniel",
+      "playerId": "DA81",
+      "rank": 4,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "thomasfaurel": {
+      "key": "thomasfaurel",
+      "name": "Thomas Faurel",
+      "displayName": "T. Faurel",
+      "playerId": "F0HO",
+      "rank": 5,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "migueldamas": {
+      "key": "migueldamas",
+      "name": "Miguel Damas",
+      "displayName": "M. Damas",
+      "playerId": "D0CN",
+      "rank": 6,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "marcelodemoliner": {
+      "key": "marcelodemoliner",
+      "name": "Marcelo Demoliner",
+      "displayName": "M. Demoliner",
+      "playerId": "D833",
+      "rank": 7,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "robertgalloway": {
+      "key": "robertgalloway",
+      "name": "Robert Galloway",
+      "displayName": "R. Galloway",
+      "playerId": "G09V",
+      "rank": 8,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "jeromekym": {
+      "key": "jeromekym",
+      "name": "Jerome Kym",
+      "displayName": "J. Kym",
+      "playerId": "K0EP",
+      "rank": 9,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "stanwawrinka": {
+      "key": "stanwawrinka",
+      "name": "Stan Wawrinka",
+      "displayName": "S. Wawrinka",
+      "playerId": "W367",
+      "rank": 10,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "raphaelcollignon": {
+      "key": "raphaelcollignon",
+      "name": "Raphael Collignon",
+      "displayName": "R. Collignon",
+      "playerId": "C0JP",
+      "rank": 11,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "timofeyskatov": {
+      "key": "timofeyskatov",
+      "name": "Timofey Skatov",
+      "displayName": "T. Skatov",
+      "playerId": "S0GR",
+      "rank": 12,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "lorenzosonego": {
+      "key": "lorenzosonego",
+      "name": "Lorenzo Sonego",
+      "displayName": "L. Sonego",
+      "playerId": "SU87",
+      "rank": 13,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "joelschwaerzler": {
+      "key": "joelschwaerzler",
+      "name": "Joel Schwaerzler",
+      "displayName": "J. Schwaerzler",
+      "playerId": "S0WT",
+      "rank": 14,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "lukasneumayer": {
+      "key": "lukasneumayer",
+      "name": "Lukas Neumayer",
+      "displayName": "L. Neumayer",
+      "playerId": "N0CS",
+      "rank": 15,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "markotopo": {
+      "key": "markotopo",
+      "name": "Marko Topo",
+      "displayName": "M. Topo",
+      "playerId": "T0FI",
+      "rank": 16,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "juancarlospradoangelo": {
+      "key": "juancarlospradoangelo",
+      "name": "Juan carlos Prado angelo",
+      "displayName": "J. Prado Angelo",
+      "playerId": "P0IY",
+      "rank": 17,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "nikolassanchezizquierdo": {
+      "key": "nikolassanchezizquierdo",
+      "name": "Nikolas Sanchez izquierdo",
+      "displayName": "N. Sanchez Izquierdo",
+      "playerId": "S0GZ",
+      "rank": 18,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "janniksinner": {
+      "key": "janniksinner",
+      "name": "Jannik Sinner",
+      "displayName": "J. Sinner",
+      "playerId": "S0AG",
+      "rank": 19,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "alexanderzverev": {
+      "key": "alexanderzverev",
+      "name": "Alexander Zverev",
+      "displayName": "A. Zverev",
+      "playerId": "Z355",
+      "rank": 20,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "carlosalcaraz": {
+      "key": "carlosalcaraz",
+      "name": "Carlos Alcaraz",
+      "displayName": "View All",
+      "playerId": "A0E2",
+      "rank": 21,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "reillyopelka": {
+      "key": "reillyopelka",
+      "name": "Reilly Opelka",
+      "displayName": "Reilly Opelka",
+      "playerId": "O522",
+      "rank": 22,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "benshelton": {
+      "key": "benshelton",
+      "name": "Ben Shelton",
+      "displayName": "Ben Shelton",
+      "playerId": "S0S1",
+      "rank": 23,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    },
+    "taylorfritz": {
+      "key": "taylorfritz",
+      "name": "Taylor Fritz",
+      "displayName": "Taylor Fritz",
+      "playerId": "FB98",
+      "rank": 24,
+      "points": null,
+      "rankingDate": "2026-07-06",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-07-06"
+    }
+  }
+}
