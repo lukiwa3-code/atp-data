@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T13:36:47.099828+00:00",
+  "generatedAt": "2026-07-18T19:13:32.073004+00:00",
   "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
   "tournament": {
     "id": "321",
@@ -49,7 +49,7 @@
       "matchState": "F",
       "reason": null,
       "formattedScore": "6-4 2-6 6-4",
-      "sourceText": "Parsed from displayed score numbers",
+      "sourceText": "Game Set and Match Ben Shelton. Ben Shelton wins the match 6-4 2-6 6-4 .",
       "bracketOrder": 1
     },
     {
