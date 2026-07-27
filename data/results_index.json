@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T03:45:44.302678+00:00",
+  "generatedAt": "2026-07-27T10:02:59.875420+00:00",
   "count": 4,
   "items": [
     {
@@ -15,7 +15,7 @@
       "matchesPath": "data/2026/500/matches.json",
       "drawPath": "data/2026/500/draw.json",
       "source": "https://www.atptour.com/en/scores/current/halle/500/results",
-      "drawSource": "https://www.atptour.com/en/scores/current/halle/500/draws"
+      "drawSource": null
     },
     {
       "year": "2026",
@@ -29,8 +29,8 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/311/matches.json",
       "drawPath": "data/2026/311/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/london---queen's-club/311/results",
-      "drawSource": "https://www.atptour.com/en/scores/current/london---queen's-club/311/draws"
+      "source": null,
+      "drawSource": null
     },
     {
       "year": "2026",
@@ -44,8 +44,8 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/440/matches.json",
       "drawPath": "data/2026/440/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
-      "drawSource": "https://www.atptour.com/en/scores/current/s-hertogenbosch/440/draws"
+      "source": null,
+      "drawSource": null
     },
     {
       "year": "2026",
@@ -60,7 +60,7 @@
       "matchesPath": "data/2026/321/matches.json",
       "drawPath": "data/2026/321/draw.json",
       "source": null,
-      "drawSource": "https://www.atptour.com/en/scores/current/stuttgart/321/draws"
+      "drawSource": null
     }
   ]
 }
