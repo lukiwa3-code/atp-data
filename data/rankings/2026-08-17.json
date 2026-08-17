@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-08-17T11:18:41.259093+00:00",
+  "rankingDate": "2026-08-17",
+  "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17",
+  "count": 16,
+  "players": {
+    "h2h": {
+      "key": "h2h",
+      "name": "H2H",
+      "displayName": "H2H",
+      "playerId": "",
+      "rank": 1,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "atpcoachmembers": {
+      "key": "atpcoachmembers",
+      "name": "ATP Coach Members",
+      "displayName": "ATP Coach Members",
+      "playerId": "",
+      "rank": 2,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "stefanostsitsipas": {
+      "key": "stefanostsitsipas",
+      "name": "Stefanos Tsitsipas",
+      "displayName": "S. Tsitsipas",
+      "playerId": "TE51",
+      "rank": 3,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "felixaugeraliassime": {
+      "key": "felixaugeraliassime",
+      "name": "Felix Auger Aliassime",
+      "displayName": "F. Auger-Aliassime",
+      "playerId": "AG37",
+      "rank": 4,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "marcotrungelliti": {
+      "key": "marcotrungelliti",
+      "name": "Marco Trungelliti",
+      "displayName": "M. Trungelliti",
+      "playerId": "TA29",
+      "rank": 5,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "daniilmedvedev": {
+      "key": "daniilmedvedev",
+      "name": "Daniil Medvedev",
+      "displayName": "D. Medvedev",
+      "playerId": "MM58",
+      "rank": 6,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "taylorfritz": {
+      "key": "taylorfritz",
+      "name": "Taylor Fritz",
+      "displayName": "T. Fritz",
+      "playerId": "FB98",
+      "rank": 7,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "alexmichelsen": {
+      "key": "alexmichelsen",
+      "name": "Alex Michelsen",
+      "displayName": "A. Michelsen",
+      "playerId": "M0QI",
+      "rank": 8,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "benshelton": {
+      "key": "benshelton",
+      "name": "Ben Shelton",
+      "displayName": "B. Shelton",
+      "playerId": "S0S1",
+      "rank": 9,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "jaimefaria": {
+      "key": "jaimefaria",
+      "name": "Jaime Faria",
+      "displayName": "J. Faria",
+      "playerId": "F0F2",
+      "rank": 10,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "danielaltmaier": {
+      "key": "danielaltmaier",
+      "name": "Daniel Altmaier",
+      "displayName": "D. Altmaier",
+      "playerId": "AE14",
+      "rank": 11,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "lorenzomusetti": {
+      "key": "lorenzomusetti",
+      "name": "Lorenzo Musetti",
+      "displayName": "L. Musetti",
+      "playerId": "M0EJ",
+      "rank": 12,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "carlosalcaraz": {
+      "key": "carlosalcaraz",
+      "name": "Carlos Alcaraz",
+      "displayName": "View All",
+      "playerId": "A0E2",
+      "rank": 13,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "janniksinner": {
+      "key": "janniksinner",
+      "name": "Jannik Sinner",
+      "displayName": "Jannik Sinner",
+      "playerId": "S0AG",
+      "rank": 14,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "alexanderzverev": {
+      "key": "alexanderzverev",
+      "name": "Alexander Zverev",
+      "displayName": "Alexander Zverev",
+      "playerId": "Z355",
+      "rank": 15,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    },
+    "giovannimpetshiperricard": {
+      "key": "giovannimpetshiperricard",
+      "name": "Giovanni Mpetshi Perricard",
+      "displayName": "Giovanni Mpetshi Perricard",
+      "playerId": "M0GZ",
+      "rank": 16,
+      "points": null,
+      "rankingDate": "2026-08-17",
+      "rankingType": "historical_week_inferred_order",
+      "source": "https://www.atptour.com/en/rankings/singles?rankRange=0-5000&dateWeek=2026-08-17"
+    }
+  }
+}
