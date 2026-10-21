@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T04:17:24.814478+00:00",
+  "generatedAt": "2026-10-21T11:33:59.466997+00:00",
   "count": 121,
   "items": [
     {
@@ -113,8 +113,8 @@
     {
       "key": "alexisgalarneau",
       "name": "Alexis Galarneau",
-      "displayName": "Alexis Galarneau",
-      "playerId": "",
+      "displayName": "A. Galarneau",
+      "playerId": "GK06",
       "rank": 184,
       "count": 3,
       "path": "data/player-history/alexisgalarneau.json"
@@ -293,8 +293,8 @@
     {
       "key": "diegodedura",
       "name": "Diego Dedura",
-      "displayName": "Diego Dedura",
-      "playerId": "",
+      "displayName": "D. Dedura",
+      "playerId": "D0LJ",
       "rank": 262,
       "count": 2,
       "path": "data/player-history/diegodedura.json"
@@ -392,8 +392,8 @@
     {
       "key": "gauthieronclin",
       "name": "Gauthier Onclin",
-      "displayName": "Gauthier Onclin",
-      "playerId": "",
+      "displayName": "G. Onclin",
+      "playerId": "O0A2",
       "rank": 183,
       "count": 4,
       "path": "data/player-history/gauthieronclin.json"
@@ -464,8 +464,8 @@
     {
       "key": "jamesduckworth",
       "name": "James Duckworth",
-      "displayName": "James Duckworth",
-      "playerId": "",
+      "displayName": "J. Duckworth",
+      "playerId": "D994",
       "rank": 79,
       "count": 3,
       "path": "data/player-history/jamesduckworth.json"
@@ -490,9 +490,9 @@
     },
     {
       "key": "janlennardstruff",
-      "name": "Jan-Lennard Struff",
-      "displayName": "Jan-Lennard Struff",
-      "playerId": "",
+      "name": "Jan Lennard Struff",
+      "displayName": "J. Struff",
+      "playerId": "SL28",
       "rank": 77,
       "count": 2,
       "path": "data/player-history/janlennardstruff.json"
@@ -779,8 +779,8 @@
     {
       "key": "nickkyrgios",
       "name": "Nick Kyrgios",
-      "displayName": "Nick Kyrgios",
-      "playerId": "",
+      "displayName": "N. Kyrgios",
+      "playerId": "KE17",
       "rank": null,
       "count": 2,
       "path": "data/player-history/nickkyrgios.json"
@@ -841,9 +841,9 @@
     },
     {
       "key": "pierrehuguesherbert",
-      "name": "Pierre-Hugues Herbert",
-      "displayName": "Pierre-Hugues Herbert",
-      "playerId": "",
+      "name": "Pierre Hugues Herbert",
+      "displayName": "P. Herbert",
+      "playerId": "H996",
       "rank": 250,
       "count": 3,
       "path": "data/player-history/pierrehuguesherbert.json"
@@ -851,8 +851,8 @@
     {
       "key": "quentinhalys",
       "name": "Quentin Halys",
-      "displayName": "Quentin Halys",
-      "playerId": "",
+      "displayName": "Q. Halys",
+      "playerId": "HB64",
       "rank": 92,
       "count": 1,
       "path": "data/player-history/quentinhalys.json"
@@ -878,8 +878,8 @@
     {
       "key": "robertobautistaagut",
       "name": "Roberto Bautista Agut",
-      "displayName": "Roberto Bautista Agut",
-      "playerId": "",
+      "displayName": "R. Bautista Agut",
+      "playerId": "BD06",
       "rank": 116,
       "count": 3,
       "path": "data/player-history/robertobautistaagut.json"
@@ -887,8 +887,8 @@
     {
       "key": "romansafiullin",
       "name": "Roman Safiullin",
-      "displayName": "Roman Safiullin",
-      "playerId": "",
+      "displayName": "R. Safiullin",
+      "playerId": "SX50",
       "rank": 127,
       "count": 3,
       "path": "data/player-history/romansafiullin.json"
@@ -995,8 +995,8 @@
     {
       "key": "tomgentzsch",
       "name": "Tom Gentzsch",
-      "displayName": "Tom Gentzsch",
-      "playerId": "",
+      "displayName": "T. Gentzsch",
+      "playerId": "G0IB",
       "rank": 229,
       "count": 3,
       "path": "data/player-history/tomgentzsch.json"
