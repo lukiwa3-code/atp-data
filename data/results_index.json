@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T16:51:51.864981+00:00",
+  "generatedAt": "2026-10-23T21:16:16.016130+00:00",
   "count": 4,
   "items": [
     {
@@ -60,7 +60,7 @@
       "matchesPath": "data/2026/321/matches.json",
       "drawPath": "data/2026/321/draw.json",
       "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
-      "drawSource": "https://www.atptour.com/en/scores/current/stuttgart/321/draws"
+      "drawSource": null
     }
   ]
 }
