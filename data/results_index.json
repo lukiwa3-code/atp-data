@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:12:02.839895+00:00",
+  "generatedAt": "2026-10-24T10:42:30.646696+00:00",
   "count": 4,
   "items": [
     {
@@ -44,7 +44,7 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/440/matches.json",
       "drawPath": "data/2026/440/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/results",
+      "source": null,
       "drawSource": "https://www.atptour.com/en/scores/current/'s-hertogenbosch/440/draws"
     },
     {
@@ -59,7 +59,7 @@
       "circuitLabel": "ATP Tour",
       "matchesPath": "data/2026/321/matches.json",
       "drawPath": "data/2026/321/draw.json",
-      "source": "https://www.atptour.com/en/scores/current/stuttgart/321/results",
+      "source": null,
       "drawSource": null
     }
   ]
